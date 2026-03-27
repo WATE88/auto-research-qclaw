@@ -1,0 +1,11 @@
+﻿_cache/
+__pycache__/
+*.db
+*.jsonl
+_evolution.jsonl
+_research_history.jsonl
+_kw_result.txt
+_test_kw.py
+_search_turbo*.py
+_arxiv_turbo.py
+*.pyc
