@@ -1,0 +1,21 @@
+# 🧬 AutoResearch 进化报告
+
+**主题**: AI agents autonomous workflow | **3轮**（4s） | **最优**: R1
+
+## 📊 进化轨迹
+| R | 信息源 | 深度 | 总数 | 顶分 | 决策 |
+|---|--------|------|------|------|------|
+| R1 | prosearch+github+hackernews... | standard | 33 | 3787 | ✅ |
+| R2 | prosearch+github+hackernews... | standard | 33 | 3787 | ⏸️ |
+| R3 | prosearch+github+hackernews... | standard | 33 | 3787 | ⏸️ |
+
+## 🏆 最优策略
+- **配置**: `sources=['prosearch', 'github', 'hackernews', 'arxiv'], depth=standard`
+- **信息量**: 33 条 | **顶分**: ⭐3787
+- **类型**: 网页10 | GH8 | HN10 | 论文5
+
+## 📈 进化效果
+- 信息量: 33 → 33 (+0)
+- 提升: **1.0x**
+
+🧬 2026-03-26T14:52:41.145057 | Karpathy闭环
