@@ -1,0 +1,174 @@
+{
+  "topic": "LLM research",
+  "timestamp": "2026-04-01T16:03:24.477387",
+  "findings": [
+    {
+      "title": "affaan-m/everything-claude-code",
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 128763,
+      "source": "github"
+    },
+    {
+      "title": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "stars": 55634,
+      "source": "github"
+    },
+    {
+      "title": "khoj-ai/khoj",
+      "url": "https://github.com/khoj-ai/khoj",
+      "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+      "stars": 33783,
+      "source": "github"
+    },
+    {
+      "title": "stanford-oval/storm",
+      "url": "https://github.com/stanford-oval/storm",
+      "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+      "stars": 28039,
+      "source": "github"
+    },
+    {
+      "title": "assafelovic/gpt-researcher",
+      "url": "https://github.com/assafelovic/gpt-researcher",
+      "description": "An autonomous agent that conducts deep research on any data using any LLM providers",
+      "stars": 26158,
+      "source": "github"
+    },
+    {
+      "title": "Alibaba-NLP/DeepResearch",
+      "url": "https://github.com/Alibaba-NLP/DeepResearch",
+      "description": "Tongyi Deep Research, the Leading Open-source Deep Research Agent",
+      "stars": 18574,
+      "source": "github"
+    },
+    {
+      "title": "arc53/DocsGPT",
+      "url": "https://github.com/arc53/DocsGPT",
+      "description": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.",
+      "stars": 17794,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/RD-Agent",
+      "url": "https://github.com/microsoft/RD-Agent",
+      "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report",
+      "stars": 12162,
+      "source": "github"
+    },
+    {
+      "title": "0x4m4/hexstrike-ai",
+      "url": "https://github.com/0x4m4/hexstrike-ai",
+      "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.",
+      "stars": 7808,
+      "source": "github"
+    },
+    {
+      "title": "zilliztech/deep-searcher",
+      "url": "https://github.com/zilliztech/deep-searcher",
+      "description": "Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.",
+      "stars": 7736,
+      "source": "github"
+    },
+    {
+      "title": "MervinPraison/PraisonAI",
+      "url": "https://github.com/MervinPraison/PraisonAI",
+      "description": "PraisonAI 🦞 - Your 24/7 AI employee team. Automate and solve complex challenges with low-code multi-agent AI that plans, researches, codes, and delivers to Telegram, Discord, and WhatsApp. Handoffs, guardrails, memory, RAG, 100+ LLMs.",
+      "stars": 6140,
+      "source": "github"
+    },
+    {
+      "title": "wanshuiyin/Auto-claude-code-research-in-sleep",
+      "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+      "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.",
+      "stars": 5074,
+      "source": "github"
+    },
+    {
+      "title": "facebookresearch/lingua",
+      "url": "https://github.com/facebookresearch/lingua",
+      "description": "Meta Lingua: a lean, efficient, and easy-to-hack codebase to research LLMs.",
+      "stars": 4757,
+      "source": "github"
+    },
+    {
+      "title": "promptslab/Promptify",
+      "url": "https://github.com/promptslab/Promptify",
+      "description": "Prompt Engineering | Prompt Versioning | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research",
+      "stars": 4579,
+      "source": "github"
+    },
+    {
+      "title": "u14app/deep-research",
+      "url": "https://github.com/u14app/deep-research",
+      "description": "Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.",
+      "stars": 4551,
+      "source": "github"
+    },
+    {
+      "title": "LearningCircuit/local-deep-research",
+      "url": "https://github.com/LearningCircuit/local-deep-research",
+      "description": "Local Deep Research achieves ~95% on SimpleQA benchmark (tested with GPT-4.1-mini). Supports local and cloud LLMs (Ollama, Google, Anthropic, ...). Searches 10+ sources - arXiv, PubMed, web, and your private documents. Everything Local & Encrypted.",
+      "stars": 4213,
+      "source": "github"
+    },
+    {
+      "title": "mukulpatnaik/researchgpt",
+      "url": "https://github.com/mukulpatnaik/researchgpt",
+      "description": "A LLM based research assistant that allows you to have a conversation with a research paper",
+      "stars": 3532,
+      "source": "github"
+    },
+    {
+      "title": "codefuse-ai/Awesome-Code-LLM",
+      "url": "https://github.com/codefuse-ai/Awesome-Code-LLM",
+      "description": "[TMLR] A curated list of language modeling researches for code (and other software engineering activities), plus related datasets.",
+      "stars": 3279,
+      "source": "github"
+    },
+    {
+      "title": "TheBlewish/Automated-AI-Web-Researcher-Ollama",
+      "url": "https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama",
+      "description": "A python program that turns an LLM, running on Ollama, into an automated researcher, which will with a single query determine focus areas to investigate, do websearches and scrape content from various relevant websites and do research for you all on its own! And more, not limited to but including saving the findings for you!",
+      "stars": 2965,
+      "source": "github"
+    },
+    {
+      "title": "stanford-crfm/helm",
+      "url": "https://github.com/stanford-crfm/helm",
+      "description": "Holistic Evaluation of Language Models (HELM) is an open source Python framework created by the Center for Research on Foundation Models (CRFM) at Stanford for holistic, reproducible and transparent evaluation of foundation models, including large language models (LLMs) and multimodal models.",
+      "stars": 2730,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.359,
+    "grade": "D",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.05,
+      "star_power": 0.147,
+      "diversity": 0.0,
+      "usability": 0.2,
+      "applicability": 1.0,
+      "coverage": 1.0,
+      "ndcg": 0.299,
+      "map": 0.555,
+      "mrr": 0.333,
+      "rouge_1": 0.55,
+      "semantic_sim": 0.164,
+      "coherence": 0.137,
+      "task_completion": 0.443,
+      "tool_use": 0.247,
+      "reasoning_depth": 0.057,
+      "autonomy": 0.15,
+      "multi_agent": 0.05
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

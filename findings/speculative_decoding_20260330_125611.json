@@ -1,0 +1,280 @@
+{
+  "topic": "speculative decoding",
+  "timestamp": "2026-03-30T12:56:11.885589",
+  "findings": [
+    {
+      "title": "NVIDIA/Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "stars": 2264,
+      "source": "github"
+    },
+    {
+      "title": "hemingkx/SpeculativeDecodingPapers",
+      "url": "https://github.com/hemingkx/SpeculativeDecodingPapers",
+      "description": "📰 Must-read papers and blogs on Speculative Decoding ⚡️",
+      "stars": 1165,
+      "source": "github"
+    },
+    {
+      "title": "feifeibear/LLMSpeculativeSampling",
+      "url": "https://github.com/feifeibear/LLMSpeculativeSampling",
+      "description": "Fast inference from large lauguage models via speculative decoding",
+      "stars": 909,
+      "source": "github"
+    },
+    {
+      "title": "tanishqkumar/ssd",
+      "url": "https://github.com/tanishqkumar/ssd",
+      "description": "A lightweight inference engine supporting speculative speculative decoding (SSD). ",
+      "stars": 831,
+      "source": "github"
+    },
+    {
+      "title": "sgl-project/SpecForge",
+      "url": "https://github.com/sgl-project/SpecForge",
+      "description": "Train speculative decoding models effortlessly and port them smoothly to SGLang serving.",
+      "stars": 751,
+      "source": "github"
+    },
+    {
+      "title": "z-lab/dflash",
+      "url": "https://github.com/z-lab/dflash",
+      "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
+      "stars": 672,
+      "source": "github"
+    },
+    {
+      "title": "hemingkx/Spec-Bench",
+      "url": "https://github.com/hemingkx/Spec-Bench",
+      "description": "Spec-Bench: A Comprehensive Benchmark and Unified Evaluation Platform for Speculative Decoding (ACL 2024 Findings)",
+      "stars": 378,
+      "source": "github"
+    },
+    {
+      "title": "Infini-AI-Lab/Sequoia",
+      "url": "https://github.com/Infini-AI-Lab/Sequoia",
+      "description": "scalable and robust tree-based speculative decoding algorithm",
+      "stars": 376,
+      "source": "github"
+    },
+    {
+      "title": "facebookresearch/LayerSkip",
+      "url": "https://github.com/facebookresearch/LayerSkip",
+      "description": "Code for \"LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding\", ACL 2024",
+      "stars": 363,
+      "source": "github"
+    },
+    {
+      "title": "vllm-project/speculators",
+      "url": "https://github.com/vllm-project/speculators",
+      "description": "A unified library for building, evaluating, and storing speculative decoding algorithms for LLM inference in vLLM",
+      "stars": 307,
+      "source": "github"
+    },
+    {
+      "title": "lucidrains/speculative-decoding",
+      "url": "https://github.com/lucidrains/speculative-decoding",
+      "description": "Explorations into some recent techniques surrounding speculative decoding",
+      "stars": 301,
+      "source": "github"
+    },
+    {
+      "title": "Infini-AI-Lab/TriForce",
+      "url": "https://github.com/Infini-AI-Lab/TriForce",
+      "description": "[COLM 2024] TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding",
+      "stars": 279,
+      "source": "github"
+    },
+    {
+      "title": "dilab-zju/self-speculative-decoding",
+      "url": "https://github.com/dilab-zju/self-speculative-decoding",
+      "description": "Code associated with the paper **Draft & Verify: Lossless Large Language Model Acceleration via Self-Speculative Decoding**",
+      "stars": 223,
+      "source": "github"
+    },
+    {
+      "title": "FasterDecoding/REST",
+      "url": "https://github.com/FasterDecoding/REST",
+      "description": "REST: Retrieval-Based Speculative Decoding, NAACL 2024",
+      "stars": 216,
+      "source": "github"
+    },
+    {
+      "title": "smart-lty/nano-PEARL",
+      "url": "https://github.com/smart-lty/nano-PEARL",
+      "description": "Draft-Target Disaggregation LLM Serving System via Parallel Speculative Decoding.",
+      "stars": 183,
+      "source": "github"
+    },
+    {
+      "title": "smart-lty/ParallelSpeculativeDecoding",
+      "url": "https://github.com/smart-lty/ParallelSpeculativeDecoding",
+      "description": "[ICLR 2025] PEARL: Parallel Speculative Decoding with Adaptive Draft Length",
+      "stars": 152,
+      "source": "github"
+    },
+    {
+      "title": "Infini-AI-Lab/MagicDec",
+      "url": "https://github.com/Infini-AI-Lab/MagicDec",
+      "description": "[ICLR2025] Breaking Throughput-Latency Trade-off for Long Sequences with Speculative Decoding",
+      "stars": 145,
+      "source": "github"
+    },
+    {
+      "title": "alexziskind1/draftbench",
+      "url": "https://github.com/alexziskind1/draftbench",
+      "description": "Benchmark tool for measuring speculative decoding speedups. Sweep draft/target model combinations and generate interactive charts.",
+      "stars": 142,
+      "source": "github"
+    },
+    {
+      "title": "psmarter/mini-infer",
+      "url": "https://github.com/psmarter/mini-infer",
+      "description": "LLM inference engine from scratch — paged KV cache, continuous batching, chunked prefill, prefix caching, speculative decoding, CUDA graph,    tensor parallelism, MoE expert parallelism, OpenAI-compatible serving ",
+      "stars": 127,
+      "source": "github"
+    },
+    {
+      "title": "thunlp/Ouroboros",
+      "url": "https://github.com/thunlp/Ouroboros",
+      "description": "Ouroboros: Speculative Decoding with Large Model Enhanced Drafting (EMNLP 2024 main)",
+      "stars": 116,
+      "source": "github"
+    },
+    {
+      "title": "Seeing to Ground: Visual Attention for Hallucination-Resilient MDLLMs",
+      "url": "https://arxiv.org/abs/2603.25711v1",
+      "abstract": "Multimodal Diffusion Large Language Models (MDLLMs) achieve high-concurrency generation through parallel masked decoding, yet the architectures remain prone to multimodal hallucinations. This structur",
+      "source": "arxiv"
+    },
+    {
+      "title": "S2D2: Fast Decoding for Diffusion LLMs via Training-Free Self-Speculation",
+      "url": "https://arxiv.org/abs/2603.25702v1",
+      "abstract": "Block-diffusion language models offer a promising path toward faster-than-autoregressive generation by combining block-wise autoregressive decoding with within-block parallel denoising. However, in th",
+      "source": "arxiv"
+    },
+    {
+      "title": "Non-linear Sigma Model for the Surface Code with Coherent Errors",
+      "url": "https://arxiv.org/abs/2603.25665v1",
+      "abstract": "The surface code is a promising platform for a quantum memory, but its threshold under coherent errors remains incompletely understood. We study maximum-likelihood decoding of the square-lattice surfa",
+      "source": "arxiv"
+    },
+    {
+      "title": "Kakeya Conjecture and Conditional Kolmogorov Complexity",
+      "url": "https://arxiv.org/abs/2603.25611v1",
+      "abstract": "This paper develops an information-theoretic framework for algorithmic complexity under regular identifiable fibering. The central question is: when a decoder is given information about the fiber labe",
+      "source": "arxiv"
+    },
+    {
+      "title": "Voxtral TTS",
+      "url": "https://arxiv.org/abs/2603.25551v1",
+      "abstract": "We introduce Voxtral TTS, an expressive multilingual text-to-speech model that generates natural speech from as little as 3 seconds of reference audio. Voxtral TTS adopts a hybrid architecture that co",
+      "source": "arxiv"
+    },
+    {
+      "title": "CIAR: Interval-based Collaborative Decoding for Image Generation Acceleration",
+      "url": "https://arxiv.org/abs/2603.25463v1",
+      "abstract": "Auto-regressive (AR) models have recently made notable progress in image generation, achieving performance comparable to diffusion-based approaches. However, their computational intensity and sequenti",
+      "source": "arxiv"
+    },
+    {
+      "title": "PMT: Plain Mask Transformer for Image and Video Segmentation with Frozen Vision Encoders",
+      "url": "https://arxiv.org/abs/2603.25398v1",
+      "abstract": "Vision Foundation Models (VFMs) pre-trained at scale enable a single frozen encoder to serve multiple downstream tasks simultaneously. Recent VFM-based encoder-only models for image and video segmenta",
+      "source": "arxiv"
+    },
+    {
+      "title": "FSGNet: A Frequency-Aware and Semantic Guidance Network for Infrared Small Target Detection",
+      "url": "https://arxiv.org/abs/2603.25389v1",
+      "abstract": "Infrared small target detection (IRSTD) aims to identify and distinguish small targets from complex backgrounds. Leveraging the powerful multi-scale feature fusion capability of the U-Net architecture",
+      "source": "arxiv"
+    },
+    {
+      "title": "GlowQ: Group-Shared LOw-Rank Approximation for Quantized LLMs",
+      "url": "https://arxiv.org/abs/2603.25385v1",
+      "abstract": "Quantization techniques such as BitsAndBytes, AWQ, and GPTQ are widely used as a standard method in deploying large language models but often degrades accuracy when using low-bit representations, e.g.",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Distribution-to-Distribution Neural Probabilistic Forecasting Framework for Dynamical Systems",
+      "url": "https://arxiv.org/abs/2603.25370v1",
+      "abstract": "Probabilistic forecasting provides a principled framework for uncertainty quantification in dynamical systems by representing predictions as probability distributions rather than deterministic traject",
+      "source": "arxiv"
+    },
+    {
+      "title": "New bounds for codes over Gaussian integers based on the Mannheim distance",
+      "url": "https://arxiv.org/abs/2603.25362v1",
+      "abstract": "We study linear codes over Gaussian integers equipped with the Mannheim distance. We develop Mannheim-metric analogues of several classical bounds. We derive an explicit formula for the volume of Mann",
+      "source": "arxiv"
+    },
+    {
+      "title": "Rate-Splitting Multiple Access with a SIC-Free Receiver: An Experimental Study",
+      "url": "https://arxiv.org/abs/2603.25238v1",
+      "abstract": "Most Rate-Splitting Multiple Access (RSMA) implementations rely on successive interference cancellation (SIC) at the receiver, whose performance is inherently limited by error propagation during commo",
+      "source": "arxiv"
+    },
+    {
+      "title": "Decoding the Electronic and Structural Fingerprints of Single-Atom Catalysts via DFT-Assisted XANES Analysis",
+      "url": "https://arxiv.org/abs/2603.25179v1",
+      "abstract": "Single-atom catalysts (SACs), composed of isolated metal atoms dispersed on solid supports, represent the ultimate expression of atomic efficiency in catalysis. Their remarkable activity and selectivi",
+      "source": "arxiv"
+    },
+    {
+      "title": "AG-EgoPose: Leveraging Action-Guided Motion and Kinematic Joint Encoding for Egocentric 3D Pose Estimation",
+      "url": "https://arxiv.org/abs/2603.25175v1",
+      "abstract": "Egocentric 3D human pose estimation remains challenging due to severe perspective distortion, limited body visibility, and complex camera motion inherent in first-person viewpoints. Existing methods t",
+      "source": "arxiv"
+    },
+    {
+      "title": "ET-SAM: Efficient Point Prompt Prediction in SAM for Unified Scene Text Detection and Layout Analysis",
+      "url": "https://arxiv.org/abs/2603.25168v1",
+      "abstract": "Previous works based on Segment Anything Model (SAM) have achieved promising performance in unified scene text detection and layout analysis. However, the typical reliance on pixel-level text segmenta",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Semantically Disentangled Unified Model for Multi-category 3D Anomaly Detection",
+      "url": "https://arxiv.org/abs/2603.25159v1",
+      "abstract": "3D anomaly detection targets the detection and localization of defects in 3D point clouds trained solely on normal data. While a unified model improves scalability by learning across multiple categori",
+      "source": "arxiv"
+    },
+    {
+      "title": "Bulge Fossil Fragments as a new population of factories of gravitational wave sources in the Galaxy",
+      "url": "https://arxiv.org/abs/2603.25127v1",
+      "abstract": "The discovery of the complex stellar populations hosted in two massive stellar systems in the Galactic bulge, namely Terzan5 and Liller 1, posed intriguing questions about their origin. Despite their ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Sparse Visual Thought Circuits in Vision-Language Models",
+      "url": "https://arxiv.org/abs/2603.25075v1",
+      "abstract": "Sparse autoencoders (SAEs) improve interpretability in multimodal models, but it remains unclear whether SAE features form modular, composable units for reasoning-an assumption underlying many interve",
+      "source": "arxiv"
+    },
+    {
+      "title": "Error Understanding in Program Code With LLM-DL for Multi-label Classification",
+      "url": "https://arxiv.org/abs/2603.25005v1",
+      "abstract": "Programming is a core skill in computer science and software engineering (SE), yet identifying and resolving code errors remains challenging for both novice and experienced developers. While Large Lan",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Anatomy of Uncertainty in LLMs",
+      "url": "https://arxiv.org/abs/2603.24967v1",
+      "abstract": "Understanding why a large language model (LLM) is uncertain about the response is important for their reliable deployment. Current approaches, which either provide a single uncertainty score or rely o",
+      "source": "arxiv"
+    }
+  ],
+  "quality": {
+    "total": 40,
+    "quality_score": 0.429,
+    "dimensions": {
+      "authority": 0.95,
+      "quality": 0.0,
+      "star_power": 0.219,
+      "diversity": 0.5
+    },
+    "sources_breakdown": {
+      "github": 20,
+      "arxiv": 20
+    }
+  }
+}

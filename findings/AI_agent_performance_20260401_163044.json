@@ -1,0 +1,174 @@
+{
+  "topic": "AI agent performance",
+  "timestamp": "2026-04-01T16:30:44.744373",
+  "findings": [
+    {
+      "title": "promptfoo/promptfoo",
+      "url": "https://github.com/promptfoo/promptfoo",
+      "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.",
+      "stars": 18967,
+      "source": "github"
+    },
+    {
+      "title": "apache/doris",
+      "url": "https://github.com/apache/doris",
+      "description": "Apache Doris is an easy-to-use, high performance and unified analytics database.",
+      "stars": 15168,
+      "source": "github"
+    },
+    {
+      "title": "neomjs/neo",
+      "url": "https://github.com/neomjs/neo",
+      "description": "The Application Engine for the AI Era. A multi-threaded, AI-native runtime with a persistent Scene Graph, enabling AI agents to introspect and mutate the living application structure in real-time.",
+      "stars": 3166,
+      "source": "github"
+    },
+    {
+      "title": "crystaldba/postgres-mcp",
+      "url": "https://github.com/crystaldba/postgres-mcp",
+      "description": "Postgres MCP Pro provides configurable read/write access and performance analysis for you and your AI agents.",
+      "stars": 2462,
+      "source": "github"
+    },
+    {
+      "title": "flyerhq/flutter_chat_ui",
+      "url": "https://github.com/flyerhq/flutter_chat_ui",
+      "description": "Free and open-source chat SDK. Build fast, real-time apps and generative AI agents with a high-performance, customizable, cross-platform UI.",
+      "stars": 2255,
+      "source": "github"
+    },
+    {
+      "title": "AvdLee/Swift-Concurrency-Agent-Skill",
+      "url": "https://github.com/AvdLee/Swift-Concurrency-Agent-Skill",
+      "description": "Add expert Swift Concurrency guidance to your AI coding tool (Agent Skills open format): safe concurrency, performance optimization, and Swift 6 migration.",
+      "stars": 1356,
+      "source": "github"
+    },
+    {
+      "title": "rocketride-org/rocketride-server",
+      "url": "https://github.com/rocketride-org/rocketride-server",
+      "description": "High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all from your IDE. Includes VS Code extension, TypeScript/Python SDKs, and Docker deployment.",
+      "stars": 1181,
+      "source": "github"
+    },
+    {
+      "title": "Dicklesworthstone/pi_agent_rust",
+      "url": "https://github.com/Dicklesworthstone/pi_agent_rust",
+      "description": "High-performance AI coding agent CLI written in Rust with zero unsafe code",
+      "stars": 639,
+      "source": "github"
+    },
+    {
+      "title": "weibocom/rill-flow",
+      "url": "https://github.com/weibocom/rill-flow",
+      "description": " Rill Flow is a high-performance, scalable workflow orchestration engine for distributed workloads and LLMs",
+      "stars": 407,
+      "source": "github"
+    },
+    {
+      "title": "indragiek/uniprof",
+      "url": "https://github.com/indragiek/uniprof",
+      "description": "Universal CPU profiler designed for humans and AI agents",
+      "stars": 399,
+      "source": "github"
+    },
+    {
+      "title": "egeominotti/bunqueue",
+      "url": "https://github.com/egeominotti/bunqueue",
+      "description": "⚡ High-performance job queue for Bun. SQLite persistence, DLQ, cron jobs, S3 backups. Built for AI agents and automation  ",
+      "stars": 388,
+      "source": "github"
+    },
+    {
+      "title": "n-WN/SubgroupX",
+      "url": "https://github.com/n-WN/SubgroupX",
+      "description": "正规子群.AI Agent | SubgroupX: A high-performance AI Agent for offensive security, Coding, CTF operations, and active defense protocols. Architected by Normal Subgroup. 邀请测试阶段中, 为什么还没有开源, 参见: https://github.com/Cardinal-Platform/Hall-of-Shame",
+      "stars": 330,
+      "source": "github"
+    },
+    {
+      "title": "liaotxcn/Weave",
+      "url": "https://github.com/liaotxcn/Weave",
+      "description": "A highly efficient, secure, and stable application development platform with excellent performance, easy scalability, and deep integration of AI capabilities such as LLM, AI Chat, RAG, and Agents.高效、安全、稳定的服务研发平台，具备良好性能，同时易扩展，深度集成LLM、AIChat、RAG、Agent等AI能力",
+      "stars": 249,
+      "source": "github"
+    },
+    {
+      "title": "laiso/ts-bench",
+      "url": "https://github.com/laiso/ts-bench",
+      "description": "Measure and compare the performance of AI coding agents on TypeScript tasks.",
+      "stars": 220,
+      "source": "github"
+    },
+    {
+      "title": "harvard-cns/orla",
+      "url": "https://github.com/harvard-cns/orla",
+      "description": "An open-source high performance execution engine for agentic workflows",
+      "stars": 209,
+      "source": "github"
+    },
+    {
+      "title": "surendranb/google-analytics-mcp",
+      "url": "https://github.com/surendranb/google-analytics-mcp",
+      "description": "Google Analytics 4 data to AI agents, agentic workflows, and MCP clients. Give agents analysis-ready access to website traffic, user behavior, and performance data with schema discovery, server-side aggregation, and safe defaults that reduce data wrangling.",
+      "stars": 197,
+      "source": "github"
+    },
+    {
+      "title": "exospherehost/runtime",
+      "url": "https://github.com/exospherehost/runtime",
+      "description": "Runtime for building and managing AI agents and Workflows. Easy to learn, fast to build, High Performance, Reliable by design, Intuitive UI, Production Ready.",
+      "stars": 188,
+      "source": "github"
+    },
+    {
+      "title": "xniiinx/polykalshi-ai-agent-rust",
+      "url": "https://github.com/xniiinx/polykalshi-ai-agent-rust",
+      "description": "Polykalshi AI Agent (Rust Edition): Unleash the power of AI with Polykalshi, a blazing-fast, highly efficient AI agent built entirely in Rust. Designed for performance, reliability, and scalability, this project provides a robust framework to create intelligent agents capable of complex decision-making, reasoning, and interactions.",
+      "stars": 188,
+      "source": "github"
+    },
+    {
+      "title": "cortex-tms/cortex-tms",
+      "url": "https://github.com/cortex-tms/cortex-tms",
+      "description": "The Universal AI-Optimized Project Boilerplate. A Tiered Memory System (TMS) designed to maximize AI agent performance. Includes an interactive CLI tool and a high-signal documentation standard.",
+      "stars": 171,
+      "source": "github"
+    },
+    {
+      "title": "HydroXai/pii-masker",
+      "url": "https://github.com/HydroXai/pii-masker",
+      "description": "PII Masker is an open-source tool for protecting sensitive data by automatically detecting and masking PII using advanced AI, powered by DeBERTa-v3. It provides high-precision detection, scalable performance, and a simple Python API for seamless integration into workflows, ensuring privacy compliance in various industries.",
+      "stars": 160,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.435,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.127,
+      "diversity": 0.0,
+      "usability": 0.6,
+      "applicability": 0.975,
+      "coverage": 1.0,
+      "ndcg": 0.543,
+      "map": 0.96,
+      "mrr": 1.0,
+      "rouge_1": 0.683,
+      "semantic_sim": 0.266,
+      "coherence": 0.134,
+      "task_completion": 0.523,
+      "tool_use": 0.177,
+      "reasoning_depth": 0.017,
+      "autonomy": 0.075,
+      "multi_agent": 0.045
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

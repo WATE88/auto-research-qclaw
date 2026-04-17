@@ -1,0 +1,159 @@
+{
+  "topic": "prompt engineering",
+  "timestamp": "2026-03-30T12:58:17.240771",
+  "findings": [
+    {
+      "title": "dair-ai/Prompt-Engineering-Guide",
+      "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+      "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+      "stars": 72449,
+      "source": "github"
+    },
+    {
+      "title": "gsd-build/get-shit-done",
+      "url": "https://github.com/gsd-build/get-shit-done",
+      "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
+      "stars": 44792,
+      "source": "github"
+    },
+    {
+      "title": "anthropics/prompt-eng-interactive-tutorial",
+      "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+      "description": "Anthropic's Interactive Prompt Engineering Tutorial",
+      "stars": 34233,
+      "source": "github"
+    },
+    {
+      "title": "langfuse/langfuse",
+      "url": "https://github.com/langfuse/langfuse",
+      "description": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 ",
+      "stars": 24008,
+      "source": "github"
+    },
+    {
+      "title": "ZeroLu/awesome-nanobanana-pro",
+      "url": "https://github.com/ZeroLu/awesome-nanobanana-pro",
+      "description": "🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.",
+      "stars": 9590,
+      "source": "github"
+    },
+    {
+      "title": "brexhq/prompt-engineering",
+      "url": "https://github.com/brexhq/prompt-engineering",
+      "description": "Tips and tricks for working with Large Language Models like OpenAI's GPT-4.",
+      "stars": 9518,
+      "source": "github"
+    },
+    {
+      "title": "davidkimai/Context-Engineering",
+      "url": "https://github.com/davidkimai/Context-Engineering",
+      "description": "\"Context engineering is the delicate art and science of filling the context window with just the right information for the next step.\" — Andrej Karpathy. A frontier, first-principles handbook inspired by Karpathy and 3Blue1Brown for moving beyond prompt engineering to the wider discipline of context design, orchestration, and optimization.",
+      "stars": 8631,
+      "source": "github"
+    },
+    {
+      "title": "BoundaryML/baml",
+      "url": "https://github.com/BoundaryML/baml",
+      "description": "The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)",
+      "stars": 7849,
+      "source": "github"
+    },
+    {
+      "title": "ai-boost/awesome-prompts",
+      "url": "https://github.com/ai-boost/awesome-prompts",
+      "description": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.",
+      "stars": 7490,
+      "source": "github"
+    },
+    {
+      "title": "NirDiamant/Prompt_Engineering",
+      "url": "https://github.com/NirDiamant/Prompt_Engineering",
+      "description": "This repository offers a comprehensive collection of tutorials and implementations for Prompt Engineering techniques, ranging from fundamental concepts to advanced strategies. It serves as an essential resource for mastering the art of effectively communicating with and leveraging large language models in AI applications.",
+      "stars": 7337,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/promptbase",
+      "url": "https://github.com/microsoft/promptbase",
+      "description": "All things prompt engineering",
+      "stars": 5740,
+      "source": "github"
+    },
+    {
+      "title": "promptslab/Awesome-Prompt-Engineering",
+      "url": "https://github.com/promptslab/Awesome-Prompt-Engineering",
+      "description": "This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc ",
+      "stars": 5660,
+      "source": "github"
+    },
+    {
+      "title": "thinkingjimmy/Learning-Prompt",
+      "url": "https://github.com/thinkingjimmy/Learning-Prompt",
+      "description": "Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!",
+      "stars": 5318,
+      "source": "github"
+    },
+    {
+      "title": "trigaten/Learn_Prompting",
+      "url": "https://github.com/trigaten/Learn_Prompting",
+      "description": "Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community",
+      "stars": 4686,
+      "source": "github"
+    },
+    {
+      "title": "promptslab/Promptify",
+      "url": "https://github.com/promptslab/Promptify",
+      "description": "Prompt Engineering | Prompt Versioning | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research",
+      "stars": 4580,
+      "source": "github"
+    },
+    {
+      "title": "Codium-ai/AlphaCodium",
+      "url": "https://github.com/Codium-ai/AlphaCodium",
+      "description": "Official implementation for the paper: \"Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering\"\"",
+      "stars": 3927,
+      "source": "github"
+    },
+    {
+      "title": "CyberAlbSecOP/Awesome_GPT_Super_Prompting",
+      "url": "https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting",
+      "description": "ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.",
+      "stars": 3790,
+      "source": "github"
+    },
+    {
+      "title": "gsd-build/gsd-2",
+      "url": "https://github.com/gsd-build/gsd-2",
+      "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture",
+      "stars": 3621,
+      "source": "github"
+    },
+    {
+      "title": "Meirtz/Awesome-Context-Engineering",
+      "url": "https://github.com/Meirtz/Awesome-Context-Engineering",
+      "description": " 🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and  implementation guides for LLMs and AI agents.",
+      "stars": 3016,
+      "source": "github"
+    },
+    {
+      "title": "LearnPrompt/LearnPrompt",
+      "url": "https://github.com/LearnPrompt/LearnPrompt",
+      "description": "永久免费开源的 AIGC 课程, 目前已支持Prompt Engineering, ChatGPT, Midjourney, Runway, Stable Diffusion, AI数字人，AI声音&音乐，开源大模型",
+      "stars": 2336,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.307,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.185,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

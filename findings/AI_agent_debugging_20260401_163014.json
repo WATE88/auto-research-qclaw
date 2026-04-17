@@ -1,0 +1,174 @@
+{
+  "topic": "AI agent debugging",
+  "timestamp": "2026-04-01T16:30:14.592894",
+  "findings": [
+    {
+      "title": "mlflow/mlflow",
+      "url": "https://github.com/mlflow/mlflow",
+      "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.",
+      "stars": 25036,
+      "source": "github"
+    },
+    {
+      "title": "coze-dev/coze-studio",
+      "url": "https://github.com/coze-dev/coze-studio",
+      "description": "An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.",
+      "stars": 20375,
+      "source": "github"
+    },
+    {
+      "title": "raga-ai-hub/RagaAI-Catalyst",
+      "url": "https://github.com/raga-ai-hub/RagaAI-Catalyst",
+      "description": "Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced analytics with timeline and execution graph view ",
+      "stars": 16127,
+      "source": "github"
+    },
+    {
+      "title": "coze-dev/coze-loop",
+      "url": "https://github.com/coze-dev/coze-loop",
+      "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.  ",
+      "stars": 5381,
+      "source": "github"
+    },
+    {
+      "title": "midday-ai/ai-sdk-tools",
+      "url": "https://github.com/midday-ai/ai-sdk-tools",
+      "description": "Essential utilities for building production-ready AI applications with Vercel AI SDK. State management, debugging, structured streaming, intelligent agents, and caching.",
+      "stars": 2042,
+      "source": "github"
+    },
+    {
+      "title": "onestardao/WFGY",
+      "url": "https://github.com/onestardao/WFGY",
+      "description": "WFGY is an open-source AI Troubleshooting Atlas for RAG, agents, and real-world AI workflows. Includes the 16-problem map, Global Debug Card, and WFGY 4.0. ⭐ Star to help more builders find this repo.",
+      "stars": 1694,
+      "source": "github"
+    },
+    {
+      "title": "ThousandBirdsInc/chidori",
+      "url": "https://github.com/ThousandBirdsInc/chidori",
+      "description": "A reactive runtime for building durable AI agents",
+      "stars": 1340,
+      "source": "github"
+    },
+    {
+      "title": "tinyfish-io/agentql",
+      "url": "https://github.com/tinyfish-io/agentql",
+      "description": "AgentQL is a suite of tools for connecting your AI to the web. Featuring a query language and Playwright integrations for interacting with elements and extracting data quickly, precisely, and at scale. Includes REST API, Python and JavaScript SDKs, browser debugger.",
+      "stars": 1307,
+      "source": "github"
+    },
+    {
+      "title": "rocketride-org/rocketride-server",
+      "url": "https://github.com/rocketride-org/rocketride-server",
+      "description": "High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all from your IDE. Includes VS Code extension, TypeScript/Python SDKs, and Docker deployment.",
+      "stars": 1181,
+      "source": "github"
+    },
+    {
+      "title": "e2b-dev/awesome-ai-sdks",
+      "url": "https://github.com/e2b-dev/awesome-ai-sdks",
+      "description": "A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI agents",
+      "stars": 1157,
+      "source": "github"
+    },
+    {
+      "title": "golf-mcp/golf",
+      "url": "https://github.com/golf-mcp/golf",
+      "description": "Production-Ready MCP Server Framework • Build, deploy & scale secure AI agent infrastructure • Includes Auth, Observability, Debugger, Telemetry & Runtime • Run real-world MCPs powering AI Agents ",
+      "stars": 820,
+      "source": "github"
+    },
+    {
+      "title": "vllora/vllora",
+      "url": "https://github.com/vllora/vllora",
+      "description": "Debug your AI agents",
+      "stars": 790,
+      "source": "github"
+    },
+    {
+      "title": "traceloop/opentelemetry-mcp-server",
+      "url": "https://github.com/traceloop/opentelemetry-mcp-server",
+      "description": "Unified MCP server for querying OpenTelemetry traces across multiple backends (Jaeger, Tempo, Traceloop, etc.), enabling AI agents to analyze distributed traces for automated debugging and observability.",
+      "stars": 181,
+      "source": "github"
+    },
+    {
+      "title": "mcp-use/mcp-use-ts",
+      "url": "https://github.com/mcp-use/mcp-use-ts",
+      "description": "mcp-use is the framework for MCP with the best DX - Build AI agents, create MCP   servers with UI widgets, and debug with built-in inspector. Includes client SDK, server SDK, React hooks, and powerful dev tools.",
+      "stars": 172,
+      "source": "github"
+    },
+    {
+      "title": "LerianStudio/ring",
+      "url": "https://github.com/LerianStudio/ring",
+      "description": "89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.",
+      "stars": 155,
+      "source": "github"
+    },
+    {
+      "title": "erans/lunaroute",
+      "url": "https://github.com/erans/lunaroute",
+      "description": "LunaRoute is a high-performance local proxy for AI coding assistants like Claude Code, OpenAI Codex CLI, and OpenCode. Get complete visibility into every LLM interaction with zero-overhead passthrough, comprehensive session recording, and powerful debugging capabilities.",
+      "stars": 154,
+      "source": "github"
+    },
+    {
+      "title": "theodo-group/debug-that",
+      "url": "https://github.com/theodo-group/debug-that",
+      "description": "Universal debugger CLI built for AI agents. Allows Claude Code and Codex to debug much faster. Support Node (Javascript, Typescript), bun, lldb (C++/Rust), python. Fast, token-efficient, no fluff.",
+      "stars": 135,
+      "source": "github"
+    },
+    {
+      "title": "soth-ai/mcp-reticle",
+      "url": "https://github.com/soth-ai/mcp-reticle",
+      "description": "Reticle intercepts, visualizes, and profiles JSON-RPC traffic between your LLM and MCP servers in real-time, with zero latency overhead. Stop debugging blind. Start seeing everything.",
+      "stars": 119,
+      "source": "github"
+    },
+    {
+      "title": "docker/labs-ai-tools-vscode",
+      "url": "https://github.com/docker/labs-ai-tools-vscode",
+      "description": "Run & debug workflows for AI agents running Dockerized tools in VSCode",
+      "stars": 99,
+      "source": "github"
+    },
+    {
+      "title": "wybert/earth-agent-chrome-ext",
+      "url": "https://github.com/wybert/earth-agent-chrome-ext",
+      "description": "Earth Agent is a Cursor-like AI agent for Google Earth Engine. It can be used right in your browser as a Chrome extension or through MCP server support. It helps you do anything related to Google Earth Engine automatically through chatting (write code, run analysis, debug errors, explain maps, and manage your environment). Hatched from sundai.club.",
+      "stars": 99,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.42,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.157,
+      "diversity": 0.0,
+      "usability": 0.0,
+      "applicability": 0.95,
+      "coverage": 1.0,
+      "ndcg": 0.744,
+      "map": 0.985,
+      "mrr": 1.0,
+      "rouge_1": 0.567,
+      "semantic_sim": 0.233,
+      "coherence": 0.157,
+      "task_completion": 0.566,
+      "tool_use": 0.162,
+      "reasoning_depth": 0.0,
+      "autonomy": 0.125,
+      "multi_agent": 0.045
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

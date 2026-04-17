@@ -1,0 +1,183 @@
+{
+  "topic": "web scraping crawler",
+  "timestamp": "2026-03-31T11:54:23.352063",
+  "findings": [
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "description": "🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data",
+      "stars": 101442,
+      "updated_at": "2026-03-31T03:53:27Z",
+      "source": "github"
+    },
+    {
+      "title": "scrapy/scrapy",
+      "url": "https://github.com/scrapy/scrapy",
+      "description": "Scrapy, a fast high-level web crawling & scraping framework for Python.",
+      "stars": 60994,
+      "updated_at": "2026-03-31T03:02:03Z",
+      "source": "github"
+    },
+    {
+      "title": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "stars": 33911,
+      "updated_at": "2026-03-31T03:54:14Z",
+      "source": "github"
+    },
+    {
+      "title": "apify/crawlee",
+      "url": "https://github.com/apify/crawlee",
+      "description": "Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.",
+      "stars": 22588,
+      "updated_at": "2026-03-31T03:47:55Z",
+      "source": "github"
+    },
+    {
+      "title": "getmaxun/maxun",
+      "url": "https://github.com/getmaxun/maxun",
+      "description": "🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥 ",
+      "stars": 15316,
+      "updated_at": "2026-03-31T02:37:57Z",
+      "source": "github"
+    },
+    {
+      "title": "code4craft/webmagic",
+      "url": "https://github.com/code4craft/webmagic",
+      "description": "A scalable web crawler framework for Java.",
+      "stars": 11698,
+      "updated_at": "2026-03-29T05:44:00Z",
+      "source": "github"
+    },
+    {
+      "title": "apify/crawlee-python",
+      "url": "https://github.com/apify/crawlee-python",
+      "description": "Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Parsel, BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.",
+      "stars": 8699,
+      "updated_at": "2026-03-30T23:01:57Z",
+      "source": "github"
+    },
+    {
+      "title": "lorien/awesome-web-scraping",
+      "url": "https://github.com/lorien/awesome-web-scraping",
+      "description": "List of libraries, tools and APIs for web scraping and data processing.",
+      "stars": 7827,
+      "updated_at": "2026-03-30T20:10:57Z",
+      "source": "github"
+    },
+    {
+      "title": "alirezamika/autoscraper",
+      "url": "https://github.com/alirezamika/autoscraper",
+      "description": "A Smart, Automatic, Fast and Lightweight Web Scraper for Python",
+      "stars": 7129,
+      "updated_at": "2026-03-29T19:12:11Z",
+      "source": "github"
+    },
+    {
+      "title": "MontFerret/ferret",
+      "url": "https://github.com/MontFerret/ferret",
+      "description": "Declarative web scraping",
+      "stars": 5946,
+      "updated_at": "2026-03-30T22:04:32Z",
+      "source": "github"
+    },
+    {
+      "title": "adbar/trafilatura",
+      "url": "https://github.com/adbar/trafilatura",
+      "description": "Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML",
+      "stars": 5624,
+      "updated_at": "2026-03-30T22:35:55Z",
+      "source": "github"
+    },
+    {
+      "title": "niespodd/browser-fingerprinting",
+      "url": "https://github.com/niespodd/browser-fingerprinting",
+      "description": "Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?",
+      "stars": 4975,
+      "updated_at": "2026-03-30T00:01:56Z",
+      "source": "github"
+    },
+    {
+      "title": "dotnetcore/DotnetSpider",
+      "url": "https://github.com/dotnetcore/DotnetSpider",
+      "description": "DotnetSpider, a .NET standard web crawling library. It is lightweight, efficient and fast high-level web crawling & scraping framework",
+      "stars": 4139,
+      "updated_at": "2026-03-24T22:22:03Z",
+      "source": "github"
+    },
+    {
+      "title": "geziyor/geziyor",
+      "url": "https://github.com/geziyor/geziyor",
+      "description": "Geziyor, blazing fast web crawling & scraping framework for Go. Supports JS rendering.",
+      "stars": 2771,
+      "updated_at": "2026-03-17T11:07:53Z",
+      "source": "github"
+    },
+    {
+      "title": "oxylabs/oxylabs-ai-studio-py",
+      "url": "https://github.com/oxylabs/oxylabs-ai-studio-py",
+      "description": "Structured data gathering from any website using AI-powered scraper, crawler, and browser automation. Scraping and crawling with natural language prompts. Equip your LLM agents with fresh data. AI Studio python SDK for intelligent web data gathering. ",
+      "stars": 2622,
+      "updated_at": "2026-03-30T10:22:34Z",
+      "source": "github"
+    },
+    {
+      "title": "lorien/grab",
+      "url": "https://github.com/lorien/grab",
+      "description": "Web Scraping Framework",
+      "stars": 2459,
+      "updated_at": "2026-03-29T16:22:51Z",
+      "source": "github"
+    },
+    {
+      "title": "spider-rs/spider",
+      "url": "https://github.com/spider-rs/spider",
+      "description": "Web crawler and scraper for Rust",
+      "stars": 2369,
+      "updated_at": "2026-03-31T02:34:09Z",
+      "source": "github"
+    },
+    {
+      "title": "howie6879/ruia",
+      "url": "https://github.com/howie6879/ruia",
+      "description": "Async Python 3.6+ web scraping micro-framework based on asyncio",
+      "stars": 1744,
+      "updated_at": "2026-03-24T14:40:09Z",
+      "source": "github"
+    },
+    {
+      "title": "vifreefly/kimuraframework",
+      "url": "https://github.com/vifreefly/kimuraframework",
+      "description": "Write web scrapers in Ruby using a clean, AI-assisted DSL. Kimurai uses AI to figure out where the data lives, then caches the selectors and scrapes with pure Ruby. Get the intelligence of an LLM without the per-request latency or token costs.",
+      "stars": 1097,
+      "updated_at": "2026-03-28T17:35:45Z",
+      "source": "github"
+    },
+    {
+      "title": "elixir-crawly/crawly",
+      "url": "https://github.com/elixir-crawly/crawly",
+      "description": "Crawly, a high-level web crawling & scraping framework for Elixir. ",
+      "stars": 1082,
+      "updated_at": "2026-03-21T01:11:08Z",
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.403,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.15,
+      "diversity": 0.0,
+      "usability": 0.0,
+      "applicability": 1.0,
+      "coverage": 1.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

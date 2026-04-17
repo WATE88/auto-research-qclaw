@@ -1,0 +1,159 @@
+{
+  "topic": "3D point cloud",
+  "timestamp": "2026-03-30T16:11:03.246748",
+  "findings": [
+    {
+      "title": "google/draco",
+      "url": "https://github.com/google/draco",
+      "description": "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.",
+      "stars": 7211,
+      "source": "github"
+    },
+    {
+      "title": "openai/point-e",
+      "url": "https://github.com/openai/point-e",
+      "description": "Point cloud diffusion for 3D model synthesis",
+      "stars": 6873,
+      "source": "github"
+    },
+    {
+      "title": "OpenDroneMap/ODM",
+      "url": "https://github.com/OpenDroneMap/ODM",
+      "description": "A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images. 📷",
+      "stars": 5927,
+      "source": "github"
+    },
+    {
+      "title": "zhulf0804/3D-PointCloud",
+      "url": "https://github.com/zhulf0804/3D-PointCloud",
+      "description": "Papers and Datasets  about Point Cloud.",
+      "stars": 2899,
+      "source": "github"
+    },
+    {
+      "title": "google-research-datasets/Objectron",
+      "url": "https://github.com/google-research-datasets/Objectron",
+      "description": "Objectron is a dataset of short, object-centric video clips. In addition, the videos also contain AR session metadata including camera poses, sparse point-clouds and planes. In each video, the camera moves around and above the object and captures it from different views. Each object is annotated with a 3D bounding box. The 3D bounding box describes the object’s position, orientation, and dimensions. The dataset contains about 15K annotated video clips and 4M annotated images in the following categories: bikes, books, bottles, cameras, cereal boxes, chairs, cups, laptops, and shoes",
+      "stars": 2324,
+      "source": "github"
+    },
+    {
+      "title": "nmwsharp/polyscope",
+      "url": "https://github.com/nmwsharp/polyscope",
+      "description": "A C++ & Python viewer for 3D data like meshes and point clouds",
+      "stars": 2156,
+      "source": "github"
+    },
+    {
+      "title": "sshaoshuai/PointRCNN",
+      "url": "https://github.com/sshaoshuai/PointRCNN",
+      "description": "PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud, CVPR 2019.",
+      "stars": 1820,
+      "source": "github"
+    },
+    {
+      "title": "facebookresearch/votenet",
+      "url": "https://github.com/facebookresearch/votenet",
+      "description": "Deep Hough Voting for 3D Object Detection in Point Clouds",
+      "stars": 1755,
+      "source": "github"
+    },
+    {
+      "title": "QingyongHu/SoTA-Point-Cloud",
+      "url": "https://github.com/QingyongHu/SoTA-Point-Cloud",
+      "description": "🔥[IEEE TPAMI 2020] Deep Learning for 3D Point Clouds: A Survey",
+      "stars": 1630,
+      "source": "github"
+    },
+    {
+      "title": "fwilliams/point-cloud-utils",
+      "url": "https://github.com/fwilliams/point-cloud-utils",
+      "description": "An easy-to-use Python library for processing and manipulating 3D point clouds and meshes.",
+      "stars": 1532,
+      "source": "github"
+    },
+    {
+      "title": "koide3/glim",
+      "url": "https://github.com/koide3/glim",
+      "description": "GLIM: versatile and extensible point cloud-based 3D localization and mapping framework",
+      "stars": 1519,
+      "source": "github"
+    },
+    {
+      "title": "daavoo/pyntcloud",
+      "url": "https://github.com/daavoo/pyntcloud",
+      "description": "pyntcloud is a Python library for working with 3D point clouds.",
+      "stars": 1494,
+      "source": "github"
+    },
+    {
+      "title": "maudzung/Complex-YOLOv4-Pytorch",
+      "url": "https://github.com/maudzung/Complex-YOLOv4-Pytorch",
+      "description": "The PyTorch Implementation based on YOLOv4 of the paper: \"Complex-YOLO: Real-time 3D Object Detection on Point Clouds\"",
+      "stars": 1320,
+      "source": "github"
+    },
+    {
+      "title": "szenergy/awesome-lidar",
+      "url": "https://github.com/szenergy/awesome-lidar",
+      "description": "😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators.",
+      "stars": 1244,
+      "source": "github"
+    },
+    {
+      "title": "xtreme1-io/xtreme1",
+      "url": "https://github.com/xtreme1-io/xtreme1",
+      "description": "Xtreme1 is an all-in-one data labeling and annotation platform for multimodal data training and supports 3D LiDAR point cloud, image, and LLM.",
+      "stars": 1172,
+      "source": "github"
+    },
+    {
+      "title": "maudzung/SFA3D",
+      "url": "https://github.com/maudzung/SFA3D",
+      "description": "Super Fast and Accurate 3D Object Detection based on 3D LiDAR Point Clouds (The PyTorch implementation)",
+      "stars": 1126,
+      "source": "github"
+    },
+    {
+      "title": "kzampog/cilantro",
+      "url": "https://github.com/kzampog/cilantro",
+      "description": "A lean C++ library for working with point cloud data",
+      "stars": 1125,
+      "source": "github"
+    },
+    {
+      "title": "naurril/SUSTechPOINTS",
+      "url": "https://github.com/naurril/SUSTechPOINTS",
+      "description": "3D Point Cloud Annotation Platform for Autonomous Driving",
+      "stars": 1093,
+      "source": "github"
+    },
+    {
+      "title": "InternRobotics/PointLLM",
+      "url": "https://github.com/InternRobotics/PointLLM",
+      "description": "[ECCV 2024 Best Paper Candidate & TPAMI 2025] PointLLM: Empowering Large Language Models to Understand Point Clouds",
+      "stars": 989,
+      "source": "github"
+    },
+    {
+      "title": "neka-nat/probreg",
+      "url": "https://github.com/neka-nat/probreg",
+      "description": "Python package for point cloud registration using probabilistic model (Coherent Point Drift, GMMReg, SVR, GMMTree, FilterReg, Bayesian CPD)",
+      "stars": 969,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.349,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.05,
+      "star_power": 0.32,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

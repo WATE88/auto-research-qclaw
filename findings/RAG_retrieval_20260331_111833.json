@@ -1,0 +1,280 @@
+{
+  "topic": "RAG retrieval",
+  "timestamp": "2026-03-31T11:18:33.870285",
+  "findings": [
+    {
+      "title": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stars": 76650,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/graphrag",
+      "url": "https://github.com/microsoft/graphrag",
+      "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+      "stars": 31873,
+      "source": "github"
+    },
+    {
+      "title": "HKUDS/LightRAG",
+      "url": "https://github.com/HKUDS/LightRAG",
+      "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+      "stars": 31197,
+      "source": "github"
+    },
+    {
+      "title": "labring/FastGPT",
+      "url": "https://github.com/labring/FastGPT",
+      "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+      "stars": 27572,
+      "source": "github"
+    },
+    {
+      "title": "NirDiamant/RAG_Techniques",
+      "url": "https://github.com/NirDiamant/RAG_Techniques",
+      "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.",
+      "stars": 26371,
+      "source": "github"
+    },
+    {
+      "title": "deepset-ai/haystack",
+      "url": "https://github.com/deepset-ai/haystack",
+      "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
+      "stars": 24658,
+      "source": "github"
+    },
+    {
+      "title": "VectifyAI/PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "stars": 23347,
+      "source": "github"
+    },
+    {
+      "title": "vanna-ai/vanna",
+      "url": "https://github.com/vanna-ai/vanna",
+      "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.",
+      "stars": 23168,
+      "source": "github"
+    },
+    {
+      "title": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+      "stars": 13662,
+      "source": "github"
+    },
+    {
+      "title": "memvid/memvid",
+      "url": "https://github.com/memvid/memvid",
+      "description": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
+      "stars": 13658,
+      "source": "github"
+    },
+    {
+      "title": "activeloopai/deeplake",
+      "url": "https://github.com/activeloopai/deeplake",
+      "description": "Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.",
+      "stars": 9054,
+      "source": "github"
+    },
+    {
+      "title": "OpenSPG/KAG",
+      "url": "https://github.com/OpenSPG/KAG",
+      "description": "KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs.  It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.",
+      "stars": 8645,
+      "source": "github"
+    },
+    {
+      "title": "SciPhi-AI/R2R",
+      "url": "https://github.com/SciPhi-AI/R2R",
+      "description": "SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.",
+      "stars": 7748,
+      "source": "github"
+    },
+    {
+      "title": "weaviate/Verba",
+      "url": "https://github.com/weaviate/Verba",
+      "description": "Retrieval Augmented Generation (RAG) chatbot powered by Weaviate",
+      "stars": 7621,
+      "source": "github"
+    },
+    {
+      "title": "airweave-ai/airweave",
+      "url": "https://github.com/airweave-ai/airweave",
+      "description": "Open-source context retrieval layer for AI agents",
+      "stars": 6169,
+      "source": "github"
+    },
+    {
+      "title": "Marker-Inc-Korea/AutoRAG",
+      "url": "https://github.com/Marker-Inc-Korea/AutoRAG",
+      "description": "AutoRAG: An Open-Source Framework for Retrieval-Augmented Generation (RAG) Evaluation & Optimization with AutoML-Style Automation",
+      "stars": 4652,
+      "source": "github"
+    },
+    {
+      "title": "truefoundry/cognita",
+      "url": "https://github.com/truefoundry/cognita",
+      "description": "RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry ",
+      "stars": 4394,
+      "source": "github"
+    },
+    {
+      "title": "AnswerDotAI/RAGatouille",
+      "url": "https://github.com/AnswerDotAI/RAGatouille",
+      "description": "Easily use and train state of the art late-interaction retrieval methods (ColBERT) in any RAG pipeline. Designed for modularity and ease-of-use, backed by research.",
+      "stars": 3893,
+      "source": "github"
+    },
+    {
+      "title": "CortexReach/memory-lancedb-pro",
+      "url": "https://github.com/CortexReach/memory-lancedb-pro",
+      "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI",
+      "stars": 3774,
+      "source": "github"
+    },
+    {
+      "title": "aiming-lab/SimpleMem",
+      "url": "https://github.com/aiming-lab/SimpleMem",
+      "description": "SimpleMem: Efficient Lifelong Memory for LLM Agents",
+      "stars": 3249,
+      "source": "github"
+    },
+    {
+      "title": "Graphilosophy: Graph-Based Digital Humanities Computing with The Four Books",
+      "url": "http://arxiv.org/abs/2603.28755v1",
+      "abstract": "The Four Books have shaped East Asian intellectual traditions, yet their multi-layered interpretive complexity limits their accessibility in the digital age. While traditional bilingual commentaries provide a vital pedagogical bridge, computational frameworks are needed to preserve and explore this ",
+      "source": "arxiv"
+    },
+    {
+      "title": "ParaSpeechCLAP: A Dual-Encoder Speech-Text Model for Rich Stylistic Language-Audio Pretraining",
+      "url": "http://arxiv.org/abs/2603.28737v1",
+      "abstract": "We introduce ParaSpeechCLAP, a dual-encoder contrastive model that maps speech and text style captions into a common embedding space, supporting a wide range of intrinsic (speaker-level) and situational (utterance-level) descriptors (such as pitch, texture and emotion) far beyond the narrow set hand",
+      "source": "arxiv"
+    },
+    {
+      "title": "Pandora: Articulated 3D Scene Graphs from Egocentric Vision",
+      "url": "http://arxiv.org/abs/2603.28732v1",
+      "abstract": "Robotic mapping systems typically approach building metric-semantic scene representations from the robot's own sensors and cameras. However, these \"first person\" maps inherit the robot's own limitations due to its embodiment or skillset, which may leave many aspects of the environment unexplored. Fo",
+      "source": "arxiv"
+    },
+    {
+      "title": "Dynamic Dual-Granularity Skill Bank for Agentic RL",
+      "url": "http://arxiv.org/abs/2603.28716v1",
+      "abstract": "Agentic reinforcement learning (RL) can benefit substantially from reusable experience, yet existing skill-based methods mainly extract trajectory-level guidance and often lack principled mechanisms for maintaining an evolving skill memory. We propose D2Skill, a dynamic dual-granularity skill bank f",
+      "source": "arxiv"
+    },
+    {
+      "title": "Learning a dynamic four-chamber shape model of the human heart for 95,695 UK Biobank participants",
+      "url": "http://arxiv.org/abs/2603.28711v1",
+      "abstract": "The human heart is a sophisticated system composed of four cardiac chambers with distinct shapes, which function in a coordinated manner. Existing shape models of the heart mainly focus on the ventricular chambers and they are derived from relatively small datasets. Here, we present a spatio-tempora",
+      "source": "arxiv"
+    },
+    {
+      "title": "ELViS: Efficient Visual Similarity from Local Descriptors that Generalizes Across Domains",
+      "url": "http://arxiv.org/abs/2603.28603v1",
+      "abstract": "Large-scale instance-level training data is scarce, so models are typically trained on domain-specific datasets. Yet in real-world retrieval, they must handle diverse domains, making generalization to unseen data critical. We introduce ELViS, an image-to-image similarity model that generalizes effec",
+      "source": "arxiv"
+    },
+    {
+      "title": "CirrusBench: Evaluating LLM-based Agents Beyond Correctness in Real-World Cloud Service Environments",
+      "url": "http://arxiv.org/abs/2603.28569v1",
+      "abstract": "The increasing agentic capabilities of Large Language Models (LLMs) have enabled their deployment in real-world applications, such as cloud services, where customer-assistant interactions exhibit high technical complexity and long-horizon dependencies, making robustness and resolution efficiency cri",
+      "source": "arxiv"
+    },
+    {
+      "title": "Hydra: Unifying Document Retrieval and Generation in a Single Vision-Language Model",
+      "url": "http://arxiv.org/abs/2603.28554v1",
+      "abstract": "Visual document understanding typically requires separate retrieval and generation models, doubling memory and system complexity. We present Hydra, a dual-head approach that provides both ColBERT-style late-interaction retrieval and autoregressive generation from a single vision-language model (VLM)",
+      "source": "arxiv"
+    },
+    {
+      "title": "TIEG-Youpu Solution for NeurIPS 2022 WikiKG90Mv2-LSC",
+      "url": "http://arxiv.org/abs/2603.28512v1",
+      "abstract": "WikiKG90Mv2 in NeurIPS 2022 is a large encyclopedic knowledge graph. Embedding knowledge graphs into continuous vector spaces is important for many practical applications, such as knowledge acquisition, question answering, and recommendation systems. Compared to existing knowledge graphs, WikiKG90Mv",
+      "source": "arxiv"
+    },
+    {
+      "title": "Courtroom-Style Multi-Agent Debate with Progressive RAG and Role-Switching for Controversial Claim Verification",
+      "url": "http://arxiv.org/abs/2603.28488v1",
+      "abstract": "Large language models (LLMs) remain unreliable for high-stakes claim verification due to hallucinations and shallow reasoning. While retrieval-augmented generation (RAG) and multi-agent debate (MAD) address this, they are limited by one-pass retrieval and unstructured debate dynamics. We propose a c",
+      "source": "arxiv"
+    },
+    {
+      "title": "With a Little Help From My Friends: Collective Manipulation in Risk-Controlling Recommender Systems",
+      "url": "http://arxiv.org/abs/2603.28476v1",
+      "abstract": "Recommendation systems have become central gatekeepers of online information, shaping user behaviour across a wide range of activities. In response, users increasingly organize and coordinate to steer algorithmic outcomes toward diverse goals, such as promoting relevant content or limiting harmful m",
+      "source": "arxiv"
+    },
+    {
+      "title": "CiQi-Agent: Aligning Vision, Tools and Aesthetics in Multimodal Agent for Cultural Reasoning on Chinese Porcelains",
+      "url": "http://arxiv.org/abs/2603.28474v1",
+      "abstract": "The connoisseurship of antique Chinese porcelain demands extensive historical expertise, material understanding, and aesthetic sensitivity, making it difficult for non-specialists to engage. To democratize cultural-heritage understanding and assist expert connoisseurship, we introduce CiQi-Agent -- ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Entropic Claim Resolution: Uncertainty-Driven Evidence Selection for RAG",
+      "url": "http://arxiv.org/abs/2603.28444v1",
+      "abstract": "Current Retrieval-Augmented Generation (RAG) systems predominantly rely on relevance-based dense retrieval, sequentially fetching documents to maximize semantic similarity with the query. However, in knowledge-intensive and real-world scenarios characterized by conflicting evidence or fundamental qu",
+      "source": "arxiv"
+    },
+    {
+      "title": "MiroEval: Benchmarking Multimodal Deep Research Agents in Process and Outcome",
+      "url": "http://arxiv.org/abs/2603.28407v1",
+      "abstract": "Recent progress in deep research systems has been impressive, but evaluation still lags behind real user needs. Existing benchmarks predominantly assess final reports using fixed rubrics, failing to evaluate the underlying research process. Most also offer limited multimodal coverage, rely on synthe",
+      "source": "arxiv"
+    },
+    {
+      "title": "SVH-BD : Synthetic Vegetation Hyperspectral Benchmark Dataset for Emulation of Remote Sensing Images",
+      "url": "http://arxiv.org/abs/2603.28390v1",
+      "abstract": "This dataset provides a large collection of 10,915 synthetic hyperspectral image cubes paired with pixel-level vegetation trait maps, designed to support research in radiative transfer emulation, vegetation trait retrieval, and uncertainty quantification. Each hyperspectral cube contains 211 bands s",
+      "source": "arxiv"
+    },
+    {
+      "title": "Marco DeepResearch: Unlocking Efficient Deep Research Agents via Verification-Centric Design",
+      "url": "http://arxiv.org/abs/2603.28376v1",
+      "abstract": "Deep research agents autonomously conduct open-ended investigations, integrating complex information retrieval with multi-step reasoning across diverse sources to solve real-world problems. To sustain this capability on long-horizon tasks, reliable verification is critical during both training and i",
+      "source": "arxiv"
+    },
+    {
+      "title": "Building evidence-based knowledge graphs from full-text literature for disease-specific biomedical reasoning",
+      "url": "http://arxiv.org/abs/2603.28325v1",
+      "abstract": "Biomedical knowledge resources often either preserve evidence as unstructured text or compress it into flat triples that omit study design, provenance, and quantitative support. Here we present EvidenceNet, a framework and dataset for building disease-specific knowledge graphs from full-text biomedi",
+      "source": "arxiv"
+    },
+    {
+      "title": "TerraSky3D: Multi-View Reconstructions of European Landmarks in 4K",
+      "url": "http://arxiv.org/abs/2603.28287v1",
+      "abstract": "Despite the growing need for data of more and more sophisticated 3D reconstruction pipelines, we can still observe a scarcity of suitable public datasets. Existing 3D datasets are either low resolution, limited to a small amount of scenes, based on images of varying quality because retrieved from th",
+      "source": "arxiv"
+    },
+    {
+      "title": "Robust Remote Sensing Image-Text Retrieval with Noisy Correspondence",
+      "url": "http://arxiv.org/abs/2603.28134v1",
+      "abstract": "As a pivotal task that bridges remote visual and linguistic understanding, Remote Sensing Image-Text Retrieval (RSITR) has attracted considerable research interest in recent years. However, almost all RSITR methods implicitly assume that image-text pairs are matched perfectly. In practice, acquiring",
+      "source": "arxiv"
+    },
+    {
+      "title": "ORACAL: A Robust and Explainable Multimodal Framework for Smart Contract Vulnerability Detection with Causal Graph Enrichment",
+      "url": "http://arxiv.org/abs/2603.28128v1",
+      "abstract": "Although Graph Neural Networks (GNNs) have shown promise for smart contract vulnerability detection, they still face significant limitations. Homogeneous graph models fail to capture the interplay between control flow and data dependencies, while heterogeneous graph approaches often lack deep semant",
+      "source": "arxiv"
+    }
+  ],
+  "quality": {
+    "total": 40,
+    "quality_score": 0.453,
+    "dimensions": {
+      "authority": 0.95,
+      "quality": 0.075,
+      "star_power": 0.229,
+      "diversity": 0.5
+    },
+    "sources_breakdown": {
+      "github": 20,
+      "arxiv": 20
+    }
+  }
+}

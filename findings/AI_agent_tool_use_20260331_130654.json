@@ -1,0 +1,174 @@
+{
+  "topic": "AI agent tool use",
+  "timestamp": "2026-03-31T13:06:54.843165",
+  "findings": [
+    {
+      "title": "Klavis-AI/klavis",
+      "url": "https://github.com/Klavis-AI/klavis",
+      "description": "Klavis AI:  MCP integration platforms that let AI agents use tools reliably at any scale",
+      "stars": 5692,
+      "source": "github"
+    },
+    {
+      "title": "ModelEngine-Group/nexent",
+      "url": "https://github.com/ModelEngine-Group/nexent",
+      "description": "Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestration with built-in constraints, feedback loops, and control planes.",
+      "stars": 4353,
+      "source": "github"
+    },
+    {
+      "title": "guy-hartstein/company-research-agent",
+      "url": "https://github.com/guy-hartstein/company-research-agent",
+      "description": "An agentic company research tool powered by LangGraph and Tavily that conducts deep diligence on companies using a multi-agent framework. It leverages Google's Gemini 2.5 Flash and OpenAI's GPT-5.1 on the backend for inference.",
+      "stars": 1656,
+      "source": "github"
+    },
+    {
+      "title": "trycua/acu",
+      "url": "https://github.com/trycua/acu",
+      "description": "A curated list of resources about AI agents for Computer Use, including research papers, projects, frameworks, and tools.",
+      "stars": 1641,
+      "source": "github"
+    },
+    {
+      "title": "XiaomingX/indie-hacker-tools-plus",
+      "url": "https://github.com/XiaomingX/indie-hacker-tools-plus",
+      "description": "为独立开发者准备的精选技术栈和工具仓库来了！这里有你最需要的工具，帮你提升开发效率、节约成本，最重要的是——这些工具都是市场上热门的，经过验证的。🚀A curated collection of tech stacks and tools tailored for independent developers is here! these are proven, popular tools widely used in the industry. 🚀",
+      "stars": 1595,
+      "source": "github"
+    },
+    {
+      "title": "gadievron/raptor",
+      "url": "https://github.com/gadievron/raptor",
+      "description": "Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Claude.md and creating rules, sub-agents, and skills, and orchestrating security tool usage, we configure the agent for adversarial thinking, and perform research or attack/defense operations.",
+      "stars": 1528,
+      "source": "github"
+    },
+    {
+      "title": "firecrawl/fire-enrich",
+      "url": "https://github.com/firecrawl/fire-enrich",
+      "description": "🔥 AI-powered data enrichment tool that transforms emails into rich datasets with company profiles, funding data, tech stacks, and more using Firecrawl and multi-agent AI",
+      "stars": 1123,
+      "source": "github"
+    },
+    {
+      "title": "oxylabs/browser-agent-py",
+      "url": "https://github.com/oxylabs/browser-agent-py",
+      "description": "AI Browser Agent is an advanced Browser AI tool developed by Oxylabs AI Studio that automates real user browsing tasks using natural language instructions.",
+      "stars": 1073,
+      "source": "github"
+    },
+    {
+      "title": "trpc-group/trpc-agent-go",
+      "url": "https://github.com/trpc-group/trpc-agent-go",
+      "description": "trpc-agent-go is a powerful Go framework for building intelligent agent systems using large language models (LLMs) and tools.",
+      "stars": 1048,
+      "source": "github"
+    },
+    {
+      "title": "apify/apify-mcp-server",
+      "url": "https://github.com/apify/apify-mcp-server",
+      "description": "The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store.",
+      "stars": 984,
+      "source": "github"
+    },
+    {
+      "title": "docker/compose-for-agents",
+      "url": "https://github.com/docker/compose-for-agents",
+      "description": "Build and run AI agents using Docker Compose. A collection of ready-to-use examples for orchestrating open-source LLMs, tools, and agent runtimes.",
+      "stars": 895,
+      "source": "github"
+    },
+    {
+      "title": "heurist-network/heurist-agent-framework",
+      "url": "https://github.com/heurist-network/heurist-agent-framework",
+      "description": "A flexible multi-interface AI agent framework for building agents with reasoning, tool use, memory, deep research, blockchain interaction, MCP, and agents-as-a-service.",
+      "stars": 789,
+      "source": "github"
+    },
+    {
+      "title": "sigoden/llm-functions",
+      "url": "https://github.com/sigoden/llm-functions",
+      "description": "Easily create LLM tools and agents using plain Bash/JavaScript/Python functions.",
+      "stars": 730,
+      "source": "github"
+    },
+    {
+      "title": "HKUDS/AnyTool",
+      "url": "https://github.com/HKUDS/AnyTool",
+      "description": "\"AnyTool: Universal Tool-Use Layer for AI Agents\"",
+      "stars": 630,
+      "source": "github"
+    },
+    {
+      "title": "jonigl/mcp-client-for-ollama",
+      "url": "https://github.com/jonigl/mcp-client-for-ollama",
+      "description": "A text-based user interface (TUI) client for interacting with MCP servers using Ollama. Features include agent mode, multi-server, model switching, streaming responses, tool management, human-in-the-loop, thinking mode, model params config, MCP prompts, custom system prompt and saved preferences. Built for developers working with local LLMs.",
+      "stars": 586,
+      "source": "github"
+    },
+    {
+      "title": "SalesforceAIResearch/MCP-Universe",
+      "url": "https://github.com/SalesforceAIResearch/MCP-Universe",
+      "description": "MCP-Universe is a comprehensive framework designed for RL training, benchmarking, and developing AI agents for general tool-use.",
+      "stars": 575,
+      "source": "github"
+    },
+    {
+      "title": "zhongyu09/openchatbi",
+      "url": "https://github.com/zhongyu09/openchatbi",
+      "description": "OpenChatBI is an intelligent chat-based BI tool powered by large language models, designed to help users query, analyze, and visualize data through natural language conversations. It uses LangGraph and LangChain to build chat agent and workflows that support natural language to SQL conversion and data analysis.",
+      "stars": 541,
+      "source": "github"
+    },
+    {
+      "title": "toolkit-ai/toolkit-ai",
+      "url": "https://github.com/toolkit-ai/toolkit-ai",
+      "description": "AI-agents that automatically generate and use Langchain Tools and ChatGPT plugins",
+      "stars": 534,
+      "source": "github"
+    },
+    {
+      "title": "stepanogil/autonomous-hr-chatbot",
+      "url": "https://github.com/stepanogil/autonomous-hr-chatbot",
+      "description": "An autonomous HR agent that can answer user queries using tools",
+      "stars": 442,
+      "source": "github"
+    },
+    {
+      "title": "alexfazio/crewAI-quickstart",
+      "url": "https://github.com/alexfazio/crewAI-quickstart",
+      "description": "A collection of notebooks, cookbooks, and recipes showcasing fun and effective ways to use CrewAI's agentic workflow implementations and tools.",
+      "stars": 417,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.445,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.05,
+      "star_power": 0.236,
+      "diversity": 0.0,
+      "usability": 0.1,
+      "applicability": 1.0,
+      "coverage": 1.0,
+      "ndcg": 0.684,
+      "map": 0.978,
+      "mrr": 1.0,
+      "rouge_1": 0.487,
+      "semantic_sim": 0.222,
+      "coherence": 0.233,
+      "task_completion": 0.606,
+      "tool_use": 0.258,
+      "reasoning_depth": 0.083,
+      "autonomy": 0.125,
+      "multi_agent": 0.09
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

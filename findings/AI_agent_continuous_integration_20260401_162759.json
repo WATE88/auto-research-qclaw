@@ -1,0 +1,174 @@
+{
+  "topic": "AI agent continuous integration",
+  "timestamp": "2026-04-01T16:27:59.115596",
+  "findings": [
+    {
+      "title": "GURPREETKAURJETHRA/AI-Lead-Generation-Agent",
+      "url": "https://github.com/GURPREETKAURJETHRA/AI-Lead-Generation-Agent",
+      "description": "AI Lead Generation Agent that automatically discovers and qualifies potential leads from Quora. Using Firecrawl for intelligent web scraping, Phidata for agent orchestration, and Composio for Google Sheets integration, you'll create a system that can continuously generate and organize qualified leads with minimal human intervention!",
+      "stars": 44,
+      "source": "github"
+    },
+    {
+      "title": "IdeoaLabs/Open-Sable",
+      "url": "https://github.com/IdeoaLabs/Open-Sable",
+      "description": "Open-Sable is a local-first autonomous agent framework with AGI-inspired cognitive subsystems (goals, memory, metacognition, tool use). It can run continuously on your machine, integrate with chat interfaces like Telegram, execute real tasks safely, and keep data private by default.",
+      "stars": 16,
+      "source": "github"
+    },
+    {
+      "title": "ariunbolor/nsaf-mcp-server",
+      "url": "https://github.com/ariunbolor/nsaf-mcp-server",
+      "description": "The Neuro-Symbolic Autonomy Framework integrates neural, symbolic, and autonomous learning methods into a single, continuously evolving AI agent-building system. This prototype demonstrates the SCMA component, which enables AI agents to self-design new AI agents using Generative Architecture Models.",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "hyoaru/recipe-suggester-ai-agent-client",
+      "url": "https://github.com/hyoaru/recipe-suggester-ai-agent-client",
+      "description": "Client part for playground of continuous integration and test automation",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "AReid987/agentic-ci-framework",
+      "url": "https://github.com/AReid987/agentic-ci-framework",
+      "description": "Reusable implementation of AI-powered continuous integration system with developer/reviewer/debugger agents",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "vishnuvardhan105222/AI-AGENT",
+      "url": "https://github.com/vishnuvardhan105222/AI-AGENT",
+      "description": "🚀 AI-Agent is an autonomous AI-powered assistant that automates tasks, enhances decision-making, and adapts through continuous learning. 🤖 Built with NLP, deep learning, and API integrations, it streamlines workflows and scales effortlessly. 🔗 Tech: Python, LangChain, FastAPI, React, FAISS.",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "jagguvarma15/Zoe-AI",
+      "url": "https://github.com/jagguvarma15/Zoe-AI",
+      "description": "Zoe AI is a dynamic business agent integrating semantic retrieval, LoRA fine-tuned LLMs, Guardrails validation, and continuous evaluation to automate business queries, enhance customer support, and ensure compliance-safe outputs with scalable deployment.",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "daideguchi/qoder-vscode-extension",
+      "url": "https://github.com/daideguchi/qoder-vscode-extension",
+      "description": "🚀 Next-generation AI development agent for VS Code inspired by Alibaba's Qoder. Features quest-driven development, continuous learning memory, automatic documentation, and seamless dd system integration.",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "PabloMartinezIbanez/AI-agents-for-continuous-integration",
+      "url": "https://github.com/PabloMartinezIbanez/AI-agents-for-continuous-integration",
+      "description": "This project would be my thesis for the Computer Engineering career",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "hyoaru/recipe-suggester-ai-agent-api",
+      "url": "https://github.com/hyoaru/recipe-suggester-ai-agent-api",
+      "description": "API part for playground of continuous integration and test automation",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "hyoaru/recipe-suggester-ai-agent-client-tests",
+      "url": "https://github.com/hyoaru/recipe-suggester-ai-agent-client-tests",
+      "description": "Client tests part for playground of continuous integration and test automation",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "hyoaru/recipe-suggester-ai-agent-api-tests",
+      "url": "https://github.com/hyoaru/recipe-suggester-ai-agent-api-tests",
+      "description": "API tests part for playground of continuous integration and test automation",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "emersonrafaels/stackspot-agent-template",
+      "url": "https://github.com/emersonrafaels/stackspot-agent-template",
+      "description": "Python template — designed to accelerate the creation of AI agents with StackSpot AI, using clean architecture, testing, linting/formatting, and continuous integration.",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "Valley-30/AI_Guard_Agent_007",
+      "url": "https://github.com/Valley-30/AI_Guard_Agent_007",
+      "description": "This project aims to safeguard digital assets by continuously analyzing data, identifying potential threats, and autonomously initiating protective actions. It is suitable for integration into various systems requiring enhanced security, proactive threat management, and real-time incident response.",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "Marwa-Khan/AI-Agent-Portfolio",
+      "url": "https://github.com/Marwa-Khan/AI-Agent-Portfolio",
+      "description": "🚀 A collection of AI agents designed and deployed using MindStudio. This portfolio showcases diverse use cases—from automation and productivity to research and creative tasks—highlighting prompt engineering, tool integration, and custom logic. Continuously updated with new agents and demos.",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "lakshya051/AI-Lead-Generation-Agent",
+      "url": "https://github.com/lakshya051/AI-Lead-Generation-Agent",
+      "description": "AI Lead Generation Agent that automatically discovers and qualifies potential leads from Quora. Using Firecrawl for intelligent web scraping, Phidata for agent orchestration, and Composio for Google Sheets integration, you'll create a system that can continuously generate and organize qualified leads with minimal human intervention!",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "vikasKumar2411/verifiable-agent-ci",
+      "url": "https://github.com/vikasKumar2411/verifiable-agent-ci",
+      "description": "Verifiable Agent Continuous Integration (VACI): A cryptographic framework for auditing and enforcing AI agent and tool execution using signed receipts, tamper-evident run manifests, trust roots, and policy enforcement.",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "bettyabay/AlphaAnalyst-Trading-AI-Agent",
+      "url": "https://github.com/bettyabay/AlphaAnalyst-Trading-AI-Agent",
+      "description": "The AlphaAnalyst Trading AI Agent is an AI-enhanced trading platform integrating LLM-driven research analysis and market data. It enforces a 3-trade max concurrency cap for disciplined risk management and features a continuous learning loop for adaptive execution.",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "Shreyasingh1709/Ai-Data-Analysis-and-Reporting-Agent",
+      "url": "https://github.com/Shreyasingh1709/Ai-Data-Analysis-and-Reporting-Agent",
+      "description": "This repository documents a practice implementation of an AI Data Analysis and Reporting Agent, focusing on building automated workflows with n8n, integrating Python-based data analysis, and generating reports using AI models as part of skill development and continuous learning.",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "B-Wear/genesis_agent",
+      "url": "https://github.com/B-Wear/genesis_agent",
+      "description": "{   \"description\": \"Genesis Agent: Autonomous AI financial intelligence system for market analysis, trading strategy execution, and portfolio management. Identifies opportunities, manages risk, and continuously learns. Cross-platform, secure, and integrates with major financial platforms.\" }",
+      "stars": 0,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.472,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.19,
+      "diversity": 0.0,
+      "usability": 0.3,
+      "applicability": 0.95,
+      "coverage": 1.0,
+      "ndcg": 0.687,
+      "map": 1.0,
+      "mrr": 1.0,
+      "rouge_1": 0.6,
+      "semantic_sim": 0.257,
+      "coherence": 0.18,
+      "task_completion": 0.547,
+      "tool_use": 0.527,
+      "reasoning_depth": 0.093,
+      "autonomy": 0.338,
+      "multi_agent": 0.03
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

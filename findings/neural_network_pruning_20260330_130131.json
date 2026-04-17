@@ -1,0 +1,159 @@
+{
+  "topic": "neural network pruning",
+  "timestamp": "2026-03-30T13:01:31.250256",
+  "findings": [
+    {
+      "title": "quic/aimet",
+      "url": "https://github.com/quic/aimet",
+      "description": "AIMET is a library that provides advanced quantization and compression techniques for trained neural network models.",
+      "stars": 2580,
+      "source": "github"
+    },
+    {
+      "title": "he-y/Awesome-Pruning",
+      "url": "https://github.com/he-y/Awesome-Pruning",
+      "description": "A curated list of neural network pruning resources.",
+      "stars": 2491,
+      "source": "github"
+    },
+    {
+      "title": "666DZY666/micronet",
+      "url": "https://github.com/666DZY666/micronet",
+      "description": "micronet, a model compression and deploy lib. compression: 1、quantization: quantization-aware-training(QAT), High-Bit(>2b)(DoReFa/Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference)、Low-Bit(≤2b)/Ternary and Binary(TWN/BNN/XNOR-Net); post-training-quantization(PTQ), 8-bit(tensorrt); 2、 pruning: normal、regular and group convolutional channel pruning; 3、 group convolution structure; 4、batch-normalization fuse for quantization. deploy: tensorrt, fp32/fp16/int8(ptq-calibration)、op-adapt(upsample)、dynamic_shape",
+      "stars": 2270,
+      "source": "github"
+    },
+    {
+      "title": "neuralmagic/sparseml",
+      "url": "https://github.com/neuralmagic/sparseml",
+      "description": "Libraries for applying sparsification recipes to neural networks with a few lines of code, enabling faster and smaller models",
+      "stars": 2144,
+      "source": "github"
+    },
+    {
+      "title": "openvinotoolkit/nncf",
+      "url": "https://github.com/openvinotoolkit/nncf",
+      "description": "Neural Network Compression Framework for enhanced OpenVINO™ inference",
+      "stars": 1146,
+      "source": "github"
+    },
+    {
+      "title": "ethanhe42/channel-pruning",
+      "url": "https://github.com/ethanhe42/channel-pruning",
+      "description": "Channel Pruning for Accelerating Very Deep Neural Networks (ICCV'17)",
+      "stars": 1089,
+      "source": "github"
+    },
+    {
+      "title": "jacobgil/pytorch-pruning",
+      "url": "https://github.com/jacobgil/pytorch-pruning",
+      "description": "PyTorch Implementation of [1611.06440] Pruning Convolutional Neural Networks for Resource Efficient Inference",
+      "stars": 886,
+      "source": "github"
+    },
+    {
+      "title": "alibaba/TinyNeuralNetwork",
+      "url": "https://github.com/alibaba/TinyNeuralNetwork",
+      "description": "TinyNeuralNetwork is an efficient and easy-to-use deep learning model compression framework.",
+      "stars": 875,
+      "source": "github"
+    },
+    {
+      "title": "he-y/filter-pruning-geometric-median",
+      "url": "https://github.com/he-y/filter-pruning-geometric-median",
+      "description": "Filter Pruning via Geometric Median for Deep Convolutional Neural Networks Acceleration (CVPR 2019 Oral)",
+      "stars": 618,
+      "source": "github"
+    },
+    {
+      "title": "JJGO/shrinkbench",
+      "url": "https://github.com/JJGO/shrinkbench",
+      "description": "PyTorch library to facilitate development and standardized evaluation of neural network pruning methods.",
+      "stars": 435,
+      "source": "github"
+    },
+    {
+      "title": "mightydeveloper/Deep-Compression-PyTorch",
+      "url": "https://github.com/mightydeveloper/Deep-Compression-PyTorch",
+      "description": "PyTorch implementation of 'Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding'  by Song Han, Huizi Mao, William J. Dally",
+      "stars": 427,
+      "source": "github"
+    },
+    {
+      "title": "neuralmagic/sparsezoo",
+      "url": "https://github.com/neuralmagic/sparsezoo",
+      "description": "Neural network model repository for highly sparse and sparse-quantized models with matching sparsification recipes",
+      "stars": 388,
+      "source": "github"
+    },
+    {
+      "title": "he-y/soft-filter-pruning",
+      "url": "https://github.com/he-y/soft-filter-pruning",
+      "description": "Soft Filter Pruning for Accelerating Deep Convolutional Neural Networks",
+      "stars": 385,
+      "source": "github"
+    },
+    {
+      "title": "liuzechun/MetaPruning",
+      "url": "https://github.com/liuzechun/MetaPruning",
+      "description": "MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning. In ICCV 2019.",
+      "stars": 352,
+      "source": "github"
+    },
+    {
+      "title": "rahulvigneswaran/Lottery-Ticket-Hypothesis-in-Pytorch",
+      "url": "https://github.com/rahulvigneswaran/Lottery-Ticket-Hypothesis-in-Pytorch",
+      "description": "This repository contains a Pytorch implementation of the paper \"The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks\" by Jonathan Frankle and Michael Carbin that can be easily adapted to any model/dataset.",
+      "stars": 344,
+      "source": "github"
+    },
+    {
+      "title": "mehtadushy/SelecSLS-Pytorch",
+      "url": "https://github.com/mehtadushy/SelecSLS-Pytorch",
+      "description": "Reference ImageNet implementation of SelecSLS CNN architecture proposed in the SIGGRAPH 2020 paper \"XNect: Real-time Multi-Person 3D Motion Capture with a Single RGB Camera\". The repository also includes code for pruning the model based on implicit sparsity emerging from adaptive gradient descent methods, as detailed in the CVPR 2019 paper \"On implicit filter level sparsity in Convolutional Neural Networks\".",
+      "stars": 339,
+      "source": "github"
+    },
+    {
+      "title": "NVlabs/Taylor_pruning",
+      "url": "https://github.com/NVlabs/Taylor_pruning",
+      "description": "Pruning Neural Networks with Taylor criterion in Pytorch",
+      "stars": 322,
+      "source": "github"
+    },
+    {
+      "title": "anonymous47823493/EagleEye",
+      "url": "https://github.com/anonymous47823493/EagleEye",
+      "description": "(ECCV'2020 Oral)EagleEye: Fast Sub-net Evaluation for Efficient Neural Network Pruning",
+      "stars": 309,
+      "source": "github"
+    },
+    {
+      "title": "yehuitang/Pruning",
+      "url": "https://github.com/yehuitang/Pruning",
+      "description": "Code for \"Co-Evolutionary Compression for Unpaired Image Translation\" (ICCV 2019), \"SCOP: Scientific Control for Reliable Neural Network Pruning\" (NeurIPS 2020) and “Manifold Regularized Dynamic Network Pruning” (CVPR 2021).",
+      "stars": 245,
+      "source": "github"
+    },
+    {
+      "title": "shekkizh/neuralnetworks.thought-experiments",
+      "url": "https://github.com/shekkizh/neuralnetworks.thought-experiments",
+      "description": "Observations and notes to understand the workings of neural network models and other thought experiments using Tensorflow",
+      "stars": 201,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.339,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.346,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

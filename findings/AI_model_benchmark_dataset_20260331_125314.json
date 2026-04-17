@@ -1,0 +1,174 @@
+{
+  "topic": "AI model benchmark dataset",
+  "timestamp": "2026-03-31T12:53:14.770685",
+  "findings": [
+    {
+      "title": "DataScienceUIBK/Rankify",
+      "url": "https://github.com/DataScienceUIBK/Rankify",
+      "description": "🔥 Rankify: A Comprehensive Python Toolkit for Retrieval, Re-Ranking, and Retrieval-Augmented Generation 🔥. Our toolkit integrates 40 pre-retrieved benchmark datasets and supports 7+ retrieval techniques, 24+ state-of-the-art Reranking models, and multiple RAG methods.",
+      "stars": 652,
+      "source": "github"
+    },
+    {
+      "title": "mlcommons/ck",
+      "url": "https://github.com/mlcommons/ck",
+      "description": "Collective Knowledge (CK), Collective Mind (CM/CMX) and MLPerf automations: community-driven projects to facilitate collaborative and reproducible research and to learn how to run AI, ML, and other emerging workloads more efficiently and cost-effectively across diverse models, datasets, software, and hardware using MLPerf methodology and benchmarks",
+      "stars": 644,
+      "source": "github"
+    },
+    {
+      "title": "onejune2018/Awesome-LLM-Eval",
+      "url": "https://github.com/onejune2018/Awesome-LLM-Eval",
+      "description": "Awesome-LLM-Eval: a curated list of tools, datasets/benchmark, demos, leaderboard, papers, docs and models, mainly for Evaluation on LLMs.  一个由工具、基准/数据、演示、排行榜和大模型等组成的精选列表，主要面向基础大模型评测，旨在探求生成式AI的技术边界.",
+      "stars": 627,
+      "source": "github"
+    },
+    {
+      "title": "HowieHwong/TrustLLM",
+      "url": "https://github.com/HowieHwong/TrustLLM",
+      "description": "[ICML 2024] TrustLLM: Trustworthiness in Large Language Models",
+      "stars": 621,
+      "source": "github"
+    },
+    {
+      "title": "OpenGVLab/LAMM",
+      "url": "https://github.com/OpenGVLab/LAMM",
+      "description": "[NeurIPS 2023 Datasets and Benchmarks Track] LAMM: Multi-Modal Large Language Models and Applications as AI Agents",
+      "stars": 318,
+      "source": "github"
+    },
+    {
+      "title": "piyushpathak03/Recommendation-systems",
+      "url": "https://github.com/piyushpathak03/Recommendation-systems",
+      "description": "Recommendation Systems This is a workshop on using Machine Learning and Deep Learning Techniques to build Recommendation Systesm  Theory: ML & DL Formulation, Prediction vs. Ranking, Similiarity, Biased vs. Unbiased Paradigms: Content-based, Collaborative filtering, Knowledge-based, Hybrid and Ensembles Data: Tabular, Images, Text (Sequences) Models: (Deep) Matrix Factorisation, Auto-Encoders, Wide & Deep, Rank-Learning, Sequence Modelling Methods: Explicit vs. implicit feedback, User-Item matrix, Embeddings, Convolution, Recurrent, Domain Signals: location, time, context, social, Process: Setup, Encode & Embed, Design, Train & Select, Serve & Scale, Measure, Test & Improve Tools: python-data-stack: numpy, pandas, scikit-learn, keras, spacy, implicit, lightfm Notes & Slides Basics: Deep Learning AI Conference 2019: WhiteBoard Notes | In-Class Notebooks Notebooks Movies - Movielens  01-Acquire 02-Augment 03-Refine 04-Transform 05-Evaluation 06-Model-Baseline 07-Feature-extractor 08-Model-Matrix-Factorization 09-Model-Matrix-Factorization-with-Bias 10-Model-MF-NNMF 11-Model-Deep-Matrix-Factorization 12-Model-Neural-Collaborative-Filtering 13-Model-Implicit-Matrix-Factorization 14-Features-Image 15-Features-NLP Ecommerce - YooChoose  01-Data-Preparation 02-Models News - Hackernews  Product - Groceries  Python Libraries Deep Recommender Libraries  Tensorrec - Built on Tensorflow Spotlight - Built on PyTorch TFranking - Built on TensorFlow (Learning to Rank) Matrix Factorisation Based Libraries  Implicit - Implicit Matrix Factorisation QMF - Implicit Matrix Factorisation Lightfm - For Hybrid Recommedations Surprise - Scikit-learn type api for traditional alogrithms Similarity Search Libraries  Annoy - Approximate Nearest Neighbour NMSLib - kNN methods FAISS - Similarity search and clustering Learning Resources Reference Slides Deep Learning in RecSys by Balázs Hidasi Lessons from Industry RecSys by Xavier Amatriain Architecting Recommendation Systems by James Kirk Recommendation Systems Overview by Raimon and Basilico Benchmarks MovieLens Benchmarks for Traditional Setup Microsoft Tutorial on Recommendation System at KDD 2019 Algorithms & Approaches Collaborative Filtering for Implicit Feedback Datasets Bayesian Personalised Ranking for Implicit Data Logistic Matrix Factorisation Neural Network Matrix Factorisation Neural Collaborative Filtering Variational Autoencoders for Collaborative Filtering Evaluations Evaluating Recommendation Systems",
+      "stars": 214,
+      "source": "github"
+    },
+    {
+      "title": "Extrality/AirfRANS",
+      "url": "https://github.com/Extrality/AirfRANS",
+      "description": "In this repository, you will find the different python scripts to train the available models on the AirfRANS dataset proposed at the NeurIPS 2022 Datasets and Benchmarks Track conference.",
+      "stars": 61,
+      "source": "github"
+    },
+    {
+      "title": "fitushar/AI-in-Lung-Health-Benchmarking-Detection-and-Diagnostic-Models-Across-Multiple-CT-Scan-Datasets",
+      "url": "https://github.com/fitushar/AI-in-Lung-Health-Benchmarking-Detection-and-Diagnostic-Models-Across-Multiple-CT-Scan-Datasets",
+      "description": "This study presents the development and validation of AI models for both nodule detection and cancer classification tasks. This benchmarking across multiple datasets establishes the DLCSD as a reliable resource for lung cancer AI research. ",
+      "stars": 46,
+      "source": "github"
+    },
+    {
+      "title": "AlexSWong/COVID-Net",
+      "url": "https://github.com/AlexSWong/COVID-Net",
+      "description": "Launched in March 2020 in response to the coronavirus disease 2019 (COVID-19) pandemic, COVID-Net is a global open source, open access initiative dedicated to accelerating advancement in machine learning to aid front-line healthcare workers and clinical institutions around the world fighting the continuing pandemic. Towards this goal, our global multi-disciplinary team of researchers, developers, and clinicians have made publicly available a suite of tailored deep neural network models for tackling different challenges ranging from screening to risk stratification to treatment planning for patients with the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Furthermore, we have made available fully curated, open access benchmark datasets comprised of some of the largest, most diverse patient cohorts from around the world.",
+      "stars": 43,
+      "source": "github"
+    },
+    {
+      "title": "cysecbench/dataset",
+      "url": "https://github.com/cysecbench/dataset",
+      "description": "Generative AI-based CyberSecurity-focused Prompt Dataset for Benchmarking Large Language Models",
+      "stars": 36,
+      "source": "github"
+    },
+    {
+      "title": "AIRI-Institute/LiTraj",
+      "url": "https://github.com/AIRI-Institute/LiTraj",
+      "description": "Datasets for benchmarking machine learning models for predicting Li-ion migration",
+      "stars": 31,
+      "source": "github"
+    },
+    {
+      "title": "Kasyfil97/Fraud-Transaction-Detection-by-Balancing-Distribution",
+      "url": "https://github.com/Kasyfil97/Fraud-Transaction-Detection-by-Balancing-Distribution",
+      "description": "Imagine standing at the check-out counter at the grocery store with a long line behind you and the cashier not-so-quietly announces that your card has been declined. In this moment, you probably aren’t thinking about the data science that determined your fate.  Embarrassed, and certain you have the funds to cover everything needed for an epic nacho party for 50 of your closest friends, you try your card again. Same result. As you step aside and allow the cashier to tend to the next customer, you receive a text message from your bank. “Press 1 if you really tried to spend $500 on cheddar cheese.”  While perhaps cumbersome (and often embarrassing) in the moment, this fraud prevention system is actually saving consumers millions of dollars per year. Researchers from the IEEE Computational Intelligence Society (IEEE-CIS) want to improve this figure, while also improving the customer experience. With higher accuracy fraud detection, you can get on with your chips without the hassle.  IEEE-CIS works across a variety of AI and machine learning areas, including deep neural networks, fuzzy systems, evolutionary computation, and swarm intelligence. Today they’re partnering with the world’s leading payment service company, Vesta Corporation, seeking the best solutions for fraud prevention industry, and now you are invited to join the challenge.  In this competition, you’ll benchmark machine learning models on a challenging large-scale dataset. The data comes from Vesta's real-world e-commerce transactions and contains a wide range of features from device type to product features. You also have the opportunity to create new features to improve your results.  If successful, you’ll improve the efficacy of fraudulent transaction alerts for millions of people around the world, helping hundreds of thousands of businesses reduce their fraud loss and increase their revenue. And of course, you will save party people just like you the hassle of false positives.  Acknowledgements:  Vesta Corporation provided the dataset for this competition. Vesta Corporation is the forerunner in guaranteed e-commerce payment solutions. Founded in 1995, Vesta pioneered the process of fully guaranteed card-not-present (CNP) payment transactions for the telecommunications industry. Since then, Vesta has firmly expanded data science and machine learning capabilities across the globe and solidified its position as the leader in guaranteed ecommerce payments. Today, Vesta guarantees more than $18B in transactions annually. ",
+      "stars": 18,
+      "source": "github"
+    },
+    {
+      "title": "LukeLIN-web/Awesome-VLA",
+      "url": "https://github.com/LukeLIN-web/Awesome-VLA",
+      "description": " A comprehensive collection of Vision-Language-Action (VLA) models, benchmarks, and datasets for robotic manipulation and embodied AI research, featuring personally tested reproductions, evaluation environments, and large-scale datasets to serve as a practical guide",
+      "stars": 15,
+      "source": "github"
+    },
+    {
+      "title": "tniessen/aiger-safety-properties",
+      "url": "https://github.com/tniessen/aiger-safety-properties",
+      "description": "AIGER files designed by hand, for testing (and limited benchmarking) of new model checkers",
+      "stars": 14,
+      "source": "github"
+    },
+    {
+      "title": "SufyanDanish/VLM-Survey-",
+      "url": "https://github.com/SufyanDanish/VLM-Survey-",
+      "description": "A comprehensive survey of Vision–Language Models: Pretrained models, fine-tuning, prompt engineering, adapters, and benchmark datasets",
+      "stars": 12,
+      "source": "github"
+    },
+    {
+      "title": "leabouffaut/BenchmarkDatasetCreator",
+      "url": "https://github.com/leabouffaut/BenchmarkDatasetCreator",
+      "description": "Bioacoustic projects are sitting on a goldmine of expert-labeled datasets. We want to create a standardized pipeline for creating, storing, sharing, and using data that is flexible and repeatable to train and test AI models for different applications.",
+      "stars": 11,
+      "source": "github"
+    },
+    {
+      "title": "EdoardoGruppi/Deep_Understanding_of_AI_Based_Drug_Discovery",
+      "url": "https://github.com/EdoardoGruppi/Deep_Understanding_of_AI_Based_Drug_Discovery",
+      "description": "The present study is finalised to determine the most advanced models in the literature capable of producing new high-quality molecules starting from well-known datasets. The selection is carried out through a series of evaluation processes. At first, the output samples of each method are evaluated according to certain physico-chemical properties such as Quantitative Estimation of Drug-likeness (QED) and Synthetic Accessibility (SA). Then, in a successive step, the assessment also includes the predicted activity towards one target protein. The final aim of the project actually is to better understand whether and how the performance of each model varies when the typology of the target protein is changed. The modified code used to run the models is provided in the GitHub repo provided in description.",
+      "stars": 10,
+      "source": "github"
+    },
+    {
+      "title": "j-ehrhardt/hai-cpps-benchmark",
+      "url": "https://github.com/j-ehrhardt/hai-cpps-benchmark",
+      "description": "This repository contains the simulation models and links to the datasets for the Hamburg AI Benchmark for anomaly detection, diagnosis, reconfiguration, and planning.",
+      "stars": 7,
+      "source": "github"
+    },
+    {
+      "title": "brandonhimpfen/awesome-ai-benchmarks-evaluation",
+      "url": "https://github.com/brandonhimpfen/awesome-ai-benchmarks-evaluation",
+      "description": "A curated list of evaluation tools, benchmark datasets, leaderboards, frameworks, and resources for assessing model performance.",
+      "stars": 5,
+      "source": "github"
+    },
+    {
+      "title": "davcoservices/llm_security_guidance_benchmarks",
+      "url": "https://github.com/davcoservices/llm_security_guidance_benchmarks",
+      "description": "A repository dedicated to benchmarking lightweight, open-source large language models (LLMs) for their effectiveness in providing security guidance. This project uses the SECURE dataset as a foundation to replicate research and evaluate selected models on predefined cybersecurity tasks.",
+      "stars": 5,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.44,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.95,
+      "star_power": 0.26,
+      "diversity": 0.0,
+      "usability": 0.3,
+      "applicability": 0.975,
+      "coverage": 1.0,
+      "ndcg": 0.373,
+      "map": 0.813,
+      "mrr": 1.0,
+      "rouge_1": 0.3,
+      "semantic_sim": 0.098,
+      "coherence": 0.124,
+      "task_completion": 0.398,
+      "tool_use": 0.117,
+      "reasoning_depth": 0.12,
+      "autonomy": 0.125,
+      "multi_agent": 0.065
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

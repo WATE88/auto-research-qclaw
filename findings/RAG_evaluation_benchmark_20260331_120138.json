@@ -1,0 +1,183 @@
+{
+  "topic": "RAG evaluation benchmark",
+  "timestamp": "2026-03-31T12:01:38.703907",
+  "findings": [
+    {
+      "title": "modelscope/evalscope",
+      "url": "https://github.com/modelscope/evalscope",
+      "description": "A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking.",
+      "stars": 2577,
+      "updated_at": "2026-03-31T03:28:21Z",
+      "source": "github"
+    },
+    {
+      "title": "beir-cellar/beir",
+      "url": "https://github.com/beir-cellar/beir",
+      "description": "A Heterogeneous Benchmark for Information Retrieval. Easy to use, evaluate your models across 15+ diverse IR datasets.",
+      "stars": 2129,
+      "updated_at": "2026-03-30T17:46:38Z",
+      "source": "github"
+    },
+    {
+      "title": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling",
+      "url": "https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling",
+      "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
+      "stars": 1950,
+      "updated_at": "2026-03-31T03:13:05Z",
+      "source": "github"
+    },
+    {
+      "title": "onejune2018/Awesome-LLM-Eval",
+      "url": "https://github.com/onejune2018/Awesome-LLM-Eval",
+      "description": "Awesome-LLM-Eval: a curated list of tools, datasets/benchmark, demos, leaderboard, papers, docs and models, mainly for Evaluation on LLMs.  一个由工具、基准/数据、演示、排行榜和大模型等组成的精选列表，主要面向基础大模型评测，旨在探求生成式AI的技术边界.",
+      "stars": 627,
+      "updated_at": "2026-03-30T02:10:36Z",
+      "source": "github"
+    },
+    {
+      "title": "GraphRAG-Bench/GraphRAG-Benchmark",
+      "url": "https://github.com/GraphRAG-Bench/GraphRAG-Benchmark",
+      "description": "The official repo of GraphRAG-Bench for evaluating GraphRAG models. \"When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation\".  (ICLR'26)",
+      "stars": 380,
+      "updated_at": "2026-03-31T02:59:13Z",
+      "source": "github"
+    },
+    {
+      "title": "illuin-tech/vidore-benchmark",
+      "url": "https://github.com/illuin-tech/vidore-benchmark",
+      "description": "Vision Document Retrieval (ViDoRe): Benchmark. Evaluation code for the ColPali paper.",
+      "stars": 269,
+      "updated_at": "2026-03-25T16:38:25Z",
+      "source": "github"
+    },
+    {
+      "title": "supermemoryai/memorybench",
+      "url": "https://github.com/supermemoryai/memorybench",
+      "description": "Unified benchmark for evaluating conversational memory and RAG across multiple datasets",
+      "stars": 235,
+      "updated_at": "2026-03-30T17:28:44Z",
+      "source": "github"
+    },
+    {
+      "title": "DocAILab/XRAG",
+      "url": "https://github.com/DocAILab/XRAG",
+      "description": "XRAG: eXamining the Core - Benchmarking Foundational Component Modules in Advanced Retrieval-Augmented Generation",
+      "stars": 119,
+      "updated_at": "2026-03-28T18:24:08Z",
+      "source": "github"
+    },
+    {
+      "title": "RUC-NLPIR/OmniEval",
+      "url": "https://github.com/RUC-NLPIR/OmniEval",
+      "description": "Open source code of the paper: \"OmniEval: An Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain\"",
+      "stars": 82,
+      "updated_at": "2026-03-18T14:34:28Z",
+      "source": "github"
+    },
+    {
+      "title": "RagView/RagView",
+      "url": "https://github.com/RagView/RagView",
+      "description": "We believe that every SOTA result is only valid on its own dataset. RAGView provides a unified evaluation platform to benchmark different RAG methods on your specific data.",
+      "stars": 81,
+      "updated_at": "2026-03-26T11:53:47Z",
+      "source": "github"
+    },
+    {
+      "title": "nlpai-lab/MIRAGE",
+      "url": "https://github.com/nlpai-lab/MIRAGE",
+      "description": "MIRAGE is a light benchmark to evaluate RAG performance.",
+      "stars": 36,
+      "updated_at": "2026-03-13T07:36:27Z",
+      "source": "github"
+    },
+    {
+      "title": "fresh-stack/freshstack",
+      "url": "https://github.com/fresh-stack/freshstack",
+      "description": "This repository helps you evaluate your models on the FreshStack benchmark!",
+      "stars": 34,
+      "updated_at": "2026-03-20T06:37:49Z",
+      "source": "github"
+    },
+    {
+      "title": "toxy4ny/redteam-ai-benchmark",
+      "url": "https://github.com/toxy4ny/redteam-ai-benchmark",
+      "description": "Red Team AI Benchmark: Evaluating Uncensored LLMs for Offensive Security",
+      "stars": 31,
+      "updated_at": "2026-03-30T10:17:58Z",
+      "source": "github"
+    },
+    {
+      "title": "project-miracl/nomiracl",
+      "url": "https://github.com/project-miracl/nomiracl",
+      "description": "NoMIRACL: A multilingual hallucination evaluation dataset to evaluate LLM robustness in RAG against first-stage retrieval errors on 18 languages.",
+      "stars": 27,
+      "updated_at": "2026-03-21T01:08:26Z",
+      "source": "github"
+    },
+    {
+      "title": "D-Star-AI/KITE",
+      "url": "https://github.com/D-Star-AI/KITE",
+      "description": "KITE (Knowledge-Intensive Task Evaluation) is an end-to-end benchmark for RAG pipelines",
+      "stars": 23,
+      "updated_at": "2026-02-19T12:58:25Z",
+      "source": "github"
+    },
+    {
+      "title": "amazon-science/GaRAGe",
+      "url": "https://github.com/amazon-science/GaRAGe",
+      "description": "[ACL 2025]  GaRAGe: A Benchmark with Grounding Annotations for RAG Evaluation.",
+      "stars": 13,
+      "updated_at": "2026-03-29T09:39:59Z",
+      "source": "github"
+    },
+    {
+      "title": "Graph-COM/HaystackCraft",
+      "url": "https://github.com/Graph-COM/HaystackCraft",
+      "description": "Haystack Engineering: Context Engineering for Heterogeneous and Agentic Long-Context Evaluation",
+      "stars": 11,
+      "updated_at": "2026-02-06T03:17:56Z",
+      "source": "github"
+    },
+    {
+      "title": "antgroup/ravig-bench",
+      "url": "https://github.com/antgroup/ravig-bench",
+      "description": "Official implementation of \"RAViG-Bench: A Benchmark for Retrieval-Augmented Visually-rich Generation with Multi-modal Automated Evaluation\" ",
+      "stars": 10,
+      "updated_at": "2026-02-02T02:28:34Z",
+      "source": "github"
+    },
+    {
+      "title": "metawake/ragtune",
+      "url": "https://github.com/metawake/ragtune",
+      "description": "EXPLAIN ANALYZE for RAG retrieval — inspect, debug, benchmark, and tune your retrieval layer",
+      "stars": 10,
+      "updated_at": "2026-03-25T12:32:08Z",
+      "source": "github"
+    },
+    {
+      "title": "peng-gao-lab/CTIArena",
+      "url": "https://github.com/peng-gao-lab/CTIArena",
+      "description": "The first benchmark to evaluate LLM performance on heterogeneous CTI under knowledge-augmented settings.",
+      "stars": 8,
+      "updated_at": "2026-03-30T03:11:07Z",
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.611,
+    "grade": "B",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.9,
+      "star_power": 0.168,
+      "diversity": 0.0,
+      "usability": 0.2,
+      "applicability": 0.975,
+      "coverage": 1.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

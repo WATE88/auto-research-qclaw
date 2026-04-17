@@ -1,0 +1,174 @@
+{
+  "topic": "AI model deployment tool",
+  "timestamp": "2026-03-31T12:52:45.975390",
+  "findings": [
+    {
+      "title": "teddynote-lab/langgraph-mcp-agents",
+      "url": "https://github.com/teddynote-lab/langgraph-mcp-agents",
+      "description": "LangGraph-powered ReAct agent with Model Context Protocol (MCP) integration. A Streamlit web interface for dynamically configuring, deploying, and interacting with AI agents capable of accessing various data sources and APIs through MCP tools.",
+      "stars": 693,
+      "source": "github"
+    },
+    {
+      "title": "camenduru/TostUI",
+      "url": "https://github.com/camenduru/TostUI",
+      "description": "This project is a collection of Docker-based web user interfaces designed to easily run various state-of-the-art generative AI models locally. It simplifies the deployment of these AI tools by packaging them into ready-to-use containers with accessible front-end controls.",
+      "stars": 428,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/vs-tools-for-ai",
+      "url": "https://github.com/microsoft/vs-tools-for-ai",
+      "description": "Visual Studio Tools for AI is a free Visual Studio extension to build, test, and deploy deep learning / AI solutions. It seamlessly integrates with Azure Machine Learning for robust experimentation capabilities, including but not limited to submitting data preparation and model training jobs transparently to different compute targets. Additionally, it provides support for custom metrics and run history tracking, enabling data science reproducibility and auditing. Enterprise ready collaboration, allow to securely work on project with other people.",
+      "stars": 360,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/vscode-tools-for-ai",
+      "url": "https://github.com/microsoft/vscode-tools-for-ai",
+      "description": "Azure Machine Learning for Visual Studio Code, previously called Visual Studio Code Tools for AI, is an extension to easily build, train, and deploy machine learning models to the cloud or the edge with Azure Machine Learning service.",
+      "stars": 340,
+      "source": "github"
+    },
+    {
+      "title": "zavora-ai/adk-rust",
+      "url": "https://github.com/zavora-ai/adk-rust",
+      "description": "Rust Agent Development Kit (ADK-Rust): Build AI agents in Rust with modular components for models, tools, memory, realtime voice, and more. ADK-Rust is a flexible framework for developing AI agents with simplicity and power. Model-agnostic, deployment-agnostic, optimized for frontier AI models. Includes support for real-time voice agents.",
+      "stars": 222,
+      "source": "github"
+    },
+    {
+      "title": "alexei-led/k8s-mcp-server",
+      "url": "https://github.com/alexei-led/k8s-mcp-server",
+      "description": "K8s-mcp-server is a Model Context Protocol (MCP) server that enables AI assistants like Claude to securely execute Kubernetes commands. It provides a bridge between language models and essential Kubernetes CLI tools including kubectl, helm, istioctl, and argocd, allowing AI systems to assist with cluster management, troubleshooting, and deployments",
+      "stars": 207,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/RTX-AI-Toolkit",
+      "url": "https://github.com/NVIDIA/RTX-AI-Toolkit",
+      "description": "The NVIDIA RTX™ AI Toolkit is a suite of tools and SDKs for Windows developers to customize, optimize, and deploy AI models across RTX PCs and cloud. ",
+      "stars": 182,
+      "source": "github"
+    },
+    {
+      "title": "floydhub/floyd-cli",
+      "url": "https://github.com/floydhub/floyd-cli",
+      "description": "Command line tool for FloydHub - the fastest way to build, train, and deploy deep learning models",
+      "stars": 155,
+      "source": "github"
+    },
+    {
+      "title": "atom2ueki/mcp-server-synology",
+      "url": "https://github.com/atom2ueki/mcp-server-synology",
+      "description": "💾 Model Context Protocol (MCP) server for Synology NAS - Enables AI assistants (Claude, Cursor, Continue) to manage files, downloads, and system operations through secure API integration. Features Docker deployment, auto-authentication, and comprehensive file system tools.",
+      "stars": 79,
+      "source": "github"
+    },
+    {
+      "title": "Dana-Farber-AIOS/GPT4DFCI",
+      "url": "https://github.com/Dana-Farber-AIOS/GPT4DFCI",
+      "description": "A private and secure generative AI tool, based on GPT and o models, deployed for non-clinical use at Dana-Farber Cancer Institute",
+      "stars": 64,
+      "source": "github"
+    },
+    {
+      "title": "jacob-bd/the-openclaw-optimizer",
+      "url": "https://github.com/jacob-bd/the-openclaw-optimizer",
+      "description": "AI skill for optimizing and troubleshooting OpenClaw workspaces. 29 providers, tiered model routing, 36-check identity audit, persistent deployment profiles, and one-liner installation across 10 AI tools.",
+      "stars": 59,
+      "source": "github"
+    },
+    {
+      "title": "AgentMaker/WebAI.js",
+      "url": "https://github.com/AgentMaker/WebAI.js",
+      "description": "A simple Web AI model deployment tool using JavaScript based on OpenCV.js and ONNXRuntime",
+      "stars": 58,
+      "source": "github"
+    },
+    {
+      "title": "requie/LLMSecurityGuide",
+      "url": "https://github.com/requie/LLMSecurityGuide",
+      "description": "A comprehensive reference for securing Large Language Models (LLMs). Covers OWASP GenAI Top-10 risks, prompt injection, adversarial attacks, real-world incidents, and practical defenses. Includes catalogs of red-teaming tools, guardrails, and mitigation strategies to help developers, researchers, and security teams deploy AI responsibly.",
+      "stars": 56,
+      "source": "github"
+    },
+    {
+      "title": "IBM/employee-attrition-aif360",
+      "url": "https://github.com/IBM/employee-attrition-aif360",
+      "description": "Walkthrough the data science life cycle with different tools, techniques, and algorithms. Use AIF360, pandas, and Jupyter notebooks to build and deploy a model on Watson Machine Learning.",
+      "stars": 49,
+      "source": "github"
+    },
+    {
+      "title": "brandonhimpfen/awesome-ai-infrastructure",
+      "url": "https://github.com/brandonhimpfen/awesome-ai-infrastructure",
+      "description": "A curated list of awesome tools, frameworks, platforms, and resources for building scalable and efficient AI infrastructure, including distributed training, model serving, MLOps, and deployment.",
+      "stars": 48,
+      "source": "github"
+    },
+    {
+      "title": "agentoven/agentoven",
+      "url": "https://github.com/agentoven/agentoven",
+      "description": "AgentOven is a **framework-agnostic agent control plane** that standardizes how AI agents are built, deployed, observed, and orchestrated across an enterprise.  Think of it as a **clay oven** 🏺 — you put in raw ingredients (models, tools, data, prompts) and **production-ready agents come out the chimney**.",
+      "stars": 25,
+      "source": "github"
+    },
+    {
+      "title": "monaccode/astromesh",
+      "url": "https://github.com/monaccode/astromesh",
+      "description": "Multi-model AI agent runtime. Define agents in YAML, connect 6 LLM providers, orchestrate with ReAct/Plan&Execute/Fan-Out/Pipeline/Supervisor/Swarm patterns, and deploy    as REST/WebSocket API with RAG, memory, MCP tools, guardrails, and OpenTelemetry observability. ",
+      "stars": 24,
+      "source": "github"
+    },
+    {
+      "title": "amd/LIRA",
+      "url": "https://github.com/amd/LIRA",
+      "description": "This tool helps you easily deploy ASR models on NPUs on AMD's Ryzen AI 300 series laptops",
+      "stars": 22,
+      "source": "github"
+    },
+    {
+      "title": "ModelContextProtocol-Security/modelcontextprotocol-security.io",
+      "url": "https://github.com/ModelContextProtocol-Security/modelcontextprotocol-security.io",
+      "description": "Official website and documentation hub for the Model Context Protocol Security initiative. Provides security guidance, best practices, tools, and community resources for safely deploying MCP servers and AI agents. A Cloud Security Alliance community project.",
+      "stars": 19,
+      "source": "github"
+    },
+    {
+      "title": "gewuek/flower_classification_vai_tf_numpy_array",
+      "url": "https://github.com/gewuek/flower_classification_vai_tf_numpy_array",
+      "description": "The project is a simple example about how to use TensorFlow to train a ConNet model from labeled dataset and then use Vitis AI tools to deploy the model into Xilinx FPGA(ZCU102 board). To make it easier to deploy with Vitis AI. I just use numpy array as input data and OpenCV function to open images. And there is backup for DNNDK3.1 tag",
+      "stars": 15,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.45,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.224,
+      "diversity": 0.0,
+      "usability": 0.3,
+      "applicability": 1.0,
+      "coverage": 1.0,
+      "ndcg": 0.614,
+      "map": 1.0,
+      "mrr": 1.0,
+      "rouge_1": 0.5,
+      "semantic_sim": 0.189,
+      "coherence": 0.185,
+      "task_completion": 0.636,
+      "tool_use": 0.333,
+      "reasoning_depth": 0.087,
+      "autonomy": 0.1,
+      "multi_agent": 0.06
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

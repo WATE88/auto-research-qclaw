@@ -1,0 +1,174 @@
+{
+  "topic": "AI benchmark evaluation",
+  "timestamp": "2026-03-31T12:52:31.803710",
+  "findings": [
+    {
+      "title": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "stars": 13335,
+      "source": "github"
+    },
+    {
+      "title": "Tencent/AI-Infra-Guard",
+      "url": "https://github.com/Tencent/AI-Infra-Guard",
+      "description": "A full-stack AI Red Teaming platform securing AI ecosystems via OpenClaw Security Scan, Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
+      "stars": 3362,
+      "source": "github"
+    },
+    {
+      "title": "zzyfight/genai-compliance-bench",
+      "url": "https://github.com/zzyfight/genai-compliance-bench",
+      "description": "GenAI compliance benchmark is a evaluation benchmarks for generative AI in regulated industries.",
+      "stars": 1456,
+      "source": "github"
+    },
+    {
+      "title": "Barca0412/Introduction-to-Quantitative-Finance",
+      "url": "https://github.com/Barca0412/Introduction-to-Quantitative-Finance",
+      "description": "入门资料整理：1.多因子股票量化框架开源教程 2.学界和业界的经典资料收录 3.AI + 金融的相关工作，包括LLM, Agent, benchmark(evaluation), etc.",
+      "stars": 1291,
+      "source": "github"
+    },
+    {
+      "title": "Tencent/AICGSecEval",
+      "url": "https://github.com/Tencent/AICGSecEval",
+      "description": "A.S.E (AICGSecEval) is a repository-level AI-generated code security evaluation benchmark developed by Tencent Wukong Code Security Team.",
+      "stars": 1150,
+      "source": "github"
+    },
+    {
+      "title": "pinchbench/skill",
+      "url": "https://github.com/pinchbench/skill",
+      "description": "PinchBench is a benchmarking system for evaluating LLM models as OpenClaw coding agents. Made with 🦀 by the humans at https://kilo.ai",
+      "stars": 864,
+      "source": "github"
+    },
+    {
+      "title": "The-FinAI/PIXIU",
+      "url": "https://github.com/The-FinAI/PIXIU",
+      "description": "This repository introduces PIXIU, an open-source resource featuring the first financial large language models (LLMs), instruction tuning data, and evaluation benchmarks to holistically assess financial LLMs. Our goal is to continually push forward the open-source development of financial artificial intelligence (AI).",
+      "stars": 843,
+      "source": "github"
+    },
+    {
+      "title": "onejune2018/Awesome-LLM-Eval",
+      "url": "https://github.com/onejune2018/Awesome-LLM-Eval",
+      "description": "Awesome-LLM-Eval: a curated list of tools, datasets/benchmark, demos, leaderboard, papers, docs and models, mainly for Evaluation on LLMs.  一个由工具、基准/数据、演示、排行榜和大模型等组成的精选列表，主要面向基础大模型评测，旨在探求生成式AI的技术边界.",
+      "stars": 627,
+      "source": "github"
+    },
+    {
+      "title": "HowieHwong/TrustLLM",
+      "url": "https://github.com/HowieHwong/TrustLLM",
+      "description": "[ICML 2024] TrustLLM: Trustworthiness in Large Language Models",
+      "stars": 621,
+      "source": "github"
+    },
+    {
+      "title": "abacusai/Long-Context",
+      "url": "https://github.com/abacusai/Long-Context",
+      "description": "This repository contains code and tooling for the Abacus.AI LLM Context Expansion project. Also included are evaluation scripts and benchmark tasks that evaluate a model’s information retrieval capabilities with context expansion. We also include key experimental results and instructions for reproducing and building on them.",
+      "stars": 601,
+      "source": "github"
+    },
+    {
+      "title": "facebookresearch/meta-agents-research-environments",
+      "url": "https://github.com/facebookresearch/meta-agents-research-environments",
+      "description": "Meta Agents Research Environments is a comprehensive platform designed to evaluate AI agents in dynamic, realistic scenarios. Unlike static benchmarks, this platform introduces evolving environments where agents must adapt their strategies as new information becomes available, mirroring real-world challenges.",
+      "stars": 464,
+      "source": "github"
+    },
+    {
+      "title": "SAILResearch/awesome-foundation-model-leaderboards",
+      "url": "https://github.com/SAILResearch/awesome-foundation-model-leaderboards",
+      "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
+      "stars": 329,
+      "source": "github"
+    },
+    {
+      "title": "bytedance/xpu-perf",
+      "url": "https://github.com/bytedance/xpu-perf",
+      "description": "[HPCA 2026] AI Accelerator Benchmark focuses on evaluating AI Accelerators from a practical production perspective, including the ease of use and versatility of software and hardware.",
+      "stars": 317,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA-NeMo/Evaluator",
+      "url": "https://github.com/NVIDIA-NeMo/Evaluator",
+      "description": "Open-source library for scalable, reproducible evaluation of AI models and benchmarks.",
+      "stars": 246,
+      "source": "github"
+    },
+    {
+      "title": "supermemoryai/memorybench",
+      "url": "https://github.com/supermemoryai/memorybench",
+      "description": "Unified benchmark for evaluating conversational memory and RAG across multiple datasets",
+      "stars": 235,
+      "source": "github"
+    },
+    {
+      "title": "android-bench/android-bench",
+      "url": "https://github.com/android-bench/android-bench",
+      "description": "Android Bench is a framework for benchmarking Large Language Models (LLMs) on Android development tasks. It evaluates an AI model's ability to understand mobile codebases, generate accurate patches, and solve Android-specific engineering problems.",
+      "stars": 215,
+      "source": "github"
+    },
+    {
+      "title": "piyushpathak03/Recommendation-systems",
+      "url": "https://github.com/piyushpathak03/Recommendation-systems",
+      "description": "Recommendation Systems This is a workshop on using Machine Learning and Deep Learning Techniques to build Recommendation Systesm  Theory: ML & DL Formulation, Prediction vs. Ranking, Similiarity, Biased vs. Unbiased Paradigms: Content-based, Collaborative filtering, Knowledge-based, Hybrid and Ensembles Data: Tabular, Images, Text (Sequences) Models: (Deep) Matrix Factorisation, Auto-Encoders, Wide & Deep, Rank-Learning, Sequence Modelling Methods: Explicit vs. implicit feedback, User-Item matrix, Embeddings, Convolution, Recurrent, Domain Signals: location, time, context, social, Process: Setup, Encode & Embed, Design, Train & Select, Serve & Scale, Measure, Test & Improve Tools: python-data-stack: numpy, pandas, scikit-learn, keras, spacy, implicit, lightfm Notes & Slides Basics: Deep Learning AI Conference 2019: WhiteBoard Notes | In-Class Notebooks Notebooks Movies - Movielens  01-Acquire 02-Augment 03-Refine 04-Transform 05-Evaluation 06-Model-Baseline 07-Feature-extractor 08-Model-Matrix-Factorization 09-Model-Matrix-Factorization-with-Bias 10-Model-MF-NNMF 11-Model-Deep-Matrix-Factorization 12-Model-Neural-Collaborative-Filtering 13-Model-Implicit-Matrix-Factorization 14-Features-Image 15-Features-NLP Ecommerce - YooChoose  01-Data-Preparation 02-Models News - Hackernews  Product - Groceries  Python Libraries Deep Recommender Libraries  Tensorrec - Built on Tensorflow Spotlight - Built on PyTorch TFranking - Built on TensorFlow (Learning to Rank) Matrix Factorisation Based Libraries  Implicit - Implicit Matrix Factorisation QMF - Implicit Matrix Factorisation Lightfm - For Hybrid Recommedations Surprise - Scikit-learn type api for traditional alogrithms Similarity Search Libraries  Annoy - Approximate Nearest Neighbour NMSLib - kNN methods FAISS - Similarity search and clustering Learning Resources Reference Slides Deep Learning in RecSys by Balázs Hidasi Lessons from Industry RecSys by Xavier Amatriain Architecting Recommendation Systems by James Kirk Recommendation Systems Overview by Raimon and Basilico Benchmarks MovieLens Benchmarks for Traditional Setup Microsoft Tutorial on Recommendation System at KDD 2019 Algorithms & Approaches Collaborative Filtering for Implicit Feedback Datasets Bayesian Personalised Ranking for Implicit Data Logistic Matrix Factorisation Neural Network Matrix Factorisation Neural Collaborative Filtering Variational Autoencoders for Collaborative Filtering Evaluations Evaluating Recommendation Systems",
+      "stars": 214,
+      "source": "github"
+    },
+    {
+      "title": "IBM/unitxt",
+      "url": "https://github.com/IBM/unitxt",
+      "description": "🦄 Unitxt is a Python library for enterprise-grade evaluation of AI performance, offering the world's largest catalog of  tools and data for end-to-end AI benchmarking",
+      "stars": 211,
+      "source": "github"
+    },
+    {
+      "title": "benchflow-ai/benchflow",
+      "url": "https://github.com/benchflow-ai/benchflow",
+      "description": "AI benchmark runtime framework that allows you to integrate and evaluate AI tasks using Docker-based benchmarks.",
+      "stars": 192,
+      "source": "github"
+    },
+    {
+      "title": "adobe-research/NoLiMa",
+      "url": "https://github.com/adobe-research/NoLiMa",
+      "description": "Official repository for \"NoLiMa: Long-Context Evaluation Beyond Literal Matching\"",
+      "stars": 189,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.462,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.85,
+      "star_power": 0.1,
+      "diversity": 0.0,
+      "usability": 0.2,
+      "applicability": 0.95,
+      "coverage": 1.0,
+      "ndcg": 0.575,
+      "map": 0.821,
+      "mrr": 1.0,
+      "rouge_1": 0.583,
+      "semantic_sim": 0.224,
+      "coherence": 0.18,
+      "task_completion": 0.502,
+      "tool_use": 0.098,
+      "reasoning_depth": 0.02,
+      "autonomy": 0.05,
+      "multi_agent": 0.045
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

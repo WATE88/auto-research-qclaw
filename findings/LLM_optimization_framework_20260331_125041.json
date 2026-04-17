@@ -1,0 +1,174 @@
+{
+  "topic": "LLM optimization framework",
+  "timestamp": "2026-03-31T12:50:41.953150",
+  "findings": [
+    {
+      "title": "emcie-co/parlant",
+      "url": "https://github.com/emcie-co/parlant",
+      "description": "The conversational control layer for customer-facing AI agents - Parlant is a context-engineering framework optimized for controlling customer interactions.",
+      "stars": 17857,
+      "source": "github"
+    },
+    {
+      "title": "kvcache-ai/ktransformers",
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "stars": 16860,
+      "source": "github"
+    },
+    {
+      "title": "Marker-Inc-Korea/AutoRAG",
+      "url": "https://github.com/Marker-Inc-Korea/AutoRAG",
+      "description": "AutoRAG: An Open-Source Framework for Retrieval-Augmented Generation (RAG) Evaluation & Optimization with AutoML-Style Automation",
+      "stars": 4652,
+      "source": "github"
+    },
+    {
+      "title": "SylphAI-Inc/AdalFlow",
+      "url": "https://github.com/SylphAI-Inc/AdalFlow",
+      "description": "AdalFlow: The library to build & auto-optimize LLM applications.",
+      "stars": 4084,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "stars": 2275,
+      "source": "github"
+    },
+    {
+      "title": "PrunaAI/pruna",
+      "url": "https://github.com/PrunaAI/pruna",
+      "description": "Pruna is a model optimization framework built for developers, enabling you to deliver faster, more efficient models with minimal overhead.",
+      "stars": 1146,
+      "source": "github"
+    },
+    {
+      "title": "geo-team-red/geo-optimizer",
+      "url": "https://github.com/geo-team-red/geo-optimizer",
+      "description": "A pluggable framework for GEO (Generative Engine Optimization) in Go. Built-in strategies for common use cases, with full support for custom strategy registration.",
+      "stars": 236,
+      "source": "github"
+    },
+    {
+      "title": "austin-starks/Promptimizer",
+      "url": "https://github.com/austin-starks/Promptimizer",
+      "description": "An Automated AI-Powered Prompt Optimization Framework",
+      "stars": 209,
+      "source": "github"
+    },
+    {
+      "title": "Lichang-Chen/InstructZero",
+      "url": "https://github.com/Lichang-Chen/InstructZero",
+      "description": "Official Implementation of InstructZero; the first framework to optimize bad prompts of ChatGPT(API LLMs) and finally obtain good prompts!",
+      "stars": 199,
+      "source": "github"
+    },
+    {
+      "title": "SALT-NLP/DyLAN",
+      "url": "https://github.com/SALT-NLP/DyLAN",
+      "description": "Official Implementation of Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with Agent Team Optimization",
+      "stars": 197,
+      "source": "github"
+    },
+    {
+      "title": "tpoisonooo/ROGRAG",
+      "url": "https://github.com/tpoisonooo/ROGRAG",
+      "description": "[ACL2025 demo track] ROGRAG: A Robustly Optimized GraphRAG Framework",
+      "stars": 197,
+      "source": "github"
+    },
+    {
+      "title": "CTLab-ITMO/CoolPrompt",
+      "url": "https://github.com/CTLab-ITMO/CoolPrompt",
+      "description": "Automatic Prompt Optimization Framework",
+      "stars": 185,
+      "source": "github"
+    },
+    {
+      "title": "bentoml/llm-optimizer",
+      "url": "https://github.com/bentoml/llm-optimizer",
+      "description": "Benchmark and optimize LLM inference across frameworks with ease",
+      "stars": 177,
+      "source": "github"
+    },
+    {
+      "title": "Airthrix/AliceSkyGardenT3",
+      "url": "https://github.com/Airthrix/AliceSkyGardenT3",
+      "description": "(LLM) A Sparse Activation Architecture for Green Artificial Intelligence: The Energy Efficiency Optimization Language Model AliceSkyGardenT3 Framework Based on Ternary Parameters {-1,0,1}",
+      "stars": 165,
+      "source": "github"
+    },
+    {
+      "title": "WeHomeBot/ling",
+      "url": "https://github.com/WeHomeBot/ling",
+      "description": "The LLMs' framework optimized for ultra-fast response times.",
+      "stars": 143,
+      "source": "github"
+    },
+    {
+      "title": "automl/promptolution",
+      "url": "https://github.com/automl/promptolution",
+      "description": "A unified, modular Framework for Prompt Optimization",
+      "stars": 122,
+      "source": "github"
+    },
+    {
+      "title": "cyberark/agentwatch",
+      "url": "https://github.com/cyberark/agentwatch",
+      "description": "A powerful AI observability framework that provides comprehensive insights into agent interactions across platforms, enabling developers to monitor, analyze, and optimize AI-driven applications with minimal integration effort.",
+      "stars": 111,
+      "source": "github"
+    },
+    {
+      "title": "WayneJin0918/SRUM",
+      "url": "https://github.com/WayneJin0918/SRUM",
+      "description": "Official repo of paper \"SRUM: Fine-Grained Self-Rewarding for Unified Multimodal Models\". A post-training framework that creates a cost-effective, self-iterative optimization loop.",
+      "stars": 98,
+      "source": "github"
+    },
+    {
+      "title": "Simplifine-gamedev/Simplifine",
+      "url": "https://github.com/Simplifine-gamedev/Simplifine",
+      "description": "🚀 Easy, open-source LLM finetuning with one-line commands, seamless cloud integration, and popular optimization frameworks. ✨",
+      "stars": 96,
+      "source": "github"
+    },
+    {
+      "title": "jkanalakis/deep-recall",
+      "url": "https://github.com/jkanalakis/deep-recall",
+      "description": "Enterprise-grade memory framework for LLMs featuring GPU-optimized inference, vector storage, and automated scaling. Enables hyper-personalized responses through efficient context retrieval and integration.",
+      "stars": 91,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.402,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.15,
+      "star_power": 0.137,
+      "diversity": 0.0,
+      "usability": 0.2,
+      "applicability": 0.175,
+      "coverage": 1.0,
+      "ndcg": 0.73,
+      "map": 1.0,
+      "mrr": 1.0,
+      "rouge_1": 0.567,
+      "semantic_sim": 0.263,
+      "coherence": 0.082,
+      "task_completion": 0.66,
+      "tool_use": 0.087,
+      "reasoning_depth": 0.057,
+      "autonomy": 0.138,
+      "multi_agent": 0.03
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

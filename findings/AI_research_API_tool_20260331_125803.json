@@ -1,0 +1,174 @@
+{
+  "topic": "AI research API tool",
+  "timestamp": "2026-03-31T12:58:03.593647",
+  "findings": [
+    {
+      "title": "cyberark/FuzzyAI",
+      "url": "https://github.com/cyberark/FuzzyAI",
+      "description": "A powerful tool for automated LLM fuzzing. It is designed to help developers and security researchers identify and mitigate potential jailbreaks in their LLM APIs.",
+      "stars": 1285,
+      "source": "github"
+    },
+    {
+      "title": "SPThole/CoexistAI",
+      "url": "https://github.com/SPThole/CoexistAI",
+      "description": "CoexistAI is a modular, developer-friendly research assistant framework . It enables you to build, search, summarize, and automate research workflows using LLMs, web search, Reddit, YouTube, and mapping tools—all with simple MCP tool calls or API calls or Python functions. ",
+      "stars": 456,
+      "source": "github"
+    },
+    {
+      "title": "CelaDaniel/free-ai-resources-x",
+      "url": "https://github.com/CelaDaniel/free-ai-resources-x",
+      "description": "🌟 A curated collection of free, high quality AI tools 🤖, APIs 🔗, datasets 📊, and learning resources 📚 covering machine learning 🧠, deep learning 🧩, generative AI 🎨, NLP 💬, and data science 📈. Designed to help developers 👩‍💻, researchers 🔬, and creators ✨ explore and build with AI faster ⚡.",
+      "stars": 396,
+      "source": "github"
+    },
+    {
+      "title": "Repello-AI/whistleblower",
+      "url": "https://github.com/Repello-AI/whistleblower",
+      "description": "Whistleblower is a offensive security tool for testing against system prompt leakage and capability discovery of an AI application exposed through API. Built for AI engineers, security researchers and folks who want to know what's going on inside the LLM-based app they use daily",
+      "stars": 150,
+      "source": "github"
+    },
+    {
+      "title": "harvard-lil/olaw",
+      "url": "https://github.com/harvard-lil/olaw",
+      "description": "AI + Legal APIs: A Tool-Based Retrieval Augmented Generation Workbench for Legal AI UX Research.",
+      "stars": 135,
+      "source": "github"
+    },
+    {
+      "title": "InterwebAlchemy/obsidian-ai-research-assistant",
+      "url": "https://github.com/InterwebAlchemy/obsidian-ai-research-assistant",
+      "description": "Prompt Engineering Research Tool for AI APIs",
+      "stars": 129,
+      "source": "github"
+    },
+    {
+      "title": "aju22/DocumentGPT",
+      "url": "https://github.com/aju22/DocumentGPT",
+      "description": "DocumentGPT is a web application that allows you to chat over your research document using OpenAI's chat API and perform semantic search using vector databases. This tool provides a seamless interface for interacting with your research document, exploring search results, and engaging in a conversation with an AI chatbot.",
+      "stars": 121,
+      "source": "github"
+    },
+    {
+      "title": "InfoSecREDD/DarkGPT-Lite",
+      "url": "https://github.com/InfoSecREDD/DarkGPT-Lite",
+      "description": "DarkGPT Lite is a specialized CLI tool providing unrestricted conversations with AI for cybersecurity research purposes",
+      "stars": 72,
+      "source": "github"
+    },
+    {
+      "title": "osdg-ai/osdg-tool",
+      "url": "https://github.com/osdg-ai/osdg-tool",
+      "description": "OSDG is an open-source tool that maps and connects activities to the UN Sustainable Development Goals (SDGs) by identifying SDG-relevant content in any text. The tool is available online at www.osdg.ai. API access available for research purposes. ",
+      "stars": 46,
+      "source": "github"
+    },
+    {
+      "title": "mrgoonie/seo-insights-mcp-server",
+      "url": "https://github.com/mrgoonie/seo-insights-mcp-server",
+      "description": "TypeScript Model Context Protocol (MCP) server for SEO Insights. Provides SEO tools for backlinks, keyword research, and traffic analysis. Includes CLI support and extensible structure for connecting AI systems (LLMs) to SEO APIs",
+      "stars": 29,
+      "source": "github"
+    },
+    {
+      "title": "kvcops/Deep-Research-using-Gemini-api",
+      "url": "https://github.com/kvcops/Deep-Research-using-Gemini-api",
+      "description": "AI-powered deep research tool leveraging web scraping for cost-effective, comprehensive analysis. Open-source and API-cost free!",
+      "stars": 23,
+      "source": "github"
+    },
+    {
+      "title": "2404589803/hf-daily-paper-newsletter-multilingual",
+      "url": "https://github.com/2404589803/hf-daily-paper-newsletter-multilingual",
+      "description": "🤖 A multilingual translation tool that automatically converts Hugging Face's daily AI research papers into 🇯🇵 Japanese, 🇰🇷 Korean, 🇪🇸 Spanish, and 🇫🇷 French. 🔄 Powered by InternLM API, it accurately translates paper titles and abstracts while maintaining technical accuracy. 🛠️ The system features robust error handling, progress tracking,",
+      "stars": 18,
+      "source": "github"
+    },
+    {
+      "title": "nicdun/value-investing-ai-agent",
+      "url": "https://github.com/nicdun/value-investing-ai-agent",
+      "description": "AI-powered stock analysis tool that provides comprehensive fundamental research using Alpha Vantage API and advanced language models.",
+      "stars": 16,
+      "source": "github"
+    },
+    {
+      "title": "valyuAI/valyu-mcp",
+      "url": "https://github.com/valyuAI/valyu-mcp",
+      "description": "The Valyu MCP Server is a Model Context Protocol (MCP) tool that enables AI models to retrieve high-quality context from Valyu's API, including full search capabilities over Wikipedia, arXiv (great for finance, research, etc.), and web search.",
+      "stars": 12,
+      "source": "github"
+    },
+    {
+      "title": "Drakonis96/whispad",
+      "url": "https://github.com/Drakonis96/whispad",
+      "description": "WhisPad is a note management tool where you can write or dictate your notes using local or API AI models (supports speaker diarization). Rewrite your texts using different styles, dive in using AI, translate, summarize, create mind maps, node graphs and even quizs and flashcards based on each note. A powerful companion for researchers and students.",
+      "stars": 12,
+      "source": "github"
+    },
+    {
+      "title": "nschlaepfer/humanWeb",
+      "url": "https://github.com/nschlaepfer/humanWeb",
+      "description": "This is a Python project that uses Selenium and OpenAI to scrape data from the web, process it with GPT-3, and generate reports based on the results. The goal was to create a bot that can perform web research and analysis without using any APIs or external tools. ",
+      "stars": 12,
+      "source": "github"
+    },
+    {
+      "title": "pro402/ai-report-generator",
+      "url": "https://github.com/pro402/ai-report-generator",
+      "description": "AI Report Generator is an AI-powered tool that automates the creation of detailed reports, newsletters, and blogs. Leveraging cutting-edge language models, custom search APIs, and a dynamic state graph workflow, it transforms your inputs into professional, SEO-friendly content in minutes. Ideal for researchers, marketers, and content creators.",
+      "stars": 10,
+      "source": "github"
+    },
+    {
+      "title": "hariomgupta70427/medical-ai-platform",
+      "url": "https://github.com/hariomgupta70427/medical-ai-platform",
+      "description": "MediAI Discovery Platform is a web-based tool for AI-powered drug discovery and molecular optimization. It offers features like molecular visualization, predictive analysis, and API integrations with PubChem, IBM RXN, and RDKit, all within an interactive, research-friendly interface built using Next.js and optional Python services.",
+      "stars": 8,
+      "source": "github"
+    },
+    {
+      "title": "mehmetbaykar/swift-poe-search-mcp",
+      "url": "https://github.com/mehmetbaykar/swift-poe-search-mcp",
+      "description": "A Swift MCP (Model Context Protocol) server providing AI-powered search and research tools via the Poe API proxy.",
+      "stars": 8,
+      "source": "github"
+    },
+    {
+      "title": "wassupjay/Research-Agent",
+      "url": "https://github.com/wassupjay/Research-Agent",
+      "description": "The Generative AI Research Assistant is an intelligent tool built with LangGraph, Groq's LLaMA 3, and Tavily Search API that automates topic research, document summarization, and confidence scoring.",
+      "stars": 7,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.488,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.115,
+      "diversity": 0.0,
+      "usability": 0.1,
+      "applicability": 1.0,
+      "coverage": 1.0,
+      "ndcg": 0.679,
+      "map": 1.0,
+      "mrr": 1.0,
+      "rouge_1": 0.75,
+      "semantic_sim": 0.302,
+      "coherence": 0.204,
+      "task_completion": 0.703,
+      "tool_use": 0.738,
+      "reasoning_depth": 0.01,
+      "autonomy": 0.113,
+      "multi_agent": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

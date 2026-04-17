@@ -1,0 +1,174 @@
+{
+  "topic": "AI model benchmark",
+  "timestamp": "2026-04-07T11:22:08.670111",
+  "findings": [
+    {
+      "title": "microsoft/PhiCookBook",
+      "url": "https://github.com/microsoft/PhiCookBook",
+      "description": "This is a Phi Family of SLMs book for getting started with Phi Models. Phi a family of open sourced AI models developed by Microsoft. Phi models are the most capable and cost-effective small language models (SLMs) available, outperforming models of the same size and next size up across a variety of language, reasoning, coding, and math benchmarks",
+      "stars": 3726,
+      "source": "github"
+    },
+    {
+      "title": "petergpt/bullshit-benchmark",
+      "url": "https://github.com/petergpt/bullshit-benchmark",
+      "description": "BullshitBench measures whether AI models challenge nonsensical prompts instead of confidently answering them, created by Peter Gostev.",
+      "stars": 1388,
+      "source": "github"
+    },
+    {
+      "title": "vava-nessa/free-coding-models",
+      "url": "https://github.com/vava-nessa/free-coding-models",
+      "description": "Find, benchmark and install in CLI 200+ FREE coding LLM models across 20+ providers in real time",
+      "stars": 1178,
+      "source": "github"
+    },
+    {
+      "title": "pinchbench/skill",
+      "url": "https://github.com/pinchbench/skill",
+      "description": "PinchBench is a benchmarking system for evaluating LLM models as OpenClaw coding agents. Made with 🦀 by the humans at https://kilo.ai",
+      "stars": 942,
+      "source": "github"
+    },
+    {
+      "title": "The-FinAI/PIXIU",
+      "url": "https://github.com/The-FinAI/PIXIU",
+      "description": "This repository introduces PIXIU, an open-source resource featuring the first financial large language models (LLMs), instruction tuning data, and evaluation benchmarks to holistically assess financial LLMs. Our goal is to continually push forward the open-source development of financial artificial intelligence (AI).",
+      "stars": 847,
+      "source": "github"
+    },
+    {
+      "title": "DataScienceUIBK/Rankify",
+      "url": "https://github.com/DataScienceUIBK/Rankify",
+      "description": "🔥 Rankify: A Comprehensive Python Toolkit for Retrieval, Re-Ranking, and Retrieval-Augmented Generation 🔥. Our toolkit integrates 40 pre-retrieved benchmark datasets and supports 7+ retrieval techniques, 24+ state-of-the-art Reranking models, and multiple RAG methods.",
+      "stars": 667,
+      "source": "github"
+    },
+    {
+      "title": "mlcommons/ck",
+      "url": "https://github.com/mlcommons/ck",
+      "description": "Collective Knowledge (CK), Collective Mind (CM/CMX) and MLPerf automations: community-driven projects to facilitate collaborative and reproducible research and to learn how to run AI, ML, and other emerging workloads more efficiently and cost-effectively across diverse models, datasets, software, and hardware using MLPerf methodology and benchmarks",
+      "stars": 645,
+      "source": "github"
+    },
+    {
+      "title": "GoodStartLabs/AI_Diplomacy",
+      "url": "https://github.com/GoodStartLabs/AI_Diplomacy",
+      "description": "Frontier Models playing the board game Diplomacy.",
+      "stars": 641,
+      "source": "github"
+    },
+    {
+      "title": "onejune2018/Awesome-LLM-Eval",
+      "url": "https://github.com/onejune2018/Awesome-LLM-Eval",
+      "description": "Awesome-LLM-Eval: a curated list of tools, datasets/benchmark, demos, leaderboard, papers, docs and models, mainly for Evaluation on LLMs.  一个由工具、基准/数据、演示、排行榜和大模型等组成的精选列表，主要面向基础大模型评测，旨在探求生成式AI的技术边界.",
+      "stars": 629,
+      "source": "github"
+    },
+    {
+      "title": "HowieHwong/TrustLLM",
+      "url": "https://github.com/HowieHwong/TrustLLM",
+      "description": "[ICML 2024] TrustLLM: Trustworthiness in Large Language Models",
+      "stars": 623,
+      "source": "github"
+    },
+    {
+      "title": "abacusai/Long-Context",
+      "url": "https://github.com/abacusai/Long-Context",
+      "description": "This repository contains code and tooling for the Abacus.AI LLM Context Expansion project. Also included are evaluation scripts and benchmark tasks that evaluate a model’s information retrieval capabilities with context expansion. We also include key experimental results and instructions for reproducing and building on them.",
+      "stars": 601,
+      "source": "github"
+    },
+    {
+      "title": "camel-ai/crab",
+      "url": "https://github.com/camel-ai/crab",
+      "description": "🦀️ CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents. https://crab.camel-ai.org/",
+      "stars": 412,
+      "source": "github"
+    },
+    {
+      "title": "arimxyer/models",
+      "url": "https://github.com/arimxyer/models",
+      "description": "TUI and CLI for browsing AI models, benchmarks, coding agents, and statuses for AI providers.",
+      "stars": 374,
+      "source": "github"
+    },
+    {
+      "title": "SAILResearch/awesome-foundation-model-leaderboards",
+      "url": "https://github.com/SAILResearch/awesome-foundation-model-leaderboards",
+      "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
+      "stars": 337,
+      "source": "github"
+    },
+    {
+      "title": "OpenGVLab/LAMM",
+      "url": "https://github.com/OpenGVLab/LAMM",
+      "description": "[NeurIPS 2023 Datasets and Benchmarks Track] LAMM: Multi-Modal Large Language Models and Applications as AI Agents",
+      "stars": 319,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA-NeMo/Evaluator",
+      "url": "https://github.com/NVIDIA-NeMo/Evaluator",
+      "description": "Open-source library for scalable, reproducible evaluation of AI models and benchmarks.",
+      "stars": 250,
+      "source": "github"
+    },
+    {
+      "title": "jyoung105/frouter",
+      "url": "https://github.com/jyoung105/frouter",
+      "description": "Free model router CLI to discover, benchmark, and configure free AI models for OpenCode and OpenClaw",
+      "stars": 244,
+      "source": "github"
+    },
+    {
+      "title": "android-bench/android-bench",
+      "url": "https://github.com/android-bench/android-bench",
+      "description": "Android Bench is a framework for benchmarking Large Language Models (LLMs) on Android development tasks. It evaluates an AI model's ability to understand mobile codebases, generate accurate patches, and solve Android-specific engineering problems.",
+      "stars": 224,
+      "source": "github"
+    },
+    {
+      "title": "arc53/llm-price-compass",
+      "url": "https://github.com/arc53/llm-price-compass",
+      "description": "This project collects GPU benchmarks from various cloud providers and compares them to fixed per token costs. Use our tool for efficient LLM GPU selections and cost-effective AI models. LLM provider price comparison, gpu benchmarks to price per token calculation, gpu benchmark table",
+      "stars": 224,
+      "source": "github"
+    },
+    {
+      "title": "xoxruns/deadend-cli",
+      "url": "https://github.com/xoxruns/deadend-cli",
+      "description": "Agentic pentest tooling. Currently achieving 80% (KIMI K2.5) on XBOW's benchmark in full black-box. Completely Self-hosted. Every model available on LiteLLM (Ollama, anthropic, openai...)",
+      "stars": 215,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.435,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.9,
+      "star_power": 0.194,
+      "diversity": 0.0,
+      "usability": 0.2,
+      "applicability": 0.9,
+      "coverage": 1.0,
+      "ndcg": 0.455,
+      "map": 0.833,
+      "mrr": 1.0,
+      "rouge_1": 0.45,
+      "semantic_sim": 0.152,
+      "coherence": 0.164,
+      "task_completion": 0.429,
+      "tool_use": 0.098,
+      "reasoning_depth": 0.017,
+      "autonomy": 0.05,
+      "multi_agent": 0.015
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

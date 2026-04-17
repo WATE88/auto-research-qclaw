@@ -1,0 +1,174 @@
+{
+  "topic": "AI agent reliability",
+  "timestamp": "2026-04-01T16:31:27.424286",
+  "findings": [
+    {
+      "title": "awslabs/agentcore-samples",
+      "url": "https://github.com/awslabs/agentcore-samples",
+      "description": "Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and security, critical to real-world deployment.",
+      "stars": 2556,
+      "source": "github"
+    },
+    {
+      "title": "strands-agents/agent-sop",
+      "url": "https://github.com/strands-agents/agent-sop",
+      "description": "Natural language workflows that enable AI agents to perform complex, multi-step tasks with consistency and reliability.",
+      "stars": 863,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/agent-governance-toolkit",
+      "url": "https://github.com/microsoft/agent-governance-toolkit",
+      "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+      "stars": 350,
+      "source": "github"
+    },
+    {
+      "title": "airweave-ai/error-monitoring-agent",
+      "url": "https://github.com/airweave-ai/error-monitoring-agent",
+      "description": "Intelligent error monitoring agent that uses Airweave to find context from your code, tickets, and Slack. Clusters similar errors, enriches with relevant context, and creates actionable alerts.",
+      "stars": 335,
+      "source": "github"
+    },
+    {
+      "title": "orra-dev/orra",
+      "url": "https://github.com/orra-dev/orra",
+      "description": "A plan engine for dynamic planning and reliable execution of AI agent workflows.",
+      "stars": 245,
+      "source": "github"
+    },
+    {
+      "title": "xniiinx/polykalshi-ai-agent-rust",
+      "url": "https://github.com/xniiinx/polykalshi-ai-agent-rust",
+      "description": "Polykalshi AI Agent (Rust Edition): Unleash the power of AI with Polykalshi, a blazing-fast, highly efficient AI agent built entirely in Rust. Designed for performance, reliability, and scalability, this project provides a robust framework to create intelligent agents capable of complex decision-making, reasoning, and interactions.",
+      "stars": 188,
+      "source": "github"
+    },
+    {
+      "title": "fuzzylabs/sre-agent",
+      "url": "https://github.com/fuzzylabs/sre-agent",
+      "description": "A Site Reliability Engineer AI agent that can monitor application and infrastructure logs, diagnose issues, and report on diagnostics.",
+      "stars": 180,
+      "source": "github"
+    },
+    {
+      "title": "imtt-dev/steer",
+      "url": "https://github.com/imtt-dev/steer",
+      "description": "The Active Reliability Layer for AI Agents. Catch failures, teach fixes, and automate reliability",
+      "stars": 130,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/sre-agent",
+      "url": "https://github.com/microsoft/sre-agent",
+      "description": "Azure SRE Agent is an AI-powered reliability assistant that helps teams diagnose and resolve production issues, reduce operational toil, and lower mean time to resolution",
+      "stars": 70,
+      "source": "github"
+    },
+    {
+      "title": "alvinreal/awesome-openclaw-tips",
+      "url": "https://github.com/alvinreal/awesome-openclaw-tips",
+      "description": "Practical OpenClaw tips for memory, reliability, cost, automation, and multi-agent workflows.",
+      "stars": 70,
+      "source": "github"
+    },
+    {
+      "title": "last9/awesome-sre-agents",
+      "url": "https://github.com/last9/awesome-sre-agents",
+      "description": "A curated list of AI-powered DevOps & SRE (Site Reliability Engineering) agents, tools, and resources for automating and enhancing reliability practices",
+      "stars": 54,
+      "source": "github"
+    },
+    {
+      "title": "Infosys/Infosys-Agentic-Foundry",
+      "url": "https://github.com/Infosys/Infosys-Agentic-Foundry",
+      "description": "Infosys Agentic AI Foundry, part of Infosys Topaz, is a suite that helps enterprises build reliable agents using various design patterns. Agents can be deployed as-is or with custom UX. Built for enterprise-grade reliability, it enables businesses to confidently reimagine their processes",
+      "stars": 54,
+      "source": "github"
+    },
+    {
+      "title": "jakops88-hub/AgentAudit-AI-Grounding-Reliability-Check",
+      "url": "https://github.com/jakops88-hub/AgentAudit-AI-Grounding-Reliability-Check",
+      "description": "Middleware for AI Agents that verifies grounding and prevents hallucinations. Returns structured retry suggestions for self-correction.",
+      "stars": 50,
+      "source": "github"
+    },
+    {
+      "title": "Jiaaqiliu/Awesome-Harness-Engineering",
+      "url": "https://github.com/Jiaaqiliu/Awesome-Harness-Engineering",
+      "description": "🏗️ A collection of resources for harness engineering — shaping the environment around AI agents for reliability in production.",
+      "stars": 39,
+      "source": "github"
+    },
+    {
+      "title": "Yuzc-001/DriveMind",
+      "url": "https://github.com/Yuzc-001/DriveMind",
+      "description": "A calm reliability layer for AI agents: thoughtful execution, clear safety boundaries, reusable memory, and one-click installation.",
+      "stars": 27,
+      "source": "github"
+    },
+    {
+      "title": "shaharia-lab/agento",
+      "url": "https://github.com/shaharia-lab/agento",
+      "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at it's core",
+      "stars": 21,
+      "source": "github"
+    },
+    {
+      "title": "lourencomaciel/sift-gateway",
+      "url": "https://github.com/lourencomaciel/sift-gateway",
+      "description": "Reliability gateway for AI tool output: schema-stable, secret-safe, pagination-complete JSON for MCP and CLI agents.",
+      "stars": 16,
+      "source": "github"
+    },
+    {
+      "title": "maximhq/maxim-cookbooks",
+      "url": "https://github.com/maximhq/maxim-cookbooks",
+      "description": "Maxim is an end-to-end AI evaluation and observability platform that empowers modern AI teams to ship agents with quality, reliability, and speed.",
+      "stars": 14,
+      "source": "github"
+    },
+    {
+      "title": "driftq-org/DriftQ-Core",
+      "url": "https://github.com/driftq-org/DriftQ-Core",
+      "description": "A durable broker and replayable AI workflow runtime with guardrails, governance, and multi-agent orchestration.",
+      "stars": 13,
+      "source": "github"
+    },
+    {
+      "title": "donaldfilimon/abi",
+      "url": "https://github.com/donaldfilimon/abi",
+      "description": "ABI Agent + WDBX Database: A high-speed, fully optimized AI and ML training stack developed in Zig 0.16.0-dev, offering exceptional performance and reliability.",
+      "stars": 13,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.424,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.103,
+      "diversity": 0.0,
+      "usability": 0.0,
+      "applicability": 1.0,
+      "coverage": 1.0,
+      "ndcg": 0.731,
+      "map": 0.965,
+      "mrr": 1.0,
+      "rouge_1": 0.733,
+      "semantic_sim": 0.3,
+      "coherence": 0.164,
+      "task_completion": 0.573,
+      "tool_use": 0.048,
+      "reasoning_depth": 0.033,
+      "autonomy": 0.087,
+      "multi_agent": 0.075
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

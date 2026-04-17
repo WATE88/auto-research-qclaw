@@ -1,0 +1,159 @@
+{
+  "topic": "diffusion model",
+  "timestamp": "2026-03-30T13:53:45.077297",
+  "findings": [
+    {
+      "title": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "stars": 107263,
+      "source": "github"
+    },
+    {
+      "title": "CompVis/stable-diffusion",
+      "url": "https://github.com/CompVis/stable-diffusion",
+      "description": "A latent text-to-image diffusion model",
+      "stars": 72778,
+      "source": "github"
+    },
+    {
+      "title": "lllyasviel/ControlNet",
+      "url": "https://github.com/lllyasviel/ControlNet",
+      "description": "Let us control diffusion models!",
+      "stars": 33780,
+      "source": "github"
+    },
+    {
+      "title": "huggingface/diffusers",
+      "url": "https://github.com/huggingface/diffusers",
+      "description": "🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.",
+      "stars": 33203,
+      "source": "github"
+    },
+    {
+      "title": "invoke-ai/InvokeAI",
+      "url": "https://github.com/invoke-ai/InvokeAI",
+      "description": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.",
+      "stars": 26915,
+      "source": "github"
+    },
+    {
+      "title": "sgl-project/sglang",
+      "url": "https://github.com/sgl-project/sglang",
+      "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+      "stars": 25187,
+      "source": "github"
+    },
+    {
+      "title": "Sanster/IOPaint",
+      "url": "https://github.com/Sanster/IOPaint",
+      "description": "Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.",
+      "stars": 22921,
+      "source": "github"
+    },
+    {
+      "title": "CompVis/latent-diffusion",
+      "url": "https://github.com/CompVis/latent-diffusion",
+      "description": "High-Resolution Image Synthesis with Latent Diffusion Models",
+      "stars": 13942,
+      "source": "github"
+    },
+    {
+      "title": "Tencent-Hunyuan/Hunyuan3D-2",
+      "url": "https://github.com/Tencent-Hunyuan/Hunyuan3D-2",
+      "description": "High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.",
+      "stars": 13383,
+      "source": "github"
+    },
+    {
+      "title": "diff-usion/Awesome-Diffusion-Models",
+      "url": "https://github.com/diff-usion/Awesome-Diffusion-Models",
+      "description": " A collection of resources and papers on Diffusion Models",
+      "stars": 12302,
+      "source": "github"
+    },
+    {
+      "title": "modelscope/DiffSynth-Studio",
+      "url": "https://github.com/modelscope/DiffSynth-Studio",
+      "description": "Enjoy the magic of Diffusion models!",
+      "stars": 12119,
+      "source": "github"
+    },
+    {
+      "title": "magic-research/magic-animate",
+      "url": "https://github.com/magic-research/magic-animate",
+      "description": "[CVPR 2024] Official repository for \"MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model\"",
+      "stars": 10910,
+      "source": "github"
+    },
+    {
+      "title": "lucidrains/denoising-diffusion-pytorch",
+      "url": "https://github.com/lucidrains/denoising-diffusion-pytorch",
+      "description": "Implementation of Denoising Diffusion Probabilistic Model in Pytorch",
+      "stars": 10466,
+      "source": "github"
+    },
+    {
+      "title": "ostris/ai-toolkit",
+      "url": "https://github.com/ostris/ai-toolkit",
+      "description": "The ultimate training toolkit for finetuning diffusion models",
+      "stars": 9993,
+      "source": "github"
+    },
+    {
+      "title": "FoundationVision/VAR",
+      "url": "https://github.com/FoundationVision/VAR",
+      "description": "[NeurIPS 2024 Best Paper Award][GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of \"Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction\". An *ultra-simple, user-friendly yet state-of-the-art* codebase for autoregressive image generation!",
+      "stars": 8652,
+      "source": "github"
+    },
+    {
+      "title": "facebookresearch/DiT",
+      "url": "https://github.com/facebookresearch/DiT",
+      "description": "Official PyTorch Implementation of \"Scalable Diffusion Models with Transformers\"",
+      "stars": 8456,
+      "source": "github"
+    },
+    {
+      "title": "HumanAIGC/EMO",
+      "url": "https://github.com/HumanAIGC/EMO",
+      "description": "Emote Portrait Alive: Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions",
+      "stars": 7631,
+      "source": "github"
+    },
+    {
+      "title": "cloneofsimo/lora",
+      "url": "https://github.com/cloneofsimo/lora",
+      "description": "Using Low-rank adaptation to quickly fine-tune diffusion models.",
+      "stars": 7528,
+      "source": "github"
+    },
+    {
+      "title": "open-mmlab/mmagic",
+      "url": "https://github.com/open-mmlab/mmagic",
+      "description": "OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generation, image/video restoration/enhancement, etc.",
+      "stars": 7408,
+      "source": "github"
+    },
+    {
+      "title": "openai/point-e",
+      "url": "https://github.com/openai/point-e",
+      "description": "Point cloud diffusion for 3D model synthesis",
+      "stars": 6873,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.312,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.211,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

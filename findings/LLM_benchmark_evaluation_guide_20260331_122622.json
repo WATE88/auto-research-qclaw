@@ -1,0 +1,114 @@
+{
+  "topic": "LLM benchmark evaluation guide",
+  "timestamp": "2026-03-31T12:26:22.819413",
+  "findings": [
+    {
+      "title": "rh-aiservices-bu/guidellm-pipeline",
+      "url": "https://github.com/rh-aiservices-bu/guidellm-pipeline",
+      "description": "GuideLLM Pipeline for Benchmark and Evaluate LLMs ",
+      "stars": 5,
+      "updated_at": "2026-03-06T15:06:28Z",
+      "source": "github"
+    },
+    {
+      "title": "Syx1030/CARE-Bench",
+      "url": "https://github.com/Syx1030/CARE-Bench",
+      "description": "[AAAI-26 AISI] CARE-Bench: A Benchmark of Diverse Client Simulations Guided by Expert Principles for Evaluating LLMs in Psychological Counseling",
+      "stars": 5,
+      "updated_at": "2026-03-17T14:26:26Z",
+      "source": "github"
+    },
+    {
+      "title": "danieleschmidt/embodied-ai-benchmark",
+      "url": "https://github.com/danieleschmidt/embodied-ai-benchmark",
+      "description": "Extends Habitat and ManiSkill with multi-agent tasks including cooperative furniture assembly and LLM-guided curriculum learning. Following the \"future directions\" blueprint from the 2025 survey, this benchmark pushes the boundaries of embodied AI evaluation.",
+      "stars": 2,
+      "updated_at": "2026-03-19T18:30:33Z",
+      "source": "github"
+    },
+    {
+      "title": "olekkut/coding-llm-benchmarks-guide",
+      "url": "https://github.com/olekkut/coding-llm-benchmarks-guide",
+      "description": "This repository provides an extensive, in-depth comparison and benchmarking of state-of-the-art local coding Large Language Models (LLMs), evaluating their performance, accuracy, inference speed, memory requirements, supported programming languages, licensing, and practical suitability for various use cases.",
+      "stars": 1,
+      "updated_at": "2025-06-11T19:02:39Z",
+      "source": "github"
+    },
+    {
+      "title": "VhoCheng/MedScope",
+      "url": "https://github.com/VhoCheng/MedScope",
+      "description": "MedScope: A lightweight benchmark for evaluating open-source large language models (LLMs) on medical question answering. It quantifies performance, efficiency, and robustness of 1B-4B parameter LLMs (LLaMA, Qwen, Gemma) to guide safe, responsible deployment in resource-constrained healthcare settings.",
+      "stars": 1,
+      "updated_at": "2026-03-27T02:32:20Z",
+      "source": "github"
+    },
+    {
+      "title": "Bharat-Nandakumar/LLM-Guided-Optimization-for-the-Travelling-Tournament-Problem",
+      "url": "https://github.com/Bharat-Nandakumar/LLM-Guided-Optimization-for-the-Travelling-Tournament-Problem",
+      "description": "LLM-guided heuristic optimization framework for the Travelling Tournament Problem (TTP) with constraint-aware move selection and benchmark evaluation.",
+      "stars": 0,
+      "updated_at": "2026-02-19T00:01:28Z",
+      "source": "github"
+    },
+    {
+      "title": "advik-holalu/lms-llm-evaluation",
+      "url": "https://github.com/advik-holalu/lms-llm-evaluation",
+      "description": "Designed a full-stack Learning Management System using Next.js, React, and Tailwind CSS with Google Gemini API to generate study plans, summaries, and flashcards. Conducted benchmarking of GPT-4o, Gemini, and DeepSeek for coherence, factual accuracy, and latency to guide model integration.",
+      "stars": 0,
+      "updated_at": "2025-09-11T18:26:25Z",
+      "source": "github"
+    },
+    {
+      "title": "phani-x507/-Offline-LLMs-for-Low-Spec-Devices--A-Study-on-Efficiency-and-Usability-",
+      "url": "https://github.com/phani-x507/-Offline-LLMs-for-Low-Spec-Devices--A-Study-on-Efficiency-and-Usability-",
+      "description": "This project benchmarks offline Masked and Causal Language Models (MLMs, CLMs) like DistilBERT, MobileBERT, TinyLLaMA, Phi-2, and Gemma-2B. It evaluates accuracy, efficiency, and text quality using BLEU, ROUGE, and Perplexity, ensuring privacy-focused AI applications. The results guide optimal offline LLM selection.",
+      "stars": 0,
+      "updated_at": "2025-12-19T10:13:35Z",
+      "source": "github"
+    },
+    {
+      "title": "annon305/MMLogQA",
+      "url": "https://github.com/annon305/MMLogQA",
+      "description": "A multimodal log-based technical QA framework with two expert-validated datasets (CTQA & DTQA), comprehensive baselines (LLMs/VLMs + OCR), and Explanation-Guided DPO (EG-DPO) for reliable reasoning and abstention on unanswerable queries. Includes evaluation scripts and benchmarks for cloud- and device-centric log reasoning.",
+      "stars": 0,
+      "updated_at": "2026-02-27T03:31:58Z",
+      "source": "github"
+    },
+    {
+      "title": "Open-Sourcery-UMD/Impact-of-Agent-Personality-on-Multi-Agent-System-Performance",
+      "url": "https://github.com/Open-Sourcery-UMD/Impact-of-Agent-Personality-on-Multi-Agent-System-Performance",
+      "description": "Explores how agent personalities (detailed, succinct, critical) affect performance in MetaGPT’s fixed-role multi-agent system. Evaluates correctness, speed, and collaboration on coding benchmarks. Includes prompt templates, decoding setups, and reproducible experiments to guide LLM team design.",
+      "stars": 0,
+      "updated_at": "2025-10-20T22:20:09Z",
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 10,
+    "quality_score": 0.585,
+    "grade": "B",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 1.0,
+      "star_power": 0.56,
+      "diversity": 0.0,
+      "usability": 1.0,
+      "applicability": 1.0,
+      "coverage": 0.5,
+      "ndcg": 0.876,
+      "map": 1.0,
+      "mrr": 1.0,
+      "rouge_1": 0.4,
+      "semantic_sim": 0.144,
+      "coherence": 0.215,
+      "task_completion": 0.57,
+      "tool_use": 0.117,
+      "reasoning_depth": 0.16,
+      "autonomy": 0.05,
+      "multi_agent": 0.09
+    },
+    "sources_breakdown": {
+      "github": 10
+    }
+  }
+}

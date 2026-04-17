@@ -1,0 +1,174 @@
+{
+  "topic": "LLM optimization tool",
+  "timestamp": "2026-03-31T13:04:45.769619",
+  "findings": [
+    {
+      "title": "krillinai/KrillinAI",
+      "url": "https://github.com/krillinai/KrillinAI",
+      "description": "Video translation and dubbing tool powered by LLMs. The video translator offers 100 language translations and one-click full-process deployment. The video translation output is optimized for platforms like YouTube，TikTok.   AI视频翻译配音工具，100种语言双向翻译，一键部署全流程，可以生抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube等形态的内容成适配",
+      "stars": 9762,
+      "source": "github"
+    },
+    {
+      "title": "can1357/oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 2482,
+      "source": "github"
+    },
+    {
+      "title": "meta-llama/prompt-ops",
+      "url": "https://github.com/meta-llama/prompt-ops",
+      "description": "An open-source tool for LLM prompt optimization.",
+      "stars": 790,
+      "source": "github"
+    },
+    {
+      "title": "Invicti-Security/brainstorm",
+      "url": "https://github.com/Invicti-Security/brainstorm",
+      "description": "A smarter web fuzzing tool that combines local LLM models and ffuf to optimize directory and file discovery",
+      "stars": 385,
+      "source": "github"
+    },
+    {
+      "title": "rentruewang/bocoel",
+      "url": "https://github.com/rentruewang/bocoel",
+      "description": "Bayesian Optimization as a Coverage Tool for Evaluating LLMs. Accurate evaluation (benchmarking) that's 10 times faster with just a few lines of modular code.",
+      "stars": 289,
+      "source": "github"
+    },
+    {
+      "title": "amplifying-ai/awesome-generative-engine-optimization",
+      "url": "https://github.com/amplifying-ai/awesome-generative-engine-optimization",
+      "description": "A curated guide to Generative Engine Optimization (GEO) resources: guides, tools & research to boost visibility in AI-powered search engines.",
+      "stars": 269,
+      "source": "github"
+    },
+    {
+      "title": "FissionAI/FloTorch",
+      "url": "https://github.com/FissionAI/FloTorch",
+      "description": "FloTorch is an open-source tool for optimizing Generative AI workloads on AWS. It automates RAG proof-of-concept development with features like hyperparameter tuning, vector database optimization, and LLM integration. FloTorch streamlines experimentation, ensures security, and accelerates production with cost-efficient, validated workflows.",
+      "stars": 265,
+      "source": "github"
+    },
+    {
+      "title": "zou-group/avatar",
+      "url": "https://github.com/zou-group/avatar",
+      "description": "(NeurIPS 2024) AvaTaR: Optimizing LLM Agents for Tool Usage via Contrastive Reasoning ",
+      "stars": 238,
+      "source": "github"
+    },
+    {
+      "title": "cortex-tms/cortex-tms",
+      "url": "https://github.com/cortex-tms/cortex-tms",
+      "description": "The Universal AI-Optimized Project Boilerplate. A Tiered Memory System (TMS) designed to maximize AI agent performance. Includes an interactive CLI tool and a high-signal documentation standard.",
+      "stars": 170,
+      "source": "github"
+    },
+    {
+      "title": "czottmann/linearis",
+      "url": "https://github.com/czottmann/linearis",
+      "description": "CLI tool for Linear.app with JSON output, smart ID resolution, and optimized GraphQL queries. Designed for LLM agents and humans who prefer structured data.",
+      "stars": 166,
+      "source": "github"
+    },
+    {
+      "title": "HewlettPackard/llmesh",
+      "url": "https://github.com/HewlettPackard/llmesh",
+      "description": "LLM Agentic Tool Mesh Platform is an innovative platform designed to streamline and enhance the use of AI in various applications. It serves as a central hub to orchestrate 'Intelligent Plugins,' optimizing AI interactions and processes.",
+      "stars": 89,
+      "source": "github"
+    },
+    {
+      "title": "NellyW8/MCP4EDA",
+      "url": "https://github.com/NellyW8/MCP4EDA",
+      "description": "This is the Github Repo for the paper: MCP4EDA: LLM-Powered Model Context Protocol RTL-to-GDSII Automation with Backend Aware Synthesis Optimization. MCP server for a collection of open-source EDA tools",
+      "stars": 74,
+      "source": "github"
+    },
+    {
+      "title": "doganarif/promptpilot",
+      "url": "https://github.com/doganarif/promptpilot",
+      "description": "A fast, lightweight CLI tool for versioning, testing, and optimizing your AI prompts across multiple providers. Easily track prompt evolution, run A/B tests, and measure performance without Git dependencies. Supports OpenAI, Claude, Llama, and HuggingFace.",
+      "stars": 71,
+      "source": "github"
+    },
+    {
+      "title": "AI-Maker-Space/LLM-Engineering-Foundations-to-SLMs-Open-Source",
+      "url": "https://github.com/AI-Maker-Space/LLM-Engineering-Foundations-to-SLMs-Open-Source",
+      "description": "Large Language Model Engineering (LLM Engineering) refers to the emerging best-practices and tools for pretraining, post-training, and optimizing LLMs prior to production deployment.  Pre- and post-training techniques include unsupervised pretraining, supervised fine-tuning, alignment, model merging, distillation, quantization. and others.",
+      "stars": 69,
+      "source": "github"
+    },
+    {
+      "title": "brandondocusen/CntxtJS",
+      "url": "https://github.com/brandondocusen/CntxtJS",
+      "description": "A lightweight tool to optimize your Javascript / Typescript project for LLM context windows by using a knowledge graph | AI code understanding | LLM context enhancement | Code structure visualization | Static analysis for AI | Large Language Model tooling #LLM #AI #JavaScript #TypeScript #CodeAnalysis #ContextWindow #DeveloperTools",
+      "stars": 63,
+      "source": "github"
+    },
+    {
+      "title": "ivanfioravanti/llm_context_benchmarks",
+      "url": "https://github.com/ivanfioravanti/llm_context_benchmarks",
+      "description": "  📊 LLM Context Benchmarks - A comprehensive benchmarking tool for testing LLMs with varying context sizes using Ollama. Features dual benchmark modes (API/CLI), automatic hardware detection (optimized for Apple Silicon), visual performance charts. ",
+      "stars": 50,
+      "source": "github"
+    },
+    {
+      "title": "evelyyyyynnnnn/Ai-Engineering-Toolkit",
+      "url": "https://github.com/evelyyyyynnnnn/Ai-Engineering-Toolkit",
+      "description": "Engineering toolkit for building scalable AI systems, including model training pipelines, LLM optimization utilities, and data engineering tools.",
+      "stars": 37,
+      "source": "github"
+    },
+    {
+      "title": "ooples/token-optimizer-mcp",
+      "url": "https://github.com/ooples/token-optimizer-mcp",
+      "description": "Intelligent token optimization for Claude Code - achieving 95%+ token reduction through caching, compression, and smart tool intelligence",
+      "stars": 35,
+      "source": "github"
+    },
+    {
+      "title": "brandondocusen/CntxtCS",
+      "url": "https://github.com/brandondocusen/CntxtCS",
+      "description": "A lightweight tool to optimize your C# project for LLM context windows by using a knowledge graph | Code structure visualization | Static analysis for AI | Large Language Model tooling | .NET ecosystem support  #LLM #AI #CSharp #DotNet #CodeAnalysis #ContextWindow #DeveloperTools",
+      "stars": 34,
+      "source": "github"
+    },
+    {
+      "title": "peremartra/optipfair",
+      "url": "https://github.com/peremartra/optipfair",
+      "description": "Structured pruning and bias visualization for Large Language Models. Tools for LLM optimization and fairness analysis.",
+      "stars": 30,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.446,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.15,
+      "star_power": 0.079,
+      "diversity": 0.0,
+      "usability": 0.2,
+      "applicability": 1.0,
+      "coverage": 1.0,
+      "ndcg": 0.638,
+      "map": 0.974,
+      "mrr": 1.0,
+      "rouge_1": 0.6,
+      "semantic_sim": 0.218,
+      "coherence": 0.1,
+      "task_completion": 0.678,
+      "tool_use": 0.232,
+      "reasoning_depth": 0.007,
+      "autonomy": 0.062,
+      "multi_agent": 0.015
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

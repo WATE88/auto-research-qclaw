@@ -1,0 +1,280 @@
+{
+  "topic": "model quantization",
+  "timestamp": "2026-04-07T11:37:42.832668",
+  "findings": [
+    {
+      "title": "bitsandbytes-foundation/bitsandbytes",
+      "url": "https://github.com/bitsandbytes-foundation/bitsandbytes",
+      "description": "Accessible large language models via k-bit quantization for PyTorch.",
+      "stars": 8099,
+      "source": "github"
+    },
+    {
+      "title": "Lightning-AI/lit-llama",
+      "url": "https://github.com/Lightning-AI/lit-llama",
+      "description": "Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.",
+      "stars": 6081,
+      "source": "github"
+    },
+    {
+      "title": "OpenNMT/CTranslate2",
+      "url": "https://github.com/OpenNMT/CTranslate2",
+      "description": "Fast inference engine for Transformer models",
+      "stars": 4411,
+      "source": "github"
+    },
+    {
+      "title": "nunchaku-ai/nunchaku",
+      "url": "https://github.com/nunchaku-ai/nunchaku",
+      "description": "[ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models",
+      "stars": 3770,
+      "source": "github"
+    },
+    {
+      "title": "city96/ComfyUI-GGUF",
+      "url": "https://github.com/city96/ComfyUI-GGUF",
+      "description": "GGUF Quantization support for native ComfyUI models",
+      "stars": 3462,
+      "source": "github"
+    },
+    {
+      "title": "thu-ml/SageAttention",
+      "url": "https://github.com/thu-ml/SageAttention",
+      "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
+      "stars": 3278,
+      "source": "github"
+    },
+    {
+      "title": "huawei-noah/Pretrained-Language-Model",
+      "url": "https://github.com/huawei-noah/Pretrained-Language-Model",
+      "description": "Pretrained language model and its related optimization techniques developed by Huawei Noah's Ark Lab.",
+      "stars": 3156,
+      "source": "github"
+    },
+    {
+      "title": "IntelLabs/nlp-architect",
+      "url": "https://github.com/IntelLabs/nlp-architect",
+      "description": "A model library for exploring state-of-the-art deep learning topologies and techniques for optimizing Natural Language Processing neural networks",
+      "stars": 2935,
+      "source": "github"
+    },
+    {
+      "title": "aaron-xichen/pytorch-playground",
+      "url": "https://github.com/aaron-xichen/pytorch-playground",
+      "description": "Base pretrained models and datasets in pytorch (MNIST, SVHN, CIFAR10, CIFAR100, STL10, AlexNet, VGG16, VGG19, ResNet, Inception, SqueezeNet)",
+      "stars": 2714,
+      "source": "github"
+    },
+    {
+      "title": "intel/neural-compressor",
+      "url": "https://github.com/intel/neural-compressor",
+      "description": "SOTA low-bit LLM quantization (INT8/FP8/MXFP8/INT4/MXFP4/NVFP4) & sparsity; leading model compression techniques on PyTorch, TensorFlow, and ONNX Runtime",
+      "stars": 2611,
+      "source": "github"
+    },
+    {
+      "title": "quic/aimet",
+      "url": "https://github.com/quic/aimet",
+      "description": "AIMET is a library that provides advanced quantization and compression techniques for trained neural network models.",
+      "stars": 2586,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "stars": 2385,
+      "source": "github"
+    },
+    {
+      "title": "Efficient-ML/Awesome-Model-Quantization",
+      "url": "https://github.com/Efficient-ML/Awesome-Model-Quantization",
+      "description": "A list of papers, docs, codes about model quantization. This repo is aimed to provide the info for model quantization research, we are continuously improving the project. Welcome to PR the works (papers, repositories) that are missed by the repo.",
+      "stars": 2341,
+      "source": "github"
+    },
+    {
+      "title": "dvmazur/mixtral-offloading",
+      "url": "https://github.com/dvmazur/mixtral-offloading",
+      "description": "Run Mixtral-8x7B models in Colab or consumer desktops",
+      "stars": 2330,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/Olive",
+      "url": "https://github.com/microsoft/Olive",
+      "description": "Olive: Simplify ML Model Finetuning, Conversion, Quantization, and Optimization for CPUs, GPUs and NPUs.",
+      "stars": 2288,
+      "source": "github"
+    },
+    {
+      "title": "666DZY666/micronet",
+      "url": "https://github.com/666DZY666/micronet",
+      "description": "micronet, a model compression and deploy lib. compression: 1、quantization: quantization-aware-training(QAT), High-Bit(>2b)(DoReFa/Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference)、Low-Bit(≤2b)/Ternary and Binary(TWN/BNN/XNOR-Net); post-training-quantization(PTQ), 8-bit(tensorrt); 2、 pruning: normal、regular and group convolutional channel pruning; 3、 group convolution structure; 4、batch-normalization fuse for quantization. deploy: tensorrt, fp32/fp16/int8(ptq-calibration)、op-adapt(upsample)、dynamic_shape",
+      "stars": 2269,
+      "source": "github"
+    },
+    {
+      "title": "open-mmlab/mmrazor",
+      "url": "https://github.com/open-mmlab/mmrazor",
+      "description": "OpenMMLab Model Compression Toolbox and Benchmark.",
+      "stars": 1668,
+      "source": "github"
+    },
+    {
+      "title": "mit-han-lab/smoothquant",
+      "url": "https://github.com/mit-han-lab/smoothquant",
+      "description": "[ICML 2023] SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models",
+      "stars": 1632,
+      "source": "github"
+    },
+    {
+      "title": "PaddlePaddle/PaddleSlim",
+      "url": "https://github.com/PaddlePaddle/PaddleSlim",
+      "description": "PaddleSlim is an open-source library for deep model compression and architecture search.",
+      "stars": 1613,
+      "source": "github"
+    },
+    {
+      "title": "RWKV/rwkv.cpp",
+      "url": "https://github.com/RWKV/rwkv.cpp",
+      "description": "INT4/INT5/INT8 and FP16 inference on CPU for RWKV language model",
+      "stars": 1567,
+      "source": "github"
+    },
+    {
+      "title": "Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision",
+      "url": "http://arxiv.org/abs/2604.04934v1",
+      "abstract": "We present Vanast, a unified framework that generates garment-transferred human animation videos directly from a single human image, garment images, and a pose guidance video. Conventional two-stage pipelines treat image-based virtual try-on and pose-driven animation as separate processes, which oft",
+      "source": "arxiv"
+    },
+    {
+      "title": "Beyond the Final Actor: Modeling the Dual Roles of Creator and Editor for Fine-Grained LLM-Generated Text Detection",
+      "url": "http://arxiv.org/abs/2604.04932v1",
+      "abstract": "The misuse of large language models (LLMs) requires precise detection of synthetic text. Existing works mainly follow binary or ternary classification settings, which can only distinguish pure human/LLM text or collaborative text at best. This remains insufficient for the nuanced regulation, as the ",
+      "source": "arxiv"
+    },
+    {
+      "title": "LoMa: Local Feature Matching Revisited",
+      "url": "http://arxiv.org/abs/2604.04931v1",
+      "abstract": "Local feature matching has long been a fundamental component of 3D vision systems such as Structure-from-Motion (SfM), yet progress has lagged behind the rapid advances of modern data-driven approaches. The newer approaches, such as feed-forward reconstruction models, have benefited extensively from",
+      "source": "arxiv"
+    },
+    {
+      "title": "Early Stopping for Large Reasoning Models via Confidence Dynamics",
+      "url": "http://arxiv.org/abs/2604.04930v1",
+      "abstract": "Large reasoning models rely on long chain-of-thought generation to solve complex problems, but extended reasoning often incurs substantial computational cost and can even degrade performance due to overthinking. A key challenge is determining when the model should stop reasoning and produce the fina",
+      "source": "arxiv"
+    },
+    {
+      "title": "Rethinking Model Efficiency: Multi-Agent Inference with Large Models",
+      "url": "http://arxiv.org/abs/2604.04929v1",
+      "abstract": "Most vision-language models (VLMs) apply a large language model (LLM) as the decoder, where the response tokens are generated sequentially through autoregression. Therefore, the number of output tokens can be the bottleneck of the end-to-end latency. However, different models may require vastly diff",
+      "source": "arxiv"
+    },
+    {
+      "title": "Fully Procedural Synthetic Data from Simple Rules for Multi-View Stereo",
+      "url": "http://arxiv.org/abs/2604.04925v1",
+      "abstract": "In this paper, we explore the design space of procedural rules for multi-view stereo (MVS). We demonstrate that we can generate effective training data using SimpleProc: a new, fully procedural generator driven by a very small set of rules using Non-Uniform Rational Basis Splines (NURBS), as well as",
+      "source": "arxiv"
+    },
+    {
+      "title": "Your Pre-trained Diffusion Model Secretly Knows Restoration",
+      "url": "http://arxiv.org/abs/2604.04924v1",
+      "abstract": "Pre-trained diffusion models have enabled significant advancements in All-in-One Restoration (AiOR), offering improved perceptual quality and generalization. However, diffusion-based restoration methods primarily rely on fine-tuning or Control-Net style modules to leverage the pre-trained diffusion ",
+      "source": "arxiv"
+    },
+    {
+      "title": "TriAttention: Efficient Long Reasoning with Trigonometric KV Compression",
+      "url": "http://arxiv.org/abs/2604.04921v1",
+      "abstract": "Extended reasoning in large language models (LLMs) creates severe KV cache memory bottlenecks. Leading KV cache compression methods estimate KV importance using attention scores from recent post-RoPE queries. However, queries rotate with position during RoPE, making representative queries very few, ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Vero: An Open RL Recipe for General Visual Reasoning",
+      "url": "http://arxiv.org/abs/2604.04917v1",
+      "abstract": "What does it take to build a visual reasoner that works across charts, science, spatial understanding, and open-ended tasks? The strongest vision-language models (VLMs) show such broad visual reasoning is within reach, but the recipe behind them remains unclear, locked behind proprietary reinforceme",
+      "source": "arxiv"
+    },
+    {
+      "title": "Empowering Power Outage Prediction with Spatially Aware Hybrid Graph Neural Networks and Contrastive Learning",
+      "url": "http://arxiv.org/abs/2604.04916v1",
+      "abstract": "Extreme weather events, such as severe storms, hurricanes, snowstorms, and ice storms, which are exacerbated by climate change, frequently cause widespread power outages. These outages halt industrial operations, impact communities, damage critical infrastructure, profoundly disrupt economies, and h",
+      "source": "arxiv"
+    },
+    {
+      "title": "Analyzing Symbolic Properties for DRL Agents in Systems and Networking",
+      "url": "http://arxiv.org/abs/2604.04914v1",
+      "abstract": "Deep reinforcement learning (DRL) has shown remarkable performance on complex control problems in systems and networking, including adaptive video streaming, wireless resource management, and congestion control. For safe deployment, however, it is critical to reason about how agents behave across th",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens",
+      "url": "http://arxiv.org/abs/2604.04913v1",
+      "abstract": "Anticipating diverse future states is a central challenge in video world modeling. Discriminative world models produce a deterministic prediction that implicitly averages over possible futures, while existing generative world models remain computationally expensive. Recent work demonstrates that pre",
+      "source": "arxiv"
+    },
+    {
+      "title": "Dominating Set with Quotas: Balancing Coverage and Constraints",
+      "url": "http://arxiv.org/abs/2604.04912v1",
+      "abstract": "We study a natural generalization of the classical \\textsc{Dominating Set} problem, called \\textsc{Dominating Set with Quotas} (DSQ). In this problem, we are given a graph \\( G \\), an integer \\( k \\), and for each vertex \\( v \\in V(G) \\), a lower quota \\( \\mathrm{lo}_v \\) and an upper quota \\( \\math",
+      "source": "arxiv"
+    },
+    {
+      "title": "SpatialEdit: Benchmarking Fine-Grained Image Spatial Editing",
+      "url": "http://arxiv.org/abs/2604.04911v1",
+      "abstract": "Image spatial editing performs geometry-driven transformations, allowing precise control over object layout and camera viewpoints. Current models are insufficient for fine-grained spatial manipulations, motivating a dedicated assessment suite. Our contributions are listed: (i) We introduce SpatialEd",
+      "source": "arxiv"
+    },
+    {
+      "title": "HI-MoE: Hierarchical Instance-Conditioned Mixture-of-Experts for Object Detection",
+      "url": "http://arxiv.org/abs/2604.04908v1",
+      "abstract": "Mixture-of-Experts (MoE) architectures enable conditional computation by activating only a subset of model parameters for each input. Although sparse routing has been highly effective in language models and has also shown promise in vision, most vision MoE methods operate at the image or patch level",
+      "source": "arxiv"
+    },
+    {
+      "title": "How AI Aggregation Affects Knowledge",
+      "url": "http://arxiv.org/abs/2604.04906v1",
+      "abstract": "Artificial intelligence (AI) changes social learning when aggregated outputs become training data for future predictions. To study this, we extend the DeGroot model by introducing an AI aggregator that trains on population beliefs and feeds synthesized signals back to agents. We define the learning ",
+      "source": "arxiv"
+    },
+    {
+      "title": "ClickAIXR: On-Device Multimodal Vision-Language Interaction with Real-World Objects in Extended Reality",
+      "url": "http://arxiv.org/abs/2604.04905v1",
+      "abstract": "We present ClickAIXR, a novel on-device framework for multimodal vision-language interaction with objects in extended reality (XR). Unlike prior systems that rely on cloud-based AI (e.g., ChatGPT) or gaze-based selection (e.g., GazePointAR), ClickAIXR integrates an on-device vision-language model (V",
+      "source": "arxiv"
+    },
+    {
+      "title": "Are Latent Reasoning Models Easily Interpretable?",
+      "url": "http://arxiv.org/abs/2604.04902v1",
+      "abstract": "Latent reasoning models (LRMs) have attracted significant research interest due to their low inference cost (relative to explicit reasoning models) and theoretical ability to explore multiple reasoning paths in parallel. However, these benefits come at the cost of reduced interpretability: LRMs are ",
+      "source": "arxiv"
+    },
+    {
+      "title": "QED-Nano: Teaching a Tiny Model to Prove Hard Theorems",
+      "url": "http://arxiv.org/abs/2604.04898v1",
+      "abstract": "Proprietary AI systems have recently demonstrated impressive capabilities on complex proof-based problems, with gold-level performance reported at the 2025 International Mathematical Olympiad (IMO). However, the training pipelines behind these systems remain largely undisclosed, and their reliance o",
+      "source": "arxiv"
+    },
+    {
+      "title": "Agentic Federated Learning: The Future of Distributed Training Orchestration",
+      "url": "http://arxiv.org/abs/2604.04895v1",
+      "abstract": "Although Federated Learning (FL) promises privacy and distributed collaboration, its effectiveness in real-world scenarios is often hampered by the stochastic heterogeneity of clients and unpredictable system dynamics. Existing static optimization approaches fail to adapt to these fluctuations, resu",
+      "source": "arxiv"
+    }
+  ],
+  "quality": {
+    "total": 40,
+    "quality_score": 0.468,
+    "dimensions": {
+      "authority": 0.95,
+      "quality": 0.025,
+      "star_power": 0.378,
+      "diversity": 0.5
+    },
+    "sources_breakdown": {
+      "github": 20,
+      "arxiv": 20
+    }
+  }
+}

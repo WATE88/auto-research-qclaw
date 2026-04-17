@@ -1,0 +1,159 @@
+{
+  "topic": "KV cache optimization",
+  "timestamp": "2026-03-30T15:43:42.378403",
+  "findings": [
+    {
+      "title": "Tencent/WeDLM",
+      "url": "https://github.com/Tencent/WeDLM",
+      "description": "WeDLM: The fastest diffusion language model with standard causal attention and native KV cache compatibility, delivering real speedups over vLLM-optimized baselines.",
+      "stars": 638,
+      "source": "github"
+    },
+    {
+      "title": "dipampaul17/KVSplit",
+      "url": "https://github.com/dipampaul17/KVSplit",
+      "description": "Run larger LLMs with longer contexts on Apple Silicon by using differentiated precision for KV cache quantization. KVSplit enables 8-bit keys & 4-bit values, reducing memory by 59% with <1% quality loss. Includes benchmarking, visualization, and one-command setup. Optimized for M1/M2/M3 Macs with Metal support.",
+      "stars": 362,
+      "source": "github"
+    },
+    {
+      "title": "jjiantong/Awesome-KV-Cache-Optimization",
+      "url": "https://github.com/jjiantong/Awesome-KV-Cache-Optimization",
+      "description": "[Survey] Towards Efficient Large Language Model Serving: A Survey on System-Aware KV Cache Optimization",
+      "stars": 315,
+      "source": "github"
+    },
+    {
+      "title": "SUSTechBruce/LOOK-M",
+      "url": "https://github.com/SUSTechBruce/LOOK-M",
+      "description": "[EMNLP 2024 Findings🔥] Official implementation of \": LOOK-M: Look-Once Optimization in KV Cache for Efficient Multimodal Long-Context Inference\"",
+      "stars": 104,
+      "source": "github"
+    },
+    {
+      "title": "OpenBitSys/BitDecoding",
+      "url": "https://github.com/OpenBitSys/BitDecoding",
+      "description": "[HPCA 2026] A GPU-optimized system for efficient long-context LLMs decoding with low-bit KV cache.",
+      "stars": 82,
+      "source": "github"
+    },
+    {
+      "title": "psmarter/CUDA-Practice",
+      "url": "https://github.com/psmarter/CUDA-Practice",
+      "description": "CUDA编程练习项目-Hands-on CUDA kernels and performance optimization, covering GEMM, FlashAttention, Tensor Cores, CUTLASS, quantization, KV cache, NCCL, and profiling.",
+      "stars": 75,
+      "source": "github"
+    },
+    {
+      "title": "Linking-ai/SCOPE",
+      "url": "https://github.com/Linking-ai/SCOPE",
+      "description": "(ACL 2025 oral) SCOPE: Optimizing KV Cache Compression in Long-context Generation",
+      "stars": 34,
+      "source": "github"
+    },
+    {
+      "title": "xuyang-liu16/MixKV",
+      "url": "https://github.com/xuyang-liu16/MixKV",
+      "description": "[ICLR 2026] Mixing Importance with Diversity: Joint Optimization for KV Cache Compression in Large Vision-Language Models",
+      "stars": 27,
+      "source": "github"
+    },
+    {
+      "title": "ydyhello/TailorKV",
+      "url": "https://github.com/ydyhello/TailorKV",
+      "description": "Official implementation of \"TailorKV: A Hybrid Framework for Long-Context Inference via Tailored KV Cache Optimization\" (Findings of ACL 2025).",
+      "stars": 21,
+      "source": "github"
+    },
+    {
+      "title": "ksm26/Efficiently-Serving-LLMs",
+      "url": "https://github.com/ksm26/Efficiently-Serving-LLMs",
+      "description": "Learn the ins and outs of efficiently serving Large Language Models (LLMs). Dive into optimization techniques, including KV caching and Low Rank Adapters (LoRA), and gain hands-on experience with Predibase’s LoRAX framework inference server.",
+      "stars": 19,
+      "source": "github"
+    },
+    {
+      "title": "icza/kvcache",
+      "url": "https://github.com/icza/kvcache",
+      "description": "Simple, optimized, embedded, persistent (file-based) key-value cache",
+      "stars": 13,
+      "source": "github"
+    },
+    {
+      "title": "tumma72/mlx-manager",
+      "url": "https://github.com/tumma72/mlx-manager",
+      "description": "An optimized MLX (Apple Silicon Metal) Server for running local LLMs with higher performance inference using KV cache, batching, and parallel processing. Easy to configure UI and support for both OpenAI and Anthropic protocols",
+      "stars": 5,
+      "source": "github"
+    },
+    {
+      "title": "Chelsi-create/KV_Cache_Optimization",
+      "url": "https://github.com/Chelsi-create/KV_Cache_Optimization",
+      "description": "This project develops a high-performance KV-cache management framework for multi-document RAG tasks. It focuses on reducing time-per-output-token (TPOT) and improving throughput through adaptive cache scheduling, GPU–CPU offloading, and reuse of cross-document attention states.",
+      "stars": 4,
+      "source": "github"
+    },
+    {
+      "title": "PKU-SEC-Lab/KEEP_Embodied_Memory",
+      "url": "https://github.com/PKU-SEC-Lab/KEEP_Embodied_Memory",
+      "description": "KEEP：Official code for \"KEEP: A KV-Cache-Centric Memory Management System for Efficient Embodied Planning\". A memory management system optimized for embodied planning via static-dynamic memory construction and KV cache re-computation, reducing memory overhead and improving inference speed.",
+      "stars": 4,
+      "source": "github"
+    },
+    {
+      "title": "2404589803/LowMemoryLLM",
+      "url": "https://github.com/2404589803/LowMemoryLLM",
+      "description": "🚀 LowMemoryLLM is A lightweight C-based LLM inference engine optimized for memory-constrained environments.  ✨ Features: - 📊 Multiple quantization (INT8/4/2) - 💾 Smart memory management - 🔄 Efficient KV-cache  Built for edge devices and systems with limited RAM. Pure C, fast and lightweight!",
+      "stars": 4,
+      "source": "github"
+    },
+    {
+      "title": "MaanasTaneja/cuda-kv-cache-compression",
+      "url": "https://github.com/MaanasTaneja/cuda-kv-cache-compression",
+      "description": "High-performance CUDA implementation of per-channel INT8 KV-cache quantization, exploring memory-bound optimizations including tiling, thread coarsening, and vectorized loads.",
+      "stars": 3,
+      "source": "github"
+    },
+    {
+      "title": "Greg-Tarr/tpa_pytorch",
+      "url": "https://github.com/Greg-Tarr/tpa_pytorch",
+      "description": "Simple (slightly optimized) implementation of Tensor Product Attention from the T6 paper with a KV cache",
+      "stars": 3,
+      "source": "github"
+    },
+    {
+      "title": "brandonkeung/hpml-longctx-optim",
+      "url": "https://github.com/brandonkeung/hpml-longctx-optim",
+      "description": "Optimizing long-context LLM inference by integrating Flash/FlexAttention and L2 KV-cache compression. Benchmarks up to 32k tokens on latency, throughput, memory usage, and task quality to demonstrate faster, lighter, and scalable inference.",
+      "stars": 3,
+      "source": "github"
+    },
+    {
+      "title": "mohamedAtoui/KV-cache-optimization",
+      "url": "https://github.com/mohamedAtoui/KV-cache-optimization",
+      "description": null,
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "vinay-jayanna/KV-Cache-LLM",
+      "url": "https://github.com/vinay-jayanna/KV-Cache-LLM",
+      "description": "This repository contains code implementations and benchmarks demonstrating how KV Caching optimizes Transformer inference by reducing redundant computation.",
+      "stars": 2,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.297,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.135,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

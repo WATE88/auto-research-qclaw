@@ -1,0 +1,166 @@
+{
+  "topic": "LLM fine-tuning optimization",
+  "timestamp": "2026-04-07T12:15:38.403828",
+  "findings": [
+    {
+      "title": "kvcache-ai/ktransformers",
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "stars": 16905,
+      "source": "github"
+    },
+    {
+      "title": "sandy1990418/Finetune-Qwen2.5-VL",
+      "url": "https://github.com/sandy1990418/Finetune-Qwen2.5-VL",
+      "description": "Fine-tuning Qwen2.5-VL for vision-language tasks | Optimized for Vision understanding | LoRA & PEFT support.",
+      "stars": 157,
+      "source": "github"
+    },
+    {
+      "title": "TUDB-Labs/MoE-PEFT",
+      "url": "https://github.com/TUDB-Labs/MoE-PEFT",
+      "description": "An Efficient LLM Fine-Tuning Factory Optimized for MoE PEFT",
+      "stars": 136,
+      "source": "github"
+    },
+    {
+      "title": "ZO-Bench/ZO-LLM",
+      "url": "https://github.com/ZO-Bench/ZO-LLM",
+      "description": "[ICML‘24] Official code for the paper \"Revisiting Zeroth-Order Optimization for Memory-Efficient LLM Fine-Tuning: A Benchmark \".",
+      "stars": 126,
+      "source": "github"
+    },
+    {
+      "title": "Simplifine-gamedev/Simplifine",
+      "url": "https://github.com/Simplifine-gamedev/Simplifine",
+      "description": "🚀 Easy, open-source LLM finetuning with one-line commands, seamless cloud integration, and popular optimization frameworks. ✨",
+      "stars": 96,
+      "source": "github"
+    },
+    {
+      "title": "sinanuozdemir/oreilly-optimizing-llms",
+      "url": "https://github.com/sinanuozdemir/oreilly-optimizing-llms",
+      "description": "Optimizing LLMs with Fine-Tuning and Prompt Engineering",
+      "stars": 87,
+      "source": "github"
+    },
+    {
+      "title": "WillowHe/EvoOpt_oppangu_optimization_model",
+      "url": "https://github.com/WillowHe/EvoOpt_oppangu_optimization_model",
+      "description": "A set of solutions is provided, leveraging Openpangu - 7B as the base model for fine - tuning and application of large language models (LLMs) in operations research optimization tasks. ",
+      "stars": 74,
+      "source": "github"
+    },
+    {
+      "title": "AI-Maker-Space/LLM-Engineering-Foundations-to-SLMs-Open-Source",
+      "url": "https://github.com/AI-Maker-Space/LLM-Engineering-Foundations-to-SLMs-Open-Source",
+      "description": "Large Language Model Engineering (LLM Engineering) refers to the emerging best-practices and tools for pretraining, post-training, and optimizing LLMs prior to production deployment.  Pre- and post-training techniques include unsupervised pretraining, supervised fine-tuning, alignment, model merging, distillation, quantization. and others.",
+      "stars": 69,
+      "source": "github"
+    },
+    {
+      "title": "sinanuozdemir/building-agentic-ai",
+      "url": "https://github.com/sinanuozdemir/building-agentic-ai",
+      "description": "Code repository for \"Building Agentic AI\" by Sinan Ozdemir. Practical examples, experiments, and implementations covering LLMs, embeddings, agents, RAG, fine-tuning, and optimization.",
+      "stars": 64,
+      "source": "github"
+    },
+    {
+      "title": "yai333/Text-to-SQL-GRPO-Fine-tuning-Pipeline",
+      "url": "https://github.com/yai333/Text-to-SQL-GRPO-Fine-tuning-Pipeline",
+      "description": "This repository contains a pipeline for fine-tuning Large Language Models (LLMs) for Text-to-SQL conversion using General Reward Proximal Optimization (GRPO). ",
+      "stars": 46,
+      "source": "github"
+    },
+    {
+      "title": "Cre4T3Tiv3/unsloth-llama3-alpaca-lora",
+      "url": "https://github.com/Cre4T3Tiv3/unsloth-llama3-alpaca-lora",
+      "description": "Custom model training using modern architectures. 4-bit QLoRA fine-tuning pipeline for LLaMA 3 8B with production-grade optimization. Memory-efficient training on consumer GPUs. Published adapter on HuggingFace. From training pipeline to deployed model.",
+      "stars": 34,
+      "source": "github"
+    },
+    {
+      "title": "Refinath/DPO_LLM_finetuning",
+      "url": "https://github.com/Refinath/DPO_LLM_finetuning",
+      "description": "Implementation of Direct Preference Optimization (DPO) for fine-tuning large language models, including training pipelines, dataset handling, and experiment configurations for preference-based model alignment.",
+      "stars": 30,
+      "source": "github"
+    },
+    {
+      "title": "OPPO-Mente-Lab/DaMo",
+      "url": "https://github.com/OPPO-Mente-Lab/DaMo",
+      "description": "The official implement of paper 《DaMo: Data Mixing Optimizer in Fine-tuning Multimodal LLMs for Mobile Phone Agents》",
+      "stars": 30,
+      "source": "github"
+    },
+    {
+      "title": "samadon1/LLM-From-Scratch",
+      "url": "https://github.com/samadon1/LLM-From-Scratch",
+      "description": "Medical Language Model fine-tuned using pretraining, instruction tuning, and Direct Preference Optimization (DPO). Progresses from general medical knowledge to specific instruction following, with experiments in preference alignment for improved medical text generation and understanding.",
+      "stars": 29,
+      "source": "github"
+    },
+    {
+      "title": "Glavin001/Data2AITextbook",
+      "url": "https://github.com/Glavin001/Data2AITextbook",
+      "description": "🚀 Automatically convert unstructured data into a high-quality 'textbook' format, optimized for fine-tuning Large Language Models (LLMs)",
+      "stars": 26,
+      "source": "github"
+    },
+    {
+      "title": "Yanjun-Zhao/HiZOO",
+      "url": "https://github.com/Yanjun-Zhao/HiZOO",
+      "description": "Second-Order Fine-Tuning without Pain for LLMs: a Hessian Informed Zeroth-Order Optimizer",
+      "stars": 24,
+      "source": "github"
+    },
+    {
+      "title": "Koratahiu/Advanced_Optimizers",
+      "url": "https://github.com/Koratahiu/Advanced_Optimizers",
+      "description": "A family of highly efficient, lightweight yet powerful optimizers.",
+      "stars": 22,
+      "source": "github"
+    },
+    {
+      "title": "scalexi/scalexi",
+      "url": "https://github.com/scalexi/scalexi",
+      "description": "scalexi is a versatile open-source Python library, optimized for Python 3.11+, focuses on facilitating low-code development and fine-tuning of diverse Large Language Models (LLMs). ",
+      "stars": 13,
+      "source": "github"
+    },
+    {
+      "title": "Minami-su/deepspeed-grpo-qlora-vllm",
+      "url": "https://github.com/Minami-su/deepspeed-grpo-qlora-vllm",
+      "description": "This repository, deepspeed-grpo-qlora-vllm, provides a complete framework for fine-tuning LLMs using Group Relative Policy Optimization (GRPO) on 4-bit quantized models (QLoRA). It utilizes DeepSpeed ZeRO-3 for scalable training and integrates with a VLLM server to dynamically serve the fine-tuned LoRA adapters.",
+      "stars": 13,
+      "source": "github"
+    },
+    {
+      "title": "oswaldoludwig/kappaTune",
+      "url": "https://github.com/oswaldoludwig/kappaTune",
+      "description": "A PyTorch-based optimizer wrapper for continual learning via selective fine-tuning, guided by the condition number κ (kappa) of model tensors. KappaTune identifies and updates only the least anisotropic parameters to preserve pre-trained knowledge and mitigate catastrophic forgetting.",
+      "stars": 12,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.565,
+    "grade": "B",
+    "dimensions": {
+      "authority": 0.9,
+      "star_power": 0.053,
+      "diversity": 0.0,
+      "coverage": 1.0,
+      "ndcg": 0.639,
+      "map": 0.955,
+      "mrr": 1.0,
+      "rouge_1": 0.613,
+      "semantic_sim": 0.256,
+      "task_completion": 0.473,
+      "tool_use": 0.05,
+      "reasoning_depth": 0.0,
+      "autonomy": 0.1
+    }
+  }
+}

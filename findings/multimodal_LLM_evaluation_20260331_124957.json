@@ -1,0 +1,174 @@
+{
+  "topic": "multimodal LLM evaluation",
+  "timestamp": "2026-03-31T12:49:57.211399",
+  "findings": [
+    {
+      "title": "stanford-crfm/helm",
+      "url": "https://github.com/stanford-crfm/helm",
+      "description": "Holistic Evaluation of Language Models (HELM) is an open source Python framework created by the Center for Research on Foundation Models (CRFM) at Stanford for holistic, reproducible and transparent evaluation of foundation models, including large language models (LLMs) and multimodal models.",
+      "stars": 2725,
+      "source": "github"
+    },
+    {
+      "title": "MMMU-Benchmark/MMMU",
+      "url": "https://github.com/MMMU-Benchmark/MMMU",
+      "description": "This repo contains evaluation code for the paper \"MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI\"",
+      "stars": 551,
+      "source": "github"
+    },
+    {
+      "title": "AILab-CVC/SEED-Bench",
+      "url": "https://github.com/AILab-CVC/SEED-Bench",
+      "description": "(CVPR2024)A benchmark for evaluating Multimodal LLMs using multiple-choice questions.",
+      "stars": 363,
+      "source": "github"
+    },
+    {
+      "title": "alibaba-damo-academy/MedEvalKit",
+      "url": "https://github.com/alibaba-damo-academy/MedEvalKit",
+      "description": "MedEvalKit: A Unified Medical Evaluation Framework",
+      "stars": 220,
+      "source": "github"
+    },
+    {
+      "title": "MMStar-Benchmark/MMStar",
+      "url": "https://github.com/MMStar-Benchmark/MMStar",
+      "description": "[NeurIPS 2024] This repo contains evaluation code for the paper \"Are We on the Right Way for Evaluating Large Vision-Language Models\"",
+      "stars": 206,
+      "source": "github"
+    },
+    {
+      "title": "swordlidev/Evaluation-Multimodal-LLMs-Survey",
+      "url": "https://github.com/swordlidev/Evaluation-Multimodal-LLMs-Survey",
+      "description": "A Survey on Benchmarks of Multimodal Large Language Models",
+      "stars": 150,
+      "source": "github"
+    },
+    {
+      "title": "MBZUAI-LLM/web2code",
+      "url": "https://github.com/MBZUAI-LLM/web2code",
+      "description": "Web2Code: A Large-scale Webpage-to-Code Dataset and Evaluation Framework for Multimodal LLMs",
+      "stars": 102,
+      "source": "github"
+    },
+    {
+      "title": "EvolvingLMMs-Lab/EASI",
+      "url": "https://github.com/EvolvingLMMs-Lab/EASI",
+      "description": "Holistic Evaluation of Multimodal LLMs on Spatial Intelligence",
+      "stars": 92,
+      "source": "github"
+    },
+    {
+      "title": "uni-medical/GMAI-MMBench",
+      "url": "https://github.com/uni-medical/GMAI-MMBench",
+      "description": "GMAI-MMBench: A Comprehensive Multimodal Evaluation Benchmark Towards General Medical AI.",
+      "stars": 83,
+      "source": "github"
+    },
+    {
+      "title": "FreedomIntelligence/MLLM-Bench",
+      "url": "https://github.com/FreedomIntelligence/MLLM-Bench",
+      "description": "MLLM-Bench: Evaluating Multimodal LLMs with Per-sample Criteria",
+      "stars": 73,
+      "source": "github"
+    },
+    {
+      "title": "VisualWebBench/VisualWebBench",
+      "url": "https://github.com/VisualWebBench/VisualWebBench",
+      "description": "Evaluation framework for paper \"VisualWebBench: How Far Have Multimodal LLMs Evolved in Web Page Understanding and Grounding?\"",
+      "stars": 65,
+      "source": "github"
+    },
+    {
+      "title": "thunlp/EmbodiedEval",
+      "url": "https://github.com/thunlp/EmbodiedEval",
+      "description": "Evaluate Multimodal LLMs as Embodied Agents",
+      "stars": 56,
+      "source": "github"
+    },
+    {
+      "title": "FudanDISC/ReForm-Eval",
+      "url": "https://github.com/FudanDISC/ReForm-Eval",
+      "description": "An benchmark for evaluating the capabilities of large vision-language models (LVLMs)",
+      "stars": 46,
+      "source": "github"
+    },
+    {
+      "title": "JaaackHongggg/WorldSense",
+      "url": "https://github.com/JaaackHongggg/WorldSense",
+      "description": "WorldSense: Evaluating Real-world Omnimodal Understanding for Multimodal LLMs",
+      "stars": 44,
+      "source": "github"
+    },
+    {
+      "title": "apple/ml-mia-bench",
+      "url": "https://github.com/apple/ml-mia-bench",
+      "description": "This repo contains code and data for ICLR 2025 paper MIA-Bench: Towards Better Instruction Following Evaluation of Multimodal LLMs",
+      "stars": 38,
+      "source": "github"
+    },
+    {
+      "title": "MileBench/MileBench",
+      "url": "https://github.com/MileBench/MileBench",
+      "description": "This repo contains evaluation code for the paper \"MileBench: Benchmarking MLLMs in Long Context\"",
+      "stars": 36,
+      "source": "github"
+    },
+    {
+      "title": "aimagelab/awesome-captioning-evaluation",
+      "url": "https://github.com/aimagelab/awesome-captioning-evaluation",
+      "description": "[IJCAI 2025] Image Captioning Evaluation in the Age of Multimodal LLMs: Challenges and Future Perspectives",
+      "stars": 32,
+      "source": "github"
+    },
+    {
+      "title": "AV-Odyssey/AV-Odyssey",
+      "url": "https://github.com/AV-Odyssey/AV-Odyssey",
+      "description": "This repo contains evaluation code for the paper \"AV-Odyssey: Can Your Multimodal LLMs Really Understand Audio-Visual Information?\"",
+      "stars": 31,
+      "source": "github"
+    },
+    {
+      "title": "bunnelab/mtbbench",
+      "url": "https://github.com/bunnelab/mtbbench",
+      "description": "MTBBench is a benchmark designed to evaluate the reasoning capabilities of multimodal large language models (LLMs) in complex clinical decision-making scenarios. It focuses on two core challenges in oncology: multimodal integration (e.g., pathology, genomics, radiology) and longitudinal reasoning across patient timelines. ",
+      "stars": 27,
+      "source": "github"
+    },
+    {
+      "title": "CyberChangAn/MultiPriv-PII",
+      "url": "https://github.com/CyberChangAn/MultiPriv-PII",
+      "description": "MultiPriv offers multilingual, multimodal PII entities and prompts for studying privacy risks in LLMs/VLMs. It also supports broader PII-related privacy research in diverse analysis and evaluation settings.",
+      "stars": 26,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.432,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.45,
+      "star_power": 0.091,
+      "diversity": 0.0,
+      "usability": 0.0,
+      "applicability": 0.95,
+      "coverage": 1.0,
+      "ndcg": 0.789,
+      "map": 1.0,
+      "mrr": 1.0,
+      "rouge_1": 0.483,
+      "semantic_sim": 0.223,
+      "coherence": 0.196,
+      "task_completion": 0.474,
+      "tool_use": 0.048,
+      "reasoning_depth": 0.013,
+      "autonomy": 0.013,
+      "multi_agent": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

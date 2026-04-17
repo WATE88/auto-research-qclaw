@@ -1,0 +1,280 @@
+{
+  "topic": "model quantization",
+  "timestamp": "2026-04-13T11:06:35.551522",
+  "findings": [
+    {
+      "title": "bitsandbytes-foundation/bitsandbytes",
+      "url": "https://github.com/bitsandbytes-foundation/bitsandbytes",
+      "description": "Accessible large language models via k-bit quantization for PyTorch.",
+      "stars": 8109,
+      "source": "github"
+    },
+    {
+      "title": "Lightning-AI/lit-llama",
+      "url": "https://github.com/Lightning-AI/lit-llama",
+      "description": "Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.",
+      "stars": 6079,
+      "source": "github"
+    },
+    {
+      "title": "OpenNMT/CTranslate2",
+      "url": "https://github.com/OpenNMT/CTranslate2",
+      "description": "Fast inference engine for Transformer models",
+      "stars": 4424,
+      "source": "github"
+    },
+    {
+      "title": "nunchaku-ai/nunchaku",
+      "url": "https://github.com/nunchaku-ai/nunchaku",
+      "description": "[ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models",
+      "stars": 3786,
+      "source": "github"
+    },
+    {
+      "title": "city96/ComfyUI-GGUF",
+      "url": "https://github.com/city96/ComfyUI-GGUF",
+      "description": "GGUF Quantization support for native ComfyUI models",
+      "stars": 3480,
+      "source": "github"
+    },
+    {
+      "title": "thu-ml/SageAttention",
+      "url": "https://github.com/thu-ml/SageAttention",
+      "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
+      "stars": 3291,
+      "source": "github"
+    },
+    {
+      "title": "huawei-noah/Pretrained-Language-Model",
+      "url": "https://github.com/huawei-noah/Pretrained-Language-Model",
+      "description": "Pretrained language model and its related optimization techniques developed by Huawei Noah's Ark Lab.",
+      "stars": 3158,
+      "source": "github"
+    },
+    {
+      "title": "IntelLabs/nlp-architect",
+      "url": "https://github.com/IntelLabs/nlp-architect",
+      "description": "A model library for exploring state-of-the-art deep learning topologies and techniques for optimizing Natural Language Processing neural networks",
+      "stars": 2934,
+      "source": "github"
+    },
+    {
+      "title": "aaron-xichen/pytorch-playground",
+      "url": "https://github.com/aaron-xichen/pytorch-playground",
+      "description": "Base pretrained models and datasets in pytorch (MNIST, SVHN, CIFAR10, CIFAR100, STL10, AlexNet, VGG16, VGG19, ResNet, Inception, SqueezeNet)",
+      "stars": 2714,
+      "source": "github"
+    },
+    {
+      "title": "intel/neural-compressor",
+      "url": "https://github.com/intel/neural-compressor",
+      "description": "SOTA low-bit LLM quantization (INT8/FP8/MXFP8/INT4/MXFP4/NVFP4) & sparsity; leading model compression techniques on PyTorch, TensorFlow, and ONNX Runtime",
+      "stars": 2613,
+      "source": "github"
+    },
+    {
+      "title": "quic/aimet",
+      "url": "https://github.com/quic/aimet",
+      "description": "AIMET is a library that provides advanced quantization and compression techniques for trained neural network models.",
+      "stars": 2592,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "stars": 2448,
+      "source": "github"
+    },
+    {
+      "title": "Efficient-ML/Awesome-Model-Quantization",
+      "url": "https://github.com/Efficient-ML/Awesome-Model-Quantization",
+      "description": "A list of papers, docs, codes about model quantization. This repo is aimed to provide the info for model quantization research, we are continuously improving the project. Welcome to PR the works (papers, repositories) that are missed by the repo.",
+      "stars": 2345,
+      "source": "github"
+    },
+    {
+      "title": "dvmazur/mixtral-offloading",
+      "url": "https://github.com/dvmazur/mixtral-offloading",
+      "description": "Run Mixtral-8x7B models in Colab or consumer desktops",
+      "stars": 2329,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/Olive",
+      "url": "https://github.com/microsoft/Olive",
+      "description": "Olive: Simplify ML Model Finetuning, Conversion, Quantization, and Optimization for CPUs, GPUs and NPUs.",
+      "stars": 2293,
+      "source": "github"
+    },
+    {
+      "title": "666DZY666/micronet",
+      "url": "https://github.com/666DZY666/micronet",
+      "description": "micronet, a model compression and deploy lib. compression: 1、quantization: quantization-aware-training(QAT), High-Bit(>2b)(DoReFa/Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference)、Low-Bit(≤2b)/Ternary and Binary(TWN/BNN/XNOR-Net); post-training-quantization(PTQ), 8-bit(tensorrt); 2、 pruning: normal、regular and group convolutional channel pruning; 3、 group convolution structure; 4、batch-normalization fuse for quantization. deploy: tensorrt, fp32/fp16/int8(ptq-calibration)、op-adapt(upsample)、dynamic_shape",
+      "stars": 2269,
+      "source": "github"
+    },
+    {
+      "title": "open-mmlab/mmrazor",
+      "url": "https://github.com/open-mmlab/mmrazor",
+      "description": "OpenMMLab Model Compression Toolbox and Benchmark.",
+      "stars": 1667,
+      "source": "github"
+    },
+    {
+      "title": "mit-han-lab/smoothquant",
+      "url": "https://github.com/mit-han-lab/smoothquant",
+      "description": "[ICML 2023] SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models",
+      "stars": 1632,
+      "source": "github"
+    },
+    {
+      "title": "PaddlePaddle/PaddleSlim",
+      "url": "https://github.com/PaddlePaddle/PaddleSlim",
+      "description": "PaddleSlim is an open-source library for deep model compression and architecture search.",
+      "stars": 1613,
+      "source": "github"
+    },
+    {
+      "title": "tensorflow/model-optimization",
+      "url": "https://github.com/tensorflow/model-optimization",
+      "description": "A toolkit to optimize ML models for deployment for Keras and TensorFlow, including quantization and pruning.",
+      "stars": 1568,
+      "source": "github"
+    },
+    {
+      "title": "Tango: Taming Visual Signals for Efficient Video Large Language Models",
+      "url": "http://arxiv.org/abs/2604.09547v1",
+      "abstract": "Token pruning has emerged as a mainstream approach for developing efficient Video Large Language Models (Video LLMs). This work revisits and advances the two predominant token-pruning paradigms: attention-based selection and similarity-based clustering. Our study reveals two critical limitations in ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism",
+      "url": "http://arxiv.org/abs/2604.09544v1",
+      "abstract": "Large language models (LLMs) undergo alignment training to avoid harmful behaviors, yet the resulting safeguards remain brittle: jailbreaks routinely bypass them, and fine-tuning on narrow domains can induce ``emergent misalignment'' that generalizes broadly. Whether this brittleness reflects a fund",
+      "source": "arxiv"
+    },
+    {
+      "title": "ANTIC: Adaptive Neural Temporal In-situ Compressor",
+      "url": "http://arxiv.org/abs/2604.09543v1",
+      "abstract": "The persistent storage requirements for high-resolution, spatiotemporally evolving fields governed by large-scale and high-dimensional partial differential equations (PDEs) have reached the petabyte-to-exabyte scale. Transient simulations modeling Navier-Stokes equations, magnetohydrodynamics, plasm",
+      "source": "arxiv"
+    },
+    {
+      "title": "The missing ultra-faint satellites of the Milky Way",
+      "url": "http://arxiv.org/abs/2604.09539v1",
+      "abstract": "We combine the highest resolution N-body simulation of a $\\sim 10^{12}\\, M_\\odot$ $Λ$CDM halo (Aquarius-A) with the {\\sc GALFORM} galaxy formation semianalytic model to study the full satellite population expected in a MW-like galaxy. The model assumes that galaxies only form in subhalos whose peak ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Case-Grounded Evidence Verification: A Framework for Constructing Evidence-Sensitive Supervision",
+      "url": "http://arxiv.org/abs/2604.09537v1",
+      "abstract": "Evidence-grounded reasoning requires more than attaching retrieved text to a prediction: a model should make decisions that depend on whether the provided evidence supports the target claim. In practice, this often fails because supervision is weak, evidence is only loosely tied to the claim, and ev",
+      "source": "arxiv"
+    },
+    {
+      "title": "EgoTL: Egocentric Think-Aloud Chains for Long-Horizon Tasks",
+      "url": "http://arxiv.org/abs/2604.09535v1",
+      "abstract": "Large foundation models have made significant advances in embodied intelligence, enabling synthesis and reasoning over egocentric input for household tasks. However, VLM-based auto-labeling is often noisy because the primary data sources lack accurate human action labels, chain-of-thought (CoT), and",
+      "source": "arxiv"
+    },
+    {
+      "title": "Seeing is Believing: Robust Vision-Guided Cross-Modal Prompt Learning under Label Noise",
+      "url": "http://arxiv.org/abs/2604.09532v1",
+      "abstract": "Prompt learning is a parameter-efficient approach for vision-language models, yet its robustness under label noise is less investigated. Visual content contains richer and more reliable semantic information, which remains more robust under label noise. However, the prompt itself is highly susceptibl",
+      "source": "arxiv"
+    },
+    {
+      "title": "VisionFoundry: Teaching VLMs Visual Perception with Synthetic Images",
+      "url": "http://arxiv.org/abs/2604.09531v1",
+      "abstract": "Vision-language models (VLMs) still struggle with visual perception tasks such as spatial understanding and viewpoint recognition. One plausible contributing factor is that natural image datasets provide limited supervision for low-level visual skills. This motivates a practical question: can target",
+      "source": "arxiv"
+    },
+    {
+      "title": "Slow-moving pattern interfaces in general directions for a two-dimensional Swift-Hohenberg-type equation",
+      "url": "http://arxiv.org/abs/2604.09530v1",
+      "abstract": "We rigorously prove the bifurcation of slow-moving pattern interfaces with general direction in a two-dimensional Swift-Hohenberg-type model close to a Turing instability for a large class of nonlinearities. These interfaces describe the invasion of stripe and hexagonal patterns into the spatially h",
+      "source": "arxiv"
+    },
+    {
+      "title": "VL-Calibration: Decoupled Confidence Calibration for Large Vision-Language Models Reasoning",
+      "url": "http://arxiv.org/abs/2604.09529v1",
+      "abstract": "Large Vision Language Models (LVLMs) achieve strong multimodal reasoning but frequently exhibit hallucinations and incorrect responses with high certainty, which hinders their usage in high-stakes domains. Existing verbalized confidence calibration methods, largely developed for text-only LLMs, typi",
+      "source": "arxiv"
+    },
+    {
+      "title": "Machine Learning Phase Field Reconstruction in a Bose-Einstein Condensate",
+      "url": "http://arxiv.org/abs/2604.09528v1",
+      "abstract": "A basic challenge in experimental physics is the extraction of information related to variables that are not directly measured. The challenge is particularly severe in quantum systems where one may be interested in correlations of operators that are not diagonal in the measurement basis. In this pap",
+      "source": "arxiv"
+    },
+    {
+      "title": "Envisioning the Future, One Step at a Time",
+      "url": "http://arxiv.org/abs/2604.09527v1",
+      "abstract": "Accurately anticipating how complex, diverse scenes will evolve requires models that represent uncertainty, simulate along extended interaction chains, and efficiently explore many plausible futures. Yet most existing approaches rely on dense video or latent-space prediction, expending substantial c",
+      "source": "arxiv"
+    },
+    {
+      "title": "High-Contrast Imaging of Forming Protoplanets: VLTs, JWST, and the Promise of ELT",
+      "url": "http://arxiv.org/abs/2604.09526v1",
+      "abstract": "Planet formation remains a fundamentally important yet poorly understood process. Protoplanetary disks, the birthplaces of planetary systems, exhibit a wide range of substructures that are increasingly interpreted as signatures of interactions with forming planets. However, the direct detection rate",
+      "source": "arxiv"
+    },
+    {
+      "title": "Gardening on the Moon: An Advection-Diffusion Model to Guide the Search for Supernova Debris in the Lunar Regolith",
+      "url": "http://arxiv.org/abs/2604.09524v1",
+      "abstract": "The vertical redistribution of materials in the lunar regolith - ranging from continuously produced space-weathering products to sporadic pulses of supernova- or kilonova-derived isotopes - remains a fundamental problem in planetary science. We present a unified stochastic model of regolith gardenin",
+      "source": "arxiv"
+    },
+    {
+      "title": "Toward World Models for Epidemiology",
+      "url": "http://arxiv.org/abs/2604.09519v1",
+      "abstract": "World models have emerged as a unifying paradigm for learning latent dynamics, simulating counterfactual futures, and supporting planning under uncertainty. In this paper, we argue that computational epidemiology is a natural and underdeveloped setting for world models. This is because epidemic deci",
+      "source": "arxiv"
+    },
+    {
+      "title": "The k-MENDEL sample of local analogs to reionization galaxies. Spectral identification of EELGs and properties of green peas in DESI",
+      "url": "http://arxiv.org/abs/2604.09516v1",
+      "abstract": "Low-mass galaxies with intense starbursts exhibit spectra dominated by extreme nebular emission and faint stellar continua. These extreme emission-line galaxies (EELGs) are key laboratories to study star formation, feedback, and ionizing photon escape in low-metallicity environments. We exploit the ",
+      "source": "arxiv"
+    },
+    {
+      "title": "When LLMs Lag Behind: Knowledge Conflicts from Evolving APIs in Code Generation",
+      "url": "http://arxiv.org/abs/2604.09515v1",
+      "abstract": "The rapid evolution of software libraries creates a significant challenge for Large Language Models (LLMs), whose static parametric knowledge often becomes stale post-training. While retrieval-augmented generation (RAG) is commonly used to provide up-to-date API specifications, \"context-memory confl",
+      "source": "arxiv"
+    },
+    {
+      "title": "Many Ways to Be Fake: Benchmarking Fake News Detection Under Strategy-Driven AI Generation",
+      "url": "http://arxiv.org/abs/2604.09514v1",
+      "abstract": "Recent advances in large language models (LLMs) have enabled the large-scale generation of highly fluent and deceptive news-like content. While prior work has often treated fake news detection as a binary classification problem, modern fake news increasingly arises through human-AI collaboration, wh",
+      "source": "arxiv"
+    },
+    {
+      "title": "Integrated electro-optic attention nonlinearities for transformers",
+      "url": "http://arxiv.org/abs/2604.09512v1",
+      "abstract": "Transformers have emerged as the dominant neural-network architecture, achieving state-of-the-art performance in language processing and computer vision. At the core of these models lies the attention mechanism, which requires a nonlinear, non-negative mapping using the Softmax function. However, al",
+      "source": "arxiv"
+    },
+    {
+      "title": "RIRF: Reasoning Image Restoration Framework",
+      "url": "http://arxiv.org/abs/2604.09511v1",
+      "abstract": "Universal image restoration (UIR) aims to recover clean images from diverse and unknown degradations using a unified model. Existing UIR methods primarily focus on pixel reconstruction and often lack explicit diagnostic reasoning over degradation composition, severity, and scene semantics prior to r",
+      "source": "arxiv"
+    }
+  ],
+  "quality": {
+    "total": 40,
+    "quality_score": 0.468,
+    "dimensions": {
+      "authority": 0.95,
+      "quality": 0.025,
+      "star_power": 0.378,
+      "diversity": 0.5
+    },
+    "sources_breakdown": {
+      "github": 20,
+      "arxiv": 20
+    }
+  }
+}

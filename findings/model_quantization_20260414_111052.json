@@ -1,0 +1,280 @@
+{
+  "topic": "model quantization",
+  "timestamp": "2026-04-14T11:10:52.270054",
+  "findings": [
+    {
+      "title": "bitsandbytes-foundation/bitsandbytes",
+      "url": "https://github.com/bitsandbytes-foundation/bitsandbytes",
+      "description": "Accessible large language models via k-bit quantization for PyTorch.",
+      "stars": 8113,
+      "source": "github"
+    },
+    {
+      "title": "Lightning-AI/lit-llama",
+      "url": "https://github.com/Lightning-AI/lit-llama",
+      "description": "Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.",
+      "stars": 6079,
+      "source": "github"
+    },
+    {
+      "title": "OpenNMT/CTranslate2",
+      "url": "https://github.com/OpenNMT/CTranslate2",
+      "description": "Fast inference engine for Transformer models",
+      "stars": 4425,
+      "source": "github"
+    },
+    {
+      "title": "nunchaku-ai/nunchaku",
+      "url": "https://github.com/nunchaku-ai/nunchaku",
+      "description": "[ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models",
+      "stars": 3789,
+      "source": "github"
+    },
+    {
+      "title": "city96/ComfyUI-GGUF",
+      "url": "https://github.com/city96/ComfyUI-GGUF",
+      "description": "GGUF Quantization support for native ComfyUI models",
+      "stars": 3482,
+      "source": "github"
+    },
+    {
+      "title": "thu-ml/SageAttention",
+      "url": "https://github.com/thu-ml/SageAttention",
+      "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
+      "stars": 3294,
+      "source": "github"
+    },
+    {
+      "title": "huawei-noah/Pretrained-Language-Model",
+      "url": "https://github.com/huawei-noah/Pretrained-Language-Model",
+      "description": "Pretrained language model and its related optimization techniques developed by Huawei Noah's Ark Lab.",
+      "stars": 3158,
+      "source": "github"
+    },
+    {
+      "title": "IntelLabs/nlp-architect",
+      "url": "https://github.com/IntelLabs/nlp-architect",
+      "description": "A model library for exploring state-of-the-art deep learning topologies and techniques for optimizing Natural Language Processing neural networks",
+      "stars": 2934,
+      "source": "github"
+    },
+    {
+      "title": "aaron-xichen/pytorch-playground",
+      "url": "https://github.com/aaron-xichen/pytorch-playground",
+      "description": "Base pretrained models and datasets in pytorch (MNIST, SVHN, CIFAR10, CIFAR100, STL10, AlexNet, VGG16, VGG19, ResNet, Inception, SqueezeNet)",
+      "stars": 2714,
+      "source": "github"
+    },
+    {
+      "title": "intel/neural-compressor",
+      "url": "https://github.com/intel/neural-compressor",
+      "description": "SOTA low-bit LLM quantization (INT8/FP8/MXFP8/INT4/MXFP4/NVFP4) & sparsity; leading model compression techniques on PyTorch, TensorFlow, and ONNX Runtime",
+      "stars": 2612,
+      "source": "github"
+    },
+    {
+      "title": "quic/aimet",
+      "url": "https://github.com/quic/aimet",
+      "description": "AIMET is a library that provides advanced quantization and compression techniques for trained neural network models.",
+      "stars": 2592,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "stars": 2464,
+      "source": "github"
+    },
+    {
+      "title": "Efficient-ML/Awesome-Model-Quantization",
+      "url": "https://github.com/Efficient-ML/Awesome-Model-Quantization",
+      "description": "A list of papers, docs, codes about model quantization. This repo is aimed to provide the info for model quantization research, we are continuously improving the project. Welcome to PR the works (papers, repositories) that are missed by the repo.",
+      "stars": 2348,
+      "source": "github"
+    },
+    {
+      "title": "dvmazur/mixtral-offloading",
+      "url": "https://github.com/dvmazur/mixtral-offloading",
+      "description": "Run Mixtral-8x7B models in Colab or consumer desktops",
+      "stars": 2329,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/Olive",
+      "url": "https://github.com/microsoft/Olive",
+      "description": "Olive: Simplify ML Model Finetuning, Conversion, Quantization, and Optimization for CPUs, GPUs and NPUs.",
+      "stars": 2295,
+      "source": "github"
+    },
+    {
+      "title": "666DZY666/micronet",
+      "url": "https://github.com/666DZY666/micronet",
+      "description": "micronet, a model compression and deploy lib. compression: 1、quantization: quantization-aware-training(QAT), High-Bit(>2b)(DoReFa/Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference)、Low-Bit(≤2b)/Ternary and Binary(TWN/BNN/XNOR-Net); post-training-quantization(PTQ), 8-bit(tensorrt); 2、 pruning: normal、regular and group convolutional channel pruning; 3、 group convolution structure; 4、batch-normalization fuse for quantization. deploy: tensorrt, fp32/fp16/int8(ptq-calibration)、op-adapt(upsample)、dynamic_shape",
+      "stars": 2269,
+      "source": "github"
+    },
+    {
+      "title": "open-mmlab/mmrazor",
+      "url": "https://github.com/open-mmlab/mmrazor",
+      "description": "OpenMMLab Model Compression Toolbox and Benchmark.",
+      "stars": 1667,
+      "source": "github"
+    },
+    {
+      "title": "mit-han-lab/smoothquant",
+      "url": "https://github.com/mit-han-lab/smoothquant",
+      "description": "[ICML 2023] SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models",
+      "stars": 1635,
+      "source": "github"
+    },
+    {
+      "title": "PaddlePaddle/PaddleSlim",
+      "url": "https://github.com/PaddlePaddle/PaddleSlim",
+      "description": "PaddleSlim is an open-source library for deep model compression and architecture search.",
+      "stars": 1613,
+      "source": "github"
+    },
+    {
+      "title": "tensorflow/model-optimization",
+      "url": "https://github.com/tensorflow/model-optimization",
+      "description": "A toolkit to optimize ML models for deployment for Keras and TensorFlow, including quantization and pruning.",
+      "stars": 1569,
+      "source": "github"
+    },
+    {
+      "title": "Pair2Scene: Learning Local Object Relations for Procedural Scene Generation",
+      "url": "http://arxiv.org/abs/2604.11808v1",
+      "abstract": "Generating high-fidelity 3D indoor scenes remains a significant challenge due to data scarcity and the complexity of modeling intricate spatial relations. Current methods often struggle to scale beyond training distribution to dense scenes or rely on LLMs/VLMs that lack the ability for precise spati",
+      "source": "arxiv"
+    },
+    {
+      "title": "Physics-Informed State Space Models for Reliable Solar Irradiance Forecasting in Off-Grid Systems",
+      "url": "http://arxiv.org/abs/2604.11807v1",
+      "abstract": "The stable operation of autonomous off-grid photovoltaic systems dictates reliance on solar forecasting algorithms that respect atmospheric thermodynamics. Contemporary deep learning models consistently exhibit critical anomalies, primarily severe temporal phase lags during cloud transients and phys",
+      "source": "arxiv"
+    },
+    {
+      "title": "Solving Physics Olympiad via Reinforcement Learning on Physics Simulators",
+      "url": "http://arxiv.org/abs/2604.11805v1",
+      "abstract": "We have witnessed remarkable advances in LLM reasoning capabilities with the advent of DeepSeek-R1. However, much of this progress has been fueled by the abundance of internet question-answer (QA) pairs, a major bottleneck going forward, since such data is limited in scale and concentrated mainly in",
+      "source": "arxiv"
+    },
+    {
+      "title": "OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation",
+      "url": "http://arxiv.org/abs/2604.11804v1",
+      "abstract": "In this work, we study Human-Object Interaction Video Generation (HOIVG), which aims to synthesize high-quality human-object interaction videos conditioned on text, reference images, audio, and pose. This task holds significant practical value for automating content creation in real-world applicatio",
+      "source": "arxiv"
+    },
+    {
+      "title": "Saar-Voice: A Multi-Speaker Saarbrücken Dialect Speech Corpus",
+      "url": "http://arxiv.org/abs/2604.11803v1",
+      "abstract": "Natural language processing (NLP) and speech technologies have made significant progress in recent years; however, they remain largely focused on standardized language varieties. Dialects, despite their cultural significance and widespread use, are underrepresented in linguistic resources and comput",
+      "source": "arxiv"
+    },
+    {
+      "title": "Psychological Concept Neurons: Can Neural Control Bias Probing and Shift Generation in LLMs?",
+      "url": "http://arxiv.org/abs/2604.11802v1",
+      "abstract": "Using psychological constructs such as the Big Five, large language models (LLMs) can imitate specific personality profiles and predict a user's personality. While LLMs can exhibit behaviors consistent with these constructs, it remains unclear where and how they are represented inside the model and ",
+      "source": "arxiv"
+    },
+    {
+      "title": "CLSGen: A Dual-Head Fine-Tuning Framework for Joint Probabilistic Classification and Verbalized Explanation",
+      "url": "http://arxiv.org/abs/2604.11801v1",
+      "abstract": "With the recent progress of Large Language Models (LLMs), there is a growing interest in applying these models to solve complex and challenging problems. Modern LLMs, capable of processing long contexts and generating verbalized explanations, offer significant potential in addressing real-world appl",
+      "source": "arxiv"
+    },
+    {
+      "title": "Diffusing diffusivity model with dichotomous noise",
+      "url": "http://arxiv.org/abs/2604.11800v1",
+      "abstract": "We study Langevin dynamics with stochastic diffusivity arising from fluctuations of the surrounding medium. The diffusivity is modeled as Ornstein-Uhlenbeck process driven by symmetric dichotomous noise, which confines it to a finite interval. We derive analytical expressions for the short-time prob",
+      "source": "arxiv"
+    },
+    {
+      "title": "Budget-Aware Uncertainty for Radiotherapy Segmentation QA Using nnU-Net",
+      "url": "http://arxiv.org/abs/2604.11798v1",
+      "abstract": "Accurate delineation of the Clinical Target Volume (CTV) is essential for radiotherapy planning, yet remains time-consuming and difficult to assess, especially for complex treatments such as Total Marrow and Lymph Node Irradiation (TMLI). While deep learning-based auto-segmentation can reduce worklo",
+      "source": "arxiv"
+    },
+    {
+      "title": "C-ReD: A Comprehensive Chinese Benchmark for AI-Generated Text Detection Derived from Real-World Prompts",
+      "url": "http://arxiv.org/abs/2604.11796v1",
+      "abstract": "Recently, large language models (LLMs) are capable of generating highly fluent textual content. While they offer significant convenience to humans, they also introduce various risks, like phishing and academic dishonesty. Numerous research efforts have been dedicated to developing algorithms for det",
+      "source": "arxiv"
+    },
+    {
+      "title": "Disentangled Point Diffusion for Precise Object Placement",
+      "url": "http://arxiv.org/abs/2604.11793v1",
+      "abstract": "Recent advances in robotic manipulation have highlighted the effectiveness of learning from demonstration. However, while end-to-end policies excel in expressivity and flexibility, they struggle both in generalizing to novel object geometries and in attaining a high degree of precision. An alternati",
+      "source": "arxiv"
+    },
+    {
+      "title": "LottieGPT: Tokenizing Vector Animation for Autoregressive Generation",
+      "url": "http://arxiv.org/abs/2604.11792v1",
+      "abstract": "Despite rapid progress in video generation, existing models are incapable of producing vector animation, a dominant and highly expressive form of multimedia on the Internet. Vector animations offer resolution-independence, compactness, semantic structure, and editable parametric motion representatio",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Mechanistic Analysis of Looped Reasoning Language Models",
+      "url": "http://arxiv.org/abs/2604.11791v1",
+      "abstract": "Reasoning has become a central capability in large language models. Recent research has shown that reasoning performance can be improved by looping an LLM's layers in the latent dimension, resulting in looped reasoning language models. Despite promising results, few works have investigated how their",
+      "source": "arxiv"
+    },
+    {
+      "title": "ClawGuard: A Runtime Security Framework for Tool-Augmented LLM Agents Against Indirect Prompt Injection",
+      "url": "http://arxiv.org/abs/2604.11790v1",
+      "abstract": "Tool-augmented Large Language Model (LLM) agents have demonstrated impressive capabilities in automating complex, multi-step real-world tasks, yet remain vulnerable to indirect prompt injection. Adversaries exploit this weakness by embedding malicious instructions within tool-returned content, which",
+      "source": "arxiv"
+    },
+    {
+      "title": "LMMs Meet Object-Centric Vision: Understanding, Segmentation, Editing and Generation",
+      "url": "http://arxiv.org/abs/2604.11789v1",
+      "abstract": "Large Multimodal Models (LMMs) have achieved remarkable progress in general-purpose vision--language understanding, yet they remain limited in tasks requiring precise object-level grounding, fine-grained spatial reasoning, and controllable visual manipulation. In particular, existing systems often s",
+      "source": "arxiv"
+    },
+    {
+      "title": "HDR Video Generation via Latent Alignment with Logarithmic Encoding",
+      "url": "http://arxiv.org/abs/2604.11788v1",
+      "abstract": "High dynamic range (HDR) imagery offers a rich and faithful representation of scene radiance, but remains challenging for generative models due to its mismatch with the bounded, perceptually compressed data on which these models are trained. A natural solution is to learn new representations for HDR",
+      "source": "arxiv"
+    },
+    {
+      "title": "GenTac: Generative Modeling and Forecasting of Soccer Tactics",
+      "url": "http://arxiv.org/abs/2604.11786v1",
+      "abstract": "Modeling open-play soccer tactics is a formidable challenge due to the stochastic, multi-agent nature of the game. Existing computational approaches typically produce single, deterministic trajectory forecasts or focus on highly structured set-pieces, fundamentally failing to capture the inherent va",
+      "source": "arxiv"
+    },
+    {
+      "title": "Extraction of Effective Electromagnetic Material Properties for Rydberg Electrometer Vapor Cells from 10-300 MHz",
+      "url": "http://arxiv.org/abs/2604.11785v1",
+      "abstract": "Quantum sensors often consist of packaging, such as dielectric-based vapor cells and metallic electrodes, that reduces and spatially alters the locally observed electromagnetic fields. These effects have been well studied in the optical regime, and even in the RF regime over a few GHz. However, ther",
+      "source": "arxiv"
+    },
+    {
+      "title": "ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents",
+      "url": "http://arxiv.org/abs/2604.11784v1",
+      "abstract": "GUI agents drive applications through their visual interfaces instead of programmatic APIs, interacting with arbitrary software via taps, swipes, and keystrokes, reaching a long tail of applications that CLI-based agents cannot. Yet progress in this area is bottlenecked less by modeling capacity tha",
+      "source": "arxiv"
+    },
+    {
+      "title": "General365: Benchmarking General Reasoning in Large Language Models Across Diverse and Challenging Tasks",
+      "url": "http://arxiv.org/abs/2604.11778v1",
+      "abstract": "Contemporary large language models (LLMs) have demonstrated remarkable reasoning capabilities, particularly in specialized domains like mathematics and physics. However, their ability to generalize these reasoning skills to more general and broader contexts--often termed general reasoning--remains u",
+      "source": "arxiv"
+    }
+  ],
+  "quality": {
+    "total": 40,
+    "quality_score": 0.476,
+    "dimensions": {
+      "authority": 0.95,
+      "quality": 0.05,
+      "star_power": 0.378,
+      "diversity": 0.5
+    },
+    "sources_breakdown": {
+      "github": 20,
+      "arxiv": 20
+    }
+  }
+}

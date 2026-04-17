@@ -1,0 +1,159 @@
+{
+  "topic": "RAG retrieval",
+  "timestamp": "2026-03-30T12:09:36.247553",
+  "findings": [
+    {
+      "title": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stars": 76538,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/graphrag",
+      "url": "https://github.com/microsoft/graphrag",
+      "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+      "stars": 31852,
+      "source": "github"
+    },
+    {
+      "title": "HKUDS/LightRAG",
+      "url": "https://github.com/HKUDS/LightRAG",
+      "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+      "stars": 31031,
+      "source": "github"
+    },
+    {
+      "title": "labring/FastGPT",
+      "url": "https://github.com/labring/FastGPT",
+      "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+      "stars": 27563,
+      "source": "github"
+    },
+    {
+      "title": "NirDiamant/RAG_Techniques",
+      "url": "https://github.com/NirDiamant/RAG_Techniques",
+      "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.",
+      "stars": 26352,
+      "source": "github"
+    },
+    {
+      "title": "deepset-ai/haystack",
+      "url": "https://github.com/deepset-ai/haystack",
+      "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
+      "stars": 24646,
+      "source": "github"
+    },
+    {
+      "title": "VectifyAI/PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "stars": 23254,
+      "source": "github"
+    },
+    {
+      "title": "vanna-ai/vanna",
+      "url": "https://github.com/vanna-ai/vanna",
+      "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.",
+      "stars": 23151,
+      "source": "github"
+    },
+    {
+      "title": "memvid/memvid",
+      "url": "https://github.com/memvid/memvid",
+      "description": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
+      "stars": 13649,
+      "source": "github"
+    },
+    {
+      "title": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+      "stars": 13635,
+      "source": "github"
+    },
+    {
+      "title": "activeloopai/deeplake",
+      "url": "https://github.com/activeloopai/deeplake",
+      "description": "Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.",
+      "stars": 9053,
+      "source": "github"
+    },
+    {
+      "title": "OpenSPG/KAG",
+      "url": "https://github.com/OpenSPG/KAG",
+      "description": "KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs.  It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.",
+      "stars": 8641,
+      "source": "github"
+    },
+    {
+      "title": "SciPhi-AI/R2R",
+      "url": "https://github.com/SciPhi-AI/R2R",
+      "description": "SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.",
+      "stars": 7746,
+      "source": "github"
+    },
+    {
+      "title": "weaviate/Verba",
+      "url": "https://github.com/weaviate/Verba",
+      "description": "Retrieval Augmented Generation (RAG) chatbot powered by Weaviate",
+      "stars": 7620,
+      "source": "github"
+    },
+    {
+      "title": "airweave-ai/airweave",
+      "url": "https://github.com/airweave-ai/airweave",
+      "description": "Open-source context retrieval layer for AI agents",
+      "stars": 6147,
+      "source": "github"
+    },
+    {
+      "title": "Marker-Inc-Korea/AutoRAG",
+      "url": "https://github.com/Marker-Inc-Korea/AutoRAG",
+      "description": "AutoRAG: An Open-Source Framework for Retrieval-Augmented Generation (RAG) Evaluation & Optimization with AutoML-Style Automation",
+      "stars": 4652,
+      "source": "github"
+    },
+    {
+      "title": "truefoundry/cognita",
+      "url": "https://github.com/truefoundry/cognita",
+      "description": "RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry ",
+      "stars": 4421,
+      "source": "github"
+    },
+    {
+      "title": "AnswerDotAI/RAGatouille",
+      "url": "https://github.com/AnswerDotAI/RAGatouille",
+      "description": "Easily use and train state of the art late-interaction retrieval methods (ColBERT) in any RAG pipeline. Designed for modularity and ease-of-use, backed by research.",
+      "stars": 3893,
+      "source": "github"
+    },
+    {
+      "title": "CortexReach/memory-lancedb-pro",
+      "url": "https://github.com/CortexReach/memory-lancedb-pro",
+      "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI",
+      "stars": 3721,
+      "source": "github"
+    },
+    {
+      "title": "aiming-lab/SimpleMem",
+      "url": "https://github.com/aiming-lab/SimpleMem",
+      "description": "SimpleMem: Efficient Lifelong Memory for LLM Agents",
+      "stars": 3262,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.316,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.229,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "topic": "text to speech",
+  "timestamp": "2026-03-30T13:54:21.366396",
+  "findings": [
+    {
+      "title": "coqui-ai/TTS",
+      "url": "https://github.com/coqui-ai/TTS",
+      "description": "🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production",
+      "stars": 44936,
+      "source": "github"
+    },
+    {
+      "title": "mozilla/DeepSpeech",
+      "url": "https://github.com/mozilla/DeepSpeech",
+      "description": "DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.",
+      "stars": 26748,
+      "source": "github"
+    },
+    {
+      "title": "index-tts/index-tts",
+      "url": "https://github.com/index-tts/index-tts",
+      "description": "An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System",
+      "stars": 19713,
+      "source": "github"
+    },
+    {
+      "title": "cjpais/Handy",
+      "url": "https://github.com/cjpais/Handy",
+      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "stars": 18877,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA-NeMo/NeMo",
+      "url": "https://github.com/NVIDIA-NeMo/NeMo",
+      "description": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)",
+      "stars": 17004,
+      "source": "github"
+    },
+    {
+      "title": "modelscope/FunASR",
+      "url": "https://github.com/modelscope/FunASR",
+      "description": "A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc.",
+      "stars": 15447,
+      "source": "github"
+    },
+    {
+      "title": "PaddlePaddle/PaddleSpeech",
+      "url": "https://github.com/PaddlePaddle/PaddleSpeech",
+      "description": "Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification System, End-to-End Speech Translation and Keyword Spotting. Won NAACL2022 Best Demo Award.",
+      "stars": 12572,
+      "source": "github"
+    },
+    {
+      "title": "k2-fsa/sherpa-onnx",
+      "url": "https://github.com/k2-fsa/sherpa-onnx",
+      "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages",
+      "stars": 11189,
+      "source": "github"
+    },
+    {
+      "title": "rhasspy/piper",
+      "url": "https://github.com/rhasspy/piper",
+      "description": "A fast, local neural text to speech system",
+      "stars": 10735,
+      "source": "github"
+    },
+    {
+      "title": "rany2/edge-tts",
+      "url": "https://github.com/rany2/edge-tts",
+      "description": "Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key",
+      "stars": 10419,
+      "source": "github"
+    },
+    {
+      "title": "mozilla/TTS",
+      "url": "https://github.com/mozilla/TTS",
+      "description": ":robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)",
+      "stars": 10127,
+      "source": "github"
+    },
+    {
+      "title": "QuentinFuxa/WhisperLiveKit",
+      "url": "https://github.com/QuentinFuxa/WhisperLiveKit",
+      "description": "Simultaneous speech-to-text models",
+      "stars": 10013,
+      "source": "github"
+    },
+    {
+      "title": "KoljaB/RealtimeSTT",
+      "url": "https://github.com/KoljaB/RealtimeSTT",
+      "description": "A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.",
+      "stars": 9614,
+      "source": "github"
+    },
+    {
+      "title": "jasonppy/VoiceCraft",
+      "url": "https://github.com/jasonppy/VoiceCraft",
+      "description": "Zero-Shot Speech Editing and Text-to-Speech in the Wild",
+      "stars": 8475,
+      "source": "github"
+    },
+    {
+      "title": "jaywalnut310/vits",
+      "url": "https://github.com/jaywalnut310/vits",
+      "description": "VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech",
+      "stars": 7841,
+      "source": "github"
+    },
+    {
+      "title": "jianchang512/ChatTTS-ui",
+      "url": "https://github.com/jianchang512/ChatTTS-ui",
+      "description": "一个简单的本地网页界面，使用ChatTTS将文字合成为语音，同时支持对外提供API接口。A simple native web interface that uses ChatTTS to synthesize text into speech, along with support for external API interfaces.",
+      "stars": 7538,
+      "source": "github"
+    },
+    {
+      "title": "myshell-ai/MeloTTS",
+      "url": "https://github.com/myshell-ai/MeloTTS",
+      "description": "High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.",
+      "stars": 7303,
+      "source": "github"
+    },
+    {
+      "title": "Zyphra/Zonos",
+      "url": "https://github.com/Zyphra/Zonos",
+      "description": "Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS providers.",
+      "stars": 7199,
+      "source": "github"
+    },
+    {
+      "title": "Blaizzy/mlx-audio",
+      "url": "https://github.com/Blaizzy/mlx-audio",
+      "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.",
+      "stars": 6437,
+      "source": "github"
+    },
+    {
+      "title": "yl4579/StyleTTS2",
+      "url": "https://github.com/yl4579/StyleTTS2",
+      "description": "StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models",
+      "stars": 6230,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.33,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.299,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

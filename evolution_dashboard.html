@@ -1,0 +1,617 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>AutoResearch · 自主进化监控</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<style>
+:root{
+  --bg:#0a0e1a; --surface:#111827; --surface2:#1a2237; --surface3:#1e2a42;
+  --border:#2a3a5c; --accent:#4f8ef7; --accent2:#7c3aed; --accent3:#10b981;
+  --warn:#f59e0b; --danger:#ef4444; --text:#e2e8f0; --muted:#64748b;
+  --green:#10b981; --blue:#4f8ef7; --purple:#7c3aed; --orange:#f97316;
+  --pink:#ec4899; --cyan:#06b6d4;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{height:100vh;overflow:hidden}
+body{background:var(--bg);color:var(--text);font-family:'Segoe UI',system-ui,sans-serif;
+  display:flex;flex-direction:column}
+
+/* ── TOPBAR ── */
+.topbar{
+  flex:0 0 50px;display:flex;align-items:center;justify-content:space-between;
+  padding:0 20px;background:var(--surface);border-bottom:1px solid var(--border);
+}
+.brand{display:flex;align-items:center;gap:8px}
+.brand-icon{width:28px;height:28px;border-radius:6px;
+  background:linear-gradient(135deg,var(--blue),var(--purple));
+  display:flex;align-items:center;justify-content:center;font-size:14px}
+.brand-name{font-size:15px;font-weight:700;letter-spacing:.5px}
+.brand-sub{font-size:10px;color:var(--muted)}
+.topbar-right{display:flex;align-items:center;gap:14px}
+.status-pill{
+  display:flex;align-items:center;gap:5px;padding:4px 10px;
+  border-radius:16px;background:rgba(16,185,129,.15);border:1px solid rgba(16,185,129,.3);
+  font-size:11px;font-weight:600;color:var(--green);
+}
+.pulse{width:7px;height:7px;border-radius:50%;background:var(--green);
+  animation:pulse 1.4s infinite}
+@keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.5;transform:scale(.8)}}
+.clock{font-size:11px;color:var(--muted);font-variant-numeric:tabular-nums}
+
+/* ── MAIN GRID ── */
+.main{
+  flex:1;display:grid;
+  grid-template-columns:repeat(12,1fr);
+  grid-template-rows:80px 1fr 1fr;
+  gap:12px;padding:12px 16px 16px 16px;
+  overflow:hidden;
+}
+
+/* ── STAT CARDS ── */
+.stat-cards{grid-column:1/-1;display:grid;grid-template-columns:repeat(6,1fr);gap:10px}
+.stat-card{
+  background:var(--surface);border:1px solid var(--border);border-radius:10px;
+  padding:12px 14px;display:flex;flex-direction:column;justify-content:center;
+}
+.stat-label{font-size:10px;color:var(--muted);text-transform:uppercase;letter-spacing:.6px;margin-bottom:4px}
+.stat-value{font-size:24px;font-weight:700;font-variant-numeric:tabular-nums;line-height:1}
+.stat-delta{font-size:10px;margin-top:3px}
+.up{color:var(--green)} .flat{color:var(--muted)} .down{color:var(--danger)}
+.c-blue{color:var(--blue)} .c-purple{color:var(--purple)} .c-green{color:var(--green)}
+.c-orange{color:var(--orange)} .c-cyan{color:var(--cyan)} .c-pink{color:var(--pink)}
+
+/* ── PANELS ── */
+.panel{
+  background:var(--surface);border:1px solid var(--border);border-radius:10px;
+  display:flex;flex-direction:column;overflow:hidden;
+}
+.panel-header{
+  flex:0 0 36px;display:flex;align-items:center;justify-content:space-between;
+  padding:0 14px;border-bottom:1px solid var(--border);background:var(--surface2);
+}
+.panel-title{font-size:12px;font-weight:600;color:var(--text);letter-spacing:.3px}
+.panel-badge{font-size:10px;padding:2px 8px;border-radius:8px;font-weight:600;
+  background:rgba(79,142,247,.15);color:var(--blue);border:1px solid rgba(79,142,247,.3);}
+.panel-body{flex:1;position:relative;padding:8px;overflow:hidden}
+
+/* 布局位置 */
+.panel-curve{grid-column:1/5;grid-row:2/3}
+.panel-metrics{grid-column:5/9;grid-row:2/3}
+.panel-strategy{grid-column:9/11;grid-row:2/3}
+.panel-genome{grid-column:11/13;grid-row:2/3}
+.panel-candidates{grid-column:1/5;grid-row:3/4}
+.panel-versions{grid-column:5/9;grid-row:3/4}
+.panel-log{grid-column:9/13;grid-row:3/4}
+
+/* ── GENOME GRID ── */
+.genome-grid{display:grid;grid-template-columns:1fr 1fr;gap:6px;height:100%}
+.gene-item{
+  background:var(--surface2);border:1px solid var(--border);border-radius:6px;
+  padding:6px 8px;display:flex;flex-direction:column;justify-content:center;gap:2px;
+}
+.gene-name{font-size:9px;color:var(--muted);text-transform:uppercase;letter-spacing:.4px}
+.gene-val{font-size:13px;font-weight:600;color:var(--blue);font-variant-numeric:tabular-nums}
+.gene-bar{height:2px;border-radius:1px;background:var(--surface3);margin-top:2px;overflow:hidden}
+.gene-fill{height:100%;border-radius:1px;background:linear-gradient(90deg,var(--blue),var(--purple))}
+
+/* ── CANDIDATES TABLE ── */
+.table-wrap{height:100%;overflow-y:auto}
+table{width:100%;border-collapse:collapse;font-size:11px}
+th{padding:6px 8px;text-align:left;color:var(--muted);font-weight:600;
+  text-transform:uppercase;letter-spacing:.4px;border-bottom:1px solid var(--border);
+  position:sticky;top:0;background:var(--surface2);font-size:10px;z-index:1}
+td{padding:5px 8px;border-bottom:1px solid rgba(42,58,92,.3);font-variant-numeric:tabular-nums}
+tr:hover td{background:var(--surface2)}
+.badge{display:inline-block;padding:1px 6px;border-radius:4px;font-size:9px;font-weight:600}
+.badge-win{background:rgba(16,185,129,.2);color:var(--green);border:1px solid rgba(16,185,129,.3)}
+.badge-done{background:rgba(100,116,139,.15);color:var(--muted);border:1px solid var(--border)}
+.score-bar-wrap{display:flex;align-items:center;gap:4px}
+.score-bar{height:3px;border-radius:2px;background:var(--surface3);flex:1;overflow:hidden}
+.score-fill{height:100%;border-radius:2px;background:linear-gradient(90deg,var(--accent),var(--green))}
+
+/* ── LOG ── */
+.log-wrap{height:100%;overflow-y:auto;font-size:11px;font-family:'Consolas',monospace;
+  background:var(--surface2);border-radius:6px;padding:8px;line-height:1.6}
+.log-line{border-bottom:1px solid rgba(42,58,92,.3);padding:1px 0}
+.log-line:last-child{border:none}
+.log-INFO{color:#94a3b8}
+.log-WIN{color:var(--green);font-weight:700}
+.log-GEN{color:var(--cyan);font-weight:600}
+.log-ERR{color:var(--danger)}
+.log-START{color:var(--purple);font-weight:700}
+.log-WARN{color:var(--warn)}
+.log-STOP{color:var(--orange)}
+
+/* ── VERSION TIMELINE ── */
+.timeline{display:flex;flex-direction:column;gap:6px;height:100%;overflow-y:auto;padding-right:4px}
+.ver-item{
+  display:flex;align-items:center;gap:10px;padding:8px 10px;
+  background:var(--surface2);border:1px solid var(--border);border-radius:6px;
+}
+.ver-item.active{border-color:var(--green);background:rgba(16,185,129,.07)}
+.ver-dot{width:8px;height:8px;border-radius:50%;background:var(--muted);flex-shrink:0}
+.ver-dot.active{background:var(--green);box-shadow:0 0 6px rgba(16,185,129,.6)}
+.ver-body{flex:1;min-width:0}
+.ver-title{font-size:11px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.ver-sub{font-size:9px;color:var(--muted);margin-top:1px}
+.ver-score{font-size:14px;font-weight:700;color:var(--green)}
+
+/* ── STRATEGY LEGEND ── */
+.strategy-legend{display:flex;flex-direction:column;gap:4px;margin-top:8px;overflow-y:auto}
+.leg-row{display:flex;align-items:center;gap:6px;font-size:10px}
+.leg-dot{width:6px;height:6px;border-radius:50%;flex-shrink:0}
+.leg-name{flex:1;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.leg-val{color:#e2e8f0;font-weight:600}
+
+/* ── SCROLLBAR ── */
+::-webkit-scrollbar{width:4px;height:4px}
+::-webkit-scrollbar-track{background:transparent}
+::-webkit-scrollbar-thumb{background:var(--border);border-radius:2px}
+::-webkit-scrollbar-thumb:hover{background:var(--muted)}
+
+/* ── NO DATA ── */
+.empty{text-align:center;padding:20px;color:var(--muted);font-size:12px}
+</style>
+</head>
+<body>
+
+<!-- ── TOPBAR ─────────────────────────────────────────── -->
+<div class="topbar">
+  <div class="brand">
+    <div class="brand-icon">🧬</div>
+    <div>
+      <div class="brand-name">AutoResearch · 自主进化</div>
+      <div class="brand-sub">Autonomous Self-Improvement Engine</div>
+    </div>
+  </div>
+  <div class="topbar-right">
+    <div class="status-pill" id="connPill">
+      <div class="pulse"></div>
+      <span id="connTxt">连接中...</span>
+    </div>
+    <div class="clock" id="clockEl">--:--:--</div>
+  </div>
+</div>
+
+<!-- ── MAIN ───────────────────────────────────────────── -->
+<div class="main">
+
+  <!-- 统计卡片 -->
+  <div class="stat-cards">
+    <div class="stat-card">
+      <div class="stat-label">当前代数</div>
+      <div class="stat-value c-blue" id="sc-gen">—</div>
+      <div class="stat-delta flat" id="sc-gen-d">第 0 代</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-label">全局最优</div>
+      <div class="stat-value c-green" id="sc-best">—</div>
+      <div class="stat-delta" id="sc-best-d">历史最高</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-label">候选方案</div>
+      <div class="stat-value c-purple" id="sc-cands">—</div>
+      <div class="stat-delta flat">已评估</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-label">算法版本</div>
+      <div class="stat-value c-orange" id="sc-vers">—</div>
+      <div class="stat-delta flat">已保存</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-label">CPU 占用</div>
+      <div class="stat-value c-cyan" id="sc-cpu">—</div>
+      <div class="stat-delta flat">%</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-label">内存占用</div>
+      <div class="stat-value c-pink" id="sc-mem">—</div>
+      <div class="stat-delta flat">%</div>
+    </div>
+  </div>
+
+  <!-- 进化曲线 -->
+  <div class="panel panel-curve">
+    <div class="panel-header">
+      <span class="panel-title">📈 进化性能曲线</span>
+      <span class="panel-badge" id="curve-badge">—</span>
+    </div>
+    <div class="panel-body">
+      <canvas id="curveChart"></canvas>
+    </div>
+  </div>
+
+  <!-- 系统资源 -->
+  <div class="panel panel-metrics">
+    <div class="panel-header">
+      <span class="panel-title">⚡ 系统资源</span>
+      <span class="panel-badge">实时</span>
+    </div>
+    <div class="panel-body">
+      <canvas id="metricsChart"></canvas>
+    </div>
+  </div>
+
+  <!-- 策略分布 -->
+  <div class="panel panel-strategy">
+    <div class="panel-header">
+      <span class="panel-title">🎯 策略分布</span>
+    </div>
+    <div class="panel-body">
+      <canvas id="strategyChart" height="120"></canvas>
+      <div class="strategy-legend" id="stratLegend"></div>
+    </div>
+  </div>
+
+  <!-- 当前基因组 -->
+  <div class="panel panel-genome">
+    <div class="panel-header">
+      <span class="panel-title">🧬 活跃基因组</span>
+    </div>
+    <div class="panel-body">
+      <div class="genome-grid" id="genomeGrid">
+        <div class="empty">等待数据...</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 候选方案表 -->
+  <div class="panel panel-candidates">
+    <div class="panel-header">
+      <span class="panel-title">🔬 候选方案</span>
+      <span class="panel-badge" id="cand-badge">—</span>
+    </div>
+    <div class="panel-body">
+      <div class="table-wrap">
+        <table>
+          <thead><tr>
+            <th>代</th><th>策略</th><th>评分</th><th>状态</th>
+          </tr></thead>
+          <tbody id="candTbody"><tr><td colspan="4" class="empty">等待数据...</td></tr></tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <!-- 版本历史 -->
+  <div class="panel panel-versions">
+    <div class="panel-header">
+      <span class="panel-title">📦 版本历史</span>
+    </div>
+    <div class="panel-body">
+      <div class="timeline" id="versionTimeline">
+        <div class="empty">等待数据...</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 进化日志 -->
+  <div class="panel panel-log">
+    <div class="panel-header">
+      <span class="panel-title">📋 实时日志</span>
+    </div>
+    <div class="panel-body">
+      <div class="log-wrap" id="logWrap">
+        <div class="empty">等待进化引擎启动...</div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<script>
+// ── 图表初始化 ─────────────────────────────────────────────────────────
+const COLORS = ['#4f8ef7','#10b981','#7c3aed','#f97316','#ec4899','#06b6d4',
+                '#f59e0b','#8b5cf6','#34d399','#fb7185'];
+
+const chartDefaults = {
+  responsive:true, maintainAspectRatio:false, animation:{duration:300},
+  plugins:{legend:{display:false},tooltip:{
+    backgroundColor:'rgba(17,24,39,.95)',borderColor:'#2a3a5c',borderWidth:1,
+    titleColor:'#e2e8f0',bodyColor:'#94a3b8',padding:8,cornerRadius:6
+  }},
+  scales:{
+    x:{grid:{color:'rgba(42,58,92,.4)'},ticks:{color:'#64748b',maxTicksLimit:6,font:{size:9}}},
+    y:{grid:{color:'rgba(42,58,92,.4)'},ticks:{color:'#64748b',font:{size:9}}}
+  }
+};
+
+// 进化曲线
+const curveCtx = document.getElementById('curveChart').getContext('2d');
+const curveChart = new Chart(curveCtx,{
+  type:'line',
+  data:{labels:[],datasets:[
+    {label:'全局最优',data:[],borderColor:'#10b981',backgroundColor:'rgba(16,185,129,.08)',
+     fill:true,tension:.4,borderWidth:2,pointRadius:2,pointBackgroundColor:'#10b981'},
+    {label:'本代均分',data:[],borderColor:'#4f8ef7',backgroundColor:'rgba(79,142,247,.06)',
+     fill:false,tension:.4,borderWidth:1.5,pointRadius:1.5,pointBackgroundColor:'#4f8ef7',
+     borderDash:[3,3]},
+  ]},
+  options:{...chartDefaults,
+    scales:{
+      x:{...chartDefaults.scales.x},
+      y:{...chartDefaults.scales.y,min:.5,max:1.0}
+    }
+  }
+});
+
+// 系统资源
+const metricsCtx = document.getElementById('metricsChart').getContext('2d');
+const metricsChart = new Chart(metricsCtx,{
+  type:'line',
+  data:{labels:[],datasets:[
+    {label:'CPU%',data:[],borderColor:'#06b6d4',backgroundColor:'rgba(6,182,212,.08)',
+     fill:true,tension:.4,borderWidth:2,pointRadius:0},
+    {label:'内存%',data:[],borderColor:'#ec4899',backgroundColor:'rgba(236,72,153,.06)',
+     fill:true,tension:.4,borderWidth:1.5,pointRadius:0,borderDash:[3,3]},
+  ]},
+  options:{...chartDefaults,
+    plugins:{...chartDefaults.plugins,legend:{display:true,
+      labels:{color:'#94a3b8',font:{size:10},boxWidth:10,padding:10}}},
+    scales:{...chartDefaults.scales,y:{...chartDefaults.scales.y,min:0,max:100}}
+  }
+});
+
+// 策略甜甜圈
+const stratCtx = document.getElementById('strategyChart').getContext('2d');
+const stratChart = new Chart(stratCtx,{
+  type:'doughnut',
+  data:{labels:[],datasets:[{data:[],backgroundColor:COLORS,borderWidth:2,
+    borderColor:'#111827',hoverOffset:4}]},
+  options:{
+    responsive:true,maintainAspectRatio:false,animation:{duration:300},
+    plugins:{legend:{display:false},tooltip:{backgroundColor:'rgba(17,24,39,.95)',
+      borderColor:'#2a3a5c',borderWidth:1,titleColor:'#e2e8f0',bodyColor:'#94a3b8',padding:8,cornerRadius:6}},
+    cutout:'60%'
+  }
+});
+
+// ── 状态 ────────────────────────────────────────────────────────────────
+let prevBest = 0;
+let ws = null;
+
+// ── 渲染函数 ────────────────────────────────────────────────────────────
+function renderSnapshot(d) {
+  const summary = d.summary || {};
+
+  // 统计卡
+  const gen = (summary.current_gen != null && summary.current_gen >= 0) ? summary.current_gen : '—';
+  setText('sc-gen', gen !== '—' ? gen : '—');
+  setText('sc-gen-d', gen !== '—' ? `已完成 ${summary.total_gens||0} 代` : '—');
+
+  const best = summary.global_best != null ? Number(summary.global_best) : null;
+  setText('sc-best', best != null ? best.toFixed(4) : '—');
+  const bestDelta = best != null && prevBest > 0 ? ((best - prevBest)/prevBest*100).toFixed(2) : null;
+  const bestDeltaEl = document.getElementById('sc-best-d');
+  if(bestDelta != null) {
+    bestDeltaEl.textContent = (bestDelta >= 0 ? '↑ +' : '↓ ') + bestDelta + '%';
+    bestDeltaEl.className = 'stat-delta ' + (bestDelta >= 0 ? 'up' : 'down');
+  }
+  if(best != null) prevBest = best;
+
+  setText('sc-cands', summary.total_candidates != null ? summary.total_candidates : '—');
+  setText('sc-vers', summary.total_versions != null ? summary.total_versions : '—');
+
+  // 最近资源指标
+  const mets = d.metrics || [];
+  if(mets.length > 0) {
+    const last = mets[mets.length-1];
+    setText('sc-cpu', last.cpu != null ? Number(last.cpu).toFixed(0) : '—');
+    setText('sc-mem', last.mem != null ? Number(last.mem).toFixed(0) : '—');
+  }
+
+  // 进化曲线
+  const curve = d.best_curve || [];
+  if(curve.length > 0) {
+    const genLabels = curve.map(r => 'G'+r.generation);
+    curveChart.data.labels = genLabels;
+    curveChart.data.datasets[0].data = curve.map(r => Number(r.best_score)||0);
+    const metMap = {};
+    mets.forEach(m => { metMap[m.generation] = m; });
+    curveChart.data.datasets[1].data = curve.map(r => {
+      const mm = metMap[r.generation];
+      return mm ? Number(mm.avg_score)||0 : 0;
+    });
+    curveChart.update('none');
+    document.getElementById('curve-badge').textContent = `最优 ${best != null ? best.toFixed(4) : '—'}`;
+  }
+
+  // 系统资源
+  if(mets.length > 0) {
+    const labels = mets.slice(-40).map(m => m.ts ? m.ts.substr(11,8) : '');
+    metricsChart.data.labels = labels;
+    metricsChart.data.datasets[0].data = mets.slice(-40).map(m => Number(m.cpu)||0);
+    metricsChart.data.datasets[1].data = mets.slice(-40).map(m => Number(m.mem)||0);
+    metricsChart.update('none');
+  }
+
+  // 策略分布
+  const strats = d.strategy_dist || [];
+  if(strats.length > 0) {
+    stratChart.data.labels = strats.map(s => s.strategy_name);
+    stratChart.data.datasets[0].data = strats.map(s => s.cnt);
+    stratChart.update('none');
+
+    const leg = document.getElementById('stratLegend');
+    leg.innerHTML = strats.slice(0,5).map((s,i) => `
+      <div class="leg-row">
+        <div class="leg-dot" style="background:${COLORS[i%COLORS.length]}"></div>
+        <span class="leg-name">${s.strategy_name}</span>
+        <span class="leg-val">${Number(s.avg_score||0).toFixed(3)}</span>
+      </div>`).join('');
+  }
+
+  // 当前活跃基因组
+  let activeGenome = null;
+  const versions = d.versions || [];
+  const activeVer = versions.find(v => v.active);
+  if(activeVer) {
+    try { activeGenome = JSON.parse(activeVer.config); } catch(e) {}
+  }
+  if(!activeGenome) {
+    const winners = (d.candidates||[]).filter(c => c.is_winner);
+    if(winners.length > 0) {
+      try { activeGenome = JSON.parse(winners[0].config); } catch(e) {}
+    }
+  }
+  renderGenome(activeGenome);
+
+  // 候选方案
+  const cands = (d.candidates||[]).slice(0, 20);
+  document.getElementById('cand-badge').textContent = `共 ${summary.total_candidates||0}`;
+  const tbody = document.getElementById('candTbody');
+  if(cands.length === 0) {
+    tbody.innerHTML = '<tr><td colspan="4" class="empty">等待候选评估...</td></tr>';
+  } else {
+    const maxScore = Math.max(...cands.map(c => c.score||0), 0.001);
+    tbody.innerHTML = cands.map(c => {
+      const pct = ((c.score||0)/maxScore*100).toFixed(0);
+      const isWin = c.is_winner;
+      const badge = isWin
+        ? '<span class="badge badge-win">★</span>'
+        : '<span class="badge badge-done">已评</span>';
+      return `<tr>
+        <td style="color:#64748b">G${c.generation}</td>
+        <td style="max-width:100px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap" title="${c.strategy_name}">${c.strategy_name||'—'}</td>
+        <td>${Number(c.score||0).toFixed(3)}</td>
+        <td>${badge}</td>
+      </tr>`;
+    }).join('');
+  }
+
+  // 版本历史
+  const tl = document.getElementById('versionTimeline');
+  if(versions.length === 0) {
+    tl.innerHTML = '<div class="empty">尚无版本快照</div>';
+  } else {
+    tl.innerHTML = versions.slice(0,6).map(v => {
+      const isActive = v.active;
+      let cfg = {};
+      try { cfg = JSON.parse(v.config||'{}'); } catch(e){}
+      const strat = cfg._strategy || cfg.acquisition || '—';
+      return `<div class="ver-item ${isActive?'active':''}">
+        <div class="ver-dot ${isActive?'active':''}"></div>
+        <div class="ver-body">
+          <div class="ver-title">${isActive ? '<span style="color:var(--green)">▶ </span>' : ''}Gen ${v.generation} · ${strat}</div>
+          <div class="ver-sub">${v.created_at ? v.created_at.substr(0,19) : '—'}</div>
+        </div>
+        <div class="ver-score">${Number(v.score||0).toFixed(3)}</div>
+      </div>`;
+    }).join('');
+  }
+
+  // 日志
+  const logs = d.logs || [];
+  const logWrap = document.getElementById('logWrap');
+  if(logs.length === 0) {
+    logWrap.innerHTML = '<div class="empty">等待进化引擎启动...</div>';
+  } else {
+    const wasBottom = logWrap.scrollHeight - logWrap.scrollTop <= logWrap.clientHeight + 20;
+    logWrap.innerHTML = logs.map(l => {
+      const cls = 'log-' + (l.level||'INFO');
+      const ts = l.ts ? l.ts.substr(11,8) : '';
+      return `<div class="log-line ${cls}">[${ts}][${l.level||'INFO'}] ${escHtml(l.msg||'')}</div>`;
+    }).join('');
+    if(wasBottom) logWrap.scrollTop = logWrap.scrollHeight;
+  }
+}
+
+function renderGenome(g) {
+  const grid = document.getElementById('genomeGrid');
+  if(!g) {
+    grid.innerHTML = '<div class="empty" style="grid-column:1/-1">等待基因组数据...</div>';
+    return;
+  }
+  const items = [
+    {name:'采集策略', key:'acquisition', type:'str', max:1},
+    {name:'UCB κ', key:'ucb_kappa', type:'num', max:10},
+    {name:'EI ξ', key:'ei_xi', type:'num', max:.1},
+    {name:'核长度', key:'length_scale', type:'num', max:5},
+    {name:'候选点数', key:'n_candidates', type:'num', max:1024},
+    {name:'随机初始化', key:'n_random_init', type:'num', max:10},
+    {name:'Y 归一化', key:'normalize_y', type:'bool', max:1},
+    {name:'噪声水平', key:'noise_level', type:'num', max:0.001},
+  ];
+  grid.innerHTML = items.map(it => {
+    const val = g[it.key];
+    let disp, pct=0;
+    if(it.type==='str') { disp=val||'—'; pct=0; }
+    else if(it.type==='bool') { disp=val?'开启':'关闭'; pct=val?100:0; }
+    else { disp = val!=null ? Number(val).toPrecision(4) : '—'; pct=Math.min(100,Number(val||0)/it.max*100); }
+    return `<div class="gene-item">
+      <div class="gene-name">${it.name}</div>
+      <div class="gene-val">${disp}</div>
+      <div class="gene-bar"><div class="gene-fill" style="width:${pct}%"></div></div>
+    </div>`;
+  }).join('');
+}
+
+function setText(id, v) {
+  const el = document.getElementById(id);
+  if(el) el.textContent = v;
+}
+function escHtml(s) {
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+// ── 时钟 ─────────────────────────────────────────────────────────────────
+setInterval(() => {
+  document.getElementById('clockEl').textContent = new Date().toLocaleTimeString('zh-CN');
+}, 1000);
+
+// ── WebSocket + 轮询降级 ─────────────────────────────────────────────────
+function connectWS() {
+  const pill = document.getElementById('connPill');
+  const txt  = document.getElementById('connTxt');
+
+  ws = new WebSocket(`ws://${location.host}/ws`);
+
+  ws.onopen = () => {
+    pill.style.background = 'rgba(16,185,129,.15)';
+    pill.style.borderColor = 'rgba(16,185,129,.3)';
+    pill.querySelector('.pulse').style.background = '#10b981';
+    txt.textContent = '实时连接';
+  };
+
+  ws.onmessage = e => {
+    try { renderSnapshot(JSON.parse(e.data)); } catch(err) { console.warn(err); }
+  };
+
+  ws.onclose = () => {
+    pill.style.background = 'rgba(245,158,11,.15)';
+    pill.style.borderColor = 'rgba(245,158,11,.3)';
+    pill.querySelector('.pulse').style.background = '#f59e0b';
+    txt.textContent = '轮询模式';
+    startPolling();
+    setTimeout(connectWS, 5000);
+  };
+
+  ws.onerror = () => ws.close();
+}
+
+let pollTimer = null;
+function startPolling() {
+  if(pollTimer) return;
+  pollTimer = setInterval(async () => {
+    try {
+      const r = await fetch('/api/snapshot');
+      const d = await r.json();
+      renderSnapshot(d);
+    } catch(e) {}
+  }, 2000);
+}
+
+// ── 首次加载 ──────────────────────────────────────────────────────────────
+(async () => {
+  try {
+    const r = await fetch('/api/snapshot');
+    const d = await r.json();
+    renderSnapshot(d);
+  } catch(e) {}
+  connectWS();
+})();
+</script>
+</body>
+</html>

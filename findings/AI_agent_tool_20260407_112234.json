@@ -1,0 +1,174 @@
+{
+  "topic": "AI agent tool",
+  "timestamp": "2026-04-07T11:22:34.390839",
+  "findings": [
+    {
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "stars": 146621,
+      "source": "github"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "stars": 134577,
+      "source": "github"
+    },
+    {
+      "title": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "stars": 58730,
+      "source": "github"
+    },
+    {
+      "title": "ToolJet/ToolJet",
+      "url": "https://github.com/ToolJet/ToolJet",
+      "description": "ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "stars": 37718,
+      "source": "github"
+    },
+    {
+      "title": "ComposioHQ/composio",
+      "url": "https://github.com/ComposioHQ/composio",
+      "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.",
+      "stars": 27663,
+      "source": "github"
+    },
+    {
+      "title": "googleworkspace/cli",
+      "url": "https://github.com/googleworkspace/cli",
+      "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
+      "stars": 23990,
+      "source": "github"
+    },
+    {
+      "title": "coze-dev/coze-studio",
+      "url": "https://github.com/coze-dev/coze-studio",
+      "description": "An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.",
+      "stars": 20418,
+      "source": "github"
+    },
+    {
+      "title": "langchain-ai/deepagents",
+      "url": "https://github.com/langchain-ai/deepagents",
+      "description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
+      "stars": 19586,
+      "source": "github"
+    },
+    {
+      "title": "raga-ai-hub/RagaAI-Catalyst",
+      "url": "https://github.com/raga-ai-hub/RagaAI-Catalyst",
+      "description": "Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced analytics with timeline and execution graph view ",
+      "stars": 16126,
+      "source": "github"
+    },
+    {
+      "title": "googleapis/genai-toolbox",
+      "url": "https://github.com/googleapis/genai-toolbox",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+      "stars": 13942,
+      "source": "github"
+    },
+    {
+      "title": "jackwener/opencli",
+      "url": "https://github.com/jackwener/opencli",
+      "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
+      "stars": 13720,
+      "source": "github"
+    },
+    {
+      "title": "creativetimofficial/ui",
+      "url": "https://github.com/creativetimofficial/ui",
+      "description": "Open-source components, blocks, and AI agents designed to speed up your workflow. Import them seamlessly into your favorite tools through Registry and MCPs.",
+      "stars": 11802,
+      "source": "github"
+    },
+    {
+      "title": "e2b-dev/E2B",
+      "url": "https://github.com/e2b-dev/E2B",
+      "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
+      "stars": 11603,
+      "source": "github"
+    },
+    {
+      "title": "faisalman/ua-parser-js",
+      "url": "https://github.com/faisalman/ua-parser-js",
+      "description": "UAParser.js - The Essential Web Development Tool for User-Agent Detection. Detect Browsers, OS, Devices, Bots, Apps, AI Crawlers, and more. Run in Browser (client-side) or Node.js (server-side).",
+      "stars": 10105,
+      "source": "github"
+    },
+    {
+      "title": "sigoden/aichat",
+      "url": "https://github.com/sigoden/aichat",
+      "description": "All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.",
+      "stars": 9764,
+      "source": "github"
+    },
+    {
+      "title": "53AI/53AIHub",
+      "url": "https://github.com/53AI/53AIHub",
+      "description": "53AI Hub is an open-source AI portal, which enables you to quickly build a operational-level AI portal to launch and operate AI agents, prompts, and AI tools. It supports seamless integration with development platforms like Coze, Dify, FastGPT, RAGFlow.",
+      "stars": 8797,
+      "source": "github"
+    },
+    {
+      "title": "0x4m4/hexstrike-ai",
+      "url": "https://github.com/0x4m4/hexstrike-ai",
+      "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.",
+      "stars": 7900,
+      "source": "github"
+    },
+    {
+      "title": "iflytek/astron-rpa",
+      "url": "https://github.com/iflytek/astron-rpa",
+      "description": "Agent-ready RPA suite with out-of-the-box automation tools. Built for individuals and enterprises.",
+      "stars": 7445,
+      "source": "github"
+    },
+    {
+      "title": "larksuite/cli",
+      "url": "https://github.com/larksuite/cli",
+      "description": "The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
+      "stars": 6850,
+      "source": "github"
+    },
+    {
+      "title": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 12 platforms",
+      "stars": 6665,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.433,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.203,
+      "diversity": 0.0,
+      "usability": 0.0,
+      "applicability": 1.0,
+      "coverage": 1.0,
+      "ndcg": 0.727,
+      "map": 0.877,
+      "mrr": 1.0,
+      "rouge_1": 0.55,
+      "semantic_sim": 0.229,
+      "coherence": 0.138,
+      "task_completion": 0.642,
+      "tool_use": 0.23,
+      "reasoning_depth": 0.037,
+      "autonomy": 0.062,
+      "multi_agent": 0.05
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

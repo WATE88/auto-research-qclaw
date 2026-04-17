@@ -1,0 +1,174 @@
+{
+  "topic": "LLM benchmark comparison",
+  "timestamp": "2026-03-31T12:57:45.336261",
+  "findings": [
+    {
+      "title": "arc53/llm-price-compass",
+      "url": "https://github.com/arc53/llm-price-compass",
+      "description": "This project collects GPU benchmarks from various cloud providers and compares them to fixed per token costs. Use our tool for efficient LLM GPU selections and cost-effective AI models. LLM provider price comparison, gpu benchmarks to price per token calculation, gpu benchmark table",
+      "stars": 224,
+      "source": "github"
+    },
+    {
+      "title": "MigoXLab/LMeterX",
+      "url": "https://github.com/MigoXLab/LMeterX",
+      "description": "A general-purpose API load testing platform that supports LLM services and business HTTP interfaces, enabling one-click performance testing, result comparison, and AI-powered intelligent analysis and summarization. 一站式通用 API 压测平台，支持大模型推理与业务 HTTP 接口，一键完成性能测试、结果对比与 AI 智能分析总结",
+      "stars": 182,
+      "source": "github"
+    },
+    {
+      "title": "SciYu/HiPhO",
+      "url": "https://github.com/SciYu/HiPhO",
+      "description": "The first high school physics Olympiad benchmark for evaluating (M)LLMs with step-level grading and human-level comparison.",
+      "stars": 25,
+      "source": "github"
+    },
+    {
+      "title": "ozturkoktay/insurance-llm-framework",
+      "url": "https://github.com/ozturkoktay/insurance-llm-framework",
+      "description": "An interactive framework for experimenting with and evaluating open-source large language models (LLMs) for insurance-related tasks. This application provides a user-friendly interface for prompt engineering, text generation, model comparison, and benchmark creation.",
+      "stars": 16,
+      "source": "github"
+    },
+    {
+      "title": "alexfazio/artificial-analysis-compare",
+      "url": "https://github.com/alexfazio/artificial-analysis-compare",
+      "description": "LLM model comparison skill using Artificial Analysis API - benchmarks, pricing, and performance metrics",
+      "stars": 10,
+      "source": "github"
+    },
+    {
+      "title": "msu-denver/bili-core",
+      "url": "https://github.com/msu-denver/bili-core",
+      "description": "bili-core is an open-source framework for LLM benchmarking using LangChain, LangGraph, Streamlit, and Flask. It enables effective LLM model comparisons, Retrieval-Augmented Generation (RAG), and customizable decision workflows. Part of MSU Denver’s Sustainability Hub, bili-core promotes data democracy and transparent, reproducible AI research. 🚀",
+      "stars": 10,
+      "source": "github"
+    },
+    {
+      "title": "slinusc/bench360",
+      "url": "https://github.com/slinusc/bench360",
+      "description": "Bench360 is a modular benchmarking suite for local LLM deployments. It offers a full-stack, extensible pipeline to evaluate the latency, throughput, quality, and cost of LLM inference on consumer and enterprise GPUs. Bench360 supports flexible backends, tasks and scenarios, enabling fair and reproducible comparisons for researchers & practitioners.",
+      "stars": 6,
+      "source": "github"
+    },
+    {
+      "title": "IliasAarab/btzsc",
+      "url": "https://github.com/IliasAarab/btzsc",
+      "description": "BTZSC (Benchmark for Zero-Shot Text Classification) provides a unified framework to evaluate and compare zero-shot models across multiple architecture families: cross-encoders, embedding models, rerankers, and LLMs. It includes standardized metrics, baseline comparisons, and a simple CLI for reproducible benchmarking workflows.",
+      "stars": 5,
+      "source": "github"
+    },
+    {
+      "title": "iqbalxo/AI-Evaluation-And-Benchmarking",
+      "url": "https://github.com/iqbalxo/AI-Evaluation-And-Benchmarking",
+      "description": "AI evaluation and benchmarking platform with dataset ingestion, LLM-as-a-judge scoring, run tracing observability, and cost-aware model comparison.",
+      "stars": 4,
+      "source": "github"
+    },
+    {
+      "title": "git-disl/GTLLMZoo",
+      "url": "https://github.com/git-disl/GTLLMZoo",
+      "description": "GTLLMZoo: A comprehensive framework that aggregates LLM benchmark data from multiple sources with an interactive UI for efficient model comparison, filtering, and evaluation across performance, safety, and efficiency metrics.",
+      "stars": 4,
+      "source": "github"
+    },
+    {
+      "title": "broskees/llm-compare",
+      "url": "https://github.com/broskees/llm-compare",
+      "description": "LLM benchmark comparison tool",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "AnthusAI/LLM-Price-Comparison",
+      "url": "https://github.com/AnthusAI/LLM-Price-Comparison",
+      "description": "A comparison of the price per million tokens and benchmark scores of various large language models.",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "RobinsonBeato/LLM-Failure-Atlas",
+      "url": "https://github.com/RobinsonBeato/LLM-Failure-Atlas",
+      "description": "Failure-analysis platform for mapping where language models break, built around stable taxonomies, versioned prompts, deterministic scoring, auditable runs, and cross-model comparison.",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "e-Nicko/CognitiveFrontier.info",
+      "url": "https://github.com/e-Nicko/CognitiveFrontier.info",
+      "description": "Open scientific platform exploring the parallels and distinctions between the human brain and artificial general intelligence. Features interactive comparisons, benchmarks, visualizations, and consciousness philosophy.",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "nithingm/PDFXtract-Arena",
+      "url": "https://github.com/nithingm/PDFXtract-Arena",
+      "description": "PDFXtract Arena: A powerful benchmarking framework to evaluate and compare PDF data extraction tools. It provides a standardized way to test open-source libraries, cloud APIs, and LLMs. Get detailed comparisons and accuracy scores for complex table and text extraction to find the most reliable solution for your use case.",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "Lambard-ML-Team/LLM_comparison_4MS",
+      "url": "https://github.com/Lambard-ML-Team/LLM_comparison_4MS",
+      "description": "Performance's comparison of different LLM on a Material science benchmark",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "sugihAF/DomainBench",
+      "url": "https://github.com/sugihAF/DomainBench",
+      "description": "LLM Benchmark and Comparison on Domain Specific Implementation",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "aitullalimon/creative-writing-llm-benchmark",
+      "url": "https://github.com/aitullalimon/creative-writing-llm-benchmark",
+      "description": "A Next.js–based benchmarking platform for comparing large language models on creative writing quality. Implements an LLM-as-a-judge evaluation pipeline with theme coherence scoring, persistent run history, interactive leaderboards, and visual analytics for model comparison.",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "olekkut/coding-llm-benchmarks-guide",
+      "url": "https://github.com/olekkut/coding-llm-benchmarks-guide",
+      "description": "This repository provides an extensive, in-depth comparison and benchmarking of state-of-the-art local coding Large Language Models (LLMs), evaluating their performance, accuracy, inference speed, memory requirements, supported programming languages, licensing, and practical suitability for various use cases.",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "originaonxi/llm-evals-arena",
+      "url": "https://github.com/originaonxi/llm-evals-arena",
+      "description": "LLM evaluation arena — head-to-head model comparisons across reasoning, code, safety, and instruction following benchmarks",
+      "stars": 1,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.476,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.9,
+      "star_power": 0.112,
+      "diversity": 0.0,
+      "usability": 0.2,
+      "applicability": 1.0,
+      "coverage": 1.0,
+      "ndcg": 0.548,
+      "map": 0.936,
+      "mrr": 1.0,
+      "rouge_1": 0.583,
+      "semantic_sim": 0.245,
+      "coherence": 0.158,
+      "task_completion": 0.536,
+      "tool_use": 0.135,
+      "reasoning_depth": 0.033,
+      "autonomy": 0.025,
+      "multi_agent": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

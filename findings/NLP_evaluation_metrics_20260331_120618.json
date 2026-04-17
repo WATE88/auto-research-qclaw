@@ -1,0 +1,183 @@
+{
+  "topic": "NLP evaluation metrics",
+  "timestamp": "2026-03-31T12:06:18.373640",
+  "findings": [
+    {
+      "title": "Maluuba/nlg-eval",
+      "url": "https://github.com/Maluuba/nlg-eval",
+      "description": "Evaluation code for various unsupervised automated metrics for Natural Language Generation.",
+      "stars": 1392,
+      "updated_at": "2026-03-30T09:56:31Z",
+      "source": "github"
+    },
+    {
+      "title": "kavgan/ROUGE-2.0",
+      "url": "https://github.com/kavgan/ROUGE-2.0",
+      "description": "ROUGE automatic summarization evaluation toolkit. Support for ROUGE-[N, L, S, SU], stemming and stopwords in different languages, unicode text evaluation, CSV output.",
+      "stars": 220,
+      "updated_at": "2026-03-07T14:17:04Z",
+      "source": "github"
+    },
+    {
+      "title": "obss/jury",
+      "url": "https://github.com/obss/jury",
+      "description": "Comprehensive NLP Evaluation System",
+      "stars": 188,
+      "updated_at": "2025-12-22T10:28:25Z",
+      "source": "github"
+    },
+    {
+      "title": "EleanorJiang/BlonDe",
+      "url": "https://github.com/EleanorJiang/BlonDe",
+      "description": "Official implementations for (1) BlonDe: An Automatic Evaluation Metric for Document-level Machine Translation and (2) Discourse Centric Evaluation of Machine Translation with a Densely Annotated Parallel Corpus",
+      "stars": 83,
+      "updated_at": "2026-03-17T18:02:06Z",
+      "source": "github"
+    },
+    {
+      "title": "AmirhosseinHonardoust/Image-Captioning-CNN-LSTM",
+      "url": "https://github.com/AmirhosseinHonardoust/Image-Captioning-CNN-LSTM",
+      "description": "An end-to-end image captioning project using a CNN encoder (ResNet-50) and LSTM decoder in PyTorch. Includes vocabulary building, preprocessing, training with BLEU evaluation, and inference. Generates natural language captions for images with saved metrics, model checkpoints, and visualization outputs.",
+      "stars": 47,
+      "updated_at": "2026-03-15T16:42:19Z",
+      "source": "github"
+    },
+    {
+      "title": "kenlimmj/rouge",
+      "url": "https://github.com/kenlimmj/rouge",
+      "description": "A Javascript implementation of the Recall-Oriented Understudy for Gisting Evaluation (ROUGE) evaluation metric for summaries.",
+      "stars": 44,
+      "updated_at": "2026-03-26T10:04:50Z",
+      "source": "github"
+    },
+    {
+      "title": "lechmazur/deception",
+      "url": "https://github.com/lechmazur/deception",
+      "description": "Benchmark evaluating LLMs on their ability to create and resist disinformation. Includes comprehensive testing across major models (Claude, GPT-4, Gemini, Llama, etc.) with standardized evaluation metrics.",
+      "stars": 31,
+      "updated_at": "2026-03-15T19:21:04Z",
+      "source": "github"
+    },
+    {
+      "title": "analyticsinmotion/werpy",
+      "url": "https://github.com/analyticsinmotion/werpy",
+      "description": "🐍📦 Ultra-fast Python package for calculating and analyzing the Word Error Rate (WER). Built for the scalable evaluation of speech and transcription accuracy.",
+      "stars": 23,
+      "updated_at": "2026-03-11T13:18:07Z",
+      "source": "github"
+    },
+    {
+      "title": "NikolaPantel/llm-attachment-validator",
+      "url": "https://github.com/NikolaPantel/llm-attachment-validator",
+      "description": "LLM-powered pipeline for parsing .eml files, extracting HTML bodies, classifying email attachments as relevant or irrelevant based solely on HTML context, and evaluating results against ground truth using automated metrics.",
+      "stars": 19,
+      "updated_at": "2026-03-30T12:56:26Z",
+      "source": "github"
+    },
+    {
+      "title": "xmu-xiaoma666/ImageCaptionMetrics",
+      "url": "https://github.com/xmu-xiaoma666/ImageCaptionMetrics",
+      "description": "This repository contains 2 tools:  - A py3 Lib for NLP & image-caption metrics - Code for a two-tailed t-test with paired samples. It will reveals whether the difference of two results is significant. In   this code, we complete evaluation code for Spice details(*i.e.*,Object, Relation, Attribute, Color, Count, and Size ).",
+      "stars": 18,
+      "updated_at": "2025-01-23T08:27:22Z",
+      "source": "github"
+    },
+    {
+      "title": "neural-dialogue-metrics/EmbeddingBased",
+      "url": "https://github.com/neural-dialogue-metrics/EmbeddingBased",
+      "description": "Embedding-based evaluation metrics for dialogue generation.",
+      "stars": 15,
+      "updated_at": "2025-06-06T21:33:56Z",
+      "source": "github"
+    },
+    {
+      "title": "armingh2000/FactScoreLite",
+      "url": "https://github.com/armingh2000/FactScoreLite",
+      "description": "FactScoreLite is an implementation of the FactScore metric, designed for detailed accuracy assessment in text generation. This package builds upon the framework provided by the original FactScore repository, which is no longer maintained and contains outdated functions.",
+      "stars": 13,
+      "updated_at": "2025-06-02T12:53:20Z",
+      "source": "github"
+    },
+    {
+      "title": "potamides/unsupervised-metrics",
+      "url": "https://github.com/potamides/unsupervised-metrics",
+      "description": "Library for experimenting with state-of-the-art evaluation metrics like UScore",
+      "stars": 12,
+      "updated_at": "2025-08-13T13:30:59Z",
+      "source": "github"
+    },
+    {
+      "title": "navidadkhah/Advanced-Bug-Detection-and-Fixing-Using-Fine-Tuned-LLM",
+      "url": "https://github.com/navidadkhah/Advanced-Bug-Detection-and-Fixing-Using-Fine-Tuned-LLM",
+      "description": "Bug detection and fixing using prompt engineering and fine-tuning with Llama 3 and a custom mutation-based dataset. Includes a user-friendly interface and performance evaluation metrics.",
+      "stars": 12,
+      "updated_at": "2025-11-13T02:30:49Z",
+      "source": "github"
+    },
+    {
+      "title": "robhorvat/news-sentinel-mlops",
+      "url": "https://github.com/robhorvat/news-sentinel-mlops",
+      "description": "Production NLP MLOps news classifier with TF‑IDF baseline and PyTorch TextCNN, evaluation gates, FastAPI dashboard, drift checks, CI/CD, Docker, Kubernetes (minikube) and Prometheus metrics.",
+      "stars": 12,
+      "updated_at": "2026-03-25T07:32:51Z",
+      "source": "github"
+    },
+    {
+      "title": "TaimoorKhan10/Enterprise-RAG-Framework",
+      "url": "https://github.com/TaimoorKhan10/Enterprise-RAG-Framework",
+      "description": "Production-ready Retrieval Augmented Generation (RAG) system with hybrid retrieval, advanced evaluation metrics, and monitoring. Build enterprise LLM applications with reduced hallucinations, better context management, and comprehensive observability.",
+      "stars": 10,
+      "updated_at": "2026-03-30T08:38:43Z",
+      "source": "github"
+    },
+    {
+      "title": "rashad101/RoMe",
+      "url": "https://github.com/rashad101/RoMe",
+      "description": "PyTorch code for ACL 2022 paper: RoMe: A Robust Metric for Evaluating Natural Language Generation https://aclanthology.org/2022.acl-long.387/",
+      "stars": 10,
+      "updated_at": "2025-01-02T23:47:15Z",
+      "source": "github"
+    },
+    {
+      "title": "SapienzaNLP/guardians-mt-eval",
+      "url": "https://github.com/SapienzaNLP/guardians-mt-eval",
+      "description": "Official repository of the ACL 2024 paper \"Guardians of the Machine Translation Meta-Evaluation: Sentinel Metrics Fall In!\".",
+      "stars": 10,
+      "updated_at": "2025-03-07T13:20:48Z",
+      "source": "github"
+    },
+    {
+      "title": "rohitk140797k/E-Commerce-Machine-learning-and-NLP-Techniques-used-",
+      "url": "https://github.com/rohitk140797k/E-Commerce-Machine-learning-and-NLP-Techniques-used-",
+      "description": "Problem Statement Amazon is an online shopping website that now caters to millions of people everywhere. Over 34,000 consumer reviews for Amazon brand products like Kindle, Fire TV Stick and more are provided.  The dataset has attributes like brand, categories, primary categories, reviews.title, reviews.text, and the sentiment. Sentiment is a categorical variable with three levels \"Positive\", \"Negative“, and \"Neutral\". For a given unseen data, the sentiment needs to be predicted.  You are required to predict Sentiment or Satisfaction of a purchase based on multiple features and review text.  picture  Dataset Snapshot picture  Project Task: Week 1  Class Imbalance Problem:  Perform an EDA on the dataset.  a) See what a positive, negative, and neutral review looks like.  b) Check the class count for each class. It’s a class imbalance problem.  Convert the reviews in Tf-Idf score.  Run multinomial Naive Bayes classifier. Everything will be classified as positive because of the class imbalance.  Project Task: Week 2  Tackling Class Imbalance Problem:  Oversampling or undersampling can be used to tackle the class imbalance problem.  In case of class imbalance criteria, use the following metrices for evaluating model performance: precision, recall, F1-score, AUC-ROC curve. Use F1-Score as the evaluation criteria for this project.  Use Tree-based classifiers like Random Forest and XGBoost. Note: Tree-based classifiers work on two ideologies namely, Bagging or Boosting and have fine-tuning parameter which takes care of the imbalanced class.  Project Task: Week 3  Model Selection:  Apply multi-class SVM’s and neural nets.  Use possible ensemble techniques like: XGboost + oversampled_multinomial_NB.  Assign a score to the sentence sentiment (engineer a feature called sentiment score). Use this engineered feature in the model and check for improvements. Draw insights on the same.  Project Task: Week 4  Applying LSTM:  Use LSTM for the previous problem (use parameters of LSTM like top-word, embedding-length, Dropout, epochs, number of layers, etc.) Hint: Another variation of LSTM, GRU (Gated Recurrent Units) can be tried as well.  Compare the accuracy of neural nets with traditional ML based algorithms.  Find the best setting of LSTM (Neural Net) and GRU that can best classify the reviews as positive, negative, and neutral. Hint: Use techniques like Grid Search, Cross-Validation and Random Search  Optional Tasks: Week 4  Topic Modelling:  Cluster similar reviews. Note: Some reviews may talk about the device as a gift-option. Other reviews may be about product looks and some may highlight about its battery and performance. Try naming the clusters.  Perform Topic Modelling Hint: Use scikit-learn provided Latent Dirchlette Allocation (LDA) and Non-Negative Matrix Factorization (NMF).",
+      "stars": 9,
+      "updated_at": "2024-07-22T16:14:41Z",
+      "source": "github"
+    },
+    {
+      "title": "usnistgov/KAIROS",
+      "url": "https://github.com/usnistgov/KAIROS",
+      "description": "Scoring and analysis software for the evaluation of Knowledge Directed Artificial Intelligence Reasoning Over Schemas (KAIROS)",
+      "stars": 8,
+      "updated_at": "2025-11-12T20:49:29Z",
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.432,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.2,
+      "star_power": 0.078,
+      "diversity": 0.0,
+      "usability": 0.0,
+      "applicability": 1.0,
+      "coverage": 1.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

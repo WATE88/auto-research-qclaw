@@ -1,0 +1,131 @@
+{
+  "topic": "LoRA training",
+  "round": 1,
+  "timestamp": "2026-03-27T16:13:50.326511",
+  "findings": [
+    {
+      "title": "ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling",
+      "url": "https://arxiv.org/abs/2603.25746v1",
+      "abstract": "Multi-shot video generation is crucial for long narrative storytelling, yet current bidirectional architectures suffer from limited interactivity and high latency. We propose ShotStream, a novel causa",
+      "source": "arxiv"
+    },
+    {
+      "title": "MuRF: Unlocking the Multi-Scale Potential of Vision Foundation Models",
+      "url": "https://arxiv.org/abs/2603.25744v1",
+      "abstract": "Vision Foundation Models (VFMs) have become the cornerstone of modern computer vision, offering robust representations across a wide array of tasks. While recent advances allow these models to handle ",
+      "source": "arxiv"
+    },
+    {
+      "title": "RefAlign: Representation Alignment for Reference-to-Video Generation",
+      "url": "https://arxiv.org/abs/2603.25743v1",
+      "abstract": "Reference-to-video (R2V) generation is a controllable video synthesis paradigm that constrains the generation process using both text prompts and reference images, enabling applications such as person",
+      "source": "arxiv"
+    },
+    {
+      "title": "MegaFlow: Zero-Shot Large Displacement Optical Flow",
+      "url": "https://arxiv.org/abs/2603.25739v1",
+      "abstract": "Accurate estimation of large displacement optical flow remains a critical challenge. Existing methods typically rely on iterative local search or/and domain-specific fine-tuning, which severely limits",
+      "source": "arxiv"
+    },
+    {
+      "title": "How good was my shot? Quantifying Player Skill Level in Table Tennis",
+      "url": "https://arxiv.org/abs/2603.25736v1",
+      "abstract": "Gauging an individual's skill level is crucial, as it inherently shapes their behavior. Quantifying skill, however, is challenging because it is latent to the observed actions. To explore skill unders",
+      "source": "arxiv"
+    },
+    {
+      "title": "Training the Knowledge Base through Evidence Distillation and Write-Back Enrichment",
+      "url": "https://arxiv.org/abs/2603.25737v1",
+      "abstract": "The knowledge base in a retrieval-augmented generation (RAG) system is typically assembled once and never revised, even though the facts a query requires are often fragmented across documents and buri",
+      "source": "arxiv"
+    },
+    {
+      "title": "Unleashing Guidance Without Classifiers for Human-Object Interaction Animation",
+      "url": "https://arxiv.org/abs/2603.25734v1",
+      "abstract": "Generating realistic human-object interaction (HOI) animations remains challenging because it requires jointly modeling dynamic human actions and diverse object geometries. Prior diffusion-based appro",
+      "source": "arxiv"
+    },
+    {
+      "title": "SlotVTG: Object-Centric Adapter for Generalizable Video Temporal Grounding",
+      "url": "https://arxiv.org/abs/2603.25733v1",
+      "abstract": "Multimodal Large Language Models (MLLMs) have shown strong performance on Video Temporal Grounding (VTG). However, their coarse recognition capabilities are insufficient for fine-grained temporal unde",
+      "source": "arxiv"
+    },
+    {
+      "title": "PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference",
+      "url": "https://arxiv.org/abs/2603.25730v1",
+      "abstract": "Autoregressive video diffusion models have demonstrated remarkable progress, yet they remain bottlenecked by intractable linear KV-cache growth, temporal repetition, and compounding errors during long",
+      "source": "arxiv"
+    },
+    {
+      "title": "PixelSmile: Toward Fine-Grained Facial Expression Editing",
+      "url": "https://arxiv.org/abs/2603.25728v1",
+      "abstract": "Fine-grained facial expression editing has long been limited by intrinsic semantic overlap. To address this, we construct the Flex Facial Expression (FFE) dataset with continuous affective annotations",
+      "source": "arxiv"
+    },
+    {
+      "title": "AnyHand: A Large-Scale Synthetic Dataset for RGB(-D) Hand Pose Estimation",
+      "url": "https://arxiv.org/abs/2603.25726v1",
+      "abstract": "We present AnyHand, a large-scale synthetic dataset designed to advance the state of the art in 3D hand pose estimation from both RGB-only and RGB-D inputs. While recent works with foundation approach",
+      "source": "arxiv"
+    },
+    {
+      "title": "SoftMimicGen: A Data Generation System for Scalable Robot Learning in Deformable Object Manipulation",
+      "url": "https://arxiv.org/abs/2603.25725v1",
+      "abstract": "Large-scale robot datasets have facilitated the learning of a wide range of robot manipulation skills, but these datasets remain difficult to collect and scale further, owing to the intractable amount",
+      "source": "arxiv"
+    },
+    {
+      "title": "No Hard Negatives Required: Concept Centric Learning Leads to Compositionality without Degrading Zero-shot Capabilities of Contrastive Models",
+      "url": "https://arxiv.org/abs/2603.25722v1",
+      "abstract": "Contrastive vision-language (V&amp;L) models remain a popular choice for various applications. However, several limitations have emerged, most notably the limited ability of V&amp;L models to learn co",
+      "source": "arxiv"
+    },
+    {
+      "title": "Agent Factories for High Level Synthesis: How Far Can General-Purpose Coding Agents Go in Hardware Optimization?",
+      "url": "https://arxiv.org/abs/2603.25719v1",
+      "abstract": "We present an empirical study of how far general-purpose coding agents -- without hardware-specific training -- can optimize hardware designs from high-level algorithmic specifications. We introduce a",
+      "source": "arxiv"
+    },
+    {
+      "title": "Compiling molecular ultrastructure into neural dynamics",
+      "url": "https://arxiv.org/abs/2603.25713v1",
+      "abstract": "High-resolution brain imaging can now capture not just synapse locations but their molecular composition, with the cost of such mapping falling exponentially. Yet such ultrastructural data has so far ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Seeing to Ground: Visual Attention for Hallucination-Resilient MDLLMs",
+      "url": "https://arxiv.org/abs/2603.25711v1",
+      "abstract": "Multimodal Diffusion Large Language Models (MDLLMs) achieve high-concurrency generation through parallel masked decoding, yet the architectures remain prone to multimodal hallucinations. This structur",
+      "source": "arxiv"
+    },
+    {
+      "title": "Wan-Weaver: Interleaved Multi-modal Generation via Decoupled Training",
+      "url": "https://arxiv.org/abs/2603.25706v1",
+      "abstract": "Recent unified models have made unprecedented progress in both understanding and generation. However, while most of them accept multi-modal inputs, they typically produce only single-modality outputs.",
+      "source": "arxiv"
+    },
+    {
+      "title": "S2D2: Fast Decoding for Diffusion LLMs via Training-Free Self-Speculation",
+      "url": "https://arxiv.org/abs/2603.25702v1",
+      "abstract": "Block-diffusion language models offer a promising path toward faster-than-autoregressive generation by combining block-wise autoregressive decoding with within-block parallel denoising. However, in th",
+      "source": "arxiv"
+    },
+    {
+      "title": "On Neural Scaling Laws for Weather Emulation through Continual Training",
+      "url": "https://arxiv.org/abs/2603.25687v1",
+      "abstract": "Neural scaling laws, which in some domains can predict the performance of large neural networks as a function of model, data, and compute scale, are the cornerstone of building foundation models in Na",
+      "source": "arxiv"
+    },
+    {
+      "title": "Just Zoom In: Cross-View Geo-Localization via Autoregressive Zooming",
+      "url": "https://arxiv.org/abs/2603.25686v1",
+      "abstract": "Cross-view geo-localization (CVGL) estimates a camera's location by matching a street-view image to geo-referenced overhead imagery, enabling GPS-denied localization and navigation. Existing methods a",
+      "source": "arxiv"
+    }
+  ],
+  "sources": [
+    "github",
+    "arxiv"
+  ]
+}

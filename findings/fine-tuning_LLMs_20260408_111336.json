@@ -1,0 +1,280 @@
+{
+  "topic": "fine-tuning LLMs",
+  "timestamp": "2026-04-08T11:13:36.516129",
+  "findings": [
+    {
+      "title": "hiyouga/LlamaFactory",
+      "url": "https://github.com/hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars": 69703,
+      "source": "github"
+    },
+    {
+      "title": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Unsloth Studio is a web UI for training and running open models like Qwen3.5, Gemma 4, DeepSeek, gpt-oss locally.",
+      "stars": 60024,
+      "source": "github"
+    },
+    {
+      "title": "kvcache-ai/ktransformers",
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "stars": 16915,
+      "source": "github"
+    },
+    {
+      "title": "xming521/WeClone",
+      "url": "https://github.com/xming521/WeClone",
+      "description": "🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊天记录创造数字分身的一站式解决方案  ",
+      "stars": 16503,
+      "source": "github"
+    },
+    {
+      "title": "ConardLi/easy-dataset",
+      "url": "https://github.com/ConardLi/easy-dataset",
+      "description": "A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval",
+      "stars": 13833,
+      "source": "github"
+    },
+    {
+      "title": "bentoml/OpenLLM",
+      "url": "https://github.com/bentoml/OpenLLM",
+      "description": "Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.",
+      "stars": 12274,
+      "source": "github"
+    },
+    {
+      "title": "ludwig-ai/ludwig",
+      "url": "https://github.com/ludwig-ai/ludwig",
+      "description": "Low-code framework for building custom LLMs, neural networks, and other AI models",
+      "stars": 11665,
+      "source": "github"
+    },
+    {
+      "title": "bigscience-workshop/petals",
+      "url": "https://github.com/bigscience-workshop/petals",
+      "description": "🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading",
+      "stars": 10052,
+      "source": "github"
+    },
+    {
+      "title": "oumi-ai/oumi",
+      "url": "https://github.com/oumi-ai/oumi",
+      "description": "Easily fine-tune, evaluate and deploy gpt-oss, Qwen3, DeepSeek-R1, or any open source LLM / VLM!",
+      "stars": 9171,
+      "source": "github"
+    },
+    {
+      "title": "h2oai/h2o-llmstudio",
+      "url": "https://github.com/h2oai/h2o-llmstudio",
+      "description": "H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/",
+      "stars": 4906,
+      "source": "github"
+    },
+    {
+      "title": "SylphAI-Inc/LLM-engineer-handbook",
+      "url": "https://github.com/SylphAI-Inc/LLM-engineer-handbook",
+      "description": "A curated list of Large Language Model resources, covering model training, serving, fine-tuning, and building LLM applications.",
+      "stars": 4861,
+      "source": "github"
+    },
+    {
+      "title": "predibase/lorax",
+      "url": "https://github.com/predibase/lorax",
+      "description": "Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs",
+      "stars": 3744,
+      "source": "github"
+    },
+    {
+      "title": "iusztinpaul/hands-on-llms",
+      "url": "https://github.com/iusztinpaul/hands-on-llms",
+      "description": "🦖 𝗟𝗲𝗮𝗿𝗻 about 𝗟𝗟𝗠𝘀, 𝗟𝗟𝗠𝗢𝗽𝘀, and 𝘃𝗲𝗰𝘁𝗼𝗿 𝗗𝗕𝘀 for free by designing, training, and deploying a real-time financial advisor LLM system ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 𝘷𝘪𝘥𝘦𝘰 & 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴",
+      "stars": 3404,
+      "source": "github"
+    },
+    {
+      "title": "ashishpatel26/LLM-Finetuning",
+      "url": "https://github.com/ashishpatel26/LLM-Finetuning",
+      "description": "LLM Finetuning with peft",
+      "stars": 2905,
+      "source": "github"
+    },
+    {
+      "title": "stochasticai/xTuring",
+      "url": "https://github.com/stochasticai/xTuring",
+      "description": "Build, personalize and control your own LLMs. From data pre-processing to fine-tuning, xTuring provides an easy way to personalize open-source LLMs. Join our discord community: https://discord.gg/TgHXuSJEk6",
+      "stars": 2665,
+      "source": "github"
+    },
+    {
+      "title": "decodingai-magazine/second-brain-ai-assistant-course",
+      "url": "https://github.com/decodingai-magazine/second-brain-ai-assistant-course",
+      "description": "Learn to build your Second Brain AI assistant with LLMs, agents, RAG, fine-tuning, LLMOps and AI systems techniques.",
+      "stars": 2629,
+      "source": "github"
+    },
+    {
+      "title": "Memento-Teams/Memento",
+      "url": "https://github.com/Memento-Teams/Memento",
+      "description": "Official Code of Memento: Fine-tuning LLM Agents without Fine-tuning LLMs",
+      "stars": 2378,
+      "source": "github"
+    },
+    {
+      "title": "AI-Hypercomputer/maxtext",
+      "url": "https://github.com/AI-Hypercomputer/maxtext",
+      "description": "A simple, performant and scalable Jax LLM!",
+      "stars": 2221,
+      "source": "github"
+    },
+    {
+      "title": "dstackai/dstack",
+      "url": "https://github.com/dstackai/dstack",
+      "description": "Control plane for agents and engineers to provision compute and run training and inference across NVIDIA, AMD, TPU, and Tenstorrent GPUs—on clouds, Kubernetes, and bare-metal clusters.",
+      "stars": 2083,
+      "source": "github"
+    },
+    {
+      "title": "kubeflow/trainer",
+      "url": "https://github.com/kubeflow/trainer",
+      "description": "Distributed AI Model Training and LLM Fine-Tuning on Kubernetes",
+      "stars": 2076,
+      "source": "github"
+    },
+    {
+      "title": "Paper Circle: An Open-source Multi-agent Research Discovery and Analysis Framework",
+      "url": "http://arxiv.org/abs/2604.06170v1",
+      "abstract": "The rapid growth of scientific literature has made it increasingly difficult for researchers to efficiently discover, evaluate, and synthesize relevant work. Recent advances in multi-agent large language models (LLMs) have demonstrated strong potential for understanding user intent and are being tra",
+      "source": "arxiv"
+    },
+    {
+      "title": "In-Place Test-Time Training",
+      "url": "http://arxiv.org/abs/2604.06169v1",
+      "abstract": "The static ``train then deploy\" paradigm fundamentally limits Large Language Models (LLMs) from dynamically adapting their weights in response to continuous streams of new information inherent in real-world tasks. Test-Time Training (TTT) offers a compelling alternative by updating a subset of model",
+      "source": "arxiv"
+    },
+    {
+      "title": "Data, Not Model: Explaining Bias toward LLM Texts in Neural Retrievers",
+      "url": "http://arxiv.org/abs/2604.06163v1",
+      "abstract": "Recent studies show that neural retrievers often display source bias, favoring passages generated by LLMs over human-written ones, even when both are semantically similar. This bias has been considered an inherent flaw of retrievers, raising concerns about the fairness and reliability of modern info",
+      "source": "arxiv"
+    },
+    {
+      "title": "Target Policy Optimization",
+      "url": "http://arxiv.org/abs/2604.06159v1",
+      "abstract": "In RL, given a prompt, we sample a group of completions from a model and score them. Two questions follow: which completions should gain probability mass, and how should the parameters move to realize that change? Standard policy-gradient methods answer both at once, so the update can overshoot or u",
+      "source": "arxiv"
+    },
+    {
+      "title": "Toward Consistent World Models with Multi-Token Prediction and Latent Semantic Enhancement",
+      "url": "http://arxiv.org/abs/2604.06155v1",
+      "abstract": "Whether Large Language Models (LLMs) develop coherent internal world models remains a core debate. While conventional Next-Token Prediction (NTP) focuses on one-step-ahead supervision, Multi-Token Prediction (MTP) has shown promise in learning more structured representations. In this work, we provid",
+      "source": "arxiv"
+    },
+    {
+      "title": "Exclusive Unlearning",
+      "url": "http://arxiv.org/abs/2604.06154v1",
+      "abstract": "When introducing Large Language Models (LLMs) into industrial applications, such as healthcare and education, the risk of generating harmful content becomes a significant challenge. While existing machine unlearning methods can erase specific harmful knowledge and expressions, diverse harmful conten",
+      "source": "arxiv"
+    },
+    {
+      "title": "Generating Synthetic Doctor-Patient Conversations for Long-form Audio Summarization",
+      "url": "http://arxiv.org/abs/2604.06138v1",
+      "abstract": "Long-context audio reasoning is underserved in both training data and evaluation. Existing benchmarks target short-context tasks, and the open-ended generation tasks most relevant to long-context reasoning pose well-known challenges for automatic evaluation. We propose a synthetic data generation pi",
+      "source": "arxiv"
+    },
+    {
+      "title": "Lightweight Multimodal Adaptation of Vision Language Models for Species Recognition and Habitat Context Interpretation in Drone Thermal Imagery",
+      "url": "http://arxiv.org/abs/2604.06124v1",
+      "abstract": "This study proposes a lightweight multimodal adaptation framework to bridge the representation gap between RGB-pretrained VLMs and thermal infrared imagery, and demonstrates its practical utility using a real drone-collected dataset. A thermal dataset was developed from drone-collected imagery and w",
+      "source": "arxiv"
+    },
+    {
+      "title": "JUÁ - A Benchmark for Information Retrieval in Brazilian Legal Text Collections",
+      "url": "http://arxiv.org/abs/2604.06098v1",
+      "abstract": "Legal information retrieval in Portuguese remains difficult to evaluate systematically because available datasets differ widely in document type, query style, and relevance definition. We present \\textsc{JUÁ}, a public benchmark for Brazilian legal retrieval designed to support more reproducible and",
+      "source": "arxiv"
+    },
+    {
+      "title": "Masking or Mitigating? Deconstructing the Impact of Query Rewriting on Retriever Biases in RAG",
+      "url": "http://arxiv.org/abs/2604.06097v1",
+      "abstract": "Dense retrievers in retrieval-augmented generation (RAG) systems exhibit systematic biases -- including brevity, position, literal matching, and repetition biases -- that can compromise retrieval quality. Query rewriting techniques are now standard in RAG pipelines, yet their impact on these biases ",
+      "source": "arxiv"
+    },
+    {
+      "title": "LLM4CodeRE: Generative AI for Code Decompilation Analysis and Reverse Engineering",
+      "url": "http://arxiv.org/abs/2604.06095v1",
+      "abstract": "Code decompilation analysis is a fundamental yet challenging task in malware reverse engineering, particularly due to the pervasive use of sophisticated obfuscation techniques. Although recent large language models (LLMs) have shown promise in translating low-level representations into high-level so",
+      "source": "arxiv"
+    },
+    {
+      "title": "Social Dynamics as Critical Vulnerabilities that Undermine Objective Decision-Making in LLM Collectives",
+      "url": "http://arxiv.org/abs/2604.06091v1",
+      "abstract": "Large language model (LLM) agents are increasingly acting as human delegates in multi-agent environments, where a representative agent integrates diverse peer perspectives to make a final decision. Drawing inspiration from social psychology, we investigate how the reliability of this representative ",
+      "source": "arxiv"
+    },
+    {
+      "title": "LAG-XAI: A Lie-Inspired Affine Geometric Framework for Interpretable Paraphrasing in Transformer Latent Spaces",
+      "url": "http://arxiv.org/abs/2604.06086v1",
+      "abstract": "Modern Transformer-based language models achieve strong performance in natural language processing tasks, yet their latent semantic spaces remain largely uninterpretable black boxes. This paper introduces LAG-XAI (Lie Affine Geometry for Explainable AI), a novel geometric framework that models parap",
+      "source": "arxiv"
+    },
+    {
+      "title": "Stories of Your Life as Others: A Round-Trip Evaluation of LLM-Generated Life Stories Conditioned on Rich Psychometric Profiles",
+      "url": "http://arxiv.org/abs/2604.06071v1",
+      "abstract": "Personality traits are richly encoded in natural language, and large language models (LLMs) trained on human text can simulate personality when conditioned on persona descriptions. However, existing evaluations rely predominantly on questionnaire self-report by the conditioned model, are limited in ",
+      "source": "arxiv"
+    },
+    {
+      "title": "From Hallucination to Structure Snowballing: The Alignment Tax of Constrained Decoding in LLM Reflection",
+      "url": "http://arxiv.org/abs/2604.06066v1",
+      "abstract": "Intrinsic self-correction in Large Language Models (LLMs) frequently fails in open-ended reasoning tasks due to ``hallucination snowballing,'' a phenomenon in which models recursively justify early errors during free-text reflection. While structured feedback can mitigate this issue, existing approa",
+      "source": "arxiv"
+    },
+    {
+      "title": "Large Language Model Assisted Discovery of Optimal Dopants for Enhanced Thermoelectric Performance in CoSb$_3$ Based Skutterudites",
+      "url": "http://arxiv.org/abs/2604.06048v1",
+      "abstract": "We present a data-driven approach for accelerating the discovery of high-performance CoSb$_3$-based skutterudites by curating a comprehensive dataset of compositions with various filler elements from over 300 research articles. Leveraging large language models (LLMs), we extract and embed compositio",
+      "source": "arxiv"
+    },
+    {
+      "title": "CoStream: Codec-Guided Resource-Efficient System for Video Streaming Analytics",
+      "url": "http://arxiv.org/abs/2604.06036v1",
+      "abstract": "Video streaming analytics is a crucial workload for vision-language model serving, but the high cost of multimodal inference limits scalability. Prior systems reduce inference cost by exploiting temporal and spatial redundancy in video streams, but they target either the vision transformer (ViT) or ",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Multi-Stage Validation Framework for Trustworthy Large-scale Clinical Information Extraction using Large Language Models",
+      "url": "http://arxiv.org/abs/2604.06028v1",
+      "abstract": "Large language models (LLMs) show promise for extracting clinically meaningful information from unstructured health records, yet their translation into real-world settings is constrained by the lack of scalable and trustworthy validation approaches. Conventional evaluation methods rely heavily on an",
+      "source": "arxiv"
+    },
+    {
+      "title": "CritBench: A Framework for Evaluating Cybersecurity Capabilities of Large Language Models in IEC 61850 Digital Substation Environments",
+      "url": "http://arxiv.org/abs/2604.06019v1",
+      "abstract": "The advancement of Large Language Models (LLMs) has raised concerns regarding their dual-use potential in cybersecurity. Existing evaluation frameworks overwhelmingly focus on Information Technology (IT) environments, failing to capture the constraints, and specialized protocols of Operational Techn",
+      "source": "arxiv"
+    },
+    {
+      "title": "Toward Aristotelian Medical Representations: Backpropagation-Free Layer-wise Analysis for Interpretable Generalized Metric Learning on MedMNIST",
+      "url": "http://arxiv.org/abs/2604.06017v1",
+      "abstract": "While deep learning has achieved remarkable success in medical imaging, the \"black-box\" nature of backpropagation-based models remains a significant barrier to clinical adoption. To bridge this gap, we propose Aristotelian Rapid Object Modeling (A-ROM), a framework built upon the Platonic Representa",
+      "source": "arxiv"
+    }
+  ],
+  "quality": {
+    "total": 40,
+    "quality_score": 0.429,
+    "dimensions": {
+      "authority": 0.95,
+      "quality": 0.025,
+      "star_power": 0.182,
+      "diversity": 0.5
+    },
+    "sources_breakdown": {
+      "github": 20,
+      "arxiv": 20
+    }
+  }
+}

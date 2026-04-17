@@ -1,0 +1,166 @@
+{
+  "topic": "LLM inference acceleration",
+  "timestamp": "2026-04-07T12:16:03.570594",
+  "findings": [
+    {
+      "title": "zhihu/ZhiLight",
+      "url": "https://github.com/zhihu/ZhiLight",
+      "description": "A highly optimized LLM inference acceleration engine for Llama and its variants.",
+      "stars": 905,
+      "source": "github"
+    },
+    {
+      "title": "hybridgroup/yzma",
+      "url": "https://github.com/hybridgroup/yzma",
+      "description": "Go with your own intelligence - Go applications that directly integrate llama.cpp for local inference using hardware acceleration.",
+      "stars": 371,
+      "source": "github"
+    },
+    {
+      "title": "galeselee/Awesome_LLM_System-PaperList",
+      "url": "https://github.com/galeselee/Awesome_LLM_System-PaperList",
+      "description": "Since the emergence of chatGPT in 2022, the acceleration of Large Language Model has become increasingly important. Here is a list of papers on accelerating LLMs, currently focusing mainly on inference acceleration, and related works will be gradually added in the future. Welcome contributions!",
+      "stars": 282,
+      "source": "github"
+    },
+    {
+      "title": "Infini-AI-Lab/TriForce",
+      "url": "https://github.com/Infini-AI-Lab/TriForce",
+      "description": "[COLM 2024] TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding",
+      "stars": 279,
+      "source": "github"
+    },
+    {
+      "title": "casys-kaist/NeuPIMs",
+      "url": "https://github.com/casys-kaist/NeuPIMs",
+      "description": "NeuPIMs: NPU-PIM Heterogeneous Acceleration for Batched LLM Inferencing",
+      "stars": 112,
+      "source": "github"
+    },
+    {
+      "title": "sgInnora/sentinel-reverse",
+      "url": "https://github.com/sgInnora/sentinel-reverse",
+      "description": "AI-Powered Autonomous Binary Reverse Engineering CLI — the native reverse engine from Innora-Sentinel. Local LLM inference (MLX), MPS GPU acceleration, multi-round iterative analysis, zero API cost.",
+      "stars": 68,
+      "source": "github"
+    },
+    {
+      "title": "hemingkx/SWIFT",
+      "url": "https://github.com/hemingkx/SWIFT",
+      "description": "[ICLR 2025] SWIFT: On-the-Fly Self-Speculative Decoding for LLM Inference Acceleration",
+      "stars": 65,
+      "source": "github"
+    },
+    {
+      "title": "shishishu/LLM-Inference-Acceleration",
+      "url": "https://github.com/shishishu/LLM-Inference-Acceleration",
+      "description": "LLM Inference with Deep Learning Accelerator.",
+      "stars": 60,
+      "source": "github"
+    },
+    {
+      "title": "JIA-Lab-research/Q-LLM",
+      "url": "https://github.com/JIA-Lab-research/Q-LLM",
+      "description": "This is the official repo of \"QuickLLaMA: Query-aware Inference Acceleration for Large Language Models\"",
+      "stars": 55,
+      "source": "github"
+    },
+    {
+      "title": "hmarkc/parallel-prompt-decoding",
+      "url": "https://github.com/hmarkc/parallel-prompt-decoding",
+      "description": "Efficient LLM Inference Acceleration using Prompting",
+      "stars": 52,
+      "source": "github"
+    },
+    {
+      "title": "xuyang-liu16/GlobalCom2",
+      "url": "https://github.com/xuyang-liu16/GlobalCom2",
+      "description": "[AAAI 2026] Global Compression Commander: Plug-and-Play Inference Acceleration for High-Resolution Large Vision-Language Models",
+      "stars": 41,
+      "source": "github"
+    },
+    {
+      "title": "adilsondias-engineer/fpga-trading-systems",
+      "url": "https://github.com/adilsondias-engineer/fpga-trading-systems",
+      "description": "Complete end-to-end FPGA trading system: hardware acceleration (<5μs latency), kernel bypass (AF_XDP, DPDK), automated market maker, FIX 4.2 execution engine. 35 projects from Ethernet PHY to multi-platform apps. Real NASDAQ ITCH validation (563K+ samples). Production-grade low-latency architecture. LLM-Inference",
+      "stars": 29,
+      "source": "github"
+    },
+    {
+      "title": "ece-fast-lab/ISCA-2025-LIA",
+      "url": "https://github.com/ece-fast-lab/ISCA-2025-LIA",
+      "description": "[ISCA'25] LIA: A Single-GPU LLM Inference Acceleration with Cooperative AMX-Enabled CPU-GPU Computation and CXL Offloading",
+      "stars": 24,
+      "source": "github"
+    },
+    {
+      "title": "Yog-Sotho/LLM-fine-tuner",
+      "url": "https://github.com/Yog-Sotho/LLM-fine-tuner",
+      "description": "Powerful no-code LLM fine-tuner: upload data → train → deploy in minutes. Unsloth 2-5× acceleration · QLoRA/DPO/RLHF/PPO/ORPO · Reward Model training · GGUF export · vLLM inference · BLEU/ROUGE/BERTScore · full CLI · Heretic Mode to unlock full model potential",
+      "stars": 18,
+      "source": "github"
+    },
+    {
+      "title": "hyungyokim/LIA_AMXGPU",
+      "url": "https://github.com/hyungyokim/LIA_AMXGPU",
+      "description": "[ISCA'25] LIA: A Single-GPU LLM Inference Acceleration with Cooperative AMX-Enabled CPU-GPU Computation and CXL Offloading",
+      "stars": 13,
+      "source": "github"
+    },
+    {
+      "title": "Kimho666/LLM_Hardware_Survey",
+      "url": "https://github.com/Kimho666/LLM_Hardware_Survey",
+      "description": "Large Language Model Inference Acceleration: A Comprehensive Hardware Perspective",
+      "stars": 13,
+      "source": "github"
+    },
+    {
+      "title": "ccs96307/fast-llm-inference",
+      "url": "https://github.com/ccs96307/fast-llm-inference",
+      "description": "Accelerating LLM inference with techniques like speculative decoding, quantization, and kernel fusion, focusing on implementing state-of-the-art research papers.",
+      "stars": 11,
+      "source": "github"
+    },
+    {
+      "title": "AllenJWZhu/LlamaInfer",
+      "url": "https://github.com/AllenJWZhu/LlamaInfer",
+      "description": "LLM Inference Engine: High-performance CUDA-accelerated framework for large language model inference  A cutting-edge, open-source implementation of a large language model (LLM) inference engine, optimized for consumer-grade hardware. This project showcases advanced techniques in GPU acceleration, memory management, and algorithmic optimizations",
+      "stars": 11,
+      "source": "github"
+    },
+    {
+      "title": "acai66/qwen_numpy",
+      "url": "https://github.com/acai66/qwen_numpy",
+      "description": "使用numpy实现DeepSeek-R1-Distill-Qwen-1.5B的推理过程，易于学习LLM推理与移植到其它编程语言加速。 Implementing the inference process of DeepSeek-R1-Distill-Qwen-1.5B using numpy, making it easy to learn LLM (Large Language Model) inference and to port to other programming languages for acceleration.",
+      "stars": 10,
+      "source": "github"
+    },
+    {
+      "title": "agentary-ai/agentary-js",
+      "url": "https://github.com/agentary-ai/agentary-js",
+      "description": "Browser-native LLM inference with WebGPU acceleration to support agentic workflows",
+      "stars": 9,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.642,
+    "grade": "B",
+    "dimensions": {
+      "authority": 0.9,
+      "star_power": 0.134,
+      "diversity": 0.0,
+      "coverage": 1.0,
+      "ndcg": 0.736,
+      "map": 1.0,
+      "mrr": 1.0,
+      "rouge_1": 0.833,
+      "semantic_sim": 0.362,
+      "task_completion": 0.603,
+      "tool_use": 0.067,
+      "reasoning_depth": 0.0,
+      "autonomy": 0.125
+    }
+  }
+}

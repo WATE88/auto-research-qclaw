@@ -1,0 +1,1565 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>AutoResearch · 增强分析中心 v2.0</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<style>
+:root{
+  --bg:#060b14;--surface:#0d1520;--surface2:#111e30;--surface3:#162540;
+  --border:#1e3050;--accent:#3b82f6;--accent2:#8b5cf6;--accent3:#10b981;
+  --warn:#f59e0b;--danger:#ef4444;--text:#e2e8f0;--muted:#64748b;
+  --green:#10b981;--blue:#3b82f6;--purple:#8b5cf6;--orange:#f97316;
+  --pink:#ec4899;--cyan:#06b6d4;--yellow:#eab308;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{min-height:100vh;font-family:'Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(--text);overflow-x:hidden}
+
+/* ── TOPBAR ── */
+.topbar{
+  height:52px;display:flex;align-items:center;justify-content:space-between;
+  padding:0 20px;background:var(--surface);border-bottom:2px solid var(--border);
+  position:sticky;top:0;z-index:100;
+}
+.brand{display:flex;align-items:center;gap:10px}
+.brand-logo{
+  width:34px;height:34px;border-radius:8px;
+  background:linear-gradient(135deg,var(--blue),var(--purple));
+  display:flex;align-items:center;justify-content:center;font-size:16px;font-weight:700;
+}
+.brand-title{font-size:15px;font-weight:700;letter-spacing:.5px}
+.brand-ver{font-size:10px;color:var(--muted);margin-top:1px}
+.badge{display:inline-flex;align-items:center;gap:5px;padding:4px 10px;border-radius:12px;font-size:11px;font-weight:600}
+.badge-green{background:rgba(16,185,129,.12);border:1px solid rgba(16,185,129,.3);color:var(--green)}
+.badge-blue{background:rgba(59,130,246,.12);border:1px solid rgba(59,130,246,.3);color:var(--blue)}
+.badge-purple{background:rgba(139,92,246,.12);border:1px solid rgba(139,92,246,.3);color:var(--purple)}
+.badge-orange{background:rgba(249,115,22,.12);border:1px solid rgba(249,115,22,.3);color:var(--orange)}
+.dot{width:6px;height:6px;border-radius:50%;background:var(--green);animation:pulse 1.4s infinite;display:inline-block}
+@keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.4;transform:scale(.75)}}
+.topbar-nav{display:flex;gap:4px;align-items:center}
+.nav-btn{
+  padding:5px 12px;border-radius:6px;border:1px solid var(--border);background:transparent;
+  color:var(--muted);font-size:11px;font-weight:600;cursor:pointer;transition:.2s;
+}
+.nav-btn:hover,.nav-btn.active{background:rgba(59,130,246,.15);border-color:rgba(59,130,246,.4);color:var(--blue)}
+.clock{font-size:11px;color:var(--muted);font-variant-numeric:tabular-nums;white-space:nowrap}
+
+/* ── SUMMARY CARDS ── */
+.summary-row{
+  display:flex;gap:10px;padding:12px 20px;
+  background:rgba(13,21,32,.6);border-bottom:1px solid var(--border);
+}
+.sc{
+  flex:1;background:var(--surface);border:1px solid var(--border);border-radius:10px;
+  padding:10px 14px;display:flex;flex-direction:column;justify-content:center;
+  position:relative;overflow:hidden;
+}
+.sc::after{
+  content:'';position:absolute;top:0;right:0;width:40%;height:100%;
+  background:linear-gradient(to left, var(--accent-bg,rgba(59,130,246,.04)), transparent);
+  pointer-events:none;
+}
+.sc-lbl{font-size:9px;color:var(--muted);text-transform:uppercase;letter-spacing:.8px;margin-bottom:4px}
+.sc-val{font-size:22px;font-weight:700;font-variant-numeric:tabular-nums;line-height:1}
+.sc-sub{font-size:9px;margin-top:3px;color:var(--muted)}
+.c-blue{color:var(--blue)} .c-green{color:var(--green)} .c-purple{color:var(--purple)}
+.c-orange{color:var(--orange)} .c-cyan{color:var(--cyan)} .c-yellow{color:var(--yellow)}
+.c-pink{color:var(--pink)}
+
+/* ── CONTENT TABS ── */
+.tab-content{display:none;padding:16px 20px;animation:fadeIn .3s ease}
+.tab-content.active{display:block}
+@keyframes fadeIn{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:translateY(0)}}
+
+/* ── GRID LAYOUTS ── */
+.grid-2{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.grid-3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:14px}
+.grid-4{display:grid;grid-template-columns:1fr 1fr 1fr 1fr;gap:14px}
+.grid-auto{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:14px}
+.col-span-2{grid-column:span 2}
+.col-span-3{grid-column:span 3}
+
+/* ── PANEL ── */
+.panel{
+  background:var(--surface);border:1px solid var(--border);border-radius:10px;
+  display:flex;flex-direction:column;overflow:hidden;
+}
+.ph{
+  height:32px;display:flex;align-items:center;justify-content:space-between;
+  padding:0 12px;background:var(--surface2);border-bottom:1px solid var(--border);flex-shrink:0;
+}
+.ph-title{font-size:11px;font-weight:700;color:var(--text);display:flex;align-items:center;gap:6px}
+.ph-badge{font-size:9px;padding:1px 6px;border-radius:5px;font-weight:600;background:rgba(59,130,246,.15);color:var(--blue);border:1px solid rgba(59,130,246,.25)}
+.ph-actions{display:flex;gap:4px}
+.ph-btn{font-size:9px;padding:2px 8px;border-radius:4px;border:1px solid var(--border);background:rgba(59,130,246,.08);color:var(--blue);cursor:pointer;transition:.15s}
+.ph-btn:hover{background:rgba(59,130,246,.2)}
+.pb{flex:1;padding:10px;position:relative;min-height:0}
+.chart-wrap{position:relative;width:100%;height:220px}
+
+/* ── BEST CONFIG CARD ── */
+.best-config-card{
+  background:linear-gradient(135deg, rgba(59,130,246,.08), rgba(139,92,246,.08));
+  border:1px solid rgba(139,92,246,.3);border-radius:10px;padding:14px;
+  position:relative;overflow:hidden;
+}
+.best-config-card::before{
+  content:'🏆';position:absolute;right:12px;top:12px;font-size:28px;opacity:.15;
+}
+.bcc-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:10px}
+.bcc-score{font-size:28px;font-weight:800;color:var(--yellow);font-variant-numeric:tabular-nums}
+.bcc-gen{font-size:11px;color:var(--muted)}
+.bcc-genome{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;font-size:10px}
+.gene-item{background:rgba(255,255,255,.04);border:1px solid var(--border);border-radius:6px;padding:5px 8px}
+.gene-key{color:var(--muted);font-size:9px;margin-bottom:2px}
+.gene-val{color:var(--cyan);font-weight:700}
+
+/* ── IMPORTANCE HEATMAP ── */
+.heatmap-row{display:flex;align-items:center;gap:8px;margin-bottom:6px}
+.heatmap-label{font-size:10px;color:var(--muted);width:120px;flex-shrink:0;text-align:right}
+.heatmap-bar-wrap{flex:1;height:18px;background:rgba(255,255,255,.03);border-radius:4px;overflow:hidden;position:relative}
+.heatmap-bar{height:100%;border-radius:4px;transition:width .6s ease;display:flex;align-items:center;padding-left:6px}
+.heatmap-val{font-size:9px;font-weight:700;color:rgba(255,255,255,.8)}
+
+/* ── SOURCE RATINGS TABLE ── */
+.rating-table{width:100%;border-collapse:collapse;font-size:11px}
+.rating-table th{padding:5px 8px;text-align:left;color:var(--muted);font-weight:500;border-bottom:1px solid var(--border);font-size:9px;text-transform:uppercase;letter-spacing:.4px}
+.rating-table td{padding:5px 8px;border-bottom:1px solid rgba(30,48,80,.5)}
+.rating-table tr:hover td{background:rgba(59,130,246,.04)}
+.rating-bar{height:4px;background:var(--border);border-radius:2px;overflow:hidden;margin-top:3px}
+.rating-fill{height:100%;border-radius:2px;transition:width .6s ease}
+
+/* ── PARETO SCATTER ── */
+.pareto-legend{display:flex;gap:12px;font-size:9px;color:var(--muted);margin-bottom:6px;flex-wrap:wrap}
+.pareto-legend-item{display:flex;align-items:center;gap:4px}
+.legend-dot{width:8px;height:8px;border-radius:50%;flex-shrink:0}
+
+/* ── SNAPSHOT CARDS ── */
+.snap-list{display:flex;flex-direction:column;gap:6px;overflow-y:auto;max-height:260px;padding:2px}
+.snap-card{
+  background:var(--surface2);border:1px solid var(--border);border-radius:7px;
+  padding:8px 10px;display:flex;align-items:center;justify-content:space-between;
+  transition:.15s;
+}
+.snap-card:hover{border-color:rgba(59,130,246,.4);background:rgba(59,130,246,.04)}
+.snap-info{flex:1;min-width:0}
+.snap-label{font-size:11px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.snap-meta{font-size:9px;color:var(--muted);margin-top:2px}
+.snap-score{font-size:16px;font-weight:700;color:var(--green);margin-right:10px;flex-shrink:0}
+.snap-actions{display:flex;gap:4px;flex-shrink:0}
+.snap-btn{font-size:9px;padding:2px 7px;border-radius:4px;border:1px solid var(--border);background:transparent;color:var(--muted);cursor:pointer;transition:.15s}
+.snap-btn:hover{border-color:rgba(59,130,246,.4);color:var(--blue)}
+.snap-btn.compare-active{background:rgba(59,130,246,.15);border-color:rgba(59,130,246,.5);color:var(--blue)}
+
+/* ── DRIFT TIMELINE ── */
+.drift-timeline{display:flex;flex-direction:column;gap:6px;overflow-y:auto;max-height:300px}
+.drift-event{background:var(--surface2);border-left:3px solid var(--danger);border-radius:6px;padding:8px 10px}
+.drift-event.drift-ok{border-left-color:var(--blue)}
+.drift-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:5px}
+.drift-title{font-size:11px;font-weight:600;color:var(--danger)}
+.drift-ts{font-size:9px;color:var(--muted)}
+.drift-actions{display:flex;flex-wrap:wrap;gap:4px;margin-top:5px}
+.drift-action{font-size:9px;padding:2px 7px;border-radius:4px;background:rgba(239,68,68,.1);border:1px solid rgba(239,68,68,.2);color:#fca5a5}
+
+/* ── AB COMPARE RESULT ── */
+.ab-result{
+  background:linear-gradient(135deg, rgba(16,185,129,.06), rgba(59,130,246,.06));
+  border:1px solid rgba(16,185,129,.25);border-radius:8px;padding:12px;
+}
+.ab-winner{font-size:13px;font-weight:700;color:var(--green);display:flex;align-items:center;gap:6px}
+.ab-stats{display:grid;grid-template-columns:1fr auto 1fr;gap:8px;margin-top:10px;align-items:center;font-size:11px}
+.ab-stat-block{background:rgba(255,255,255,.03);border-radius:6px;padding:6px 10px;text-align:center}
+.ab-stat-name{font-size:9px;color:var(--muted);margin-bottom:3px}
+.ab-stat-val{font-size:18px;font-weight:700}
+.ab-vs{text-align:center;color:var(--muted);font-size:11px}
+
+/* ── CONVERGENCE CHART AREA ── */
+.convergence-section{margin-top:14px}
+.convergence-params{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:8px}
+.param-tag{
+  font-size:10px;padding:3px 10px;border-radius:5px;border:1px solid var(--border);
+  background:var(--surface2);color:var(--muted);cursor:pointer;transition:.15s;
+}
+.param-tag.active{background:rgba(59,130,246,.15);border-color:rgba(59,130,246,.4);color:var(--blue)}
+
+/* ── REFRESH STATUS ── */
+.refresh-info{font-size:9px;color:var(--muted);text-align:right;padding:4px 0}
+.spinner{display:inline-block;width:10px;height:10px;border:1.5px solid rgba(59,130,246,.3);border-top-color:var(--blue);border-radius:50%;animation:spin .7s linear infinite;margin-right:4px}
+@keyframes spin{to{transform:rotate(360deg)}}
+
+/* ── MISC ── */
+.empty-tip{text-align:center;padding:30px;color:var(--muted);font-size:12px}
+.divider{height:1px;background:var(--border);margin:12px 0}
+::-webkit-scrollbar{width:4px;height:4px}
+::-webkit-scrollbar-track{background:transparent}
+::-webkit-scrollbar-thumb{background:var(--border);border-radius:2px}
+.mb-12{margin-bottom:12px}
+</style>
+</head>
+<body>
+
+<!-- ── TOPBAR ── -->
+<div class="topbar">
+  <div class="brand">
+    <div class="brand-logo">AR</div>
+    <div>
+      <div class="brand-title">AutoResearch 增强分析中心</div>
+      <div class="brand-ver">v2.0 · 多目标优化 + 参数重要性 + A/B实验 + Drift联动</div>
+    </div>
+  </div>
+  <div class="topbar-nav">
+    <button class="nav-btn active" onclick="showTab('overview')">📊 总览</button>
+    <button class="nav-btn" onclick="showTab('convergence')">📈 收敛曲线</button>
+    <button class="nav-btn" onclick="showTab('pareto')">🎯 多目标</button>
+    <button class="nav-btn" onclick="showTab('importance')">🔥 参数重要性</button>
+    <button class="nav-btn" onclick="showTab('ab')">🧪 A/B对比</button>
+    <button class="nav-btn" onclick="showTab('drift')">⚡ Drift响应</button>
+    <button class="nav-btn" onclick="showTab('knowledge')">🌐 知识评分</button>
+  </div>
+  <div style="display:flex;align-items:center;gap:10px">
+    <button onclick="refreshAll()" style="font-size:10px;padding:4px 10px;border-radius:6px;border:1px solid rgba(59,130,246,.3);background:rgba(59,130,246,.08);color:var(--blue);cursor:pointer">🔄 刷新</button>
+    <div class="clock" id="clock">--:--:--</div>
+  </div>
+</div>
+
+<!-- ── SUMMARY ROW ── -->
+<div class="summary-row">
+  <div class="sc" style="--accent-bg:rgba(59,130,246,.04)">
+    <div class="sc-lbl">全局最优分数</div>
+    <div class="sc-val c-yellow" id="s-best-score">—</div>
+    <div class="sc-sub" id="s-best-gen">代数 —</div>
+  </div>
+  <div class="sc" style="--accent-bg:rgba(139,92,246,.04)">
+    <div class="sc-lbl">当前代数</div>
+    <div class="sc-val c-purple" id="s-cur-gen">—</div>
+    <div class="sc-sub" id="s-strategy">策略 —</div>
+  </div>
+  <div class="sc" style="--accent-bg:rgba(16,185,129,.04)">
+    <div class="sc-lbl">Pareto 前沿点</div>
+    <div class="sc-val c-green" id="s-pareto-count">—</div>
+    <div class="sc-sub" id="s-pareto-total">总评估 —</div>
+  </div>
+  <div class="sc" style="--accent-bg:rgba(249,115,22,.04)">
+    <div class="sc-lbl">Drift 响应次数</div>
+    <div class="sc-val c-orange" id="s-drift-count">—</div>
+    <div class="sc-sub">漂移自动响应</div>
+  </div>
+  <div class="sc" style="--accent-bg:rgba(6,182,212,.04)">
+    <div class="sc-lbl">A/B 快照</div>
+    <div class="sc-val c-cyan" id="s-snap-count">—</div>
+    <div class="sc-sub">配置快照总数</div>
+  </div>
+  <div class="sc" style="--accent-bg:rgba(234,179,8,.04)">
+    <div class="sc-lbl">网络知识来源</div>
+    <div class="sc-val c-yellow" id="s-source-count">—</div>
+    <div class="sc-sub">已评分来源数</div>
+  </div>
+</div>
+
+<!-- ══════════════ TAB: OVERVIEW ══════════════ -->
+<div id="tab-overview" class="tab-content active">
+  <div class="grid-2 mb-12">
+    <!-- 最优配置卡 -->
+    <div class="best-config-card">
+      <div class="bcc-header">
+        <div>
+          <div style="font-size:10px;color:var(--muted);margin-bottom:4px">🏆 当前全局最优配置</div>
+          <div class="bcc-score" id="bcc-score">—</div>
+          <div class="bcc-gen" id="bcc-gen">代数 — · 策略 —</div>
+        </div>
+        <button onclick="saveCurrentSnapshot()" style="font-size:10px;padding:6px 12px;border-radius:7px;border:1px solid rgba(139,92,246,.4);background:rgba(139,92,246,.12);color:#a78bfa;cursor:pointer;white-space:nowrap">
+          💾 保存快照
+        </button>
+      </div>
+      <div class="bcc-genome" id="bcc-genome">
+        <div class="gene-item"><div class="gene-key">加载中</div><div class="gene-val">...</div></div>
+      </div>
+    </div>
+
+    <!-- 得分历史折线 -->
+    <div class="panel">
+      <div class="ph">
+        <div class="ph-title">📈 得分历史趋势</div>
+        <div class="ph-badge" id="score-trend-badge">加载中</div>
+      </div>
+      <div class="pb">
+        <div class="chart-wrap"><canvas id="scoreHistoryChart"></canvas></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="grid-3">
+    <!-- 策略分布饼图 -->
+    <div class="panel">
+      <div class="ph">
+        <div class="ph-title">🎲 策略分布</div>
+        <div class="ph-badge" id="strategy-count-badge">—</div>
+      </div>
+      <div class="pb">
+        <div class="chart-wrap"><canvas id="strategyPieChart"></canvas></div>
+      </div>
+    </div>
+
+    <!-- 知识来源贡献饼图 -->
+    <div class="panel">
+      <div class="ph">
+        <div class="ph-title">🌐 知识来源贡献</div>
+        <div class="ph-badge" id="source-pie-badge">—</div>
+      </div>
+      <div class="pb">
+        <div class="chart-wrap"><canvas id="sourcePieChart"></canvas></div>
+      </div>
+    </div>
+
+    <!-- 参数重要性快览 -->
+    <div class="panel">
+      <div class="ph">
+        <div class="ph-title">🔥 参数重要性概览</div>
+        <div class="ph-badge" id="imp-overview-badge">—</div>
+      </div>
+      <div class="pb" id="imp-overview-content">
+        <div class="empty-tip">加载中...</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ══════════════ TAB: CONVERGENCE ══════════════ -->
+<div id="tab-convergence" class="tab-content">
+  <div class="panel mb-12">
+    <div class="ph">
+      <div class="ph-title">📈 得分收敛曲线（全局最优 vs 本代最高）</div>
+      <div class="ph-actions">
+        <button class="ph-btn" onclick="loadConvergenceChart()">🔄 刷新</button>
+      </div>
+    </div>
+    <div class="pb">
+      <div style="height:280px;position:relative"><canvas id="convergenceChart"></canvas></div>
+    </div>
+  </div>
+
+  <div class="grid-2">
+    <div class="panel">
+      <div class="ph">
+        <div class="ph-title">🧬 参数收敛轨迹</div>
+        <div class="ph-actions">
+          <select id="paramSelect" style="font-size:9px;padding:2px 6px;border-radius:4px;border:1px solid var(--border);background:var(--surface3);color:var(--text)" onchange="loadParamConvergence()">
+            <option value="ucb_kappa">ucb_kappa</option>
+            <option value="ei_xi">ei_xi</option>
+            <option value="length_scale">length_scale</option>
+            <option value="n_candidates">n_candidates</option>
+            <option value="n_random_init">n_random_init</option>
+          </select>
+        </div>
+      </div>
+      <div class="pb">
+        <div style="height:220px;position:relative"><canvas id="paramConvergeChart"></canvas></div>
+      </div>
+    </div>
+
+    <div class="panel">
+      <div class="ph">
+        <div class="ph-title">📊 代际性能分布（箱线图近似）</div>
+        <div class="ph-actions">
+          <button class="ph-btn" onclick="loadGenPerf()">刷新</button>
+        </div>
+      </div>
+      <div class="pb">
+        <div style="height:220px;position:relative"><canvas id="genPerfChart"></canvas></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ══════════════ TAB: PARETO ══════════════ -->
+<div id="tab-pareto" class="tab-content">
+  <div class="grid-2 mb-12">
+    <div class="panel">
+      <div class="ph">
+        <div class="ph-title">🎯 Pareto 前沿散点图（Score vs Speed）</div>
+        <div class="ph-actions">
+          <button class="ph-btn" onclick="loadParetoChart()">刷新</button>
+        </div>
+      </div>
+      <div class="pb">
+        <div class="pareto-legend">
+          <div class="pareto-legend-item"><div class="legend-dot" style="background:var(--yellow)"></div><span>Pareto 最优点</span></div>
+          <div class="pareto-legend-item"><div class="legend-dot" style="background:rgba(100,116,139,.4)"></div><span>非最优点</span></div>
+        </div>
+        <div style="height:240px;position:relative"><canvas id="paretoChart"></canvas></div>
+      </div>
+    </div>
+
+    <div class="panel">
+      <div class="ph">
+        <div class="ph-title">⚖️ 权重偏好选择（加权最优）</div>
+      </div>
+      <div class="pb">
+        <div style="font-size:11px;color:var(--muted);margin-bottom:12px">调整三个目标的权重，系统将从 Pareto 前沿中选出最匹配的配置：</div>
+        <div style="display:grid;gap:10px">
+          <div>
+            <div style="display:flex;justify-content:space-between;font-size:10px;margin-bottom:4px">
+              <span>Score 权重</span><span class="c-yellow" id="w-score-val">0.60</span>
+            </div>
+            <input type="range" id="w-score" min="0" max="1" step="0.05" value="0.6" oninput="onWeightChange()" style="width:100%;accent-color:var(--yellow)">
+          </div>
+          <div>
+            <div style="display:flex;justify-content:space-between;font-size:10px;margin-bottom:4px">
+              <span>Speed 权重</span><span class="c-blue" id="w-speed-val">0.20</span>
+            </div>
+            <input type="range" id="w-speed" min="0" max="1" step="0.05" value="0.2" oninput="onWeightChange()" style="width:100%;accent-color:var(--blue)">
+          </div>
+          <div>
+            <div style="display:flex;justify-content:space-between;font-size:10px;margin-bottom:4px">
+              <span>内存节省权重</span><span class="c-green" id="w-mem-val">0.20</span>
+            </div>
+            <input type="range" id="w-mem" min="0" max="1" step="0.05" value="0.2" oninput="onWeightChange()" style="width:100%;accent-color:var(--green)">
+          </div>
+        </div>
+        <div id="weighted-best" style="margin-top:12px;padding:10px;background:rgba(59,130,246,.06);border:1px solid rgba(59,130,246,.2);border-radius:8px;font-size:11px">
+          <div style="color:var(--muted);margin-bottom:6px">加权最优点：</div>
+          <div id="weighted-best-content" class="empty-tip">暂无 Pareto 数据</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="panel">
+    <div class="ph">
+      <div class="ph-title">📋 Pareto 前沿候选列表</div>
+      <div class="ph-badge" id="pareto-count-badge">—</div>
+    </div>
+    <div class="pb">
+      <div id="pareto-table-content"><div class="empty-tip">加载中...</div></div>
+    </div>
+  </div>
+</div>
+
+<!-- ══════════════ TAB: IMPORTANCE ══════════════ -->
+<div id="tab-importance" class="tab-content">
+  <div class="grid-2 mb-12">
+    <div class="panel">
+      <div class="ph">
+        <div class="ph-title">🔥 参数重要性热力图</div>
+        <div class="ph-actions">
+          <button class="ph-btn" onclick="loadImportance()">🔄 刷新</button>
+        </div>
+      </div>
+      <div class="pb" id="importance-heatmap">
+        <div class="empty-tip">加载中...</div>
+      </div>
+    </div>
+
+    <div class="panel">
+      <div class="ph">
+        <div class="ph-title">📊 重要性柱状图</div>
+        <div class="ph-badge" id="imp-calc-gen-badge">—</div>
+      </div>
+      <div class="pb">
+        <div style="height:240px;position:relative"><canvas id="importanceBarChart"></canvas></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="panel">
+    <div class="ph">
+      <div class="ph-title">💡 重要性分析建议</div>
+    </div>
+    <div class="pb">
+      <div id="importance-advice" style="font-size:11px;line-height:1.8">
+        <div class="empty-tip">请先刷新加载数据...</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ══════════════ TAB: A/B COMPARE ══════════════ -->
+<div id="tab-ab" class="tab-content">
+  <div class="grid-2 mb-12">
+    <!-- 快照列表 -->
+    <div class="panel">
+      <div class="ph">
+        <div class="ph-title">💾 配置快照列表</div>
+        <div class="ph-actions">
+          <button class="ph-btn" onclick="saveCurrentSnapshot()">+ 保存当前</button>
+          <button class="ph-btn" onclick="loadSnapshots()">🔄 刷新</button>
+        </div>
+      </div>
+      <div class="pb">
+        <div style="font-size:9px;color:var(--muted);margin-bottom:8px">点击「选A/选B」再点对比按钮进行对比实验</div>
+        <div class="snap-list" id="snap-list">
+          <div class="empty-tip">暂无快照</div>
+        </div>
+        <div style="margin-top:8px;display:flex;justify-content:space-between;align-items:center">
+          <div style="font-size:10px;color:var(--muted)">
+            已选 A: <span id="sel-a" class="c-blue">未选</span>
+            &nbsp;|&nbsp; 已选 B: <span id="sel-b" class="c-orange">未选</span>
+          </div>
+          <button onclick="runABCompare()" style="font-size:10px;padding:4px 12px;border-radius:6px;border:1px solid rgba(16,185,129,.4);background:rgba(16,185,129,.1);color:var(--green);cursor:pointer">
+            🚀 开始对比
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- 对比结果 -->
+    <div class="panel">
+      <div class="ph">
+        <div class="ph-title">🏆 A/B 对比结果</div>
+      </div>
+      <div class="pb">
+        <div id="ab-result-content">
+          <div class="empty-tip">选择两个快照后点击「开始对比」</div>
+        </div>
+        <div style="margin-top:12px">
+          <div style="font-size:10px;font-weight:700;color:var(--muted);margin-bottom:8px">对比历史记录</div>
+          <div id="ab-history" style="font-size:10px"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="panel">
+    <div class="ph">
+      <div class="ph-title">📊 历史最优配置分数对比</div>
+    </div>
+    <div class="pb">
+      <div style="height:180px;position:relative"><canvas id="abHistoryChart"></canvas></div>
+    </div>
+  </div>
+</div>
+
+<!-- ══════════════ TAB: DRIFT ══════════════ -->
+<div id="tab-drift" class="tab-content">
+  <div class="grid-2 mb-12">
+    <div class="panel">
+      <div class="ph">
+        <div class="ph-title">⚡ Drift 响应历史</div>
+        <div class="ph-actions">
+          <button class="ph-btn" onclick="loadDriftHistory()">🔄 刷新</button>
+        </div>
+      </div>
+      <div class="pb">
+        <div class="drift-timeline" id="drift-timeline">
+          <div class="empty-tip">暂无漂移响应记录</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="panel">
+      <div class="ph">
+        <div class="ph-title">📊 Drift 得分走势</div>
+      </div>
+      <div class="pb">
+        <div style="height:220px;position:relative"><canvas id="driftScoreChart"></canvas></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="panel">
+    <div class="ph">
+      <div class="ph-title">🛡️ 漂移保护状态</div>
+    </div>
+    <div class="pb" id="drift-protection-status" style="font-size:11px">
+      <div class="empty-tip">加载中...</div>
+    </div>
+  </div>
+</div>
+
+<!-- ══════════════ TAB: KNOWLEDGE ══════════════ -->
+<div id="tab-knowledge" class="tab-content">
+  <div class="grid-2 mb-12">
+    <!-- 来源评分排行 -->
+    <div class="panel">
+      <div class="ph">
+        <div class="ph-title">🌐 知识来源评分排行</div>
+        <div class="ph-actions">
+          <button class="ph-btn" onclick="loadKnowledgeRatings()">🔄 刷新</button>
+        </div>
+      </div>
+      <div class="pb">
+        <table class="rating-table">
+          <thead>
+            <tr>
+              <th>来源</th>
+              <th>使用次数</th>
+              <th>有效率</th>
+              <th>平均提升</th>
+              <th>综合评分</th>
+            </tr>
+          </thead>
+          <tbody id="source-ratings-body">
+            <tr><td colspan="5" style="text-align:center;color:var(--muted);padding:20px">加载中...</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- 来源贡献饼图（大图） -->
+    <div class="panel">
+      <div class="ph">
+        <div class="ph-title">🥧 知识来源有效性分布</div>
+        <div class="ph-badge" id="knowledge-pending-badge">—</div>
+      </div>
+      <div class="pb">
+        <div style="height:240px;position:relative"><canvas id="sourcePieChartBig"></canvas></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="panel">
+    <div class="ph">
+      <div class="ph-title">📋 网络知识缓存摘要</div>
+    </div>
+    <div class="pb">
+      <div id="knowledge-summary" style="font-size:11px">
+        <div class="empty-tip">加载中...</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+// ════════════════════════════════════════════════════════
+// 全局状态
+// ════════════════════════════════════════════════════════
+const API_BASE = '';
+let _charts = {};
+let _selectedSnapA = null, _selectedSnapB = null;
+let _paretoData = { front: [], all: [] };
+
+// ─── 时钟 ────────────────────────────────────────────────
+function updateClock(){
+  const now = new Date();
+  document.getElementById('clock').textContent =
+    now.toLocaleTimeString('zh-CN', {hour12: false});
+}
+setInterval(updateClock, 1000);
+updateClock();
+
+// ─── Tab 切换 ────────────────────────────────────────────
+function showTab(name) {
+  document.querySelectorAll('.tab-content').forEach(el => el.classList.remove('active'));
+  document.querySelectorAll('.nav-btn').forEach(el => el.classList.remove('active'));
+  document.getElementById('tab-' + name).classList.add('active');
+  event.currentTarget.classList.add('active');
+  // 懒加载各 tab 数据
+  const loaders = {
+    overview: loadOverview,
+    convergence: loadConvergenceChart,
+    pareto: loadParetoChart,
+    importance: loadImportance,
+    ab: loadSnapshots,
+    drift: loadDriftHistory,
+    knowledge: loadKnowledgeRatings,
+  };
+  if (loaders[name]) loaders[name]();
+}
+
+// ─── Chart 工具 ──────────────────────────────────────────
+function mkChart(id, config){
+  if (_charts[id]) { _charts[id].destroy(); }
+  const ctx = document.getElementById(id);
+  if (!ctx) return null;
+  _charts[id] = new Chart(ctx, config);
+  return _charts[id];
+}
+
+const PALETTE = [
+  '#3b82f6','#10b981','#8b5cf6','#f59e0b','#ef4444',
+  '#06b6d4','#ec4899','#f97316','#84cc16','#a78bfa',
+];
+
+// ════════════════════════════════════════════════════════
+// 刷新全部
+// ════════════════════════════════════════════════════════
+function refreshAll() {
+  loadSummaryCards();
+  loadOverview();
+}
+
+// ════════════════════════════════════════════════════════
+// 数据加载函数
+// ════════════════════════════════════════════════════════
+
+async function fetchJSON(url) {
+  const r = await fetch(API_BASE + url);
+  return r.json();
+}
+
+// ─── 顶部摘要卡 ─────────────────────────────────────────
+async function loadSummaryCards() {
+  try {
+    const [evol, enh] = await Promise.allSettled([
+      fetchJSON('/api/evolve/summary'),
+      fetchJSON('/api/enhancements/summary'),
+    ]);
+
+    if (evol.status === 'fulfilled' && evol.value.ok !== false) {
+      const d = evol.value;
+      const best = d.best_score ?? d.global_best ?? 0;
+      setEl('s-best-score', fmtScore(best));
+      setEl('s-best-gen', `代数 ${d.current_gen ?? d.generation ?? '—'}`);
+      setEl('s-cur-gen', d.current_gen ?? d.generation ?? '—');
+      setEl('s-strategy', `策略 ${d.best_strategy ?? '—'}`);
+    }
+
+    if (enh.status === 'fulfilled' && enh.value.ok) {
+      const d = enh.value;
+      const mo = d.multi_objective || {};
+      setEl('s-pareto-count', mo.pareto_count ?? '—');
+      setEl('s-pareto-total', `总评估 ${mo.total ?? 0}`);
+      const dr = d.drift_response || {};
+      setEl('s-drift-count', dr.total_responses ?? 0);
+      const ab = d.ab_compare || {};
+      setEl('s-snap-count', ab.snapshot_count ?? 0);
+    }
+  } catch(e) { console.warn('loadSummaryCards', e); }
+
+
+  try {
+    const kr = await fetchJSON('/api/web_learning/source_ratings');
+    if (kr.ok) {
+      // ratings 有评分则用评分数，否则用 sources_breakdown 的来源种类数
+      const ratingCnt = (kr.ratings || []).length;
+      const breakdownCnt = Object.keys((kr.summary || {}).sources_breakdown || {}).length;
+      setEl('s-source-count', ratingCnt > 0 ? ratingCnt : (breakdownCnt || (kr.summary?.db_total ?? 0)));
+    }
+  } catch(e) {}
+}
+
+// ─── 总览 Tab ────────────────────────────────────────────
+async function loadOverview() {
+  await Promise.allSettled([
+    loadBestConfig(),
+    loadScoreHistoryChart(),
+    loadStrategyPie(),
+    loadSourcePie('sourcePieChart', 'source-pie-badge'),
+    loadImpOverview(),
+  ]);
+}
+
+async function loadBestConfig() {
+  try {
+    const [d, s] = await Promise.all([
+      fetchJSON('/api/evolve/best_config'),
+      fetchJSON('/api/evolve/summary').catch(() => null)
+    ]);
+    if (!d || d.ok === false) return;
+    const score = d.score ?? d.best_score ?? 0;
+    // generation 来自 summary，best_config 本身没有该字段
+    const gen = s?.current_gen ?? s?.generation ?? d.generation ?? d.gen ?? '—';
+    // 策略优先取 genome.acquisition（实际运行的采集函数）
+    const genome = d.genome || d.config || {};
+    const strategy = d.strategy ?? d.acquisition ?? genome.acquisition ?? '—';
+    setEl('bcc-score', fmtScore(score));
+    setEl('bcc-gen', `代数 ${gen} · 策略 ${strategy}`);
+    setEl('s-best-score', fmtScore(score));
+    const html = Object.entries(genome).slice(0, 9).map(([k, v]) => `
+      <div class="gene-item">
+        <div class="gene-key">${k}</div>
+        <div class="gene-val">${fmtVal(v)}</div>
+      </div>`).join('');
+    setEl('bcc-genome', html || '<div class="gene-item"><div class="gene-key">暂无数据</div></div>');
+  } catch(e) {}
+}
+
+async function loadScoreHistoryChart() {
+  try {
+    const d = await fetchJSON('/api/evolve/history?limit=100');
+    const allRounds = normalizeHistoryRounds(d);
+    if (!allRounds.length) return;
+    const rounds = allRounds.slice(-60);
+    const labels = rounds.map(r => `G${r.generation}`);
+    const bestScores  = rounds.map(r => r.best_score ?? 0);
+    const roundScores = rounds.map(r => r.avg_score ?? r.best_score ?? 0);
+
+    setEl('score-trend-badge', `最近 ${rounds.length} 代`);
+    mkChart('scoreHistoryChart', {
+      type: 'line',
+      data: {
+        labels,
+        datasets: [
+          {
+            label: '全局最优',
+            data: bestScores,
+            borderColor: '#eab308',
+            backgroundColor: 'rgba(234,179,8,.1)',
+            tension: 0.3,
+            fill: true,
+            pointRadius: 2,
+          },
+          {
+            label: '本代最高',
+            data: roundScores,
+            borderColor: '#3b82f6',
+            backgroundColor: 'transparent',
+            tension: 0.3,
+            borderDash: [4, 3],
+            pointRadius: 1,
+          }
+        ]
+      },
+      options: chartOpts('Score', false)
+    });
+  } catch(e) {}
+}
+
+async function loadStrategyPie() {
+  try {
+    const d = await fetchJSON('/api/evolve/summary');
+    if (!d) return;
+    // API 返回 strategy_dist 为数组 [{strategy_name, cnt, avg_score}]
+    // 兼容旧字段名 strategy_distribution / strategies（对象格式）
+    let labels, values;
+    if (Array.isArray(d.strategy_dist) && d.strategy_dist.length) {
+      const items = d.strategy_dist.filter(s => s.cnt > 0);
+      labels = items.map(s => s.strategy_name);
+      values = items.map(s => s.cnt);
+    } else {
+      const dist = d.strategy_distribution ?? d.strategies ?? {};
+      labels = Object.keys(dist);
+      values = Object.values(dist);
+    }
+    if (!labels.length) return;
+    setEl('strategy-count-badge', `${labels.length} 种策略`);
+    mkChart('strategyPieChart', {
+      type: 'doughnut',
+      data: {
+        labels,
+        datasets: [{ data: values, backgroundColor: PALETTE, borderWidth: 1, borderColor: '#0d1520' }]
+      },
+      options: pieOpts()
+    });
+  } catch(e) { console.warn('loadStrategyPie', e); }
+}
+
+async function loadSourcePie(canvasId, badgeId) {
+  try {
+    const d = await fetchJSON('/api/web_learning/source_ratings');
+    if (!d || !d.ok) {
+      if (badgeId) setEl(badgeId, '暂无数据');
+      return;
+    }
+    // 优先用已评分列表，否则从 sources_breakdown 兜底
+    let labels, values;
+    if (d.ratings?.length) {
+      const sorted = d.ratings.sort((a, b) => b.score - a.score).slice(0, 8);
+      labels = sorted.map(r => truncate(r.source, 18));
+      values = sorted.map(r => Math.max(r.score * 100, 0.1));
+      if (badgeId) setEl(badgeId, `${sorted.length} 个来源`);
+    } else if (d.summary?.sources_breakdown && Object.keys(d.summary.sources_breakdown).length) {
+      const bd = d.summary.sources_breakdown;
+      labels = Object.keys(bd);
+      values = Object.values(bd);
+      if (badgeId) setEl(badgeId, `${labels.length} 个来源（待评分）`);
+    } else {
+      if (badgeId) setEl(badgeId, '暂无数据');
+      return;
+    }
+    mkChart(canvasId, {
+      type: 'doughnut',
+      data: {
+        labels,
+        datasets: [{ data: values, backgroundColor: PALETTE, borderWidth: 1, borderColor: '#0d1520' }]
+      },
+      options: pieOpts()
+    });
+  } catch(e) { console.warn('loadSourcePie', e); }
+}
+
+async function loadImpOverview() {
+  try {
+    const d = await fetchJSON('/api/enhancements/param_importance');
+    const imp = d.importance || {};
+    const entries = Object.entries(imp).sort((a, b) => b[1] - a[1]).slice(0, 6);
+    if (!entries.length) {
+      setEl('imp-overview-content', '<div class="empty-tip">暂无重要性数据（需至少20次优化后触发）</div>');
+      setEl('imp-overview-badge', '暂无');
+      return;
+    }
+    setEl('imp-overview-badge', `${entries.length} 个参数`);
+    const maxV = entries[0][1] || 1;
+    const html = entries.map(([k, v]) => {
+      const pct = Math.round(v / maxV * 100);
+      const color = pct > 60 ? '#ef4444' : pct > 30 ? '#f59e0b' : '#64748b';
+      return `<div class="heatmap-row">
+        <div class="heatmap-label">${k}</div>
+        <div class="heatmap-bar-wrap">
+          <div class="heatmap-bar" style="width:${pct}%;background:linear-gradient(90deg,${color},${color}88)">
+            <span class="heatmap-val">${(v * 100).toFixed(0)}%</span>
+          </div>
+        </div>
+      </div>`;
+    }).join('');
+    setEl('imp-overview-content', html);
+  } catch(e) {}
+}
+
+// ─── 收敛曲线 Tab ────────────────────────────────────────
+
+/**
+ * 将 /api/evolve/history 返回的原始数据规范化为统一 rounds[] 格式：
+ * - best_curve: [{generation, best_score, avg_score, improvement, diversity}]
+ * - candidates: [{generation, strategy_name, config(JSON string), score}]
+ * 合并后每代记录包含: { generation, best_score, avg_score, config(object) }
+ */
+function normalizeHistoryRounds(d) {
+  if (!d || d.ok === false) return [];
+  // 优先用 best_curve（按代汇总）
+  const curve = d.best_curve || d.rounds || [];
+  if (!curve.length) return [];
+  // 为每代找到得分最高的 candidate，提取 config
+  const candsByGen = {};
+  (d.candidates || []).forEach(c => {
+    const g = c.generation;
+    const cfg = typeof c.config === 'string' ? (() => { try { return JSON.parse(c.config); } catch(e) { return {}; } })() : (c.config || {});
+    if (!candsByGen[g] || c.score > (candsByGen[g]._score || 0)) {
+      candsByGen[g] = { ...cfg, _score: c.score };
+    }
+  });
+  return curve.map(r => ({
+    generation: r.generation ?? r.gen ?? r.round,
+    best_score: r.best_score ?? 0,
+    avg_score:  r.avg_score ?? 0,
+    improvement: r.improvement ?? 0,
+    config: candsByGen[r.generation] || {}
+  }));
+}
+
+async function loadConvergenceChart() {
+  await loadScoreConvergence();
+  await loadParamConvergence();
+  await loadGenPerf();
+}
+
+async function loadScoreConvergence() {
+  try {
+    const d = await fetchJSON('/api/evolve/history?limit=200');
+    const rounds = normalizeHistoryRounds(d);
+    if (!rounds.length) return;
+    const labels   = rounds.map(r => r.generation);
+    const bestArr  = rounds.map(r => r.best_score);
+    const roundArr = rounds.map(r => r.avg_score);
+
+    // 计算移动平均（5代）
+    const ma5 = bestArr.map((_, i) =>
+      bestArr.slice(Math.max(0, i-4), i+1).reduce((a, b) => a+b, 0) /
+      Math.min(i+1, 5)
+    );
+
+    mkChart('convergenceChart', {
+      type: 'line',
+      data: {
+        labels,
+        datasets: [
+          { label: '全局最优', data: bestArr, borderColor: '#eab308', tension: 0.3, fill: false, pointRadius: 1.5 },
+          { label: '本代均值', data: roundArr, borderColor: '#3b82f6', tension: 0.3, fill: false, borderDash: [4,3], pointRadius: 1 },
+          { label: '5代移均', data: ma5, borderColor: '#10b981', tension: 0.4, fill: false, borderDash: [2,2], pointRadius: 0 },
+        ]
+      },
+      options: chartOpts('Score', true)
+    });
+  } catch(e) {}
+}
+
+async function loadParamConvergence() {
+  const param = document.getElementById('paramSelect')?.value || 'ucb_kappa';
+  try {
+    const d = await fetchJSON('/api/evolve/history?limit=200');
+    const rounds = normalizeHistoryRounds(d);
+    const filtered = rounds.filter(r => r.config && r.config[param] !== undefined);
+    if (!filtered.length) {
+      mkChart('paramConvergeChart', emptyChart(`无参数 ${param} 数据`));
+      return;
+    }
+    const labels = filtered.map(r => r.generation);
+    const vals   = filtered.map(r => Number(r.config[param]) || 0);
+    mkChart('paramConvergeChart', {
+      type: 'line',
+      data: {
+        labels,
+        datasets: [{
+          label: param,
+          data: vals,
+          borderColor: '#8b5cf6',
+          backgroundColor: 'rgba(139,92,246,.1)',
+          tension: 0.3,
+          fill: true,
+          pointRadius: 2,
+        }]
+      },
+      options: chartOpts(param, true)
+    });
+  } catch(e) {}
+}
+
+async function loadGenPerf() {
+  try {
+    const d = await fetchJSON('/api/evolve/history?limit=100');
+    const rounds = normalizeHistoryRounds(d);
+    if (!rounds.length) return;
+    const recent = rounds.slice(-20);
+    const labels = recent.map(r => `G${r.generation}`);
+    const means  = recent.map(r => r.avg_score ?? r.mean_score ?? r.best_score ?? 0);
+    const bests  = recent.map(r => r.best_score ?? 0);
+    const worsts = recent.map(r => r.worst_score ?? r.min_score ?? 0);
+
+    mkChart('genPerfChart', {
+      type: 'bar',
+      data: {
+        labels,
+        datasets: [
+          { label: '本代最高', data: bests, backgroundColor: 'rgba(16,185,129,.6)', borderRadius: 3 },
+          { label: '本代均值', data: means, backgroundColor: 'rgba(59,130,246,.5)', borderRadius: 3 },
+          { label: '本代最低', data: worsts, backgroundColor: 'rgba(100,116,139,.3)', borderRadius: 3 },
+        ]
+      },
+      options: chartOpts('Score', true)
+    });
+  } catch(e) {}
+}
+
+// ─── Pareto Tab ──────────────────────────────────────────
+async function loadParetoChart() {
+  try {
+    const d = await fetchJSON('/api/enhancements/multi_objective');
+    if (!d?.ok) {
+      setEl('pareto-count-badge', '暂无数据');
+      setEl('pareto-table-content', '<div class="empty-tip">暂无多目标数据（进化中自动积累）</div>');
+      return;
+    }
+    const front = d.front || [];
+    const total = d.total || 0;
+    setEl('s-pareto-count', d.pareto_count ?? front.length);
+    setEl('s-pareto-total', `总评估 ${total}`);
+    setEl('pareto-count-badge', `${front.length} 个最优点`);
+
+    // 散点数据（Pareto 点用黄色高亮）
+    const paretoPoints = front.map(p => ({ x: p.score, y: p.speed ?? 1.0, gen: p.gen }));
+
+    mkChart('paretoChart', {
+      type: 'scatter',
+      data: {
+        datasets: [
+          {
+            label: 'Pareto 最优',
+            data: paretoPoints,
+            backgroundColor: 'rgba(234,179,8,.8)',
+            borderColor: '#eab308',
+            pointRadius: 7,
+            pointHoverRadius: 9,
+          },
+        ]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+          legend: { labels: { color: '#e2e8f0', font: { size: 10 } } },
+          tooltip: {
+            callbacks: {
+              label: ctx => {
+                const p = ctx.raw;
+                return [`Score: ${fmtScore(p.x)}`, `Speed: ${p.y?.toFixed(3)}`, `Gen: ${p.gen}`];
+              }
+            }
+          }
+        },
+        scales: {
+          x: { title: { display: true, text: 'Score ↑', color: '#64748b' }, ticks: { color: '#64748b', font: { size: 10 } }, grid: { color: '#1e3050' } },
+          y: { title: { display: true, text: 'Speed ↑', color: '#64748b' }, ticks: { color: '#64748b', font: { size: 10 } }, grid: { color: '#1e3050' } },
+        }
+      }
+    });
+
+    // 表格
+    if (!front.length) {
+      setEl('pareto-table-content', '<div class="empty-tip">暂无前沿数据</div>');
+    } else {
+      let html = `<table style="width:100%;border-collapse:collapse;font-size:11px">
+        <thead><tr style="color:var(--muted);border-bottom:1px solid var(--border)">
+          <th style="padding:5px 8px;text-align:left">#</th>
+          <th style="padding:5px 8px;text-align:right">Score</th>
+          <th style="padding:5px 8px;text-align:right">Speed</th>
+          <th style="padding:5px 8px;text-align:right">Mem(MB)</th>
+          <th style="padding:5px 8px;text-align:right">Gen</th>
+        </tr></thead><tbody>`;
+      front.forEach((p, i) => {
+        const color = i === 0 ? 'var(--yellow)' : i < 3 ? 'var(--green)' : 'var(--text)';
+        html += `<tr style="border-bottom:1px solid rgba(30,48,80,.4)">
+          <td style="padding:5px 8px">${i===0?'🥇':i===1?'🥈':i===2?'🥉':i+1}</td>
+          <td style="padding:5px 8px;text-align:right;font-weight:700;color:${color}">${fmtScore(p.score)}</td>
+          <td style="padding:5px 8px;text-align:right">${p.speed?.toFixed(3)}</td>
+          <td style="padding:5px 8px;text-align:right">${p.mem_mb?.toFixed(1)}</td>
+          <td style="padding:5px 8px;text-align:right">${p.gen}</td>
+        </tr>`;
+      });
+      html += '</tbody></table>';
+      setEl('pareto-table-content', html);
+    }
+  } catch(e) { console.warn('loadParetoChart', e); }
+}
+
+function onWeightChange() {
+  const ws = parseFloat(document.getElementById('w-score').value);
+  const wsp = parseFloat(document.getElementById('w-speed').value);
+  const wm  = parseFloat(document.getElementById('w-mem').value);
+  document.getElementById('w-score-val').textContent = ws.toFixed(2);
+  document.getElementById('w-speed-val').textContent = wsp.toFixed(2);
+  document.getElementById('w-mem-val').textContent = wm.toFixed(2);
+  // 实时计算加权最优
+  computeWeightedBest(ws, wsp, wm);
+}
+
+async function computeWeightedBest(ws, wsp, wm) {
+  try {
+    const d = await fetchJSON('/api/enhancements/multi_objective');
+    const front = (d.front || []);
+    if (!front.length) { setEl('weighted-best-content', '<div class="empty-tip">暂无数据</div>'); return; }
+
+    // 归一化
+    const scores = front.map(p => p.score);
+    const speeds = front.map(p => p.speed ?? 1.0);
+    const mems   = front.map(p => -(p.mem_mb ?? 0));
+    const norm = arr => { const mn=Math.min(...arr), mx=Math.max(...arr), r=mx-mn; return arr.map(v=>r<1e-9?0.5:(v-mn)/r); };
+    const ns = norm(scores), nsp = norm(speeds), nm = norm(mems);
+    const weighted = ns.map((s,i) => ws*s + wsp*nsp[i] + wm*nm[i]);
+    const bestIdx = weighted.indexOf(Math.max(...weighted));
+    const best = front[bestIdx];
+
+    setEl('weighted-best-content', `
+      <div style="display:flex;gap:16px;flex-wrap:wrap">
+        <div><div style="font-size:9px;color:var(--muted)">Score</div><div style="font-size:18px;font-weight:700;color:var(--yellow)">${fmtScore(best.score)}</div></div>
+        <div><div style="font-size:9px;color:var(--muted)">Speed</div><div style="font-size:18px;font-weight:700;color:var(--blue)">${(best.speed??1).toFixed(3)}</div></div>
+        <div><div style="font-size:9px;color:var(--muted)">Mem</div><div style="font-size:18px;font-weight:700;color:var(--green)">${(best.mem_mb??0).toFixed(1)} MB</div></div>
+        <div><div style="font-size:9px;color:var(--muted)">Gen</div><div style="font-size:16px;font-weight:700;color:var(--purple)">${best.gen}</div></div>
+      </div>
+    `);
+  } catch(e) {}
+}
+
+// ─── 参数重要性 Tab ──────────────────────────────────────
+async function loadImportance() {
+  try {
+    const d = await fetchJSON('/api/enhancements/param_importance');
+    if (!d?.ok) {
+      setEl('importance-heatmap', '<div class="empty-tip">暂无数据（需要至少20次优化记录）</div>');
+      return;
+    }
+    const imp = d.importance || {};
+    const entries = Object.entries(imp).sort((a, b) => b[1] - a[1]);
+    const lastGen = d.last_calc_gen ?? '—';
+    setEl('imp-calc-gen-badge', `代 ${lastGen}`);
+
+    if (!entries.length) {
+      setEl('importance-heatmap', '<div class="empty-tip">暂无重要性数据</div>');
+      return;
+    }
+
+    const maxV = entries[0][1] || 1;
+    // 热力图 HTML
+    const html = entries.map(([k, v]) => {
+      const pct = Math.round(v / maxV * 100);
+      const color = pct > 60 ? '#ef4444' : pct > 40 ? '#f59e0b' : pct > 20 ? '#3b82f6' : '#64748b';
+      return `<div class="heatmap-row">
+        <div class="heatmap-label">${k}</div>
+        <div class="heatmap-bar-wrap">
+          <div class="heatmap-bar" style="width:${pct}%;background:linear-gradient(90deg,${color}cc,${color}55)">
+            <span class="heatmap-val">${(v*100).toFixed(1)}%</span>
+          </div>
+        </div>
+      </div>`;
+    }).join('');
+    setEl('importance-heatmap', html);
+
+    // 柱状图
+    mkChart('importanceBarChart', {
+      type: 'bar',
+      data: {
+        labels: entries.map(([k]) => k),
+        datasets: [{
+          label: '重要性',
+          data: entries.map(([, v]) => v),
+          backgroundColor: entries.map(([, v]) =>
+            v > 0.6 ? 'rgba(239,68,68,.7)' : v > 0.4 ? 'rgba(245,158,11,.7)' : v > 0.2 ? 'rgba(59,130,246,.7)' : 'rgba(100,116,139,.5)'
+          ),
+          borderRadius: 4,
+        }]
+      },
+      options: {
+        ...chartOpts('重要性', false),
+        indexAxis: 'y',
+      }
+    });
+
+    // 建议
+    const topParams = d.top_params || entries.slice(0, 3).map(([k]) => k);
+    const lowParams = d.low_importance_params || entries.filter(([, v]) => v < 0.15).map(([k]) => k);
+    let advice = `<div style="display:grid;gap:10px">`;
+    if (topParams.length) {
+      advice += `<div style="background:rgba(239,68,68,.06);border:1px solid rgba(239,68,68,.2);border-radius:7px;padding:10px">
+        <div style="font-weight:700;color:#ef4444;margin-bottom:5px">🔴 高影响参数（重点调优）</div>
+        <div>${topParams.map(k => `<span style="margin:0 4px;color:var(--text);font-weight:600">${k}</span>`).join(' • ')}</div>
+        <div style="font-size:10px;color:var(--muted);margin-top:4px">这些参数对优化结果影响最大，建议优先扩大其搜索范围</div>
+      </div>`;
+    }
+    if (lowParams.length) {
+      advice += `<div style="background:rgba(100,116,139,.06);border:1px solid rgba(100,116,139,.2);border-radius:7px;padding:10px">
+        <div style="font-weight:700;color:var(--muted);margin-bottom:5px">⚪ 低影响参数（可收窄空间）</div>
+        <div>${lowParams.map(k => `<span style="margin:0 4px;color:var(--muted)">${k}</span>`).join(' • ')}</div>
+        <div style="font-size:10px;color:var(--muted);margin-top:4px">系统将自动收窄这些参数的搜索范围，减少无效探索</div>
+      </div>`;
+    }
+    advice += `</div>`;
+    setEl('importance-advice', advice);
+
+  } catch(e) { console.warn('loadImportance', e); }
+}
+
+// ─── A/B Tab ─────────────────────────────────────────────
+async function loadSnapshots() {
+  try {
+    const d = await fetchJSON('/api/enhancements/ab_snapshots');
+    if (!d?.ok) { setEl('snap-list', '<div class="empty-tip">暂无快照</div>'); return; }
+    setEl('s-snap-count', d.snapshot_count ?? 0);
+    const snaps = d.snapshots || [];
+    if (!snaps.length) { setEl('snap-list', '<div class="empty-tip">暂无快照，点击「保存当前」创建</div>'); return; }
+
+    const html = snaps.slice(0, 20).map(s => `
+      <div class="snap-card" id="snap-${s.snap_id}">
+        <div class="snap-info">
+          <div class="snap-label" title="${s.snap_id}">${s.label}</div>
+          <div class="snap-meta">${s.created_at?.slice(0,16)} · ${s.notes || '—'}</div>
+        </div>
+        <div class="snap-score">${fmtScore(s.score)}</div>
+        <div class="snap-actions">
+          <button class="snap-btn" id="btn-a-${s.snap_id}" onclick="selectSnap('A','${s.snap_id}','${s.label}')">选A</button>
+          <button class="snap-btn" id="btn-b-${s.snap_id}" onclick="selectSnap('B','${s.snap_id}','${s.label}')">选B</button>
+        </div>
+      </div>`).join('');
+    setEl('snap-list', html);
+
+    // 快照历史柱状图
+    const sorted = snaps.sort((a, b) => b.score - a.score).slice(0, 10);
+    mkChart('abHistoryChart', {
+      type: 'bar',
+      data: {
+        labels: sorted.map(s => s.label.slice(0, 10)),
+        datasets: [{
+          label: 'Score',
+          data: sorted.map(s => s.score),
+          backgroundColor: sorted.map((_, i) => i === 0 ? 'rgba(234,179,8,.8)' : 'rgba(59,130,246,.6)'),
+          borderRadius: 4,
+        }]
+      },
+      options: chartOpts('Score', false)
+    });
+  } catch(e) {}
+}
+
+function selectSnap(ab, snapId, label) {
+  if (ab === 'A') {
+    _selectedSnapA = snapId;
+    setEl('sel-a', label.slice(0, 12));
+    document.querySelectorAll('[id^="btn-a-"]').forEach(b => b.classList.remove('compare-active'));
+    const btn = document.getElementById(`btn-a-${snapId}`);
+    if (btn) btn.classList.add('compare-active');
+  } else {
+    _selectedSnapB = snapId;
+    setEl('sel-b', label.slice(0, 12));
+    document.querySelectorAll('[id^="btn-b-"]').forEach(b => b.classList.remove('compare-active'));
+    const btn = document.getElementById(`btn-b-${snapId}`);
+    if (btn) btn.classList.add('compare-active');
+  }
+}
+
+async function runABCompare() {
+  if (!_selectedSnapA || !_selectedSnapB) {
+    alert('请先分别选择 A 和 B 两个快照'); return;
+  }
+  setEl('ab-result-content', '<span style="color:var(--blue)"><span class="spinner"></span>对比中...</span>');
+  try {
+    const r = await fetch(API_BASE + '/api/enhancements/ab/compare', {
+      method: 'POST',
+      headers: {'Content-Type':'application/json'},
+      body: JSON.stringify({ snap_id_a: _selectedSnapA, snap_id_b: _selectedSnapB, n_trials: 50 })
+    });
+    const d = await r.json();
+    if (!d.ok && d.error) {
+      setEl('ab-result-content', `<div style="color:var(--danger)">${d.error}</div>`); return;
+    }
+    const winnerLabel = d.winner === _selectedSnapA ? d.label_a : d.label_b;
+    const diff = d.diff ?? 0;
+    const html = `
+      <div class="ab-result">
+        <div class="ab-winner">🏆 ${winnerLabel} 获胜</div>
+        <div style="font-size:10px;color:var(--muted);margin-top:4px">
+          差异 ${diff >= 0 ? '+' : ''}${diff?.toFixed(5)} · p-value=${d.p_value?.toFixed(4)}
+          ${d.significant ? '<span style="color:var(--green);margin-left:6px">✅ 显著差异</span>' : '<span style="color:var(--warn);margin-left:6px">⚠️ 差异不显著</span>'}
+        </div>
+        <div class="ab-stats">
+          <div class="ab-stat-block">
+            <div class="ab-stat-name">${d.label_a}</div>
+            <div class="ab-stat-val" style="color:var(--blue)">${d.mean_a?.toFixed(5)}</div>
+            <div style="font-size:9px;color:var(--muted)">n=${d.n_a}</div>
+          </div>
+          <div class="ab-vs">vs</div>
+          <div class="ab-stat-block">
+            <div class="ab-stat-name">${d.label_b}</div>
+            <div class="ab-stat-val" style="color:var(--orange)">${d.mean_b?.toFixed(5)}</div>
+            <div style="font-size:9px;color:var(--muted)">n=${d.n_b}</div>
+          </div>
+        </div>
+      </div>`;
+    setEl('ab-result-content', html);
+  } catch(e) { setEl('ab-result-content', `<div style="color:var(--danger)">请求失败: ${e}</div>`); }
+}
+
+async function saveCurrentSnapshot() {
+  const label = prompt('请输入快照标签（可留空）', `手动快照-${new Date().toLocaleTimeString()}`);
+  if (label === null) return;
+  try {
+    const r = await fetch(API_BASE + '/api/enhancements/ab/save_snapshot', {
+      method: 'POST',
+      headers: {'Content-Type':'application/json'},
+      body: JSON.stringify({ label: label || '', notes: '手动保存' })
+    });
+    const d = await r.json();
+    if (d.ok) {
+      alert(`✅ 快照已保存：${d.snap_id}`);
+      loadSnapshots();
+    } else {
+      alert(`❌ 保存失败：${d.error || '未知错误'}`);
+    }
+  } catch(e) { alert(`请求失败: ${e}`); }
+}
+
+// ─── Drift Tab ───────────────────────────────────────────
+async function loadDriftHistory() {
+  try {
+    const [det, enh] = await Promise.allSettled([
+      fetchJSON('/api/drift/summary'),
+      fetchJSON('/api/enhancements/drift_responses'),
+    ]);
+
+    const driftEvents = det.status === 'fulfilled' ? det.value : {};
+    const responses   = enh.status === 'fulfilled' && enh.value.ok ? enh.value : {};
+
+    // 保护状态
+    let protection = `<div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px">`;
+    if (responses.cooldown_s !== undefined) {
+      protection += infoBox('冷却时间', `${responses.cooldown_s}s`, 'var(--blue)');
+    }
+    if (responses.total_responses !== undefined) {
+      protection += infoBox('累计响应', responses.total_responses, 'var(--orange)');
+      setEl('s-drift-count', responses.total_responses);
+    }
+    if (responses.last_response_ts) {
+      const ago = Math.round((Date.now()/1000 - responses.last_response_ts));
+      protection += infoBox('上次响应', ago > 0 ? `${ago}s 前` : '—', 'var(--muted)');
+    }
+    protection += `</div>`;
+    setEl('drift-protection-status', protection);
+
+    // 响应时间线
+    const recent = responses.recent || [];
+    if (!recent.length) {
+      setEl('drift-timeline', '<div class="empty-tip">暂无漂移响应记录（漂移检测中自动响应）</div>');
+    } else {
+      const html = recent.map(ev => `
+        <div class="drift-event">
+          <div class="drift-header">
+            <div class="drift-title">⚡ ${ev.method} 漂移 (score=${ev.score?.toFixed(4)})</div>
+            <div class="drift-ts">${ev.ts?.slice(0,16) || ''}</div>
+          </div>
+          <div style="font-size:10px;color:var(--muted)">代数 ${ev.gen}</div>
+          <div class="drift-actions">
+            ${(ev.actions || []).map(a => `<span class="drift-action">${a}</span>`).join('')}
+          </div>
+        </div>`).join('');
+      setEl('drift-timeline', html);
+    }
+
+    // Drift 得分走势
+    if (driftEvents.score_history?.length) {
+      const hist = driftEvents.score_history.slice(-50);
+      mkChart('driftScoreChart', {
+        type: 'line',
+        data: {
+          labels: hist.map((_, i) => i + 1),
+          datasets: [{
+            label: '评估分数',
+            data: hist,
+            borderColor: '#f59e0b',
+            backgroundColor: 'rgba(245,158,11,.1)',
+            tension: 0.3,
+            fill: true,
+            pointRadius: 1.5,
+          }]
+        },
+        options: chartOpts('Score', true)
+      });
+    }
+  } catch(e) { console.warn('loadDriftHistory', e); }
+}
+
+// ─── 知识评分 Tab ────────────────────────────────────────
+async function loadKnowledgeRatings() {
+  try {
+    const d = await fetchJSON('/api/web_learning/source_ratings');
+    if (!d?.ok) {
+      setEl('source-ratings-body', '<tr><td colspan="5" style="text-align:center;color:var(--muted);padding:20px">暂无评分数据（需先完成网络学习+5代追踪）</td></tr>');
+      return;
+    }
+    const ratings = d.ratings || [];
+    const summary = d.summary || {};
+
+    // 来源数：有评分用评分数，否则用 sources_breakdown key 数
+    const srcBreakdown = summary.sources_breakdown || {};
+    const srcCount = ratings.length > 0 ? ratings.length : Object.keys(srcBreakdown).length;
+    setEl('s-source-count', srcCount);
+    setEl('knowledge-pending-badge', `待评 ${summary.pending_eval_count ?? 0}`);
+
+    if (!ratings.length) {
+      // 用 sources_breakdown 展示已缓存来源
+      const breakdownKeys = Object.keys(srcBreakdown);
+      if (breakdownKeys.length > 0) {
+        const html = breakdownKeys.map(src => `<tr>
+          <td style="padding:5px 8px;max-width:180px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap" title="${src}">${truncate(src, 30)}</td>
+          <td style="padding:5px 8px;text-align:center">${srcBreakdown[src]}</td>
+          <td style="padding:5px 8px;text-align:center;color:var(--muted)">—</td>
+          <td style="padding:5px 8px;text-align:center;color:var(--muted)">—</td>
+          <td style="padding:5px 8px;color:var(--muted);font-size:10px">累积中（需5代追踪）</td>
+        </tr>`).join('');
+        setEl('source-ratings-body', html);
+      } else {
+        setEl('source-ratings-body', '<tr><td colspan="5" style="text-align:center;color:var(--muted);padding:20px">暂无评分数据（需先完成网络学习+5代追踪）</td></tr>');
+      }
+    } else {
+      const maxScore = ratings[0]?.score || 1;
+      const html = ratings.map(r => {
+        const pct = Math.round(r.score / maxScore * 100);
+        const color = pct > 60 ? '#10b981' : pct > 30 ? '#f59e0b' : '#ef4444';
+        return `<tr>
+          <td style="padding:5px 8px;max-width:180px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap" title="${r.source}">${truncate(r.source, 25)}</td>
+          <td style="padding:5px 8px;text-align:center">${r.total_uses}</td>
+          <td style="padding:5px 8px;text-align:center;color:${r.win_rate > 0.5 ? 'var(--green)' : 'var(--muted)'}">${(r.win_rate*100).toFixed(0)}%</td>
+          <td style="padding:5px 8px;text-align:center;color:${r.avg_improvement > 0 ? 'var(--green)' : 'var(--danger)'}">
+            ${r.avg_improvement >= 0 ? '+' : ''}${r.avg_improvement?.toFixed(5)}
+          </td>
+          <td style="padding:5px 8px">
+            <div style="display:flex;align-items:center;gap:6px">
+              <div style="flex:1">
+                <div class="rating-bar"><div class="rating-fill" style="width:${pct}%;background:${color}"></div></div>
+              </div>
+              <span style="font-size:10px;font-weight:700;color:${color};min-width:30px">${(r.score*100).toFixed(0)}</span>
+            </div>
+          </td>
+        </tr>`;
+      }).join('');
+      setEl('source-ratings-body', html);
+    }
+
+    // 大饼图
+    await loadSourcePie('sourcePieChartBig', null);
+
+    // 知识摘要 — 映射真实 API 字段
+    const cacheCount = summary.cache_count ?? summary.db_total ?? 0;
+    const srcTotal   = Object.keys(srcBreakdown).length;
+    const s = `
+      <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:10px">
+        ${infoBox('缓存条目', cacheCount, 'var(--blue)')}
+        ${infoBox('网络来源', srcTotal, 'var(--purple)')}
+        ${infoBox('待评价', summary.pending_eval_count ?? 0, 'var(--warn)')}
+        ${infoBox('DB总记录', summary.db_total ?? 0, 'var(--green)')}
+        ${infoBox('最近学习代', summary.last_db_gen ?? '—', 'var(--cyan)')}
+        ${infoBox('来源评分数', ratings.length, 'var(--muted)')}
+      </div>`;
+    setEl('knowledge-summary', s);
+  } catch(e) { console.warn('loadKnowledgeRatings', e); }
+}
+
+// ════════════════════════════════════════════════════════
+// 工具函数
+// ════════════════════════════════════════════════════════
+function setEl(id, html) {
+  const el = document.getElementById(id);
+  if (el) el.innerHTML = html;
+}
+
+function fmtScore(v) {
+  const n = parseFloat(v);
+  if (isNaN(n)) return '—';
+  return n.toFixed(5);
+}
+
+function fmtVal(v) {
+  if (v === null || v === undefined) return '—';
+  if (typeof v === 'boolean') return v ? 'True' : 'False';
+  if (typeof v === 'number') return Math.abs(v) < 0.001 ? v.toExponential(2) : v.toFixed(4);
+  return String(v).slice(0, 12);
+}
+
+function truncate(s, n) {
+  if (!s) return '';
+  return s.length > n ? s.slice(0, n) + '…' : s;
+}
+
+function infoBox(label, val, color='var(--muted)') {
+  return `<div style="background:rgba(255,255,255,.03);border:1px solid var(--border);border-radius:7px;padding:8px 10px">
+    <div style="font-size:9px;color:var(--muted);margin-bottom:4px">${label}</div>
+    <div style="font-size:16px;font-weight:700;color:${color}">${val}</div>
+  </div>`;
+}
+
+function chartOpts(yLabel = 'Value', legend = true) {
+  return {
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: {
+      legend: {
+        display: legend,
+        labels: { color: '#e2e8f0', font: { size: 9 }, boxWidth: 10, padding: 8 }
+      },
+      tooltip: { mode: 'index', intersect: false, bodyFont: { size: 10 } }
+    },
+    scales: {
+      x: { ticks: { color: '#64748b', font: { size: 9 }, maxRotation: 0, maxTicksLimit: 12 }, grid: { color: '#1e3050' } },
+      y: {
+        title: { display: !!yLabel, text: yLabel, color: '#64748b', font: { size: 9 } },
+        ticks: { color: '#64748b', font: { size: 9 } },
+        grid: { color: '#1e3050' }
+      }
+    }
+  };
+}
+
+function pieOpts() {
+  return {
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: {
+      legend: { position: 'right', labels: { color: '#e2e8f0', font: { size: 9 }, boxWidth: 10, padding: 6 } },
+      tooltip: { bodyFont: { size: 10 } }
+    },
+    cutout: '55%',
+  };
+}
+
+function emptyChart(msg = '暂无数据') {
+  return { type: 'bar', data: { labels: [msg], datasets: [{ data: [0], backgroundColor: '#1e3050' }] }, options: { plugins: { legend: { display: false } }, scales: { x: { ticks: { color: '#64748b' } }, y: { display: false } } } };
+}
+
+// ════════════════════════════════════════════════════════
+// 初始化
+// ════════════════════════════════════════════════════════
+document.addEventListener('DOMContentLoaded', () => {
+  loadSummaryCards();
+  loadOverview();
+  // 每30秒自动刷新摘要卡
+  setInterval(loadSummaryCards, 30000);
+});
+</script>
+</body>
+</html>

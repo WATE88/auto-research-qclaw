@@ -1,0 +1,174 @@
+{
+  "topic": "AI deployment",
+  "timestamp": "2026-04-01T16:04:31.777492",
+  "findings": [
+    {
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "stars": 146448,
+      "source": "github"
+    },
+    {
+      "title": "ray-project/ray",
+      "url": "https://github.com/ray-project/ray",
+      "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+      "stars": 41902,
+      "source": "github"
+    },
+    {
+      "title": "reworkd/AgentGPT",
+      "url": "https://github.com/reworkd/AgentGPT",
+      "description": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.",
+      "stars": 35917,
+      "source": "github"
+    },
+    {
+      "title": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "stars": 29042,
+      "source": "github"
+    },
+    {
+      "title": "labring/FastGPT",
+      "url": "https://github.com/labring/FastGPT",
+      "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+      "stars": 27584,
+      "source": "github"
+    },
+    {
+      "title": "simstudioai/sim",
+      "url": "https://github.com/simstudioai/sim",
+      "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+      "stars": 27313,
+      "source": "github"
+    },
+    {
+      "title": "coze-dev/coze-studio",
+      "url": "https://github.com/coze-dev/coze-studio",
+      "description": "An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.",
+      "stars": 20375,
+      "source": "github"
+    },
+    {
+      "title": "marimo-team/marimo",
+      "url": "https://github.com/marimo-team/marimo",
+      "description": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
+      "stars": 20059,
+      "source": "github"
+    },
+    {
+      "title": "google/adk-python",
+      "url": "https://github.com/google/adk-python",
+      "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+      "stars": 18689,
+      "source": "github"
+    },
+    {
+      "title": "wasp-lang/wasp",
+      "url": "https://github.com/wasp-lang/wasp",
+      "description": "The batteries-included full-stack framework for the AI era. Develop JS/TS web apps (React, Node.js, and Prisma) using declarative code that abstracts away complex full-stack features like auth, background jobs, RPC, email sending, end-to-end type safety, single-command deployment, and more.",
+      "stars": 18225,
+      "source": "github"
+    },
+    {
+      "title": "labring/sealos",
+      "url": "https://github.com/labring/sealos",
+      "description": "Sealos is an AI-native Cloud Operating System built on Kubernetes that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect for building and scaling modern AI applications, managed databases (MySQL, PostgreSQL, Redis, MongoDB) and complex microservice architectures.",
+      "stars": 17133,
+      "source": "github"
+    },
+    {
+      "title": "botpress/botpress",
+      "url": "https://github.com/botpress/botpress",
+      "description": "The open-source hub to build & deploy GPT/LLM Agents ⚡️",
+      "stars": 14624,
+      "source": "github"
+    },
+    {
+      "title": "triggerdotdev/trigger.dev",
+      "url": "https://github.com/triggerdotdev/trigger.dev",
+      "description": "Trigger.dev – build and deploy fully‑managed AI agents and workflows",
+      "stars": 14312,
+      "source": "github"
+    },
+    {
+      "title": "agentscope-ai/CoPaw",
+      "url": "https://github.com/agentscope-ai/CoPaw",
+      "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
+      "stars": 14018,
+      "source": "github"
+    },
+    {
+      "title": "wasp-lang/open-saas",
+      "url": "https://github.com/wasp-lang/open-saas",
+      "description": "A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework.",
+      "stars": 13727,
+      "source": "github"
+    },
+    {
+      "title": "Lightning-AI/litgpt",
+      "url": "https://github.com/Lightning-AI/litgpt",
+      "description": "20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.",
+      "stars": 13272,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/promptflow",
+      "url": "https://github.com/microsoft/promptflow",
+      "description": "Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.",
+      "stars": 11083,
+      "source": "github"
+    },
+    {
+      "title": "Netflix/metaflow",
+      "url": "https://github.com/Netflix/metaflow",
+      "description": "Build, Manage and Deploy AI/ML Systems",
+      "stars": 10001,
+      "source": "github"
+    },
+    {
+      "title": "openvinotoolkit/openvino",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "stars": 9987,
+      "source": "github"
+    },
+    {
+      "title": "krillinai/KrillinAI",
+      "url": "https://github.com/krillinai/KrillinAI",
+      "description": "Video translation and dubbing tool powered by LLMs. The video translator offers 100 language translations and one-click full-process deployment. The video translation output is optimized for platforms like YouTube，TikTok.   AI视频翻译配音工具，100种语言双向翻译，一键部署全流程，可以生抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube等形态的内容成适配",
+      "stars": 9785,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.371,
+    "grade": "D",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.175,
+      "diversity": 0.0,
+      "usability": 0.1,
+      "applicability": 0.325,
+      "coverage": 1.0,
+      "ndcg": 0.717,
+      "map": 0.914,
+      "mrr": 1.0,
+      "rouge_1": 0.525,
+      "semantic_sim": 0.172,
+      "coherence": 0.102,
+      "task_completion": 0.501,
+      "tool_use": 0.147,
+      "reasoning_depth": 0.007,
+      "autonomy": 0.087,
+      "multi_agent": 0.08
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

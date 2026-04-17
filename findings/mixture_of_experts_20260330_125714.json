@@ -1,0 +1,159 @@
+{
+  "topic": "mixture of experts",
+  "timestamp": "2026-03-30T12:57:14.058463",
+  "findings": [
+    {
+      "title": "deepseek-ai/DeepSeek-VL2",
+      "url": "https://github.com/deepseek-ai/DeepSeek-VL2",
+      "description": "DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding",
+      "stars": 5258,
+      "source": "github"
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-V2",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V2",
+      "description": "DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model",
+      "stars": 5001,
+      "source": "github"
+    },
+    {
+      "title": "PKU-YuanGroup/MoE-LLaVA",
+      "url": "https://github.com/PKU-YuanGroup/MoE-LLaVA",
+      "description": "【TMM 2025🔥】 Mixture-of-Experts for Large Vision-Language Models",
+      "stars": 2311,
+      "source": "github"
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-MoE",
+      "url": "https://github.com/deepseek-ai/DeepSeek-MoE",
+      "description": "DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models",
+      "stars": 1904,
+      "source": "github"
+    },
+    {
+      "title": "XueFuzhao/OpenMoE",
+      "url": "https://github.com/XueFuzhao/OpenMoE",
+      "description": "A family of open-sourced Mixture-of-Experts (MoE) Large Language Models",
+      "stars": 1672,
+      "source": "github"
+    },
+    {
+      "title": "XueFuzhao/awesome-mixture-of-experts",
+      "url": "https://github.com/XueFuzhao/awesome-mixture-of-experts",
+      "description": "A collection of AWESOME things about mixture-of-experts",
+      "stars": 1272,
+      "source": "github"
+    },
+    {
+      "title": "davidmrau/mixture-of-experts",
+      "url": "https://github.com/davidmrau/mixture-of-experts",
+      "description": "PyTorch Re-Implementation of \"The Sparsely-Gated Mixture-of-Experts Layer\" by Noam Shazeer et al. https://arxiv.org/abs/1701.06538",
+      "stars": 1240,
+      "source": "github"
+    },
+    {
+      "title": "MoonshotAI/Kimi-VL",
+      "url": "https://github.com/MoonshotAI/Kimi-VL",
+      "description": "Kimi-VL: Mixture-of-Experts Vision-Language Model for Multimodal Reasoning, Long-Context Understanding, and Strong Agent Capabilities",
+      "stars": 1171,
+      "source": "github"
+    },
+    {
+      "title": "pjlab-sys4nlp/llama-moe",
+      "url": "https://github.com/pjlab-sys4nlp/llama-moe",
+      "description": "⛷️ LLaMA-MoE: Building Mixture-of-Experts from LLaMA with Continual Pre-training (EMNLP 2024)",
+      "stars": 1000,
+      "source": "github"
+    },
+    {
+      "title": "allenai/OLMoE",
+      "url": "https://github.com/allenai/OLMoE",
+      "description": "OLMoE: Open Mixture-of-Experts Language Models",
+      "stars": 993,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/Tutel",
+      "url": "https://github.com/microsoft/Tutel",
+      "description": "Tutel MoE: Optimized Mixture-of-Experts Library, Support GptOss/DeepSeek/Kimi-K2/Qwen3 using FP8/NVFP4/MXFP4",
+      "stars": 981,
+      "source": "github"
+    },
+    {
+      "title": "Time-MoE/Time-MoE",
+      "url": "https://github.com/Time-MoE/Time-MoE",
+      "description": "[ICLR 2025 Spotlight] Official implementation of \"Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts\"",
+      "stars": 937,
+      "source": "github"
+    },
+    {
+      "title": "lucidrains/mixture-of-experts",
+      "url": "https://github.com/lucidrains/mixture-of-experts",
+      "description": "A Pytorch implementation of Sparsely-Gated Mixture of Experts, for massively increasing the parameter count of language models",
+      "stars": 846,
+      "source": "github"
+    },
+    {
+      "title": "AviSoori1x/makeMoE",
+      "url": "https://github.com/AviSoori1x/makeMoE",
+      "description": "From scratch implementation of a sparse mixture of experts language model inspired by Andrej Karpathy's makemore :)",
+      "stars": 796,
+      "source": "github"
+    },
+    {
+      "title": "drawbridge/keras-mmoe",
+      "url": "https://github.com/drawbridge/keras-mmoe",
+      "description": "A TensorFlow Keras implementation of \"Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts\" (KDD 2018)",
+      "stars": 735,
+      "source": "github"
+    },
+    {
+      "title": "codecaution/Awesome-Mixture-of-Experts-Papers",
+      "url": "https://github.com/codecaution/Awesome-Mixture-of-Experts-Papers",
+      "description": "A curated reading list of research in Mixture-of-Experts(MoE).",
+      "stars": 662,
+      "source": "github"
+    },
+    {
+      "title": "withinmiaov/A-Survey-on-Mixture-of-Experts-in-LLMs",
+      "url": "https://github.com/withinmiaov/A-Survey-on-Mixture-of-Experts-in-LLMs",
+      "description": "[TKDE'25] The official GitHub page for the survey paper \"A Survey on Mixture of Experts in Large Language Models\".",
+      "stars": 486,
+      "source": "github"
+    },
+    {
+      "title": "feizc/DiT-MoE",
+      "url": "https://github.com/feizc/DiT-MoE",
+      "description": "Scaling Diffusion Transformers with Mixture of Experts",
+      "stars": 419,
+      "source": "github"
+    },
+    {
+      "title": "Ablustrund/LoRAMoE",
+      "url": "https://github.com/Ablustrund/LoRAMoE",
+      "description": "LoRAMoE: Revolutionizing Mixture of Experts for Maintaining World Knowledge in Language Model Alignment",
+      "stars": 401,
+      "source": "github"
+    },
+    {
+      "title": "Luodian/Generalizable-Mixture-of-Experts",
+      "url": "https://github.com/Luodian/Generalizable-Mixture-of-Experts",
+      "description": "GMoE could be the next backbone model for many kinds of generalization task.",
+      "stars": 273,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.324,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.27,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

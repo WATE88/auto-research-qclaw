@@ -1,0 +1,186 @@
+{
+  "topic": "AI agent framework",
+  "timestamp": "2026-04-07T11:31:33.317261",
+  "findings": [
+    {
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "description": "The agent engineering platform",
+      "stars": 131694,
+      "updated_at": "2026-03-31T03:57:56Z",
+      "source": "github"
+    },
+    {
+      "title": "FoundationAgents/MetaGPT",
+      "url": "https://github.com/FoundationAgents/MetaGPT",
+      "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+      "stars": 66471,
+      "updated_at": "2026-03-31T03:15:09Z",
+      "source": "github"
+    },
+    {
+      "title": "microsoft/autogen",
+      "url": "https://github.com/microsoft/autogen",
+      "description": "A programming framework for agentic AI",
+      "stars": 56468,
+      "updated_at": "2026-03-31T03:49:01Z",
+      "source": "github"
+    },
+    {
+      "title": "crewAIInc/crewAI",
+      "url": "https://github.com/crewAIInc/crewAI",
+      "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+      "stars": 47638,
+      "updated_at": "2026-03-31T03:40:04Z",
+      "source": "github"
+    },
+    {
+      "title": "langchain-ai/langgraph",
+      "url": "https://github.com/langchain-ai/langgraph",
+      "description": "Build resilient language agents as graphs.",
+      "stars": 27983,
+      "updated_at": "2026-03-31T03:57:42Z",
+      "source": "github"
+    },
+    {
+      "title": "deepset-ai/haystack",
+      "url": "https://github.com/deepset-ai/haystack",
+      "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
+      "stars": 24659,
+      "updated_at": "2026-03-31T03:48:44Z",
+      "source": "github"
+    },
+    {
+      "title": "zai-org/Open-AutoGLM",
+      "url": "https://github.com/zai-org/Open-AutoGLM",
+      "description": "An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone",
+      "stars": 24657,
+      "updated_at": "2026-03-31T03:53:21Z",
+      "source": "github"
+    },
+    {
+      "title": "mastra-ai/mastra",
+      "url": "https://github.com/mastra-ai/mastra",
+      "description": "From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.",
+      "stars": 22494,
+      "updated_at": "2026-03-31T03:37:01Z",
+      "source": "github"
+    },
+    {
+      "title": "openai/openai-agents-python",
+      "url": "https://github.com/openai/openai-agents-python",
+      "description": "A lightweight, powerful framework for multi-agent workflows",
+      "stars": 20430,
+      "updated_at": "2026-03-31T03:25:58Z",
+      "source": "github"
+    },
+    {
+      "title": "humanlayer/12-factor-agents",
+      "url": "https://github.com/humanlayer/12-factor-agents",
+      "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+      "stars": 19007,
+      "updated_at": "2026-03-31T02:36:18Z",
+      "source": "github"
+    },
+    {
+      "title": "elizaOS/eliza",
+      "url": "https://github.com/elizaOS/eliza",
+      "description": "Autonomous agents for everyone",
+      "stars": 17988,
+      "updated_at": "2026-03-31T03:55:02Z",
+      "source": "github"
+    },
+    {
+      "title": "emcie-co/parlant",
+      "url": "https://github.com/emcie-co/parlant",
+      "description": "The conversational control layer for customer-facing AI agents - Parlant is a context-engineering framework optimized for controlling customer interactions.",
+      "stars": 17856,
+      "updated_at": "2026-03-31T03:19:23Z",
+      "source": "github"
+    },
+    {
+      "title": "TransformerOptimus/SuperAGI",
+      "url": "https://github.com/TransformerOptimus/SuperAGI",
+      "description": "<⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.",
+      "stars": 17372,
+      "updated_at": "2026-03-30T22:48:11Z",
+      "source": "github"
+    },
+    {
+      "title": "agent0ai/agent-zero",
+      "url": "https://github.com/agent0ai/agent-zero",
+      "description": "Agent Zero AI framework",
+      "stars": 16583,
+      "updated_at": "2026-03-31T03:43:28Z",
+      "source": "github"
+    },
+    {
+      "title": "camel-ai/camel",
+      "url": "https://github.com/camel-ai/camel",
+      "description": "🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org",
+      "stars": 16545,
+      "updated_at": "2026-03-31T02:05:45Z",
+      "source": "github"
+    },
+    {
+      "title": "raga-ai-hub/RagaAI-Catalyst",
+      "url": "https://github.com/raga-ai-hub/RagaAI-Catalyst",
+      "description": "Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced analytics with timeline and execution graph view ",
+      "stars": 16128,
+      "updated_at": "2026-03-31T03:28:46Z",
+      "source": "github"
+    },
+    {
+      "title": "pydantic/pydantic-ai",
+      "url": "https://github.com/pydantic/pydantic-ai",
+      "description": "AI Agent Framework, the Pydantic way",
+      "stars": 15958,
+      "updated_at": "2026-03-31T03:56:48Z",
+      "source": "github"
+    },
+    {
+      "title": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+      "stars": 13661,
+      "updated_at": "2026-03-31T03:57:22Z",
+      "source": "github"
+    },
+    {
+      "title": "TEN-framework/ten-framework",
+      "url": "https://github.com/TEN-framework/ten-framework",
+      "description": " Open-source framework for conversational voice AI agents",
+      "stars": 10374,
+      "updated_at": "2026-03-31T02:47:41Z",
+      "source": "github"
+    },
+    {
+      "title": "livekit/agents",
+      "url": "https://github.com/livekit/agents",
+      "description": "A framework for building realtime voice AI agents 🤖🎙️📹 ",
+      "stars": 9878,
+      "updated_at": "2026-03-31T03:48:55Z",
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.614,
+    "grade": "B",
+    "dimensions": {
+      "authority": 0.9,
+      "star_power": 0.225,
+      "diversity": 0.0,
+      "coverage": 1.0,
+      "ndcg": 0.674,
+      "map": 0.97,
+      "mrr": 1.0,
+      "rouge_1": 0.667,
+      "semantic_sim": 0.332,
+      "task_completion": 0.612,
+      "tool_use": 0.033,
+      "reasoning_depth": 0.033,
+      "autonomy": 0.15
+    }
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "topic": "RAG retrieval",
+  "timestamp": "2026-04-07T11:37:38.745601",
+  "findings": [
+    {
+      "title": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stars": 77267,
+      "source": "github"
+    },
+    {
+      "title": "HKUDS/LightRAG",
+      "url": "https://github.com/HKUDS/LightRAG",
+      "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+      "stars": 32454,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/graphrag",
+      "url": "https://github.com/microsoft/graphrag",
+      "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+      "stars": 32020,
+      "source": "github"
+    },
+    {
+      "title": "labring/FastGPT",
+      "url": "https://github.com/labring/FastGPT",
+      "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+      "stars": 27629,
+      "source": "github"
+    },
+    {
+      "title": "NirDiamant/RAG_Techniques",
+      "url": "https://github.com/NirDiamant/RAG_Techniques",
+      "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.",
+      "stars": 26507,
+      "source": "github"
+    },
+    {
+      "title": "deepset-ai/haystack",
+      "url": "https://github.com/deepset-ai/haystack",
+      "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
+      "stars": 24744,
+      "source": "github"
+    },
+    {
+      "title": "VectifyAI/PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "stars": 24419,
+      "source": "github"
+    },
+    {
+      "title": "vanna-ai/vanna",
+      "url": "https://github.com/vanna-ai/vanna",
+      "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.",
+      "stars": 23212,
+      "source": "github"
+    },
+    {
+      "title": "memvid/memvid",
+      "url": "https://github.com/memvid/memvid",
+      "description": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
+      "stars": 14542,
+      "source": "github"
+    },
+    {
+      "title": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+      "stars": 13757,
+      "source": "github"
+    },
+    {
+      "title": "activeloopai/deeplake",
+      "url": "https://github.com/activeloopai/deeplake",
+      "description": "Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.",
+      "stars": 9063,
+      "source": "github"
+    },
+    {
+      "title": "OpenSPG/KAG",
+      "url": "https://github.com/OpenSPG/KAG",
+      "description": "KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs.  It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.",
+      "stars": 8656,
+      "source": "github"
+    },
+    {
+      "title": "SciPhi-AI/R2R",
+      "url": "https://github.com/SciPhi-AI/R2R",
+      "description": "SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.",
+      "stars": 7755,
+      "source": "github"
+    },
+    {
+      "title": "weaviate/Verba",
+      "url": "https://github.com/weaviate/Verba",
+      "description": "Retrieval Augmented Generation (RAG) chatbot powered by Weaviate",
+      "stars": 7638,
+      "source": "github"
+    },
+    {
+      "title": "airweave-ai/airweave",
+      "url": "https://github.com/airweave-ai/airweave",
+      "description": "Open-source context retrieval layer for AI agents",
+      "stars": 6208,
+      "source": "github"
+    },
+    {
+      "title": "Marker-Inc-Korea/AutoRAG",
+      "url": "https://github.com/Marker-Inc-Korea/AutoRAG",
+      "description": "AutoRAG: An Open-Source Framework for Retrieval-Augmented Generation (RAG) Evaluation & Optimization with AutoML-Style Automation",
+      "stars": 4686,
+      "source": "github"
+    },
+    {
+      "title": "truefoundry/cognita",
+      "url": "https://github.com/truefoundry/cognita",
+      "description": "RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry ",
+      "stars": 4417,
+      "source": "github"
+    },
+    {
+      "title": "CortexReach/memory-lancedb-pro",
+      "url": "https://github.com/CortexReach/memory-lancedb-pro",
+      "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI",
+      "stars": 4029,
+      "source": "github"
+    },
+    {
+      "title": "AnswerDotAI/RAGatouille",
+      "url": "https://github.com/AnswerDotAI/RAGatouille",
+      "description": "Easily use and train state of the art late-interaction retrieval methods (ColBERT) in any RAG pipeline. Designed for modularity and ease-of-use, backed by research.",
+      "stars": 3895,
+      "source": "github"
+    },
+    {
+      "title": "aiming-lab/SimpleMem",
+      "url": "https://github.com/aiming-lab/SimpleMem",
+      "description": "SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal",
+      "stars": 3202,
+      "source": "github"
+    },
+    {
+      "title": "Optimizing LLM Prompt Engineering with DSPy Based Declarative Learning",
+      "url": "http://arxiv.org/abs/2604.04869v1",
+      "abstract": "Large Language Models (LLMs) have shown strong performance across a wide range of natural language processing tasks; however, their effectiveness is highly dependent on prompt design, structure, and embedded reasoning signals. Conventional prompt engineering methods largely rely on heuristic trial-a",
+      "source": "arxiv"
+    },
+    {
+      "title": "MemMachine: A Ground-Truth-Preserving Memory System for Personalized AI Agents",
+      "url": "http://arxiv.org/abs/2604.04853v1",
+      "abstract": "Large Language Model (LLM) agents require persistent memory to maintain personalization, factual continuity, and long-horizon reasoning, yet standard context-window and retrieval-augmented generation (RAG) pipelines degrade over multi-session interactions. We present MemMachine, an open-source memor",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Delay Time Distribution of Tidal Disruption Events",
+      "url": "http://arxiv.org/abs/2604.04831v1",
+      "abstract": "Tidal disruption events (TDEs) can be observed when stars get too close to supermassive black holes and are torn apart and accreted. The delay time distribution of TDEs, or rate of TDEs as a function of time since a burst of star formation, can be used to determine what mechanisms influence the TDE ",
+      "source": "arxiv"
+    },
+    {
+      "title": "SkillX: Automatically Constructing Skill Knowledge Bases for Agents",
+      "url": "http://arxiv.org/abs/2604.04804v1",
+      "abstract": "Learning from experience is critical for building capable large language model (LLM) agents, yet prevailing self-evolving paradigms remain inefficient: agents learn in isolation, repeatedly rediscover similar behaviors from limited experience, resulting in redundant exploration and poor generalizati",
+      "source": "arxiv"
+    },
+    {
+      "title": "AI Trust OS -- A Continuous Governance Framework for Autonomous AI Observability and Zero-Trust Compliance in Enterprise Environments",
+      "url": "http://arxiv.org/abs/2604.04749v1",
+      "abstract": "The accelerating adoption of large language models, retrieval-augmented generation pipelines, and multi-agent AI workflows has created a structural governance crisis. Organizations cannot govern what they cannot see, and existing compliance methodologies built for deterministic web applications prov",
+      "source": "arxiv"
+    },
+    {
+      "title": "Beyond Hard Negatives: The Importance of Score Distribution in Knowledge Distillation for Dense Retrieval",
+      "url": "http://arxiv.org/abs/2604.04734v1",
+      "abstract": "Transferring knowledge from a cross-encoder teacher via Knowledge Distillation (KD) has become a standard paradigm for training retrieval models. While existing studies have largely focused on mining hard negatives to improve discrimination, the systematic composition of training data and the result",
+      "source": "arxiv"
+    },
+    {
+      "title": "GPIR: Enabling Practical Private Information Retrieval with GPUs",
+      "url": "http://arxiv.org/abs/2604.04696v1",
+      "abstract": "Private information retrieval (PIR) allows private database queries but is hindered by intense server-side computation and memory traffic. Modern lattice-based PIR protocols typically involve three phases: ExpandQuery (expanding a query into encrypted indices), RowSel (encrypted row selection), and ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Is a Picture Worth a Thousand Words? Adaptive Multimodal Fact-Checking with Visual Evidence Necessity",
+      "url": "http://arxiv.org/abs/2604.04692v1",
+      "abstract": "Automated fact-checking is a crucial task not only in journalism but also across web platforms, where it supports a responsible information ecosystem and mitigates the harms of misinformation. While recent research has progressed from text-only to multimodal fact-checking, a prevailing assumption is",
+      "source": "arxiv"
+    },
+    {
+      "title": "An AI Teaching Assistant for Motion Picture Engineering",
+      "url": "http://arxiv.org/abs/2604.04670v1",
+      "abstract": "The rapid rise of LLMs over the last few years has promoted growing experimentation with LLM-driven AI tutors. However, the details of implementation, as well as the benefit in a teaching environment, are still in the early days of exploration. This article addresses these issues in the context of i",
+      "source": "arxiv"
+    },
+    {
+      "title": "Springdrift: An Auditable Persistent Runtime for LLM Agents with Case-Based Memory, Normative Safety, and Ambient Self-Perception",
+      "url": "http://arxiv.org/abs/2604.04660v1",
+      "abstract": "We present Springdrift, a persistent runtime for long-lived LLM agents. The system integrates an auditable execution substrate (append-only memory, supervised processes, git-backed recovery), a case-based reasoning memory layer with hybrid retrieval (evaluated against a dense cosine baseline), a det",
+      "source": "arxiv"
+    },
+    {
+      "title": "Search, Do not Guess: Teaching Small Language Models to Be Effective Search Agents",
+      "url": "http://arxiv.org/abs/2604.04651v1",
+      "abstract": "Agents equipped with search tools have emerged as effective solutions for knowledge-intensive tasks. While Large Language Models (LLMs) exhibit strong reasoning capabilities, their high computational cost limits practical deployment for search agents. Consequently, recent work has focused on distill",
+      "source": "arxiv"
+    },
+    {
+      "title": "Ruling Out to Rule In: Contrastive Hypothesis Retrieval for Medical Question Answering",
+      "url": "http://arxiv.org/abs/2604.04593v1",
+      "abstract": "Retrieval-augmented generation (RAG) grounds large language models in external medical knowledge, yet standard retrievers frequently surface hard negatives that are semantically close to the query but describe clinically distinct conditions. While existing query-expansion methods improve query repre",
+      "source": "arxiv"
+    },
+    {
+      "title": "PassiveQA: A Three-Action Framework for Epistemically Calibrated Question Answering via Supervised Finetuning",
+      "url": "http://arxiv.org/abs/2604.04565v1",
+      "abstract": "Large Language Models (LLMs) have achieved strong performance in question answering and retrieval-augmented generation (RAG), yet they implicitly assume that user queries are fully specified and answerable. In real-world settings, queries are often incomplete, ambiguous, or missing critical variable",
+      "source": "arxiv"
+    },
+    {
+      "title": "Temporal Inversion for Learning Interval Change in Chest X-Rays",
+      "url": "http://arxiv.org/abs/2604.04563v1",
+      "abstract": "Recent advances in vision--language pretraining have enabled strong medical foundation models, yet most analyze radiographs in isolation, overlooking the key clinical task of comparing prior and current images to assess interval change. For chest radiographs (CXRs), capturing interval change is esse",
+      "source": "arxiv"
+    },
+    {
+      "title": "SLSREC: Self-Supervised Contrastive Learning for Adaptive Fusion of Long- and Short-Term User Interests",
+      "url": "http://arxiv.org/abs/2604.04530v1",
+      "abstract": "User interests typically encompass both long-term preferences and short-term intentions, reflecting the dynamic nature of user behaviors across different timeframes. The uneven temporal distribution of user interactions highlights the evolving patterns of interests, making it challenging to accurate",
+      "source": "arxiv"
+    },
+    {
+      "title": "SuperLocalMemory V3.3: The Living Brain -- Biologically-Inspired Forgetting, Cognitive Quantization, and Multi-Channel Retrieval for Zero-LLM Agent Memory Systems",
+      "url": "http://arxiv.org/abs/2604.04514v1",
+      "abstract": "AI coding agents operate in a paradox: they possess vast parametric knowledge yet cannot remember a conversation from an hour ago. Existing memory systems store text in vector databases with single-channel retrieval, require cloud LLMs for core operations, and implement none of the cognitive process",
+      "source": "arxiv"
+    },
+    {
+      "title": "MPTF-Net: Multi-view Pyramid Transformer Fusion Network for LiDAR-based Place Recognition",
+      "url": "http://arxiv.org/abs/2604.04513v1",
+      "abstract": "LiDAR-based place recognition (LPR) is essential for global localization and loop-closure detection in large-scale SLAM systems. Existing methods typically construct global descriptors from Range Images or BEV representations for matching. BEV is widely adopted due to its explicit 2D spatial layout ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Memory Intelligence Agent",
+      "url": "http://arxiv.org/abs/2604.04503v1",
+      "abstract": "Deep research agents (DRAs) integrate LLM reasoning with external tools. Memory systems enable DRAs to leverage historical experiences, which are essential for efficient reasoning and autonomous evolution. Existing methods rely on retrieving similar trajectories from memory to aid reasoning, while s",
+      "source": "arxiv"
+    },
+    {
+      "title": "ECG Biometrics with ArcFace-Inception: External Validation on MIMIC and HEEDB",
+      "url": "http://arxiv.org/abs/2604.04485v1",
+      "abstract": "ECG biometrics has been studied mainly on small cohorts and short inter-session intervals, leaving open how identification behaves under large galleries, external domain shift, and multi-year temporal gaps. We evaluated a 1D\n  Inception-v1 model trained with ArcFace on an internal clinical corpus of",
+      "source": "arxiv"
+    },
+    {
+      "title": "Group-DINOmics: Incorporating People Dynamics into DINO for Self-supervised Group Activity Feature Learning",
+      "url": "http://arxiv.org/abs/2604.04467v1",
+      "abstract": "This paper proposes Group Activity Feature (GAF) learning without group activity annotations. Unlike prior work, which uses low-level static local features to learn GAFs, we propose leveraging dynamics-aware and group-aware pretext tasks, along with local and global features provided by DINO, for gr",
+      "source": "arxiv"
+    }
+  ],
+  "quality": {
+    "total": 40,
+    "quality_score": 0.431,
+    "dimensions": {
+      "authority": 0.95,
+      "quality": 0.0,
+      "star_power": 0.23,
+      "diversity": 0.5
+    },
+    "sources_breakdown": {
+      "github": 20,
+      "arxiv": 20
+    }
+  }
+}

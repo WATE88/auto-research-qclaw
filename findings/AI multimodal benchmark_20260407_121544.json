@@ -1,0 +1,166 @@
+{
+  "topic": "AI multimodal benchmark",
+  "timestamp": "2026-04-07T12:15:44.326625",
+  "findings": [
+    {
+      "title": "FreedomIntelligence/Awesome-AI4Med",
+      "url": "https://github.com/FreedomIntelligence/Awesome-AI4Med",
+      "description": "A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥",
+      "stars": 2618,
+      "source": "github"
+    },
+    {
+      "title": "camel-ai/crab",
+      "url": "https://github.com/camel-ai/crab",
+      "description": "🦀️ CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents. https://crab.camel-ai.org/",
+      "stars": 412,
+      "source": "github"
+    },
+    {
+      "title": "zeyofu/BLINK_Benchmark",
+      "url": "https://github.com/zeyofu/BLINK_Benchmark",
+      "description": "This repo contains evaluation code for the paper \"BLINK: Multimodal Large Language Models Can See but Not Perceive\".     https://arxiv.org/abs/2404.12390  [ECCV 2024]",
+      "stars": 164,
+      "source": "github"
+    },
+    {
+      "title": "TsinghuaC3I/MedXpertQA",
+      "url": "https://github.com/TsinghuaC3I/MedXpertQA",
+      "description": "[ICML 2025] MedXpertQA: Benchmarking Expert-Level Medical Reasoning and Understanding",
+      "stars": 148,
+      "source": "github"
+    },
+    {
+      "title": "rustyneuron01/AI-Generated-Content-Detection",
+      "url": "https://github.com/rustyneuron01/AI-Generated-Content-Detection",
+      "description": "Multi-modal AI-generated content detection: image, video, and audio. Benchmarks, training code (DINOv2, DINOv3, ReStraV, BreathNet), and evaluation pipeline for real vs. synthetic classification with calibration-aware metrics.",
+      "stars": 86,
+      "source": "github"
+    },
+    {
+      "title": "uni-medical/GMAI-MMBench",
+      "url": "https://github.com/uni-medical/GMAI-MMBench",
+      "description": "GMAI-MMBench: A Comprehensive Multimodal Evaluation Benchmark Towards General Medical AI.",
+      "stars": 84,
+      "source": "github"
+    },
+    {
+      "title": "agentsea/osuniverse",
+      "url": "https://github.com/agentsea/osuniverse",
+      "description": "Benchmark of complex, multimodal desktop-oriented tasks for advanced GUI-navigation AI agents",
+      "stars": 24,
+      "source": "github"
+    },
+    {
+      "title": "zeyofu/Commonsense-T2I",
+      "url": "https://github.com/zeyofu/Commonsense-T2I",
+      "description": "Code for Commonsense-T2I Challenge: Can Text-to-Image Generation Models Understand Commonsense? [COLM 2024]",
+      "stars": 24,
+      "source": "github"
+    },
+    {
+      "title": "SufyanDanish/VLM-Survey-",
+      "url": "https://github.com/SufyanDanish/VLM-Survey-",
+      "description": "A comprehensive survey of Vision–Language Models: Pretrained models, fine-tuning, prompt engineering, adapters, and benchmark datasets",
+      "stars": 12,
+      "source": "github"
+    },
+    {
+      "title": "yh-yao/awesome-edge-ai-agents",
+      "url": "https://github.com/yh-yao/awesome-edge-ai-agents",
+      "description": "Curated list of papers, frameworks, benchmarks, and applications for multimodal AI agents (LLMs, text-to-image, speech, world models, etc.) on mobile and edge devices.",
+      "stars": 12,
+      "source": "github"
+    },
+    {
+      "title": "VectorInstitute/humanibench",
+      "url": "https://github.com/VectorInstitute/humanibench",
+      "description": "HumaniBench is a benchmark suite for evaluating Large Multimodal Models on seven Human-Centered AI principles namely Fairness, Ethics, Understanding, Reasoning, Language, Inclusivity, Empathy, and Robustness.",
+      "stars": 7,
+      "source": "github"
+    },
+    {
+      "title": "January-ai/food-scan-benchmarks",
+      "url": "https://github.com/January-ai/food-scan-benchmarks",
+      "description": "Benchmarks of January's AI Food Scanner against other multimodal LLMs",
+      "stars": 6,
+      "source": "github"
+    },
+    {
+      "title": "multimodalAI/omaib",
+      "url": "https://github.com/multimodalAI/omaib",
+      "description": "Open Multimodal AI Benchmark by the UK Open Multimodal AI Network.  ⭐ Star to support our work!",
+      "stars": 6,
+      "source": "github"
+    },
+    {
+      "title": "trng28/ViMRHP",
+      "url": "https://github.com/trng28/ViMRHP",
+      "description": "A Vietnamese Benchmark Dataset for Multimodal Review Helpfulness Prediction via Human-AI Collaborative Annotation.",
+      "stars": 6,
+      "source": "github"
+    },
+    {
+      "title": "fisherman611/gaia-agent",
+      "url": "https://github.com/fisherman611/gaia-agent",
+      "description": "\"GAIA Agent: An AI system automating solutions for the GAIA benchmark with tools for reasoning, code execution, data interpretation, and multimodal tasks.\"",
+      "stars": 5,
+      "source": "github"
+    },
+    {
+      "title": "Scimoose/AI-Bench-Archive",
+      "url": "https://github.com/Scimoose/AI-Bench-Archive",
+      "description": "A repository that aggregates commonly used benchmarks to test LLM and multimodal models on different modalities and functionalites.",
+      "stars": 4,
+      "source": "github"
+    },
+    {
+      "title": "theyashwanthsai/MREB",
+      "url": "https://github.com/theyashwanthsai/MREB",
+      "description": "Multimodal Reasoning and Ethics Benchmark (MREB) is an open source benchmark designed to assess the cross-domain capabilities of AI models.",
+      "stars": 4,
+      "source": "github"
+    },
+    {
+      "title": "swordlidev/Awesome-AI-Search",
+      "url": "https://github.com/swordlidev/Awesome-AI-Search",
+      "description": "This repository offers an in-depth review of these advancements, focusing on Text-based AI Search, Web Browsing Agents, Multimodal AI Search, Benchmarks, Software, and Products.",
+      "stars": 4,
+      "source": "github"
+    },
+    {
+      "title": "MicDZ/MANBench",
+      "url": "https://github.com/MicDZ/MANBench",
+      "description": "This repo contains evaluation code for the paper \"MANBench: Is Your Multimodal Model Smarter than Human?\" [ACL 2025 Findings]",
+      "stars": 3,
+      "source": "github"
+    },
+    {
+      "title": "LayerDynamics/smlx",
+      "url": "https://github.com/LayerDynamics/smlx",
+      "description": "Smol MLX—the complete framework for lightweight AI on Apple Silicon. Sub-1B parameter models (vision, language, audio, multimodal) with production tools: quantization, caching, agents, benchmarks, and OpenAI-compatible API. Engineered for M4's unified memory.",
+      "stars": 3,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.556,
+    "grade": "B",
+    "dimensions": {
+      "authority": 0.9,
+      "star_power": 0.069,
+      "diversity": 0.0,
+      "coverage": 1.0,
+      "ndcg": 0.572,
+      "map": 0.874,
+      "mrr": 1.0,
+      "rouge_1": 0.633,
+      "semantic_sim": 0.276,
+      "task_completion": 0.505,
+      "tool_use": 0.1,
+      "reasoning_depth": 0.067,
+      "autonomy": 0.05
+    }
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "topic": "AI benchmark platform tool",
+  "timestamp": "2026-03-31T13:04:59.936601",
+  "findings": [
+    {
+      "title": "FishCodeTech/ctf-agent-benchmark",
+      "url": "https://github.com/FishCodeTech/ctf-agent-benchmark",
+      "description": "Benchmarking platform for evaluating AI agents on CTF-style tasks and tool-use workflows.",
+      "stars": 8,
+      "source": "github"
+    },
+    {
+      "title": "UCD-193AB-ws24/Minecapstone",
+      "url": "https://github.com/UCD-193AB-ws24/Minecapstone",
+      "description": "SPEEN is an open-source platform for benchmarking embodied LLM agents in a simulated environment, addressing the critical need for standardized tools to evaluate embodied AI systems. Using simulated scenarios, SPEEN tests LLMs on relevant tasks, including environmental interaction, visual understanding, and sequential reasoning.",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "speglich/GenAI-Benchmark-Infrastructure",
+      "url": "https://github.com/speglich/GenAI-Benchmark-Infrastructure",
+      "description": "This project provides a complete Terraform infrastructure setup for benchmarking Generative AI models, specifically designed for Oracle Cloud Infrastructure (OCI). It automates the deployment of compute instances with pre-configured benchmarking tools and includes performance comparison capabilities between different AI platforms.",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "augment-solutions/augbench",
+      "url": "https://github.com/augment-solutions/augbench",
+      "description": "A cross-platform Node.js CLI benchmarking tool for comparing performance metrics across different AI coding assistants",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "SaiGayathriGudla-1184/Gen-ai-project-architect",
+      "url": "https://github.com/SaiGayathriGudla-1184/Gen-ai-project-architect",
+      "description": "It is an intelligent development platform powered by Google Gemini 2.0. It features two core tools: the Perfect Model Finder, which matches tasks to the best Open Source LLMs/ML models using benchmark data, and the Project Architect, an autonomous AI agent crew that generates complete technical blueprints, tech stacks and implementations.",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "Olwtelet/AgentForge",
+      "url": "https://github.com/Olwtelet/AgentForge",
+      "description": "AgentForge is a hands-on platform for building, testing, and comparing modern AI agent frameworks. It features real-world examples, multi-agent workflows, and benchmarking tools to evaluate performance, scalability, and design trade-offs across leading solutions.",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "sochaty/llm-governance-engine",
+      "url": "https://github.com/sochaty/llm-governance-engine",
+      "description": "A robust LLM Governance & ROI Evaluation platform designed to benchmark Frontier models against local open-source models. Built with an enterprise microservices architecture and cloud-ready for Kubernetes, this tool helps organizations optimize AI spend by calculating the accuracy-vs-cost tradeoff of local vs. cloud inference",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "trupthi6/ai-tool-benchmark-platform",
+      "url": "https://github.com/trupthi6/ai-tool-benchmark-platform",
+      "description": "AI dictionary and tool-comparison platform with an assistant that recommends and benchmarks AI tools based on user prompts",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "Hitarthmaker/ai-tool-benchmark",
+      "url": "https://github.com/Hitarthmaker/ai-tool-benchmark",
+      "description": "Rapid POC platform to benchmark and stress-test emerging AI models",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "ca1ic0/TensorBench",
+      "url": "https://github.com/ca1ic0/TensorBench",
+      "description": "A Cross-platform AI Performance Benchmark Tools",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "mohin-io/AI-Analytics-Platform",
+      "url": "https://github.com/mohin-io/AI-Analytics-Platform",
+      "description": "A comprehensive machine learning model benchmarking and analytics platform with automated pipelines, explainability tools, and interactive dashboards",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "JustAGhosT/metrics-collab",
+      "url": "https://github.com/JustAGhosT/metrics-collab",
+      "description": "Collaborative metrics platform for AI tools performance tracking and benchmarking",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "acoyfellow/benchmarks",
+      "url": "https://github.com/acoyfellow/benchmarks",
+      "description": "CF model benchmark platform — tool-calling reliability & latency tracking for Workers AI models, with a clean JSON API and Kumo UI frontend. Deployed at benchmarks.coey.dev.",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "harshalukirde16-png/CPR-TOOL",
+      "url": "https://github.com/harshalukirde16-png/CPR-TOOL",
+      "description": "CPR Tool — Cost Profit Revenue Intelligence Platform for Indian entrepreneurs. AI-powered profit calculator, competitor price benchmarking, product scanner, multi-language support (Hindi, Marathi, Tamil, Telugu), business analytics dashboard & admin panel.",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "CTOR-Labs/CTOR-AI-AI",
+      "url": "https://github.com/CTOR-Labs/CTOR-AI-AI",
+      "description": "Research and tournament platform for AI‑versus‑AI CTOR matches, providing standardized match protocols, logging formats, baseline agents, benchmarking tools, and infrastructure for running competitive tournaments between AI bots.",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "mahdinaser/multi-agent-platform-evaluator",
+      "url": "https://github.com/mahdinaser/multi-agent-platform-evaluator",
+      "description": "A comprehensive framework for evaluating multi-agent AI systems in adaptive database platform selection, comparing 5 agent frameworks, 11 LLM models, and 7 platforms with tool-augmented decision-making and extensive benchmarking.",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "vperez115/AIBenchmarkHub",
+      "url": "https://github.com/vperez115/AIBenchmarkHub",
+      "description": "AIBenchmarkHub is an open-source platform for benchmarking CPUs and GPUs using AI tools. It features 1,000+ performance, thermal, and pricing metrics. Built on PyTorch and LLaMA, it leverages cutting-edge hardware like Tesla K80, M40, and RTX 3090 for powerful benchmarking and analysis.",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "ReviewPublically/review-publically",
+      "url": "https://github.com/ReviewPublically/review-publically",
+      "description": "ReviewPublically is an open platform for data scientists, ML engineers and AI founders to review, compare and benchmark AI tools, libraries and SaaS",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "Shivani510669/CIS_AI_Remediation",
+      "url": "https://github.com/Shivani510669/CIS_AI_Remediation",
+      "description": "AutoCISGuard is an automated CIS Benchmark auditing and hardening tool that scans system configs, detects compliance gaps, and enables AI-generated fixes using platform-specific PowerShell/Bash collectors",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "sisovin/ai-agents-versus-mcp",
+      "url": "https://github.com/sisovin/ai-agents-versus-mcp",
+      "description": "**AI Agents Versus MCP** is a modern platform designed to compare, explore, and benchmark AI agent architectures against the emerging Model Context Protocol (MCP) standard. Built using TypeScript, React, Tailwind CSS, and ShadCN UI, this project provides UX/UI, authentication, and admin tooling ...",
+      "stars": 0,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.545,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 1.0,
+      "star_power": 0.268,
+      "diversity": 0.0,
+      "usability": 0.1,
+      "applicability": 1.0,
+      "coverage": 1.0,
+      "ndcg": 0.731,
+      "map": 1.0,
+      "mrr": 1.0,
+      "rouge_1": 0.675,
+      "semantic_sim": 0.292,
+      "coherence": 0.171,
+      "task_completion": 0.711,
+      "tool_use": 0.198,
+      "reasoning_depth": 0.033,
+      "autonomy": 0.188,
+      "multi_agent": 0.06
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

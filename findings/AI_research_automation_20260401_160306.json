@@ -1,0 +1,194 @@
+{
+  "topic": "AI research automation",
+  "timestamp": "2026-04-01T16:03:06.158801",
+  "findings": [
+    {
+      "title": "khoj-ai/khoj",
+      "url": "https://github.com/khoj-ai/khoj",
+      "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+      "stars": 33726,
+      "updated_at": "2026-03-31T03:35:27Z",
+      "source": "github"
+    },
+    {
+      "title": "assafelovic/gpt-researcher",
+      "url": "https://github.com/assafelovic/gpt-researcher",
+      "description": "An autonomous agent that conducts deep research on any data using any LLM providers",
+      "stars": 26130,
+      "updated_at": "2026-03-31T02:57:31Z",
+      "source": "github"
+    },
+    {
+      "title": "microsoft/RD-Agent",
+      "url": "https://github.com/microsoft/RD-Agent",
+      "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report",
+      "stars": 12132,
+      "updated_at": "2026-03-31T02:02:58Z",
+      "source": "github"
+    },
+    {
+      "title": "0x4m4/hexstrike-ai",
+      "url": "https://github.com/0x4m4/hexstrike-ai",
+      "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.",
+      "stars": 7778,
+      "updated_at": "2026-03-31T01:39:14Z",
+      "source": "github"
+    },
+    {
+      "title": "parruda/swarm",
+      "url": "https://github.com/parruda/swarm",
+      "description": "Ruby gems for general-purpose AI agent systems: automation, research, data processing, customer support, content creation. SwarmSDK provides single-process orchestration, persistent memory with semantic   search, node workflows, and hooks. SwarmMemory/SwarmCLI included. Claude Swarm v1 for dev teams.",
+      "stars": 1689,
+      "updated_at": "2026-03-30T09:41:21Z",
+      "source": "github"
+    },
+    {
+      "title": "crshdn/mission-control",
+      "url": "https://github.com/crshdn/mission-control",
+      "description": "The world's first Autonomous Product Engine (APE): AI agents research your market, generate features, and ship code as PRs. Convoy mode, crash recovery, cost tracking, 80+ API endpoints. Self-hosted via OpenClaw Gateway.",
+      "stars": 1667,
+      "updated_at": "2026-03-30T20:40:25Z",
+      "source": "github"
+    },
+    {
+      "title": "foryourhealth111-pixel/Vibe-Skills",
+      "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills",
+      "description": "Wherever your AI supports skills, VibeSkills works. 340+ governed skills spanning coding, research, automation & creative work.",
+      "stars": 882,
+      "updated_at": "2026-03-31T03:21:35Z",
+      "source": "github"
+    },
+    {
+      "title": "mlcommons/ck",
+      "url": "https://github.com/mlcommons/ck",
+      "description": "Collective Knowledge (CK), Collective Mind (CM/CMX) and MLPerf automations: community-driven projects to facilitate collaborative and reproducible research and to learn how to run AI, ML, and other emerging workloads more efficiently and cost-effectively across diverse models, datasets, software, and hardware using MLPerf methodology and benchmarks",
+      "stars": 644,
+      "updated_at": "2026-03-23T06:28:10Z",
+      "source": "github"
+    },
+    {
+      "title": "Sri-Krishna-V/awesome-adk-agents",
+      "url": "https://github.com/Sri-Krishna-V/awesome-adk-agents",
+      "description": "Curated collection of AI agents built with Google’s Agent Development Kit (ADK): templates, best practices, and production-ready examples for research, business, automation, education, and more.",
+      "stars": 272,
+      "updated_at": "2026-03-28T07:00:50Z",
+      "source": "github"
+    },
+    {
+      "title": "kaymen99/sales-outreach-automation-langgraph",
+      "url": "https://github.com/kaymen99/sales-outreach-automation-langgraph",
+      "description": "Automate lead research, qualification, and outreach with AI agents and Langgraph, creating personalized messaging and connecting with your CRMs (HubSpot, Airtable, Google Sheets)",
+      "stars": 258,
+      "updated_at": "2026-03-26T11:30:26Z",
+      "source": "github"
+    },
+    {
+      "title": "tsingyuai/scientify",
+      "url": "https://github.com/tsingyuai/scientify",
+      "description": "AI-powered research workflow automation for OpenClaw.",
+      "stars": 138,
+      "updated_at": "2026-03-31T01:34:32Z",
+      "source": "github"
+    },
+    {
+      "title": "bio-xyz/BioAgents",
+      "url": "https://github.com/bio-xyz/BioAgents",
+      "description": "BioAgents: An AI scientist framework for autonomous deep research in biological sciences. Multi-agent system combining literature analysis agents with data scientist agents to enable deep research automation through user feedback integration and iterative scientific discovery. Inspired by advances in Edison Kosmos, Sakana AI, K-Dense and others.",
+      "stars": 117,
+      "updated_at": "2026-03-30T20:17:15Z",
+      "source": "github"
+    },
+    {
+      "title": "caimingshuo/AI-Research-Agent-Stack",
+      "url": "https://github.com/caimingshuo/AI-Research-Agent-Stack",
+      "description": "Looking Forward to the True Realization of AI Research Automation",
+      "stars": 85,
+      "updated_at": "2026-03-31T02:56:35Z",
+      "source": "github"
+    },
+    {
+      "title": "ywatanabe1989/scitex-python",
+      "url": "https://github.com/ywatanabe1989/scitex-python",
+      "description": "Python toolkit for reproducible science. CLI commands, 371+ MCP tools, built-in skills. From raw data to manuscript — with reproducibility verification. For AI and human researchers.",
+      "stars": 69,
+      "updated_at": "2026-03-31T02:22:36Z",
+      "source": "github"
+    },
+    {
+      "title": "ghostbyt3/nday-automation-ai",
+      "url": "https://github.com/ghostbyt3/nday-automation-ai",
+      "description": "This repository contains AI-generated analysis reports produced as part of an automated N-day research pipeline targeting Microsoft components. ",
+      "stars": 64,
+      "updated_at": "2026-03-30T11:54:28Z",
+      "source": "github"
+    },
+    {
+      "title": "nexscope-ai/eCommerce-Skills",
+      "url": "https://github.com/nexscope-ai/eCommerce-Skills",
+      "description": "E-commerce skills for AI agents — product research, marketing automation, supply chain optimization, and business analytics for online sellers across Amazon, Shopify, Etsy, TikTok Shop, and all platforms.",
+      "stars": 62,
+      "updated_at": "2026-03-30T13:13:58Z",
+      "source": "github"
+    },
+    {
+      "title": "cortex-works/cortex-scout",
+      "url": "https://github.com/cortex-works/cortex-scout",
+      "description": "A unified web extraction and stateful automation engine for AI. Replaces heavy testing frameworks with token-optimized browser control, deep research, and HITL.",
+      "stars": 60,
+      "updated_at": "2026-03-30T18:40:51Z",
+      "source": "github"
+    },
+    {
+      "title": "ucsb-seclab/chainreactor",
+      "url": "https://github.com/ucsb-seclab/chainreactor",
+      "description": "ChainReactor is a research project that leverages AI planning to discover exploitation chains for privilege escalation on Unix systems. The project models the problem as a sequence of actions to achieve privilege escalation from initial access to a target system.",
+      "stars": 60,
+      "updated_at": "2026-03-30T23:42:01Z",
+      "source": "github"
+    },
+    {
+      "title": "pzaino/thecrowler",
+      "url": "https://github.com/pzaino/thecrowler",
+      "description": "A Content Discovery and Development Platform. Empowering Cybersecurity, AI, Marketing, and Finance professionals and researchers to discover, analyze, and interact with the web in all its dimensions.",
+      "stars": 52,
+      "updated_at": "2026-03-01T06:04:51Z",
+      "source": "github"
+    },
+    {
+      "title": "mikeoller82/VideoGraphAI",
+      "url": "https://github.com/mikeoller82/VideoGraphAI",
+      "description": "🎬 AI-powered YouTube Shorts automation tool using LLMs, real-time search, and text-to-speech. Create engaging short-form videos with automated research, voiceovers, and subtitles.",
+      "stars": 51,
+      "updated_at": "2026-03-25T21:21:30Z",
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.448,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.05,
+      "star_power": 0.127,
+      "diversity": 0.0,
+      "usability": 0.1,
+      "applicability": 1.0,
+      "coverage": 1.0,
+      "ndcg": 0.639,
+      "map": 1.0,
+      "mrr": 1.0,
+      "rouge_1": 0.783,
+      "semantic_sim": 0.28,
+      "coherence": 0.105,
+      "task_completion": 0.538,
+      "tool_use": 0.26,
+      "reasoning_depth": 0.08,
+      "autonomy": 0.338,
+      "multi_agent": 0.06
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

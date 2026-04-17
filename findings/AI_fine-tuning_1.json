@@ -1,0 +1,271 @@
+{
+  "topic": "AI fine-tuning",
+  "round": 1,
+  "timestamp": "2026-03-27T16:12:50.758953",
+  "findings": [
+    {
+      "title": "hiyouga/LlamaFactory",
+      "url": "https://github.com/hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars": 69140,
+      "source": "github"
+    },
+    {
+      "title": "meta-llama/llama-cookbook",
+      "url": "https://github.com/meta-llama/llama-cookbook",
+      "description": "Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services  ",
+      "stars": 18262,
+      "source": "github"
+    },
+    {
+      "title": "xming521/WeClone",
+      "url": "https://github.com/xming521/WeClone",
+      "description": "🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊天记录创造数字分身的一站式解决方案  ",
+      "stars": 16459,
+      "source": "github"
+    },
+    {
+      "title": "ludwig-ai/ludwig",
+      "url": "https://github.com/ludwig-ai/ludwig",
+      "description": "Low-code framework for building custom LLMs, neural networks, and other AI models",
+      "stars": 11665,
+      "source": "github"
+    },
+    {
+      "title": "wandb/wandb",
+      "url": "https://github.com/wandb/wandb",
+      "description": "The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.",
+      "stars": 10938,
+      "source": "github"
+    },
+    {
+      "title": "flyteorg/flyte",
+      "url": "https://github.com/flyteorg/flyte",
+      "description": "Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows. Flyte 2 now available locally: https://github.com/flyteorg/flyte-sdk",
+      "stars": 6909,
+      "source": "github"
+    },
+    {
+      "title": "h2oai/h2o-llmstudio",
+      "url": "https://github.com/h2oai/h2o-llmstudio",
+      "description": "H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/",
+      "stars": 4905,
+      "source": "github"
+    },
+    {
+      "title": "Kiln-AI/Kiln",
+      "url": "https://github.com/Kiln-AI/Kiln",
+      "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more.",
+      "stars": 4725,
+      "source": "github"
+    },
+    {
+      "title": "truefoundry/cognita",
+      "url": "https://github.com/truefoundry/cognita",
+      "description": "RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry ",
+      "stars": 4364,
+      "source": "github"
+    },
+    {
+      "title": "smallcloudai/refact",
+      "url": "https://github.com/smallcloudai/refact",
+      "description": "AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.",
+      "stars": 3525,
+      "source": "github"
+    },
+    {
+      "title": "sentient-agi/OML-1.0-Fingerprinting",
+      "url": "https://github.com/sentient-agi/OML-1.0-Fingerprinting",
+      "description": "OML 1.0 via Fingerprinting: Open, Monetizable, and Loyal AI",
+      "stars": 3522,
+      "source": "github"
+    },
+    {
+      "title": "OpenPipe/OpenPipe",
+      "url": "https://github.com/OpenPipe/OpenPipe",
+      "description": "Turn expensive prompts into cheap fine-tuned models",
+      "stars": 2790,
+      "source": "github"
+    },
+    {
+      "title": "FurkanGozukara/Stable-Diffusion",
+      "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
+      "description": "FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod",
+      "stars": 2662,
+      "source": "github"
+    },
+    {
+      "title": "decodingai-magazine/second-brain-ai-assistant-course",
+      "url": "https://github.com/decodingai-magazine/second-brain-ai-assistant-course",
+      "description": "Learn to build your Second Brain AI assistant with LLMs, agents, RAG, fine-tuning, LLMOps and AI systems techniques.",
+      "stars": 2593,
+      "source": "github"
+    },
+    {
+      "title": "adithya-s-k/AI-Engineering.academy",
+      "url": "https://github.com/adithya-s-k/AI-Engineering.academy",
+      "description": "Mastering Applied AI, One Concept at a Time ",
+      "stars": 2159,
+      "source": "github"
+    },
+    {
+      "title": "YiVal/YiVal",
+      "url": "https://github.com/YiVal/YiVal",
+      "description": "Your Automatic Prompt Engineering Assistant for GenAI Applications",
+      "stars": 2129,
+      "source": "github"
+    },
+    {
+      "title": "pykeio/ort",
+      "url": "https://github.com/pykeio/ort",
+      "description": "Fast ML inference & training for ONNX models in Rust",
+      "stars": 2115,
+      "source": "github"
+    },
+    {
+      "title": "kubeflow/trainer",
+      "url": "https://github.com/kubeflow/trainer",
+      "description": "Distributed AI Model Training and LLM Fine-Tuning on Kubernetes",
+      "stars": 2067,
+      "source": "github"
+    },
+    {
+      "title": "tianrun-chen/SAM-Adapter-PyTorch",
+      "url": "https://github.com/tianrun-chen/SAM-Adapter-PyTorch",
+      "description": "Adapting Meta AI's Segment Anything to Downstream Tasks with Adapters and Prompts",
+      "stars": 1495,
+      "source": "github"
+    },
+    {
+      "title": "NovaSearch-Team/RAG-Retrieval",
+      "url": "https://github.com/NovaSearch-Team/RAG-Retrieval",
+      "description": "Unify Efficient Fine-tuning of  RAG Retrieval, including Embedding, ColBERT, ReRanker.",
+      "stars": 1111,
+      "source": "github"
+    },
+    {
+      "title": "ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling",
+      "url": "https://arxiv.org/abs/2603.25746v1",
+      "abstract": "Multi-shot video generation is crucial for long narrative storytelling, yet current bidirectional architectures suffer from limited interactivity and high latency. We propose ShotStream, a novel causa",
+      "source": "arxiv"
+    },
+    {
+      "title": "MegaFlow: Zero-Shot Large Displacement Optical Flow",
+      "url": "https://arxiv.org/abs/2603.25739v1",
+      "abstract": "Accurate estimation of large displacement optical flow remains a critical challenge. Existing methods typically rely on iterative local search or/and domain-specific fine-tuning, which severely limits",
+      "source": "arxiv"
+    },
+    {
+      "title": "SlotVTG: Object-Centric Adapter for Generalizable Video Temporal Grounding",
+      "url": "https://arxiv.org/abs/2603.25733v1",
+      "abstract": "Multimodal Large Language Models (MLLMs) have shown strong performance on Video Temporal Grounding (VTG). However, their coarse recognition capabilities are insufficient for fine-grained temporal unde",
+      "source": "arxiv"
+    },
+    {
+      "title": "AnyHand: A Large-Scale Synthetic Dataset for RGB(-D) Hand Pose Estimation",
+      "url": "https://arxiv.org/abs/2603.25726v1",
+      "abstract": "We present AnyHand, a large-scale synthetic dataset designed to advance the state of the art in 3D hand pose estimation from both RGB-only and RGB-D inputs. While recent works with foundation approach",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Unified Memory Perspective for Probabilistic Trustworthy AI",
+      "url": "https://arxiv.org/abs/2603.25692v1",
+      "abstract": "Trustworthy artificial intelligence increasingly relies on probabilistic computation to achieve robustness, interpretability, security and privacy. In practical systems, such workloads interleave dete",
+      "source": "arxiv"
+    },
+    {
+      "title": "Longitudinal Digital Phenotyping for Early Cognitive-Motor Screening",
+      "url": "https://arxiv.org/abs/2603.25673v1",
+      "abstract": "Early detection of atypical cognitive-motor development is critical for timely intervention, yet traditional assessments rely heavily on subjective, static evaluations. The integration of digital devi",
+      "source": "arxiv"
+    },
+    {
+      "title": "SHAPR: Operationalising Human-AI Collaborative Research Through Structured Knowledge Generation",
+      "url": "https://arxiv.org/abs/2603.25660v1",
+      "abstract": "SHAPR (Solo Human-Centred and AI-Assisted Practice) is a framework for research software development that integrates human-centred decision-making with AI-assisted capabilities. While prior work intro",
+      "source": "arxiv"
+    },
+    {
+      "title": "Colon-Bench: An Agentic Workflow for Scalable Dense Lesion Annotation in Full-Procedure Colonoscopy Videos",
+      "url": "https://arxiv.org/abs/2603.25645v1",
+      "abstract": "Early screening via colonoscopy is critical for colon cancer prevention, yet developing robust AI systems for this domain is hindered by the lack of densely annotated, long-sequence video datasets. Ex",
+      "source": "arxiv"
+    },
+    {
+      "title": "RenoBench: A Citation Parsing Benchmark",
+      "url": "https://arxiv.org/abs/2603.25640v1",
+      "abstract": "Accurate parsing of citations is necessary for machine-readable scholarly infrastructure. But, despite sustained interest in this problem, existing evaluation techniques are often not generalizable, b",
+      "source": "arxiv"
+    },
+    {
+      "title": "Is Mathematical Problem-Solving Expertise in Large Language Models Associated with Assessment Performance?",
+      "url": "https://arxiv.org/abs/2603.25633v1",
+      "abstract": "Large Language Models (LLMs) are increasingly used in math education not only as problem solvers but also as assessors of learners' reasoning. However, it remains unclear whether stronger math problem",
+      "source": "arxiv"
+    },
+    {
+      "title": "LanteRn: Latent Visual Structured Reasoning",
+      "url": "https://arxiv.org/abs/2603.25629v1",
+      "abstract": "While language reasoning models excel in many tasks, visual reasoning remains challenging for current large multimodal models (LMMs). As a result, most LMMs default to verbalizing perceptual content i",
+      "source": "arxiv"
+    },
+    {
+      "title": "Puiseux series about exceptional singularities dictated by symmetry-allowed Hessenberg forms of perturbation matrices",
+      "url": "https://arxiv.org/abs/2603.25603v1",
+      "abstract": "We develop a systematic framework for determining the nature of exceptional points of $n^{\\rm th}$ order (EP$_n$s) in non-Hermitian (NH) systems, represented by complex square matrices. By expressing ",
+      "source": "arxiv"
+    },
+    {
+      "title": "TAAC: A gate into Trustable Audio Affective Computing",
+      "url": "https://arxiv.org/abs/2603.25570v1",
+      "abstract": "With the emergence of AI techniques for depression diagnosis, the conflict between high demand and limited supply for depression screening has been significantly alleviated. Among various modal data, ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Towards Embodied AI with MuscleMimic: Unlocking full-body musculoskeletal motor learning at scale",
+      "url": "https://arxiv.org/abs/2603.25544v1",
+      "abstract": "Learning motor control for muscle-driven musculoskeletal models is hindered by the computational cost of biomechanically accurate simulation and the scarcity of validated, open full-body models. Here ",
+      "source": "arxiv"
+    },
+    {
+      "title": "PAWS: Perception of Articulation in the Wild at Scale from Egocentric Videos",
+      "url": "https://arxiv.org/abs/2603.25539v1",
+      "abstract": "Articulation perception aims to recover the motion and structure of articulated objects (e.g., drawers and cupboards), and is fundamental to 3D scene understanding in robotics, simulation, and animati",
+      "source": "arxiv"
+    },
+    {
+      "title": "An Experimental Comparison of the Most Popular Approaches to Fake News Detection",
+      "url": "https://arxiv.org/abs/2603.25501v1",
+      "abstract": "In recent years, fake news detection has received increasing attention in public debate and scientific research. Despite advances in detection techniques, the production and spread of false informatio",
+      "source": "arxiv"
+    },
+    {
+      "title": "Unveiling the Resilience of LLM-Enhanced Search Engines against Black-Hat SEO Manipulation",
+      "url": "https://arxiv.org/abs/2603.25500v1",
+      "abstract": "The emergence of Large Language Model-enhanced Search Engines (LLMSEs) has revolutionized information retrieval by integrating web-scale search capabilities with AI-powered summarization. While these ",
+      "source": "arxiv"
+    },
+    {
+      "title": "EcoThink: A Green Adaptive Inference Framework for Sustainable and Accessible Agents",
+      "url": "https://arxiv.org/abs/2603.25498v1",
+      "abstract": "As the Web transitions from static retrieval to generative interaction, the escalating environmental footprint of Large Language Models (LLMs) presents a critical sustainability challenge. Current par",
+      "source": "arxiv"
+    },
+    {
+      "title": "How Class Ontology and Data Scale Affect Audio Transfer Learning",
+      "url": "https://arxiv.org/abs/2603.25476v1",
+      "abstract": "Transfer learning is a crucial concept within deep learning that allows artificial neural networks to benefit from a large pre-training data basis when confronted with a task of limited data. Despite ",
+      "source": "arxiv"
+    },
+    {
+      "title": "GridVAD: Open-Set Video Anomaly Detection via Spatial Reasoning over Stratified Frame Grids",
+      "url": "https://arxiv.org/abs/2603.25467v1",
+      "abstract": "Vision-Language Models (VLMs) are powerful open-set reasoners, yet their direct use as anomaly detectors in video surveillance is fragile: without calibrated anomaly priors, they alternate between mis",
+      "source": "arxiv"
+    }
+  ],
+  "sources": [
+    "github",
+    "arxiv"
+  ]
+}

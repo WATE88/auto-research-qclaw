@@ -1,0 +1,159 @@
+{
+  "topic": "code generation",
+  "timestamp": "2026-03-30T13:52:44.348978",
+  "findings": [
+    {
+      "title": "GrapesJS/grapesjs",
+      "url": "https://github.com/GrapesJS/grapesjs",
+      "description": "Free and Open source Web Builder Framework. Next generation tool for building templates without coding",
+      "stars": 25665,
+      "source": "github"
+    },
+    {
+      "title": "QuestPDF/QuestPDF",
+      "url": "https://github.com/QuestPDF/QuestPDF",
+      "description": "QuestPDF is a modern library for PDF document generation. Its fluent C# API lets you design complex layouts with clean, readable code. Create documents using a flexible, component-based approach.",
+      "stars": 13935,
+      "source": "github"
+    },
+    {
+      "title": "Rudrabha/Wav2Lip",
+      "url": "https://github.com/Rudrabha/Wav2Lip",
+      "description": "This repository contains the codes of \"A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild\", published at ACM Multimedia 2020. For HD commercial model, please try out Sync Labs ",
+      "stars": 12904,
+      "source": "github"
+    },
+    {
+      "title": "zai-org/CodeGeeX",
+      "url": "https://github.com/zai-org/CodeGeeX",
+      "description": "CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)",
+      "stars": 8767,
+      "source": "github"
+    },
+    {
+      "title": "zai-org/CodeGeeX2",
+      "url": "https://github.com/zai-org/CodeGeeX2",
+      "description": "CodeGeeX2: A More Powerful Multilingual Code Generation Model",
+      "stars": 7593,
+      "source": "github"
+    },
+    {
+      "title": "vektra/mockery",
+      "url": "https://github.com/vektra/mockery",
+      "description": "A mock code autogenerator for Go",
+      "stars": 7042,
+      "source": "github"
+    },
+    {
+      "title": "mylxsw/aidea",
+      "url": "https://github.com/mylxsw/aidea",
+      "description": "An APP that integrates mainstream large language models and image generation models, built with Flutter, with fully open-source code.",
+      "stars": 6941,
+      "source": "github"
+    },
+    {
+      "title": "raphw/byte-buddy",
+      "url": "https://github.com/raphw/byte-buddy",
+      "description": "Runtime code generation for the Java virtual machine.",
+      "stars": 6788,
+      "source": "github"
+    },
+    {
+      "title": "red/red",
+      "url": "https://github.com/red/red",
+      "description": "Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cross-platform reactive GUI, while providing modern support for concurrency, all in a zero-install, zero-config, single ~1MB file! ",
+      "stars": 5991,
+      "source": "github"
+    },
+    {
+      "title": "salesforce/BLIP",
+      "url": "https://github.com/salesforce/BLIP",
+      "description": "PyTorch code for BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation  ",
+      "stars": 5698,
+      "source": "github"
+    },
+    {
+      "title": "qodo-ai/qodo-cover",
+      "url": "https://github.com/qodo-ai/qodo-cover",
+      "description": "Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞",
+      "stars": 5347,
+      "source": "github"
+    },
+    {
+      "title": "cglib/cglib",
+      "url": "https://github.com/cglib/cglib",
+      "description": "cglib - Byte Code Generation Library is high level API to generate and transform Java byte code. It is used by AOP, testing, data access frameworks to generate dynamic proxy objects and intercept field access.",
+      "stars": 4894,
+      "source": "github"
+    },
+    {
+      "title": "tyxsspa/AnyText",
+      "url": "https://github.com/tyxsspa/AnyText",
+      "description": "Official implementation code of the paper <AnyText: Multilingual Visual Text Generation And Editing>",
+      "stars": 4846,
+      "source": "github"
+    },
+    {
+      "title": "Expensify/App",
+      "url": "https://github.com/Expensify/App",
+      "description": "Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.",
+      "stars": 4786,
+      "source": "github"
+    },
+    {
+      "title": "asmjit/asmjit",
+      "url": "https://github.com/asmjit/asmjit",
+      "description": "Low-latency machine code generation",
+      "stars": 4472,
+      "source": "github"
+    },
+    {
+      "title": "theintern/intern",
+      "url": "https://github.com/theintern/intern",
+      "description": "A next-generation code testing stack for JavaScript.",
+      "stars": 4348,
+      "source": "github"
+    },
+    {
+      "title": "joanrod/star-vector",
+      "url": "https://github.com/joanrod/star-vector",
+      "description": "StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textual inputs to produce high-quality SVG code with remarkable precision.",
+      "stars": 4328,
+      "source": "github"
+    },
+    {
+      "title": "going-doer/Paper2Code",
+      "url": "https://github.com/going-doer/Paper2Code",
+      "description": "Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning",
+      "stars": 4292,
+      "source": "github"
+    },
+    {
+      "title": "zyantific/zydis",
+      "url": "https://github.com/zyantific/zydis",
+      "description": "Fast and lightweight x86/x86-64 disassembler and code generation library",
+      "stars": 4152,
+      "source": "github"
+    },
+    {
+      "title": "Codium-ai/AlphaCodium",
+      "url": "https://github.com/Codium-ai/AlphaCodium",
+      "description": "Official implementation for the paper: \"Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering\"\"",
+      "stars": 3927,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.327,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.286,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

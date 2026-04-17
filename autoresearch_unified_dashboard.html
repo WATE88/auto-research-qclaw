@@ -1,0 +1,1064 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>AutoResearch · 统一监控中心 v2.0</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<style>
+:root{
+  --bg:#060b14;--surface:#0d1520;--surface2:#111e30;--surface3:#162540;
+  --border:#1e3050;--accent:#3b82f6;--accent2:#8b5cf6;--accent3:#10b981;
+  --warn:#f59e0b;--danger:#ef4444;--text:#e2e8f0;--muted:#64748b;
+  --green:#10b981;--blue:#3b82f6;--purple:#8b5cf6;--orange:#f97316;
+  --pink:#ec4899;--cyan:#06b6d4;--yellow:#eab308;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{height:100vh;overflow:hidden;font-family:'Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(--text)}
+
+/* ── TOPBAR ── */
+.topbar{
+  height:48px;display:flex;align-items:center;justify-content:space-between;
+  padding:0 18px;background:var(--surface);border-bottom:2px solid var(--border);
+  flex-shrink:0;
+}
+.brand{display:flex;align-items:center;gap:10px}
+.brand-logo{
+  width:32px;height:32px;border-radius:8px;
+  background:linear-gradient(135deg,var(--blue),var(--purple));
+  display:flex;align-items:center;justify-content:center;font-size:16px;font-weight:700;
+}
+.brand-title{font-size:16px;font-weight:700;letter-spacing:.5px}
+.brand-ver{font-size:10px;color:var(--muted);margin-top:1px}
+.topbar-center{display:flex;gap:20px}
+.sys-stat{display:flex;align-items:center;gap:6px;font-size:12px}
+.sys-stat .lbl{color:var(--muted)}
+.sys-stat .val{font-weight:600;font-variant-numeric:tabular-nums}
+.topbar-right{display:flex;align-items:center;gap:12px}
+.badge{display:flex;align-items:center;gap:5px;padding:4px 10px;border-radius:12px;font-size:11px;font-weight:600}
+.badge-green{background:rgba(16,185,129,.12);border:1px solid rgba(16,185,129,.3);color:var(--green)}
+.badge-blue{background:rgba(59,130,246,.12);border:1px solid rgba(59,130,246,.3);color:var(--blue)}
+.badge-purple{background:rgba(139,92,246,.12);border:1px solid rgba(139,92,246,.3);color:var(--purple)}
+.dot{width:6px;height:6px;border-radius:50%;animation:pulse 1.4s infinite}
+.dot-green{background:var(--green)}
+.dot-blue{background:var(--blue)}
+.dot-purple{background:var(--purple)}
+@keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.4;transform:scale(.75)}}
+.clock{font-size:11px;color:var(--muted);font-variant-numeric:tabular-nums}
+
+/* ── GLOBAL STATS ROW ── */
+.stats-row{
+  height:70px;display:flex;gap:10px;padding:8px 18px;flex-shrink:0;
+  border-bottom:1px solid var(--border);background:rgba(13,21,32,.6);
+}
+.sc{
+  flex:1;background:var(--surface);border:1px solid var(--border);border-radius:8px;
+  padding:8px 12px;display:flex;flex-direction:column;justify-content:center;
+}
+.sc-lbl{font-size:9px;color:var(--muted);text-transform:uppercase;letter-spacing:.8px;margin-bottom:3px}
+.sc-val{font-size:20px;font-weight:700;font-variant-numeric:tabular-nums;line-height:1}
+.sc-sub{font-size:9px;margin-top:2px}
+.c-blue{color:var(--blue)} .c-green{color:var(--green)} .c-purple{color:var(--purple)}
+.c-orange{color:var(--orange)} .c-cyan{color:var(--cyan)} .c-yellow{color:var(--yellow)}
+.c-pink{color:var(--pink)}
+
+/* ── MAIN SPLIT ── */
+.main{
+  flex:1;display:grid;grid-template-columns:1fr 1px 1fr;
+  overflow:hidden;min-height:0;
+}
+.divider{background:var(--border)}
+
+/* ── SYSTEM PANEL ── */
+.sys-panel{display:flex;flex-direction:column;overflow:hidden;min-height:0}
+.sys-header{
+  height:36px;display:flex;align-items:center;justify-content:space-between;
+  padding:0 14px;background:var(--surface2);border-bottom:1px solid var(--border);flex-shrink:0;
+}
+.sys-title{font-size:12px;font-weight:700;display:flex;align-items:center;gap:6px}
+.sys-status{font-size:10px;padding:2px 8px;border-radius:6px;font-weight:600}
+.sys-content{flex:1;display:grid;overflow:hidden;min-height:0;padding:10px;gap:8px}
+
+/* ── PANELS ── */
+.panel{background:var(--surface);border:1px solid var(--border);border-radius:8px;display:flex;flex-direction:column;overflow:hidden;min-height:0}
+.ph{
+  height:30px;display:flex;align-items:center;justify-content:space-between;
+  padding:0 10px;background:var(--surface2);border-bottom:1px solid var(--border);flex-shrink:0;
+}
+.ph-title{font-size:11px;font-weight:600;color:var(--text)}
+.ph-badge{font-size:9px;padding:1px 6px;border-radius:5px;font-weight:600;background:rgba(59,130,246,.15);color:var(--blue);border:1px solid rgba(59,130,246,.25)}
+.pb{flex:1;position:relative;overflow:hidden;padding:6px}
+
+/* 进化系统布局 */
+.evolve-grid{grid-template-rows:1fr 1fr 120px;grid-template-columns:1fr 1fr}
+.e-chart1{grid-column:1/2;grid-row:1/2}
+.e-chart2{grid-column:2/3;grid-row:1/2}
+.e-table{grid-column:1/3;grid-row:2/3}
+.e-log{grid-column:1/3;grid-row:3/4}
+
+/* 自动运行系统布局 */
+.autorun-grid{grid-template-rows:1fr 120px 120px;grid-template-columns:1fr 1fr}
+.a-chart1{grid-column:1/2;grid-row:1/2}
+.a-chart2{grid-column:2/3;grid-row:1/2}
+.a-tasks{grid-column:1/3;grid-row:2/3}
+.a-log{grid-column:1/3;grid-row:3/4}
+
+/* ── 候选表格 ── */
+.gen-table{width:100%;border-collapse:collapse;font-size:11px}
+.gen-table th{padding:4px 8px;text-align:left;color:var(--muted);font-weight:500;border-bottom:1px solid var(--border);font-size:10px;text-transform:uppercase;letter-spacing:.4px}
+.gen-table td{padding:4px 8px;border-bottom:1px solid rgba(30,48,80,.5);vertical-align:middle}
+.gen-table tr:hover td{background:rgba(59,130,246,.05)}
+
+/* ── 任务卡 ── */
+.task-list{display:flex;flex-direction:column;gap:5px;padding:4px;overflow-y:auto;height:100%}
+.task-card{background:var(--surface2);border:1px solid var(--border);border-radius:6px;padding:6px 8px}
+.task-header{display:flex;align-items:center;justify-content:space-between;margin-bottom:4px}
+.task-name{font-size:11px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:60%}
+.task-meta{display:flex;gap:8px;font-size:10px;color:var(--muted)}
+.progress-bar{height:3px;background:rgba(59,130,246,.1);border-radius:2px;overflow:hidden}
+.progress-fill{height:100%;border-radius:2px;transition:width .5s ease;background:linear-gradient(90deg,var(--blue),var(--purple))}
+.status-badge{font-size:9px;padding:1px 6px;border-radius:4px;font-weight:600}
+.s-running{background:rgba(59,130,246,.15);color:var(--blue);border:1px solid rgba(59,130,246,.3)}
+.s-completed{background:rgba(16,185,129,.15);color:var(--green);border:1px solid rgba(16,185,129,.3)}
+.s-pending{background:rgba(100,116,139,.15);color:var(--muted);border:1px solid rgba(100,116,139,.3)}
+.s-failed{background:rgba(239,68,68,.15);color:var(--danger);border:1px solid rgba(239,68,68,.3)}
+
+/* ── 日志 ── */
+.log-box{height:100%;overflow-y:auto;font-size:10px;font-family:'Consolas','Courier New',monospace;padding:4px;background:rgba(6,11,20,.6);border-radius:4px}
+.log-line{padding:1px 0;border-bottom:1px solid rgba(30,48,80,.3);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.log-info{color:#94a3b8} .log-win{color:var(--green)} .log-warn{color:var(--warn)} .log-err{color:var(--danger)} .log-gen{color:var(--blue)}
+::-webkit-scrollbar{width:4px;height:4px}
+::-webkit-scrollbar-track{background:transparent}
+::-webkit-scrollbar-thumb{background:var(--border);border-radius:2px}
+
+/* ── 进化基因展示 ── */
+.genome-grid{display:grid;grid-template-columns:1fr 1fr;gap:4px;font-size:10px;padding:4px;overflow-y:auto;height:100%}
+.gene-item{background:var(--surface2);border:1px solid var(--border);border-radius:4px;padding:4px 6px;display:flex;justify-content:space-between;align-items:center}
+.gene-key{color:var(--muted)}
+.gene-val{font-weight:600;color:var(--cyan);font-variant-numeric:tabular-nums}
+</style>
+</head>
+<body>
+
+<!-- ── TOPBAR ── -->
+<div class="topbar">
+  <div class="brand">
+    <div class="brand-logo">AR</div>
+    <div>
+      <div class="brand-title">AutoResearch 统一监控中心</div>
+      <div class="brand-ver">v2.0 · 进化引擎 + 自动运行引擎</div>
+    </div>
+  </div>
+  <div class="topbar-center">
+    <div class="sys-stat"><span class="lbl">CPU</span><span class="val c-orange" id="g-cpu">—</span></div>
+    <div class="sys-stat"><span class="lbl">内存</span><span class="val c-cyan" id="g-mem">—</span></div>
+    <div class="sys-stat"><span class="lbl">WS</span><span class="val" id="g-ws-status" style="color:var(--muted)">连接中</span></div>
+  </div>
+  <div class="topbar-right">
+    <div class="badge badge-purple"><div class="dot dot-purple"></div><span>进化引擎</span><span id="evolve-status-badge">启动中</span></div>
+    <div class="badge badge-blue"><div class="dot dot-blue"></div><span>自动运行</span><span id="autorun-status-badge">启动中</span></div>
+    <!-- ── 新功能按钮 ── -->
+    <button id="notifyTestBtn" onclick="testNotify()" title="测试桌面通知推送"
+      style="font-size:10px;padding:4px 10px;border-radius:6px;border:1px solid rgba(139,92,246,.4);background:rgba(139,92,246,.12);color:#a78bfa;cursor:pointer;transition:.2s">
+      🔔 测试桌面通知
+    </button>
+    <button id="parallelBenchBtn" onclick="runParallelBench()" title="对比串行BO vs KB并行BO速度"
+      style="font-size:10px;padding:4px 10px;border-radius:6px;border:1px solid rgba(59,130,246,.4);background:rgba(59,130,246,.12);color:#60a5fa;cursor:pointer;transition:.2s">
+      ⚡ 并行基准测试
+    </button>
+    <button id="bohbBenchBtn" onclick="runBOHBBench()" title="BOHB多保真度BO vs 随机搜索"
+      style="font-size:10px;padding:4px 10px;border-radius:6px;border:1px solid rgba(245,158,11,.4);background:rgba(245,158,11,.08);color:#fbbf24;cursor:pointer;transition:.2s">
+      🚀 BOHB基准
+    </button>
+    <button id="warmstartBtn" onclick="testWarmStart()" title="LLM辅助暖启动测试"
+      style="font-size:10px;padding:4px 10px;border-radius:6px;border:1px solid rgba(16,185,129,.4);background:rgba(16,185,129,.08);color:#34d399;cursor:pointer;transition:.2s">
+      🧠 暖启动测试
+    </button>
+    <button id="pbtBenchBtn" onclick="runPBTBench()" title="PBT-ASHA早停 vs 全量搜索"
+      style="font-size:10px;padding:4px 10px;border-radius:6px;border:1px solid rgba(239,68,68,.4);background:rgba(239,68,68,.08);color:#f87171;cursor:pointer;transition:.2s">
+      ✂️ PBT早停测试</button>
+    <a href="/v2" target="_blank" style="font-size:10px;padding:4px 10px;border-radius:6px;border:1px solid rgba(16,185,129,.4);background:rgba(16,185,129,.1);color:#34d399;cursor:pointer;text-decoration:none;display:inline-flex;align-items:center;gap:4px">
+      📊 增强分析 V2
+    </a>
+    </button>
+    <button id="leaderboardBtn" onclick="showLeaderboard()" title="实验排行榜"
+      style="font-size:10px;padding:4px 10px;border-radius:6px;border:1px solid rgba(34,197,94,.4);background:rgba(34,197,94,.08);color:#4ade80;cursor:pointer;transition:.2s">
+      🏆 实验排行榜
+    </button>
+    <button id="importanceBtn" onclick="showImportance()" title="超参数重要性分析"
+      style="font-size:10px;padding:4px 10px;border-radius:6px;border:1px solid rgba(168,85,247,.4);background:rgba(168,85,247,.08);color:#c084fc;cursor:pointer;transition:.2s">
+      📊 参数重要性
+    </button>
+    <button id="driftBtn" onclick="showDriftStatus()" title="模型漂移检测状态"
+      style="font-size:10px;padding:4px 10px;border-radius:6px;border:1px solid rgba(251,146,60,.4);background:rgba(251,146,60,.08);color:#fb923c;cursor:pointer;transition:.2s">
+      🔭 漂移检测
+    </button>
+    <div class="clock" id="clock">—</div>
+  </div>
+</div>
+
+<!-- 通知状态提示条 -->
+<div id="notifyStatus" style="display:none;text-align:center;padding:6px;font-size:11px;background:rgba(34,197,94,.08);border-bottom:1px solid rgba(34,197,94,.2)"></div>
+
+<!-- 并行测试结果区 -->
+<div id="parallelBenchResult" style="display:none;margin:0 16px 8px;padding:12px;background:rgba(15,23,42,.6);border:1px solid rgba(59,130,246,.2);border-radius:8px;font-size:11px"></div>
+
+<!-- ── GLOBAL STATS ── -->
+<div class="stats-row">
+  <div class="sc"><div class="sc-lbl">进化代数</div><div class="sc-val c-purple" id="s-gen">0</div><div class="sc-sub c-muted">当前第N代</div></div>
+  <div class="sc"><div class="sc-lbl">全局最优</div><div class="sc-val c-green" id="s-best">0.0000</div><div class="sc-sub" id="s-best-sub">进化得分</div></div>
+  <div class="sc"><div class="sc-lbl">累计提升</div><div class="sc-val c-yellow" id="s-improvements">0</div><div class="sc-sub c-muted">进化次数</div></div>
+  <div class="sc"><div class="sc-lbl">运行任务</div><div class="sc-val c-blue" id="s-running">0</div><div class="sc-sub c-muted">自动运行中</div></div>
+  <div class="sc"><div class="sc-lbl">完成任务</div><div class="sc-val c-cyan" id="s-completed">0</div><div class="sc-sub c-muted">累计完成</div></div>
+  <div class="sc"><div class="sc-lbl">候选评估</div><div class="sc-val c-orange" id="s-candidates">0</div><div class="sc-sub c-muted">基因组数</div></div>
+  <div class="sc"><div class="sc-lbl">活跃策略</div><div class="sc-val c-pink" id="s-strategy">EI</div><div class="sc-sub c-muted">采集函数</div></div>
+  <div class="sc"><div class="sc-lbl">种群多样性</div><div class="sc-val c-blue" id="s-diversity">0.000</div><div class="sc-sub c-muted">基因距离</div></div>
+</div>
+
+<!-- ── MAIN SPLIT ── -->
+<div class="main">
+
+  <!-- ══ 左：自主进化系统 ══ -->
+  <div class="sys-panel">
+    <div class="sys-header">
+      <div class="sys-title">
+        <span style="color:var(--purple)">🧬</span>
+        自主进化系统
+        <span style="font-size:10px;color:var(--muted);font-weight:400">· 遗传算法 + 贝叶斯优化 · 端口8900/引擎内嵌</span>
+      </div>
+      <div class="sys-status badge-purple" id="evolve-sys-status" style="padding:2px 8px;border-radius:6px;font-size:10px;font-weight:600;background:rgba(139,92,246,.15);color:var(--purple);border:1px solid rgba(139,92,246,.3)">
+        等待启动
+      </div>
+    </div>
+    <div class="sys-content evolve-grid">
+
+      <!-- 进化曲线 -->
+      <div class="panel e-chart1">
+        <div class="ph"><div class="ph-title">历代进化曲线</div><div class="ph-badge" id="e-gen-badge">Gen 0</div></div>
+        <div class="pb"><canvas id="evolveChart"></canvas></div>
+      </div>
+
+      <!-- 策略分布 -->
+      <div class="panel e-chart2">
+        <div class="ph"><div class="ph-title">突变策略分布</div><div class="ph-badge" id="e-strat-badge">—</div></div>
+        <div class="pb"><canvas id="strategyChart"></canvas></div>
+      </div>
+
+      <!-- 候选方案表 -->
+      <div class="panel e-table">
+        <div class="ph"><div class="ph-title">候选基因组评估</div><div class="ph-badge" id="e-cand-badge">0 个</div></div>
+        <div class="pb" style="padding:0;overflow-y:auto">
+          <table class="gen-table">
+            <thead><tr><th>代</th><th>策略</th><th>得分</th><th>状态</th><th>活跃基因组参数</th></tr></thead>
+            <tbody id="cand-tbody"></tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- 进化日志 -->
+      <div class="panel e-log">
+        <div class="ph"><div class="ph-title">进化日志</div><div class="ph-badge">实时</div></div>
+        <div class="pb" style="padding:0">
+          <div class="log-box" id="evolve-log"></div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- ══ 右：自动运行系统 ══ -->
+  <div class="sys-panel">
+    <div class="sys-header">
+      <div class="sys-title">
+        <span style="color:var(--blue)">⚡</span>
+        自动运行引擎
+        <span style="font-size:10px;color:var(--muted);font-weight:400">· 贝叶斯超参优化 · 并发调度 · 实时监控</span>
+      </div>
+      <div class="sys-status" id="autorun-sys-status" style="padding:2px 8px;border-radius:6px;font-size:10px;font-weight:600;background:rgba(59,130,246,.15);color:var(--blue);border:1px solid rgba(59,130,246,.3)">
+        等待启动
+      </div>
+    </div>
+    <div class="sys-content autorun-grid">
+
+      <!-- CPU/内存图 -->
+      <div class="panel a-chart1">
+        <div class="ph"><div class="ph-title">系统资源（真实）</div><div class="ph-badge" id="a-res-badge">CPU/内存</div></div>
+        <div class="pb"><canvas id="resourceChart"></canvas></div>
+      </div>
+
+      <!-- 跨轮次改进趋势图（新增）-->
+      <div class="panel a-chart2">
+        <div class="ph"><div class="ph-title">任务跨轮次改进趋势</div><div class="ph-badge" id="a-score-badge">进化闭环</div></div>
+        <div class="pb"><canvas id="scoreChart"></canvas></div>
+      </div>
+
+      <!-- 任务列表 -->
+      <div class="panel a-tasks">
+        <div class="ph">
+          <div class="ph-title">优化任务列表</div>
+          <div style="display:flex;gap:6px;align-items:center">
+            <span style="font-size:10px;color:var(--muted)" id="genome-tag-badge">基因组: default</span>
+            <div class="ph-badge" id="a-task-badge">0 个</div>
+          </div>
+        </div>
+        <div class="pb" style="padding:0">
+          <div class="task-list" id="task-list"></div>
+        </div>
+      </div>
+
+      <!-- 运行日志 -->
+      <div class="panel a-log">
+        <div class="ph"><div class="ph-title">任务日志</div><div class="ph-badge">实时</div></div>
+        <div class="pb" style="padding:0">
+          <div class="log-box" id="autorun-log"></div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<script>
+// ── 图表配置 ─────────────────────────────────────────────────────────────────
+
+const DARK = {
+  tick: '#64748b', grid: 'rgba(30,48,80,.6)', bg: 'transparent'
+};
+
+function mkChart(id, type, datasets, labels, opts={}) {
+  const ctx = document.getElementById(id).getContext('2d');
+  return new Chart(ctx, {
+    type,
+    data: { labels: labels || [], datasets },
+    options: {
+      responsive: true, maintainAspectRatio: false, animation: { duration: 300 },
+      plugins: { legend: { display: opts.legend ?? false, labels: { color: '#94a3b8', font: { size: 10 }, boxWidth: 10, padding: 8 } } },
+      scales: type === 'doughnut' ? {} : {
+        x: { ticks: { color: DARK.tick, font: { size: 9 }, maxRotation: 0, maxTicksLimit: 8 }, grid: { color: DARK.grid } },
+        y: { ticks: { color: DARK.tick, font: { size: 9 } }, grid: { color: DARK.grid },
+             ...(opts.y || {}) }
+      },
+      ...opts.extra
+    }
+  });
+}
+
+// 进化曲线（最优得分 + 平均得分）
+const evolveChart = mkChart('evolveChart', 'line', [
+  { label: '最优得分', data: [], borderColor: '#8b5cf6', backgroundColor: 'rgba(139,92,246,.08)', borderWidth: 2, tension: 0.4, pointRadius: 2, fill: true },
+  { label: '平均得分', data: [], borderColor: '#3b82f6', backgroundColor: 'transparent', borderWidth: 1.5, tension: 0.4, pointRadius: 1, borderDash: [4,3] },
+  { label: '多样性', data: [], borderColor: '#f97316', backgroundColor: 'transparent', borderWidth: 1.5, tension: 0.4, pointRadius: 1, borderDash: [2,4] },
+], [], { legend: true, y: { min: 0, max: 1.05 } });
+
+// 策略分布（甜甜圈）
+const strategyChart = mkChart('strategyChart', 'doughnut', [
+  { data: [], backgroundColor: ['#3b82f6','#8b5cf6','#10b981','#f97316','#ec4899','#06b6d4','#eab308','#ef4444','#64748b','#a78bfa','#34d399','#fb923c','#f472b6'] }
+], [], { legend: true });
+
+// 资源图表
+const resourceChart = mkChart('resourceChart', 'line', [
+  { label: 'CPU%', data: [], borderColor: '#f97316', backgroundColor: 'rgba(249,115,22,.08)', borderWidth: 2, tension: 0.4, pointRadius: 1.5, fill: true },
+  { label: '内存%', data: [], borderColor: '#06b6d4', backgroundColor: 'rgba(6,182,212,.06)', borderWidth: 1.5, tension: 0.4, pointRadius: 1, fill: true },
+], [], { legend: true, y: { min: 0, max: 100 } });
+
+// 任务跨轮次改进趋势图（每条线=一个任务名，x=轮次标签，y=最优得分）
+const scoreChart = mkChart('scoreChart', 'line', [], [],
+  { legend: true, y: {} });
+
+// ── 辅助函数 ─────────────────────────────────────────────────────────────────
+
+function pushRolling(chart, dsIdx, label, value, maxPts = 60) {
+  if (dsIdx === 0) {
+    chart.data.labels.push(label);
+    if (chart.data.labels.length > maxPts) chart.data.labels.shift();
+  }
+  chart.data.datasets[dsIdx].data.push(value);
+  if (chart.data.datasets[dsIdx].data.length > maxPts) chart.data.datasets[dsIdx].data.shift();
+}
+
+function timeLabel() {
+  return new Date().toLocaleTimeString('zh-CN',{hour12:false,hour:'2-digit',minute:'2-digit',second:'2-digit'});
+}
+
+function el(id) { return document.getElementById(id); }
+function setText(id, v) { const e = el(id); if (e) e.textContent = v; }
+
+// ── 时钟 ─────────────────────────────────────────────────────────────────────
+setInterval(() => { el('clock').textContent = new Date().toLocaleString('zh-CN', {hour12:false}); }, 1000);
+
+// ── 数据更新 ─────────────────────────────────────────────────────────────────
+
+let _lastEvolveGen = -1;
+let _evolveGenLabels = [];
+let _resourceLabels = [];
+
+function updateAll(data) {
+  const sys = data.system || {};
+  const evo = data.evolve || {};
+  const aut = data.autorun || {};
+
+  // 全局系统指标
+  setText('g-cpu', (sys.cpu ?? '—') + '%');
+  setText('g-mem', (sys.mem ?? '—') + '%');
+
+  // 全局统计卡
+  const live = evo.live || {};
+  const evSummary = evo.summary || {};
+  setText('s-gen', live.current_gen ?? evSummary.current_gen ?? 0);
+  setText('s-best', ((live.best_score ?? evSummary.global_best ?? 0)).toFixed(4));
+  setText('s-improvements', live.total_improvements ?? 0);
+  setText('s-candidates', live.total_candidates ?? evSummary.total_candidates ?? 0);
+
+  // 策略
+  const genome = live.active_genome || {};
+  setText('s-strategy', genome.acquisition || 'EI');
+  setText('s-diversity', '—');
+
+  // 自动运行统计
+  const autSummary = aut.summary || {};
+  setText('s-running', autSummary.running ?? 0);
+  setText('s-completed', autSummary.completed ?? 0);
+
+  // 进化系统状态
+  const evoStatus = evo.status;
+  const evoSysEl = el('evolve-sys-status');
+  const evoBadge = el('evolve-status-badge');
+  if (evoStatus === 'running') {
+    evoSysEl.textContent = '运行中 ●';
+    evoSysEl.style.color = 'var(--green)';
+    evoSysEl.style.borderColor = 'rgba(16,185,129,.3)';
+    evoSysEl.style.background = 'rgba(16,185,129,.12)';
+    if (evoBadge) evoBadge.textContent = '运行中';
+  } else if (evoStatus === 'waiting') {
+    evoSysEl.textContent = '初始化中…';
+  } else if (evoStatus === 'stopped') {
+    evoSysEl.textContent = '已停止';
+    evoSysEl.style.color = 'var(--danger)';
+  }
+
+  // 自动运行状态
+  const autStatus = aut.status;
+  const autSysEl = el('autorun-sys-status');
+  const autBadge = el('autorun-status-badge');
+  if (autStatus === 'running') {
+    autSysEl.textContent = '运行中 ●';
+    autSysEl.style.color = 'var(--green)';
+    autSysEl.style.borderColor = 'rgba(16,185,129,.3)';
+    autSysEl.style.background = 'rgba(16,185,129,.12)';
+    if (autBadge) autBadge.textContent = '运行中';
+  }
+
+  // ── 进化曲线 ──
+  const bestCurve = evo.best_curve || [];
+  if (bestCurve.length > 0) {
+    const lastGen = bestCurve[bestCurve.length - 1].generation;
+    if (lastGen !== _lastEvolveGen) {
+      // 重建进化图表数据
+      const labels = bestCurve.map(r => 'G' + r.generation);
+      const bestScores = bestCurve.map(r => r.best_score || 0);
+      const avgScores = bestCurve.map(r => r.avg_score || 0);
+      const divScores = bestCurve.map(r => r.diversity || 0);
+
+      evolveChart.data.labels = labels;
+      evolveChart.data.datasets[0].data = bestScores;
+      evolveChart.data.datasets[1].data = avgScores;
+      evolveChart.data.datasets[2].data = divScores;
+      evolveChart.update('none');
+
+      el('e-gen-badge').textContent = 'Gen ' + lastGen;
+      _lastEvolveGen = lastGen;
+
+      // 多样性更新
+      const lastMetric = bestCurve[bestCurve.length - 1];
+      if (lastMetric.diversity != null) setText('s-diversity', lastMetric.diversity.toFixed(3));
+    }
+  }
+
+  // ── 策略分布图 ──
+  const stratDist = evo.strategy_dist || [];
+  if (stratDist.length > 0) {
+    strategyChart.data.labels = stratDist.map(s => s.strategy_name.replace('switch_to_','→').replace('_',' '));
+    strategyChart.data.datasets[0].data = stratDist.map(s => s.cnt);
+    strategyChart.update('none');
+    el('e-strat-badge').textContent = stratDist[0]?.strategy_name || '—';
+  }
+
+  // ── 候选表格 ──
+  const candidates = evo.candidates || [];
+  el('e-cand-badge').textContent = candidates.length + ' 个';
+  const tbody = el('cand-tbody');
+  tbody.innerHTML = '';
+  const recent = candidates.slice(0, 15);
+  const activeGenome = live.active_genome || {};
+  recent.forEach(c => {
+    const isWinner = c.is_winner;
+    const score = c.score || 0;
+    const tr = document.createElement('tr');
+    tr.innerHTML = `
+      <td style="color:var(--muted);font-size:10px">${c.generation ?? '-'}</td>
+      <td style="max-width:120px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:10px;color:${isWinner?'var(--yellow)':'var(--text)'}">${c.strategy_name || '-'}</td>
+      <td style="color:${score>0.8?'var(--green)':score>0.6?'var(--blue)':'var(--muted)'};font-variant-numeric:tabular-nums">${score.toFixed(4)}</td>
+      <td>${isWinner ? '<span style="font-size:9px;padding:1px 5px;border-radius:3px;background:rgba(234,179,8,.15);color:var(--yellow);border:1px solid rgba(234,179,8,.3)">★ 胜出</span>' : '<span style="font-size:9px;color:var(--muted)">评估</span>'}</td>
+      <td style="font-size:9px;color:var(--cyan);font-variant-numeric:tabular-nums">${Object.keys(activeGenome).length > 0 && c.is_winner ? `κ=${(activeGenome.ucb_kappa||0).toFixed(2)} ξ=${(activeGenome.ei_xi||0).toFixed(4)} ls=${(activeGenome.length_scale||0).toFixed(2)}` : '-'}</td>
+    `;
+    tbody.appendChild(tr);
+  });
+
+  // ── 进化日志 ──
+  const evoLogs = (live.recent_logs || []).concat(
+    (evo.logs || []).map(l => `[${(l.ts||'').slice(11,19)}][${l.level}] ${l.msg}`)
+  );
+  const evolveLogEl = el('evolve-log');
+  if (evoLogs.length > 0) {
+    evolveLogEl.innerHTML = evoLogs.slice(-40).map(line => {
+      let cls = 'log-info';
+      if (line.includes('WIN') || line.includes('★') || line.includes('最佳')) cls = 'log-win';
+      else if (line.includes('GEN') || line.includes('第') || line.includes('═══')) cls = 'log-gen';
+      else if (line.includes('WARN') || line.includes('警告')) cls = 'log-warn';
+      else if (line.includes('ERR') || line.includes('错误')) cls = 'log-err';
+      return `<div class="log-line ${cls}">${line}</div>`;
+    }).join('');
+    evolveLogEl.scrollTop = evolveLogEl.scrollHeight;
+  }
+
+  // ── 资源图表（滚动推送，真实 CPU/内存）──
+  const tl = timeLabel();
+  pushRolling(resourceChart, 0, tl, sys.cpu ?? 0, 60);
+  pushRolling(resourceChart, 1, null, sys.mem ?? 0, 60);
+  resourceChart.update('none');
+
+  // ── 得分图表（旧 autMetrics 已移除，改用跨轮次图）──
+  const autMetrics = aut.metrics || [];
+  // ── 汇总徽章 ──
+  const sum = aut.summary || {};
+  const completedCount = sum.completed_count ?? sum.completed ?? 0;
+  el('a-task-badge').textContent = (aut.tasks || []).length + ' 个';
+  if (sum.current_genome_tag) {
+    el('genome-tag-badge').textContent = '基因组: ' + sum.current_genome_tag;
+  }
+
+  // ── 资源徽章（真实值）──
+  const cpuVal = sum.cpu ?? 0;
+  const memVal = sum.mem ?? 0;
+  el('a-res-badge').textContent = cpuVal < 0
+    ? 'psutil未安装'
+    : `CPU ${cpuVal.toFixed(1)}% | 内存 ${memVal.toFixed(1)}%`;
+
+  // ── Learning Score ──
+  const ls = sum.learning_score ?? 0;
+  el('a-score-badge').textContent = `学习分: ${(ls * 100).toFixed(1)}%  已完成: ${completedCount}`;
+
+  // ── 跨轮次改进趋势图 ──
+  const roundHistory = aut.round_history || [];
+  if (roundHistory.length > 0) {
+    // 按任务名分组
+    const byName = {};
+    roundHistory.forEach(r => {
+      if (!byName[r.task_name]) byName[r.task_name] = [];
+      byName[r.task_name].push(r);
+    });
+    const colors = ['#3b82f6','#22c55e','#f59e0b','#a855f7','#ef4444','#06b6d4'];
+    // x轴标签：取最大轮次数
+    const maxRound = Math.max(...roundHistory.map(r => r.run_round || 0));
+    const xLabels = Array.from({length: maxRound + 1}, (_, i) => `轮${i}`);
+    scoreChart.data.labels = xLabels;
+    scoreChart.data.datasets = Object.entries(byName).slice(0, 6).map(([name, rounds], i) => {
+      const pts = new Array(maxRound + 1).fill(null);
+      rounds.forEach(r => { if (r.run_round <= maxRound) pts[r.run_round] = r.best_score; });
+      return {
+        label: name.length > 8 ? name.slice(0, 8) + '…' : name,
+        data: pts,
+        borderColor: colors[i % colors.length],
+        backgroundColor: colors[i % colors.length] + '22',
+        tension: 0.3,
+        pointRadius: 3,
+        spanGaps: true,
+      };
+    });
+    scoreChart.update('none');
+  }
+
+  // ── 任务列表 ──
+  const tasks = aut.tasks || [];
+  taskList.innerHTML = '';
+  tasks.forEach(t => {
+    const statusMap = {running:'s-running', completed:'s-completed', pending:'s-pending', failed:'s-failed', paused:'s-stag'};
+    const labelMap  = {running:'运行中', completed:'已完成', pending:'等待', failed:'失败', paused:'已暂停'};
+    const statusClass = statusMap[t.status] || 's-pending';
+    const statusLabel = labelMap[t.status] || t.status;
+    const impr = t.improvement_pct ?? 0;
+    const imprColor = impr > 0 ? 'var(--green)' : impr < 0 ? 'var(--red)' : 'var(--muted)';
+    const imprText  = impr !== 0 ? (impr > 0 ? `▲${impr.toFixed(1)}%` : `▼${Math.abs(impr).toFixed(1)}%`) : '—';
+    const roundBadge = (t.run_round ?? 0) > 0 ? `<span style="font-size:9px;color:var(--muted);margin-left:3px">轮${t.run_round}</span>` : '';
+    const genomeTag = t.genome_tag && t.genome_tag !== 'default'
+      ? `<span style="font-size:9px;color:var(--blue);margin-left:4px">[${t.genome_tag}]</span>` : '';
+    let actionBtn = '';
+    if (t.status === 'running') {
+      actionBtn = `<button onclick="pauseTask('${t.task_id}')" style="font-size:9px;padding:1px 5px;border-radius:3px;background:rgba(251,191,36,.15);color:var(--yellow);border:1px solid rgba(251,191,36,.3);cursor:pointer;margin-left:4px">⏸</button>`;
+    } else if (t.status === 'paused') {
+      actionBtn = `<button onclick="resumeTask('${t.task_id}')" style="font-size:9px;padding:1px 5px;border-radius:3px;background:rgba(34,197,94,.15);color:var(--green);border:1px solid rgba(34,197,94,.3);cursor:pointer;margin-left:4px">▶</button>`;
+    } else if (t.status === 'completed') {
+      actionBtn = `<button onclick="restartTask('${t.task_id}')" style="font-size:9px;padding:1px 5px;border-radius:3px;background:rgba(59,130,246,.15);color:var(--blue);border:1px solid rgba(59,130,246,.3);cursor:pointer;margin-left:4px">↺</button>`;
+    }
+    const div = document.createElement('div');
+    div.className = 'task-card';
+    div.innerHTML = `
+      <div class="task-header">
+        <div class="task-name" title="${t.name}">${t.name}${roundBadge}${genomeTag}</div>
+        <div style="display:flex;align-items:center">
+          <span style="font-size:10px;color:${imprColor};margin-right:4px">${imprText}</span>
+          <span class="status-badge ${statusClass}">${statusLabel}</span>
+          ${actionBtn}
+        </div>
+      </div>
+      <div class="progress-bar"><div class="progress-fill" style="width:${t.progress||0}%"></div></div>
+      <div class="task-meta" style="margin-top:4px">
+        <span>进度 ${(t.progress||0).toFixed(0)}%</span>
+        <span>迭代 ${t.iterations}/${t.max_iterations}</span>
+        <span style="color:var(--green)">最优 ${(t.best_score||0).toFixed(4)}</span>
+        <span style="color:var(--muted)">${t.strategy||'EI'}</span>
+      </div>
+    `;
+    taskList.appendChild(div);
+  });
+
+  // ── 任务日志 ──
+  const autLogs = [];
+  tasks.forEach(t => {
+    (t.log || []).forEach(line => autLogs.push(`[${t.name.slice(0,8)}] ${line}`));
+  });
+  const autLogEl = el('autorun-log');
+  if (autLogs.length > 0) {
+    autLogEl.innerHTML = autLogs.slice(-30).map(line => {
+      let cls = 'log-info';
+      if (line.includes('最优') || line.includes('完成') || line.includes('✓')) cls = 'log-win';
+      else if (line.includes('启动') || line.includes('开始')) cls = 'log-gen';
+      else if (line.includes('错误')) cls = 'log-err';
+      return `<div class="log-line ${cls}">${line}</div>`;
+    }).join('');
+    autLogEl.scrollTop = autLogEl.scrollHeight;
+  }
+}
+
+// ── WebSocket 连接 ────────────────────────────────────────────────────────────
+
+let ws = null;
+let wsRetry = 0;
+let pollTimer = null;
+
+function connectWS() {
+  const wsUrl = `ws://${location.host}/ws`;
+  ws = new WebSocket(wsUrl);
+
+  ws.onopen = () => {
+    el('g-ws-status').textContent = '已连接';
+    el('g-ws-status').style.color = 'var(--green)';
+    wsRetry = 0;
+    if (pollTimer) { clearInterval(pollTimer); pollTimer = null; }
+  };
+
+  ws.onmessage = e => {
+    try { updateAll(JSON.parse(e.data)); } catch(err) { console.warn('WS parse error', err); }
+  };
+
+  ws.onclose = () => {
+    el('g-ws-status').textContent = '重连中';
+    el('g-ws-status').style.color = 'var(--warn)';
+    startPolling();
+    const delay = Math.min(1000 * Math.pow(1.5, wsRetry++), 10000);
+    setTimeout(connectWS, delay);
+  };
+
+  ws.onerror = () => { ws.close(); };
+}
+
+function startPolling() {
+  if (pollTimer) return;
+  pollTimer = setInterval(() => {
+    fetch('/api/snapshot').then(r => r.json()).then(updateAll).catch(() => {});
+  }, 2000);
+}
+
+// ── 任务操作 API ──────────────────────────────────────────────────────────────
+
+function pauseTask(taskId) {
+  fetch('/api/autorun/pause', {
+    method: 'POST',
+    headers: {'Content-Type': 'application/json'},
+    body: JSON.stringify({task_id: taskId})
+  }).then(r => r.json()).then(d => {
+    console.log('pause', d);
+  });
+}
+
+function resumeTask(taskId) {
+  fetch('/api/autorun/resume', {
+    method: 'POST',
+    headers: {'Content-Type': 'application/json'},
+    body: JSON.stringify({task_id: taskId})
+  }).then(r => r.json()).then(d => {
+    console.log('resume', d);
+  });
+}
+
+function restartTask(taskId) {
+  fetch('/api/autorun/restart', {
+    method: 'POST',
+    headers: {'Content-Type': 'application/json'},
+    body: JSON.stringify({task_id: taskId})
+  }).then(r => r.json()).then(d => {
+    console.log('restart', d.new_task_id);
+  });
+}
+
+// ── 改进9：通知测试 ────────────────────────────────────────────────────────────
+function testNotify() {
+  const btn = document.getElementById('notifyTestBtn');
+  btn.textContent = '发送中…';
+  btn.disabled = true;
+  fetch('/api/notify/test')
+    .then(r => r.json())
+    .then(d => {
+      if (d.ok) {
+        btn.textContent = `✅ 已发送 (${d.backend})`;
+        btn.style.color = '#22c55e';
+        showNotifyStatus(`通知推送成功！后端: ${d.backend}`, 'success');
+      } else {
+        btn.textContent = '⚠ 失败';
+        btn.style.color = '#f59e0b';
+        showNotifyStatus(`通知失败: ${d.error}`, 'warn');
+      }
+      setTimeout(() => { btn.textContent = '🔔 测试桌面通知'; btn.disabled = false; btn.style.color=''; }, 3000);
+    })
+    .catch(e => {
+      btn.textContent = '❌ 请求失败';
+      btn.disabled = false;
+      showNotifyStatus('请求失败: ' + e, 'error');
+    });
+}
+
+// ── 改进4：并行基准测试 ───────────────────────────────────────────────────────
+function runParallelBench() {
+  const btn = document.getElementById('parallelBenchBtn');
+  const res = document.getElementById('parallelBenchResult');
+  btn.textContent = '⏳ 测试中…(约30s)';
+  btn.disabled = true;
+  res.style.display = 'block';
+  res.innerHTML = '<span style="color:var(--blue)">正在运行串行 vs 并行基准对比，请稍候...</span>';
+  fetch('/api/parallel/benchmark')
+    .then(r => r.json())
+    .then(d => {
+      if (d.error) {
+        res.innerHTML = `<span style="color:var(--yellow)">错误: ${d.error}</span>`;
+      } else {
+        const su = d.speedup.toFixed(1);
+        const suColor = d.speedup >= 2 ? '#22c55e' : d.speedup >= 1.2 ? '#f59e0b' : '#ef4444';
+        res.innerHTML = `
+          <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:8px">
+            <div style="background:rgba(59,130,246,.1);border-radius:6px;padding:8px">
+              <div style="font-size:10px;color:var(--muted)">串行 BO</div>
+              <div style="font-size:16px;font-weight:700">${d.serial_score.toFixed(4)}</div>
+              <div style="font-size:10px;color:var(--muted)">${d.serial_time.toFixed(1)}s</div>
+            </div>
+            <div style="background:rgba(34,197,94,.1);border-radius:6px;padding:8px">
+              <div style="font-size:10px;color:var(--muted)">KB 并行 BO</div>
+              <div style="font-size:16px;font-weight:700">${d.kb_score.toFixed(4)}</div>
+              <div style="font-size:10px;color:var(--muted)">${d.kb_time.toFixed(1)}s</div>
+            </div>
+          </div>
+          <div style="text-align:center;margin-top:8px;font-size:18px;font-weight:800;color:${suColor}">
+            ⚡ ${su}× 加速
+          </div>
+          <div style="text-align:center;font-size:10px;color:var(--muted)">
+            得分差: ${(d.kb_score - d.serial_score >= 0 ? '+' : '')}${(d.kb_score - d.serial_score).toFixed(4)}
+          </div>`;
+      }
+      btn.textContent = '⚡ 并行 vs 串行 基准测试';
+      btn.disabled = false;
+    })
+    .catch(e => {
+      res.innerHTML = `<span style="color:var(--yellow)">请求失败: ${e}</span>`;
+      btn.textContent = '⚡ 并行 vs 串行 基准测试';
+      btn.disabled = false;
+    });
+}
+
+function showNotifyStatus(msg, type) {
+  const el = document.getElementById('notifyStatus');
+  if (!el) return;
+  const colorMap = { success: '#22c55e', warn: '#f59e0b', error: '#ef4444' };
+  el.style.color = colorMap[type] || '#fff';
+  el.textContent = msg;
+  el.style.display = 'block';
+  setTimeout(() => { el.style.display = 'none'; }, 5000);
+}
+
+// ── 改进1：BOHB 多保真度基准 ──────────────────────────────────────────────────
+function runBOHBBench() {
+  const btn = document.getElementById('bohbBenchBtn');
+  const res = document.getElementById('parallelBenchResult');
+  btn.textContent = '⏳ BOHB测试中…(约40s)';
+  btn.disabled = true;
+  res.style.display = 'block';
+  res.innerHTML = '<span style="color:var(--blue)">正在运行 BOHB vs 随机搜索对比，请稍候…</span>';
+  fetch('/api/bohb/benchmark')
+    .then(r => r.json())
+    .then(d => {
+      if (d.error) {
+        res.innerHTML = `<span style="color:var(--yellow)">错误: ${d.error}</span>`;
+      } else {
+        const gain = d.bohb_best - d.random_best;
+        const gainPct = (gain / (Math.abs(d.random_best) + 1e-9) * 100).toFixed(1);
+        const su = d.speedup_est.toFixed(1);
+        const suColor = d.speedup_est >= 5 ? '#22c55e' : d.speedup_est >= 2 ? '#f59e0b' : '#60a5fa';
+        res.innerHTML = `
+          <div style="font-size:11px;font-weight:700;margin-bottom:8px;color:var(--fg)">BOHB 多保真度 vs 随机搜索</div>
+          <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px">
+            <div style="background:rgba(59,130,246,.1);border-radius:6px;padding:8px">
+              <div style="font-size:10px;color:var(--muted)">随机搜索 (${d.random_calls}次全保真)</div>
+              <div style="font-size:16px;font-weight:700">${d.random_best.toFixed(4)}</div>
+              <div style="font-size:10px;color:var(--muted)">${d.random_time}s</div>
+            </div>
+            <div style="background:rgba(245,158,11,.1);border-radius:6px;padding:8px">
+              <div style="font-size:10px;color:var(--muted)">BOHB (${d.bohb_calls}次混合保真)</div>
+              <div style="font-size:16px;font-weight:700">${d.bohb_best.toFixed(4)}</div>
+              <div style="font-size:10px;color:var(--muted)">${d.bohb_time}s</div>
+            </div>
+          </div>
+          <div style="text-align:center;margin-top:8px;font-size:15px;font-weight:800;color:${suColor}">
+            ⚡ ${su}× 等效加速  /  得分差 ${gain >= 0 ? '+' : ''}${gain.toFixed(4)}
+          </div>`;
+      }
+      btn.textContent = '🚀 BOHB基准';
+      btn.disabled = false;
+    })
+    .catch(e => {
+      res.innerHTML = `<span style="color:var(--yellow)">请求失败: ${e}</span>`;
+      btn.textContent = '🚀 BOHB基准';
+      btn.disabled = false;
+    });
+}
+
+// ── 改进2：LLM 暖启动测试 ────────────────────────────────────────────────────
+function testWarmStart() {
+  const btn = document.getElementById('warmstartBtn');
+  btn.textContent = '⏳ 测试中…';
+  btn.disabled = true;
+  fetch('/api/warmstart/test')
+    .then(r => r.json())
+    .then(d => {
+      const res = document.getElementById('parallelBenchResult');
+      res.style.display = 'block';
+      if (d.ok) {
+        const modeColor = d.mode === 'llm' ? '#22c55e' : '#f59e0b';
+        const modeLabel = d.mode === 'llm' ? '🟢 LLM在线' : '🟡 启发式离线';
+        res.innerHTML = `
+          <div style="font-size:11px;font-weight:700;margin-bottom:6px;color:var(--fg)">LLM 暖启动测试结果</div>
+          <div style="margin-bottom:4px">模式: <span style="color:${modeColor};font-weight:700">${modeLabel}</span></div>
+          <div style="margin-bottom:4px">生成初始点: <span style="color:#60a5fa">${d.n_points} 个</span></div>
+          <div style="font-size:10px;color:var(--muted);margin-top:6px">示例初始点:</div>
+          <pre style="font-size:9px;color:#94a3b8;background:rgba(0,0,0,.3);padding:6px;border-radius:4px;overflow:auto;max-height:80px">${JSON.stringify(d.points, null, 1)}</pre>`;
+        btn.textContent = `🧠 ${d.mode === 'llm' ? 'LLM' : '启发式'}暖启动`;
+        btn.style.color = modeColor;
+        setTimeout(() => { btn.style.color = ''; btn.textContent = '🧠 暖启动测试'; btn.disabled = false; }, 4000);
+      } else {
+        res.innerHTML = `<span style="color:var(--yellow)">暖启动失败: ${d.error}</span>`;
+        btn.textContent = '🧠 暖启动测试';
+        btn.disabled = false;
+      }
+    })
+    .catch(e => {
+      btn.textContent = '🧠 暖启动测试';
+      btn.disabled = false;
+    });
+}
+
+// ── 改进3：PBT-ASHA 早停基准 ─────────────────────────────────────────────────
+function runPBTBench() {
+  const btn = document.getElementById('pbtBenchBtn');
+  const res = document.getElementById('parallelBenchResult');
+  btn.textContent = '⏳ PBT测试中…(约20s)';
+  btn.disabled = true;
+  res.style.display = 'block';
+  res.innerHTML = '<span style="color:var(--blue)">正在运行 PBT-ASHA vs 全量搜索对比，请稍候…</span>';
+  fetch('/api/pbt/benchmark')
+    .then(r => r.json())
+    .then(d => {
+      if (d.error) {
+        res.innerHTML = `<span style="color:var(--yellow)">错误: ${d.error}</span>`;
+      } else {
+        const saveRate = (d.early_stop_rate * 100).toFixed(0);
+        const su = d.speedup_est.toFixed(1);
+        const suColor = d.speedup_est >= 3 ? '#22c55e' : d.speedup_est >= 1.5 ? '#f59e0b' : '#60a5fa';
+        res.innerHTML = `
+          <div style="font-size:11px;font-weight:700;margin-bottom:8px;color:var(--fg)">PBT-ASHA 早停 vs 全量搜索</div>
+          <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px">
+            <div style="background:rgba(59,130,246,.1);border-radius:6px;padding:8px">
+              <div style="font-size:10px;color:var(--muted)">全量随机搜索 (${d.baseline_evals}次)</div>
+              <div style="font-size:16px;font-weight:700">${d.baseline_best.toFixed(4)}</div>
+            </div>
+            <div style="background:rgba(239,68,68,.1);border-radius:6px;padding:8px">
+              <div style="font-size:10px;color:var(--muted)">PBT-ASHA (${d.pbt_evals}次)</div>
+              <div style="font-size:16px;font-weight:700">${d.pbt_best.toFixed(4)}</div>
+            </div>
+          </div>
+          <div style="text-align:center;margin-top:8px;font-size:15px;font-weight:800;color:${suColor}">
+            ✂️ 早停率 ${saveRate}%  /  ${su}× 加速
+          </div>`;
+      }
+      btn.textContent = '✂️ PBT早停测试';
+      btn.disabled = false;
+    })
+    .catch(e => {
+      res.innerHTML = `<span style="color:var(--yellow)">请求失败: ${e}</span>`;
+      btn.textContent = '✂️ PBT早停测试';
+      btn.disabled = false;
+    });
+}
+
+// ── 🏆 实验排行榜 ───────────────────────────────────────────────────────────
+function showLeaderboard() {
+  const res = document.getElementById('parallelBenchResult');
+  res.style.display = 'block';
+  res.innerHTML = '<span style="color:var(--blue)">加载排行榜中…</span>';
+  fetch('/api/experiments/leaderboard?top_n=10')
+    .then(r => r.json())
+    .then(d => {
+      const rows = d.leaderboard || [];
+      if (!rows.length) {
+        res.innerHTML = '<span style="color:var(--muted)">暂无实验记录（先运行优化再查看）</span>';
+        return;
+      }
+      let html = `<div style="font-size:11px;font-weight:700;margin-bottom:8px;color:var(--fg)">🏆 实验排行榜 Top${rows.length}</div>
+        <table style="width:100%;border-collapse:collapse;font-size:10px">
+          <tr style="color:var(--muted);border-bottom:1px solid rgba(255,255,255,.08)">
+            <th style="text-align:left;padding:3px 6px">#</th>
+            <th style="text-align:left;padding:3px 6px">ID</th>
+            <th style="text-align:left;padding:3px 6px">Tag</th>
+            <th style="text-align:right;padding:3px 6px">Score</th>
+            <th style="text-align:right;padding:3px 6px">Iter</th>
+            <th style="text-align:right;padding:3px 6px">时长(s)</th>
+          </tr>`;
+      rows.forEach((row, i) => {
+        const scoreColor = i === 0 ? '#fbbf24' : i < 3 ? '#34d399' : 'var(--fg)';
+        const rankIcon = i === 0 ? '🥇' : i === 1 ? '🥈' : i === 2 ? '🥉' : `${row.rank}`;
+        html += `<tr style="border-bottom:1px solid rgba(255,255,255,.04)">
+          <td style="padding:3px 6px">${rankIcon}</td>
+          <td style="padding:3px 6px;font-family:monospace;color:var(--blue)">${row.exp_id}</td>
+          <td style="padding:3px 6px;color:var(--muted)">${row.tag}</td>
+          <td style="padding:3px 6px;text-align:right;font-weight:700;color:${scoreColor}">${row.score}</td>
+          <td style="padding:3px 6px;text-align:right">${row.n_iter}</td>
+          <td style="padding:3px 6px;text-align:right">${row.duration_s}</td>
+        </tr>`;
+      });
+      html += '</table>';
+      res.innerHTML = html;
+    })
+    .catch(e => { res.innerHTML = `<span style="color:var(--yellow)">加载失败: ${e}</span>`; });
+}
+
+// ── 📊 超参数重要性 ──────────────────────────────────────────────────────────
+function showImportance() {
+  const btn = document.getElementById('importanceBtn');
+  const res = document.getElementById('parallelBenchResult');
+  btn.textContent = '⏳ 分析中…';
+  btn.disabled = true;
+  res.style.display = 'block';
+  res.innerHTML = '<span style="color:var(--blue)">正在分析超参数重要性（需有实验记录）…</span>';
+  fetch('/api/importance/analyze?top_n=8')
+    .then(r => r.json())
+    .then(d => {
+      btn.textContent = '📊 参数重要性';
+      btn.disabled = false;
+      if (!d.ok) {
+        res.innerHTML = `<span style="color:var(--yellow)">${d.error || '分析失败'}</span>`;
+        return;
+      }
+      const items = d.importance || [];
+      let html = `<div style="font-size:11px;font-weight:700;margin-bottom:8px;color:var(--fg)">
+        📊 超参数重要性分析 <span style="font-size:9px;color:var(--muted)">方法: ${d.method}  样本: ${d.n_samples}</span>
+      </div>`;
+      items.forEach((item, i) => {
+        const pct = (item.importance * 100).toFixed(1);
+        const w = Math.round(item.importance * 200);
+        const colors = ['#fbbf24','#f59e0b','#34d399','#60a5fa','#a78bfa','#f87171','#fb923c','#94a3b8'];
+        const color = colors[i % colors.length];
+        html += `<div style="display:flex;align-items:center;gap:8px;margin-bottom:5px">
+          <div style="width:100px;font-size:10px;color:var(--fg);white-space:nowrap;overflow:hidden;text-overflow:ellipsis" title="${item.param}">${item.param}</div>
+          <div style="flex:1;background:rgba(255,255,255,.06);border-radius:3px;height:14px;overflow:hidden">
+            <div style="width:${Math.min(w,200)}px;max-width:100%;height:100%;background:${color};border-radius:3px;transition:width .5s"></div>
+          </div>
+          <div style="width:40px;text-align:right;font-size:10px;font-weight:700;color:${color}">${pct}%</div>
+        </div>`;
+      });
+      res.innerHTML = html;
+    })
+    .catch(e => {
+      btn.textContent = '📊 参数重要性';
+      btn.disabled = false;
+      res.innerHTML = `<span style="color:var(--yellow)">请求失败: ${e}</span>`;
+    });
+}
+
+// ── 🔭 漂移检测状态 ──────────────────────────────────────────────────────────
+function showDriftStatus() {
+  const res = document.getElementById('parallelBenchResult');
+  res.style.display = 'block';
+  res.innerHTML = '<span style="color:var(--blue)">读取漂移检测状态…</span>';
+  fetch('/api/drift/status')
+    .then(r => r.json())
+    .then(d => {
+      const drift  = d.drift  || {};
+      const perf   = d.perf   || {};
+      const reopt  = d.reopt  || {};
+      const lastEvt = drift.last_event;
+      const lastReopt = reopt.last_record;
+      const driftColor = drift.total_drift_events > 0 ? '#fb923c' : '#34d399';
+      const reoptColor = reopt.total_reopt > 0 ? '#60a5fa' : 'var(--muted)';
+      let html = `<div style="font-size:11px;font-weight:700;margin-bottom:8px;color:var(--fg)">🔭 模型漂移检测状态</div>
+        <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px">
+          <div style="background:rgba(255,255,255,.04);border-radius:6px;padding:8px">
+            <div style="font-size:9px;color:var(--muted)">累计漂移事件</div>
+            <div style="font-size:22px;font-weight:800;color:${driftColor}">${drift.total_drift_events ?? '?'}</div>
+            <div style="font-size:9px;color:var(--muted)">参考窗: ${drift.ref_buf_size ?? '-'} 测试窗: ${drift.test_buf_size ?? '-'}</div>
+          </div>
+          <div style="background:rgba(255,255,255,.04);border-radius:6px;padding:8px">
+            <div style="font-size:9px;color:var(--muted)">性能基线</div>
+            <div style="font-size:16px;font-weight:700">${perf.baseline != null ? perf.baseline.toFixed(4) : 'N/A'}</div>
+            <div style="font-size:9px;color:var(--muted)">当前均值: ${perf.current_mean != null ? perf.current_mean.toFixed(4) : 'N/A'}</div>
+          </div>
+          <div style="background:rgba(255,255,255,.04);border-radius:6px;padding:8px">
+            <div style="font-size:9px;color:var(--muted)">自动重优化</div>
+            <div style="font-size:22px;font-weight:800;color:${reoptColor}">${reopt.total_reopt ?? '?'}</div>
+            <div style="font-size:9px;color:var(--muted)">${reopt.auto_enabled ? '✅已启用' : '⛔已禁用'} 冷却${reopt.cooldown_s ?? '-'}s</div>
+          </div>
+        </div>`;
+      if (lastEvt) {
+        const ts = new Date(lastEvt.ts * 1000).toLocaleString();
+        html += `<div style="margin-top:8px;font-size:10px;color:var(--muted)">
+          最近漂移: <span style="color:#fb923c">[${lastEvt.method}]</span> score=${lastEvt.score?.toFixed(4)} @ ${ts}
+          ${lastEvt.triggered_reopt ? ' → 已触发重优化' : ''}
+        </div>`;
+      }
+      if (lastReopt) {
+        const ts2 = new Date(lastReopt.ts * 1000).toLocaleString();
+        html += `<div style="margin-top:4px;font-size:10px;color:var(--muted)">
+          最近重优化: <span style="color:${reoptColor}">[${lastReopt.trigger}]</span> ${lastReopt.ok ? '✅成功' : '❌失败'} @ ${ts2}
+        </div>`;
+      }
+      if (d.msg) {
+        html += `<div style="margin-top:6px;font-size:9px;color:var(--muted)">${d.msg}</div>`;
+      }
+      res.innerHTML = html;
+    })
+    .catch(e => { res.innerHTML = `<span style="color:var(--yellow)">请求失败: ${e}</span>`; });
+}
+
+// 初始加载
+fetch('/api/snapshot').then(r => r.json()).then(updateAll).catch(() => {});
+connectWS();
+</script>
+</body>
+</html>

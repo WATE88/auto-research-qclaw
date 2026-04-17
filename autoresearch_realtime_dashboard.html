@@ -1,0 +1,627 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AutoResearch · 实时监控</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<style>
+:root {
+  --bg:      #0d1117;
+  --surface: #161b22;
+  --card:    #21262d;
+  --border:  #30363d;
+  --accent:  #58a6ff;
+  --green:   #3fb950;
+  --yellow:  #d29922;
+  --red:     #f85149;
+  --purple:  #bc8cff;
+  --cyan:    #39d353;
+  --text:    #e6edf3;
+  --muted:   #8b949e;
+  --glow:    0 0 20px rgba(88,166,255,.25);
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'Segoe UI', 'Microsoft YaHei', system-ui, sans-serif;
+  font-size: 14px;
+  min-height: 100vh;
+}
+
+/* ── 顶栏 ── */
+.topbar {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 14px 28px;
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  position: sticky; top: 0; z-index: 99;
+}
+.topbar-left { display: flex; align-items: center; gap: 14px; }
+.logo { font-size: 1.3em; font-weight: 700; color: var(--accent);
+        letter-spacing: .5px; }
+.engine-dot {
+  width: 10px; height: 10px; border-radius: 50%;
+  background: var(--green);
+  box-shadow: 0 0 8px var(--green);
+  animation: pulse-dot 1.4s infinite;
+}
+@keyframes pulse-dot {
+  0%,100% { opacity:1; transform: scale(1); }
+  50%      { opacity:.5; transform: scale(1.4); }
+}
+.engine-label { color: var(--muted); font-size: .85em; }
+.topbar-right { display: flex; align-items: center; gap: 22px; color: var(--muted); }
+#clock { font-variant-numeric: tabular-nums; font-size: .9em; }
+.ws-badge {
+  padding: 3px 10px; border-radius: 20px; font-size: .78em; font-weight: 600;
+  background: rgba(63,185,80,.15); color: var(--green);
+  border: 1px solid rgba(63,185,80,.3);
+}
+.ws-badge.disconnected {
+  background: rgba(248,81,73,.12); color: var(--red);
+  border-color: rgba(248,81,73,.3);
+}
+
+/* ── 主体网格 ── */
+.main { padding: 20px 24px; max-width: 1600px; margin: 0 auto; }
+
+/* ── 统计卡片行 ── */
+.stat-row {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 14px; margin-bottom: 20px;
+}
+@media (max-width:1200px) { .stat-row { grid-template-columns: repeat(3, 1fr); } }
+.stat-card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 16px 20px;
+  position: relative; overflow: hidden;
+  transition: transform .15s, box-shadow .15s;
+}
+.stat-card:hover { transform: translateY(-2px); box-shadow: var(--glow); }
+.stat-card::before {
+  content: ''; position: absolute; top: 0; left: 0; right: 0; height: 2px;
+  background: var(--accent-color, var(--accent));
+}
+.stat-label { font-size: .75em; color: var(--muted); text-transform: uppercase;
+              letter-spacing: .6px; margin-bottom: 8px; }
+.stat-value { font-size: 2em; font-weight: 700; font-variant-numeric: tabular-nums;
+              color: var(--val-color, var(--text)); line-height: 1; }
+.stat-sub   { font-size: .75em; color: var(--muted); margin-top: 5px; }
+
+/* ── 图表 + 任务行 ── */
+.charts-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px; margin-bottom: 16px;
+}
+.bottom-row {
+  display: grid;
+  grid-template-columns: 1.5fr 1fr;
+  gap: 16px;
+}
+@media (max-width:1000px) {
+  .charts-row, .bottom-row { grid-template-columns: 1fr; }
+}
+
+/* ── 通用面板 ── */
+.panel {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  overflow: hidden;
+}
+.panel-header {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 12px 18px;
+  border-bottom: 1px solid var(--border);
+  background: rgba(255,255,255,.02);
+}
+.panel-title { font-weight: 600; font-size: .88em; color: var(--text); }
+.panel-badge {
+  padding: 2px 8px; border-radius: 10px; font-size: .72em;
+  background: rgba(88,166,255,.15); color: var(--accent);
+}
+.panel-body { padding: 14px 18px; }
+
+/* ── 图表画布 ── */
+.chart-wrap { position: relative; height: 200px; }
+
+/* ── 任务列表 ── */
+.task-list { display: flex; flex-direction: column; gap: 10px; }
+.task-item {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 9px;
+  padding: 12px 16px;
+}
+.task-top { display: flex; align-items: center; justify-content: space-between;
+            margin-bottom: 8px; }
+.task-name { font-weight: 600; font-size: .88em; }
+.task-status {
+  padding: 2px 10px; border-radius: 10px; font-size: .72em; font-weight: 700;
+}
+.task-status.running {
+  background: rgba(88,166,255,.15); color: var(--accent);
+  border: 1px solid rgba(88,166,255,.3);
+  animation: blink-status 1.5s infinite;
+}
+@keyframes blink-status { 50% { opacity:.5; } }
+.task-status.done {
+  background: rgba(63,185,80,.12); color: var(--green);
+  border: 1px solid rgba(63,185,80,.3);
+}
+.task-status.pending {
+  background: rgba(139,148,158,.1); color: var(--muted);
+  border: 1px solid rgba(139,148,158,.2);
+}
+.task-meta { display: flex; gap: 16px; margin-bottom: 8px; font-size: .78em; color: var(--muted); }
+.task-meta span b { color: var(--text); }
+.progress-track {
+  height: 5px; background: var(--border); border-radius: 3px; overflow: hidden;
+}
+.progress-bar {
+  height: 100%; border-radius: 3px;
+  background: linear-gradient(90deg, var(--accent), var(--purple));
+  transition: width .5s ease;
+}
+
+/* ── 日志流 ── */
+.log-stream {
+  background: var(--bg);
+  border-radius: 8px;
+  padding: 10px 12px;
+  height: 320px;
+  overflow-y: auto;
+  font-family: 'Consolas', monospace;
+  font-size: .78em;
+  line-height: 1.6;
+}
+.log-stream::-webkit-scrollbar { width: 5px; }
+.log-stream::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+.log-line { color: var(--muted); }
+.log-line.best { color: #ffd700; }
+.log-line.error { color: var(--red); }
+.log-line.done  { color: var(--green); }
+
+/* ── 甜甜圈图容器 ── */
+.donut-wrap { position: relative; height: 160px; max-width: 200px; margin: 0 auto; }
+
+/* ── 实验表格 ── */
+.exp-table { width: 100%; border-collapse: collapse; font-size: .78em; }
+.exp-table th {
+  text-align: left; padding: 6px 10px;
+  color: var(--muted); font-weight: 600;
+  border-bottom: 1px solid var(--border);
+}
+.exp-table td { padding: 5px 10px; border-bottom: 1px solid rgba(48,54,61,.5); }
+.exp-table tr:hover td { background: rgba(255,255,255,.03); }
+.score-bar {
+  display: inline-block; height: 8px; background: var(--accent);
+  border-radius: 4px; vertical-align: middle; margin-right: 6px;
+  min-width: 2px;
+}
+</style>
+</head>
+<body>
+
+<!-- ── 顶栏 ── -->
+<div class="topbar">
+  <div class="topbar-left">
+    <span class="logo">AutoResearch</span>
+    <span class="engine-dot" id="engineDot"></span>
+    <span class="engine-label" id="engineLabel">引擎运行中</span>
+  </div>
+  <div class="topbar-right">
+    <span class="ws-badge disconnected" id="wsBadge">WS 连接中…</span>
+    <span id="clock"></span>
+  </div>
+</div>
+
+<!-- ── 主体 ── -->
+<div class="main">
+
+  <!-- 统计卡片 -->
+  <div class="stat-row">
+    <div class="stat-card" style="--accent-color:#58a6ff">
+      <div class="stat-label">运行中任务</div>
+      <div class="stat-value" id="sRunning" style="--val-color:#58a6ff">0</div>
+      <div class="stat-sub">并发执行</div>
+    </div>
+    <div class="stat-card" style="--accent-color:#3fb950">
+      <div class="stat-label">已完成任务</div>
+      <div class="stat-value" id="sDone" style="--val-color:#3fb950">0</div>
+      <div class="stat-sub">总计 <span id="sTotal">0</span> 个</div>
+    </div>
+    <div class="stat-card" style="--accent-color:#d29922">
+      <div class="stat-label">总迭代次数</div>
+      <div class="stat-value" id="sIter" style="--val-color:#d29922">0</div>
+      <div class="stat-sub">实验记录</div>
+    </div>
+    <div class="stat-card" style="--accent-color:#bc8cff">
+      <div class="stat-label">最佳评分</div>
+      <div class="stat-value" id="sBest" style="--val-color:#bc8cff">—</div>
+      <div class="stat-sub">全局最优</div>
+    </div>
+    <div class="stat-card" style="--accent-color:#39d353">
+      <div class="stat-label">CPU 使用率</div>
+      <div class="stat-value" id="sCpu" style="--val-color:#39d353">—</div>
+      <div class="stat-sub">%</div>
+    </div>
+    <div class="stat-card" style="--accent-color:#f78166">
+      <div class="stat-label">内存使用率</div>
+      <div class="stat-value" id="sMem" style="--val-color:#f78166">—</div>
+      <div class="stat-sub">%</div>
+    </div>
+  </div>
+
+  <!-- 图表行 -->
+  <div class="charts-row">
+    <!-- CPU/内存折线 -->
+    <div class="panel">
+      <div class="panel-header">
+        <span class="panel-title">系统资源监控</span>
+        <span class="panel-badge">60s 滚动窗口</span>
+      </div>
+      <div class="panel-body">
+        <div class="chart-wrap"><canvas id="resChart"></canvas></div>
+      </div>
+    </div>
+
+    <!-- 学习评分曲线 -->
+    <div class="panel">
+      <div class="panel-header">
+        <span class="panel-title">优化性能曲线</span>
+        <span class="panel-badge">贝叶斯优化轨迹</span>
+      </div>
+      <div class="panel-body">
+        <div class="chart-wrap"><canvas id="perfChart"></canvas></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 底部行 -->
+  <div class="bottom-row">
+
+    <!-- 左：任务列表 + 日志 -->
+    <div style="display:flex;flex-direction:column;gap:16px;">
+
+      <!-- 任务列表 -->
+      <div class="panel">
+        <div class="panel-header">
+          <span class="panel-title">任务列表</span>
+          <span class="panel-badge" id="taskCountBadge">0 个任务</span>
+        </div>
+        <div class="panel-body">
+          <div class="task-list" id="taskList">
+            <div style="color:var(--muted);text-align:center;padding:20px;">
+              等待数据…
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 实时日志 -->
+      <div class="panel">
+        <div class="panel-header">
+          <span class="panel-title">实时日志流</span>
+          <span class="panel-badge" id="logCountBadge">0 条</span>
+        </div>
+        <div class="panel-body" style="padding-bottom:0">
+          <div class="log-stream" id="logStream"></div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- 右：策略分布 + 实验记录 -->
+    <div style="display:flex;flex-direction:column;gap:16px;">
+
+      <!-- 策略甜甜圈 -->
+      <div class="panel">
+        <div class="panel-header">
+          <span class="panel-title">采集策略分布</span>
+          <span class="panel-badge">EI / UCB / PI</span>
+        </div>
+        <div class="panel-body">
+          <div class="donut-wrap"><canvas id="donutChart"></canvas></div>
+          <div id="donutLegend" style="display:flex;justify-content:center;gap:16px;margin-top:12px;font-size:.78em;color:var(--muted)"></div>
+        </div>
+      </div>
+
+      <!-- 最近实验 -->
+      <div class="panel">
+        <div class="panel-header">
+          <span class="panel-title">最近实验记录</span>
+          <span class="panel-badge" id="expCountBadge">0 条</span>
+        </div>
+        <div class="panel-body" style="padding:0;overflow:auto;max-height:300px;">
+          <table class="exp-table">
+            <thead>
+              <tr>
+                <th>任务</th>
+                <th>迭代</th>
+                <th>评分</th>
+                <th>策略</th>
+                <th>时间</th>
+              </tr>
+            </thead>
+            <tbody id="expTableBody">
+              <tr><td colspan="5" style="text-align:center;color:var(--muted);padding:20px;">等待数据…</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<script>
+// ── 图表初始化 ────────────────────────────────────────────────────────────────
+const chartDefaults = {
+  responsive: true,
+  maintainAspectRatio: false,
+  animation: { duration: 300 },
+  plugins: { legend: { labels: { color: '#8b949e', font: { size: 11 } } } },
+  scales: {
+    x: { ticks: { color: '#8b949e', maxTicksLimit: 8 },
+         grid: { color: 'rgba(48,54,61,.6)' } },
+    y: { ticks: { color: '#8b949e' },
+         grid: { color: 'rgba(48,54,61,.6)' } }
+  }
+};
+
+// 资源图表
+const resCtx  = document.getElementById('resChart').getContext('2d');
+const resChart = new Chart(resCtx, {
+  type: 'line',
+  data: {
+    labels: [],
+    datasets: [
+      { label: 'CPU %', data: [], borderColor: '#39d353', backgroundColor: 'rgba(57,211,83,.08)',
+        tension: .4, pointRadius: 0, fill: true, borderWidth: 2 },
+      { label: '内存 %', data: [], borderColor: '#f78166', backgroundColor: 'rgba(247,129,102,.08)',
+        tension: .4, pointRadius: 0, fill: true, borderWidth: 2 }
+    ]
+  },
+  options: { ...chartDefaults }
+});
+
+// 性能图表
+const perfCtx  = document.getElementById('perfChart').getContext('2d');
+const perfChart = new Chart(perfCtx, {
+  type: 'line',
+  data: {
+    labels: [],
+    datasets: [
+      { label: '最佳评分', data: [], borderColor: '#bc8cff', backgroundColor: 'rgba(188,140,255,.08)',
+        tension: .4, pointRadius: 0, fill: true, borderWidth: 2 },
+      { label: '当前评分', data: [], borderColor: '#58a6ff', backgroundColor: 'rgba(88,166,255,.06)',
+        tension: .4, pointRadius: 0, fill: false, borderWidth: 1.5,
+        borderDash: [4,3] }
+    ]
+  },
+  options: { ...chartDefaults,
+    scales: { ...chartDefaults.scales,
+      y: { ...chartDefaults.scales.y, min: 0.4, max: 1.0 } }
+  }
+});
+
+// 策略甜甜圈
+const donutCtx  = document.getElementById('donutChart').getContext('2d');
+const donutChart = new Chart(donutCtx, {
+  type: 'doughnut',
+  data: {
+    labels: ['EI', 'UCB', 'PI'],
+    datasets: [{ data: [0, 0, 0],
+      backgroundColor: ['#58a6ff','#bc8cff','#39d353'],
+      borderWidth: 2, borderColor: '#21262d' }]
+  },
+  options: {
+    responsive: true, maintainAspectRatio: false, cutout: '68%',
+    plugins: { legend: { display: false } }
+  }
+});
+
+// ── 时钟 ─────────────────────────────────────────────────────────────────────
+function updateClock() {
+  const now = new Date();
+  document.getElementById('clock').textContent =
+    now.toLocaleTimeString('zh-CN', { hour12: false });
+}
+setInterval(updateClock, 1000); updateClock();
+
+// ── 工具函数 ─────────────────────────────────────────────────────────────────
+const fmt  = (n, d=1) => (typeof n === 'number' ? n.toFixed(d) : '—');
+const fmtT = s => s ? s.slice(11,19) : '';
+const TASK_NAMES = {
+  task_rf: '随机森林', task_nn: '神经网络',
+  task_svm: 'SVM', task_gb: '梯度提升'
+};
+
+// ── 日志追加 ─────────────────────────────────────────────────────────────────
+const logLines = [];
+const MAX_LOG = 300;
+function appendLog(line, cls='') {
+  logLines.push({ line, cls });
+  if (logLines.length > MAX_LOG) logLines.shift();
+  const el = document.getElementById('logStream');
+  const div = document.createElement('div');
+  div.className = 'log-line ' + cls;
+  div.textContent = line;
+  el.appendChild(div);
+  // 只保留最新 MAX_LOG 个节点
+  while (el.children.length > MAX_LOG) el.removeChild(el.firstChild);
+  el.scrollTop = el.scrollHeight;
+  document.getElementById('logCountBadge').textContent = logLines.length + ' 条';
+}
+
+// ── 渲染快照 ─────────────────────────────────────────────────────────────────
+let prevTaskLogs = {};
+
+function render(snap) {
+  const { tasks = [], metrics = [], experiments = [], summary = {} } = snap;
+
+  // 统计卡
+  document.getElementById('sRunning').textContent = summary.running ?? 0;
+  document.getElementById('sDone').textContent    = summary.done    ?? 0;
+  document.getElementById('sTotal').textContent   = summary.total   ?? 0;
+  document.getElementById('sIter').textContent    = summary.total_iter ?? 0;
+  document.getElementById('sBest').textContent    =
+    summary.best_score ? fmt(summary.best_score, 4) : '—';
+
+  const last = metrics[metrics.length - 1];
+  if (last) {
+    document.getElementById('sCpu').textContent = fmt(last.cpu, 1);
+    document.getElementById('sMem').textContent = fmt(last.mem, 1);
+  }
+
+  // 资源图表（取最近60条）
+  const recent = metrics.slice(-60);
+  resChart.data.labels   = recent.map(m => fmtT(m.ts));
+  resChart.data.datasets[0].data = recent.map(m => m.cpu);
+  resChart.data.datasets[1].data = recent.map(m => m.mem);
+  resChart.update('none');
+
+  // 性能图表
+  perfChart.data.labels   = recent.map(m => fmtT(m.ts));
+  perfChart.data.datasets[0].data = recent.map(m => m.improvement ? m.score : null);
+  perfChart.data.datasets[1].data = recent.map(m => m.score);
+  perfChart.update('none');
+
+  // 策略甜甜圈
+  const strat = summary.strategies || {};
+  donutChart.data.datasets[0].data = [strat.EI||0, strat.UCB||0, strat.PI||0];
+  donutChart.update('none');
+  const total_strat = (strat.EI||0)+(strat.UCB||0)+(strat.PI||0)||1;
+  document.getElementById('donutLegend').innerHTML =
+    [['EI','#58a6ff'], ['UCB','#bc8cff'], ['PI','#39d353']]
+    .map(([k,c]) => `<span style="color:${c}">● ${k} <b>${strat[k]||0}</b>
+      (${((strat[k]||0)/total_strat*100).toFixed(0)}%)</span>`).join('');
+
+  // 任务列表
+  document.getElementById('taskCountBadge').textContent = tasks.length + ' 个任务';
+  const tl = document.getElementById('taskList');
+  if (tasks.length === 0) {
+    tl.innerHTML = '<div style="color:var(--muted);text-align:center;padding:20px;">等待引擎启动…</div>';
+  } else {
+    tl.innerHTML = tasks.map(t => {
+      const progress = t.iterations / 40 * 100;
+      const sc  = t.best_score ? fmt(t.best_score, 4) : '—';
+      const stClass = t.status === 'running' ? 'running'
+                    : t.status === 'done'    ? 'done' : 'pending';
+      const stLabel = t.status === 'running' ? '运行中'
+                    : t.status === 'done'    ? '已完成' : '等待中';
+      return `<div class="task-item">
+        <div class="task-top">
+          <span class="task-name">${t.name}</span>
+          <span class="task-status ${stClass}">${stLabel}</span>
+        </div>
+        <div class="task-meta">
+          <span>策略: <b>${t.strategy}</b></span>
+          <span>迭代: <b>${t.iterations}</b>/40</span>
+          <span>最佳: <b>${sc}</b></span>
+        </div>
+        <div class="progress-track">
+          <div class="progress-bar" style="width:${Math.min(100,progress)}%"></div>
+        </div>
+      </div>`;
+    }).join('');
+  }
+
+  // 日志 —— 只追加新增行
+  tasks.forEach(t => {
+    const newLog = t.log || '';
+    const prevLog = prevTaskLogs[t.id] || '';
+    if (newLog !== prevLog) {
+      const prevLines = prevLog ? prevLog.split('\n') : [];
+      const newLines  = newLog  ? newLog.split('\n')  : [];
+      const added = newLines.slice(prevLines.length);
+      added.forEach(line => {
+        if (!line.trim()) return;
+        let cls = '';
+        if (line.includes('最终最佳') || line.includes('新的最佳') || line.includes('best=')) cls = 'best';
+        if (line.includes('出错') || line.includes('ERROR')) cls = 'error';
+        if (line.includes('完成')) cls = 'done';
+        appendLog(`[${t.name}] ${line}`, cls);
+      });
+      prevTaskLogs[t.id] = newLog;
+    }
+  });
+
+  // 实验记录表
+  document.getElementById('expCountBadge').textContent = experiments.length + ' 条';
+  const tbody = document.getElementById('expTableBody');
+  if (experiments.length === 0) {
+    tbody.innerHTML = '<tr><td colspan="5" style="text-align:center;color:var(--muted);padding:14px;">等待实验数据…</td></tr>';
+  } else {
+    const latest = experiments.slice(-30).reverse();
+    tbody.innerHTML = latest.map(e => {
+      const barW = Math.round((e.score||0) * 60);
+      const name  = TASK_NAMES[e.task_id] || e.task_id;
+      return `<tr>
+        <td>${name}</td>
+        <td>#${e.iteration}</td>
+        <td>
+          <span class="score-bar" style="width:${barW}px"></span>
+          ${fmt(e.score,4)}
+        </td>
+        <td>${e.strategy}</td>
+        <td>${fmtT(e.ts)}</td>
+      </tr>`;
+    }).join('');
+  }
+}
+
+// ── WebSocket 连接 ────────────────────────────────────────────────────────────
+let ws = null;
+let wsRetry = 0;
+
+function connectWS() {
+  const url = `ws://localhost:8899/`;
+  ws = new WebSocket(url);
+
+  ws.onopen = () => {
+    wsRetry = 0;
+    const badge = document.getElementById('wsBadge');
+    badge.textContent = 'WS 已连接';
+    badge.className   = 'ws-badge';
+  };
+
+  ws.onmessage = e => {
+    try { render(JSON.parse(e.data)); }
+    catch(err) { console.error('解析错误', err); }
+  };
+
+  ws.onclose = ws.onerror = () => {
+    const badge = document.getElementById('wsBadge');
+    badge.textContent = 'WS 重连中…';
+    badge.className   = 'ws-badge disconnected';
+    // 指数退避重连
+    wsRetry++;
+    const delay = Math.min(1000 * Math.pow(1.5, wsRetry), 10000);
+    setTimeout(connectWS, delay);
+    // 同时轮询 REST
+    pollREST();
+  };
+}
+
+function pollREST() {
+  fetch('/api/snapshot')
+    .then(r => r.json())
+    .then(render)
+    .catch(() => {});
+}
+
+// 启动
+connectWS();
+// 备用轮询（2秒），WS 正常时也没关系（重复渲染是幂等的）
+setInterval(pollREST, 2000);
+</script>
+</body>
+</html>

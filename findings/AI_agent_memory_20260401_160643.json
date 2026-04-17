@@ -1,0 +1,174 @@
+{
+  "topic": "AI agent memory",
+  "timestamp": "2026-04-01T16:06:43.371829",
+  "findings": [
+    {
+      "title": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "stars": 55636,
+      "source": "github"
+    },
+    {
+      "title": "mem0ai/mem0",
+      "url": "https://github.com/mem0ai/mem0",
+      "description": "Universal memory layer for AI Agents",
+      "stars": 51640,
+      "source": "github"
+    },
+    {
+      "title": "deepset-ai/haystack",
+      "url": "https://github.com/deepset-ai/haystack",
+      "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
+      "stars": 24672,
+      "source": "github"
+    },
+    {
+      "title": "letta-ai/letta",
+      "url": "https://github.com/letta-ai/letta",
+      "description": "Letta is the platform for building stateful agents: AI with advanced memory that can learn and self-improve over time.",
+      "stars": 21834,
+      "source": "github"
+    },
+    {
+      "title": "volcengine/OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+      "stars": 20333,
+      "source": "github"
+    },
+    {
+      "title": "humanlayer/12-factor-agents",
+      "url": "https://github.com/humanlayer/12-factor-agents",
+      "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+      "stars": 19027,
+      "source": "github"
+    },
+    {
+      "title": "topoteretes/cognee",
+      "url": "https://github.com/topoteretes/cognee",
+      "description": "Knowledge Engine for AI Agent Memory in 6 lines of code",
+      "stars": 14833,
+      "source": "github"
+    },
+    {
+      "title": "memvid/memvid",
+      "url": "https://github.com/memvid/memvid",
+      "description": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
+      "stars": 13672,
+      "source": "github"
+    },
+    {
+      "title": "MemoriLabs/Memori",
+      "url": "https://github.com/MemoriLabs/Memori",
+      "description": "Memori is agent-native memory infrastructure. A SQL-native, LLM-agnostic layer that turns agent execution and interactions into structured, persistent state for production systems.",
+      "stars": 12907,
+      "source": "github"
+    },
+    {
+      "title": "activeloopai/deeplake",
+      "url": "https://github.com/activeloopai/deeplake",
+      "description": "Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.",
+      "stars": 9054,
+      "source": "github"
+    },
+    {
+      "title": "MemTensor/MemOS",
+      "url": "https://github.com/MemTensor/MemOS",
+      "description": "AI memory OS for LLM and Agent systems(moltbot,clawdbot,openclaw), enabling persistent Skill memory for cross-task skill reuse and evolution.",
+      "stars": 8036,
+      "source": "github"
+    },
+    {
+      "title": "MervinPraison/PraisonAI",
+      "url": "https://github.com/MervinPraison/PraisonAI",
+      "description": "PraisonAI 🦞 - Your 24/7 AI employee team. Automate and solve complex challenges with low-code multi-agent AI that plans, researches, codes, and delivers to Telegram, Discord, and WhatsApp. Handoffs, guardrails, memory, RAG, 100+ LLMs.",
+      "stars": 6140,
+      "source": "github"
+    },
+    {
+      "title": "MemMachine/MemMachine",
+      "url": "https://github.com/MemMachine/MemMachine",
+      "description": "Universal memory layer for AI Agents. It provides scalable, extensible, and interoperable memory storage and retrieval to streamline AI agent state management for next-generation autonomous systems.",
+      "stars": 5367,
+      "source": "github"
+    },
+    {
+      "title": "hellodigua/ChatLab",
+      "url": "https://github.com/hellodigua/ChatLab",
+      "description": "Rediscover your social memories with local, AI-powered analysis. 本地化的聊天记录分析工具，通过 AI Agent 回顾你的社交记忆。",
+      "stars": 5262,
+      "source": "github"
+    },
+    {
+      "title": "volcengine/MineContext",
+      "url": "https://github.com/volcengine/MineContext",
+      "description": "MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）",
+      "stars": 5205,
+      "source": "github"
+    },
+    {
+      "title": "memovai/mimiclaw",
+      "url": "https://github.com/memovai/mimiclaw",
+      "description": "MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS. Hardware agents OS.",
+      "stars": 4967,
+      "source": "github"
+    },
+    {
+      "title": "osaurus-ai/osaurus",
+      "url": "https://github.com/osaurus-ai/osaurus",
+      "description": "Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.",
+      "stars": 4502,
+      "source": "github"
+    },
+    {
+      "title": "ModelEngine-Group/nexent",
+      "url": "https://github.com/ModelEngine-Group/nexent",
+      "description": "Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestration with built-in constraints, feedback loops, and control planes.",
+      "stars": 4368,
+      "source": "github"
+    },
+    {
+      "title": "panaversity/learn-agentic-ai",
+      "url": "https://github.com/panaversity/learn-agentic-ai",
+      "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes.",
+      "stars": 4037,
+      "source": "github"
+    },
+    {
+      "title": "EverMind-AI/EverMemOS",
+      "url": "https://github.com/EverMind-AI/EverMemOS",
+      "description": "A memory OS that makes your OpenClaw agents more personal while saving tokens.",
+      "stars": 3537,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.395,
+    "grade": "D",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.265,
+      "diversity": 0.0,
+      "usability": 0.0,
+      "applicability": 0.95,
+      "coverage": 1.0,
+      "ndcg": 0.623,
+      "map": 0.863,
+      "mrr": 0.5,
+      "rouge_1": 0.617,
+      "semantic_sim": 0.266,
+      "coherence": 0.093,
+      "task_completion": 0.504,
+      "tool_use": 0.075,
+      "reasoning_depth": 0.07,
+      "autonomy": 0.1,
+      "multi_agent": 0.08
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

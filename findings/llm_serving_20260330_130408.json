@@ -1,0 +1,159 @@
+{
+  "topic": "llm serving",
+  "timestamp": "2026-03-30T13:04:08.245309",
+  "findings": [
+    {
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "stars": 74668,
+      "source": "github"
+    },
+    {
+      "title": "ray-project/ray",
+      "url": "https://github.com/ray-project/ray",
+      "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+      "stars": 41869,
+      "source": "github"
+    },
+    {
+      "title": "sgl-project/sglang",
+      "url": "https://github.com/sgl-project/sglang",
+      "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+      "stars": 25185,
+      "source": "github"
+    },
+    {
+      "title": "Tiiny-AI/PowerInfer",
+      "url": "https://github.com/Tiiny-AI/PowerInfer",
+      "description": "High-speed Large Language Model Serving for Local Deployment",
+      "stars": 9185,
+      "source": "github"
+    },
+    {
+      "title": "InternLM/lmdeploy",
+      "url": "https://github.com/InternLM/lmdeploy",
+      "description": "LMDeploy is a toolkit for compressing, deploying, and serving LLMs.",
+      "stars": 7736,
+      "source": "github"
+    },
+    {
+      "title": "flashinfer-ai/flashinfer",
+      "url": "https://github.com/flashinfer-ai/flashinfer",
+      "description": "FlashInfer: Kernel Library for LLM Serving",
+      "stars": 5234,
+      "source": "github"
+    },
+    {
+      "title": "kvcache-ai/Mooncake",
+      "url": "https://github.com/kvcache-ai/Mooncake",
+      "description": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.",
+      "stars": 5006,
+      "source": "github"
+    },
+    {
+      "title": "SylphAI-Inc/LLM-engineer-handbook",
+      "url": "https://github.com/SylphAI-Inc/LLM-engineer-handbook",
+      "description": "A curated list of Large Language Model resources, covering model training, serving, fine-tuning, and building LLM applications.",
+      "stars": 4758,
+      "source": "github"
+    },
+    {
+      "title": "lm-sys/RouteLLM",
+      "url": "https://github.com/lm-sys/RouteLLM",
+      "description": "A framework for serving and evaluating LLM routers - save LLM costs without compromising quality",
+      "stars": 4733,
+      "source": "github"
+    },
+    {
+      "title": "skyzh/tiny-llm",
+      "url": "https://github.com/skyzh/tiny-llm",
+      "description": "A course of learning LLM inference serving on Apple Silicon for systems engineers: build a tiny vLLM + Qwen.",
+      "stars": 4041,
+      "source": "github"
+    },
+    {
+      "title": "ModelTC/LightLLM",
+      "url": "https://github.com/ModelTC/LightLLM",
+      "description": "LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.",
+      "stars": 3977,
+      "source": "github"
+    },
+    {
+      "title": "sgl-project/mini-sglang",
+      "url": "https://github.com/sgl-project/mini-sglang",
+      "description": "A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving systems.",
+      "stars": 3820,
+      "source": "github"
+    },
+    {
+      "title": "PaddlePaddle/FastDeploy",
+      "url": "https://github.com/PaddlePaddle/FastDeploy",
+      "description": "High-performance Inference and Deployment Toolkit for LLMs and VLMs based on PaddlePaddle",
+      "stars": 3666,
+      "source": "github"
+    },
+    {
+      "title": "alpa-projects/alpa",
+      "url": "https://github.com/alpa-projects/alpa",
+      "description": "Training and serving large-scale neural networks with auto parallelization.",
+      "stars": 3187,
+      "source": "github"
+    },
+    {
+      "title": "michaelfeil/infinity",
+      "url": "https://github.com/michaelfeil/infinity",
+      "description": "Infinity is a high-throughput, low-latency serving engine for text-embeddings, reranking models, clip, clap and colpali",
+      "stars": 2731,
+      "source": "github"
+    },
+    {
+      "title": "georgia-tech-db/evadb",
+      "url": "https://github.com/georgia-tech-db/evadb",
+      "description": "Database system for AI-powered apps",
+      "stars": 2680,
+      "source": "github"
+    },
+    {
+      "title": "containers/ramalama",
+      "url": "https://github.com/containers/ramalama",
+      "description": "RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of containers.",
+      "stars": 2674,
+      "source": "github"
+    },
+    {
+      "title": "lemonade-sdk/lemonade",
+      "url": "https://github.com/lemonade-sdk/lemonade",
+      "description": "Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk",
+      "stars": 2626,
+      "source": "github"
+    },
+    {
+      "title": "young-geng/EasyLM",
+      "url": "https://github.com/young-geng/EasyLM",
+      "description": "Large language models (LLMs) made easy, EasyLM is a one stop solution for pre-training, finetuning, evaluating and serving LLMs in JAX/Flax.",
+      "stars": 2521,
+      "source": "github"
+    },
+    {
+      "title": "ray-project/llm-applications",
+      "url": "https://github.com/ray-project/llm-applications",
+      "description": "A comprehensive guide to building RAG-based LLM applications for production.",
+      "stars": 1857,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.298,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.142,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

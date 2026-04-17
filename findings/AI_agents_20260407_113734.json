@@ -1,0 +1,280 @@
+{
+  "topic": "AI agents",
+  "timestamp": "2026-04-07T11:37:34.631070",
+  "findings": [
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "stars": 183191,
+      "source": "github"
+    },
+    {
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "stars": 146621,
+      "source": "github"
+    },
+    {
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "description": "Production-ready platform for agentic workflow development.",
+      "stars": 136451,
+      "source": "github"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "stars": 134579,
+      "source": "github"
+    },
+    {
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "description": "The agent engineering platform",
+      "stars": 132565,
+      "source": "github"
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "description": "🔥 The Web Data API for AI - Power AI agents with clean web data",
+      "stars": 105108,
+      "source": "github"
+    },
+    {
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "stars": 104652,
+      "source": "github"
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "stars": 100428,
+      "source": "github"
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "stars": 86290,
+      "source": "github"
+    },
+    {
+      "title": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stars": 77267,
+      "source": "github"
+    },
+    {
+      "title": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+      "stars": 74828,
+      "source": "github"
+    },
+    {
+      "title": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "stars": 73348,
+      "source": "github"
+    },
+    {
+      "title": "dair-ai/Prompt-Engineering-Guide",
+      "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+      "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+      "stars": 72928,
+      "source": "github"
+    },
+    {
+      "title": "karpathy/autoresearch",
+      "url": "https://github.com/karpathy/autoresearch",
+      "description": "AI agents running research on single-GPU nanochat training automatically",
+      "stars": 67393,
+      "source": "github"
+    },
+    {
+      "title": "FoundationAgents/MetaGPT",
+      "url": "https://github.com/FoundationAgents/MetaGPT",
+      "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+      "stars": 66733,
+      "source": "github"
+    },
+    {
+      "title": "OpenBB-finance/OpenBB",
+      "url": "https://github.com/OpenBB-finance/OpenBB",
+      "description": "Financial data platform for analysts, quants and AI agents.",
+      "stars": 65505,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/autogen",
+      "url": "https://github.com/microsoft/autogen",
+      "description": "A programming framework for agentic AI",
+      "stars": 56764,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "description": "12 Lessons to Get Started Building AI Agents",
+      "stars": 56085,
+      "source": "github"
+    },
+    {
+      "title": "mem0ai/mem0",
+      "url": "https://github.com/mem0ai/mem0",
+      "description": "Universal memory layer for AI Agents",
+      "stars": 52115,
+      "source": "github"
+    },
+    {
+      "title": "FlowiseAI/Flowise",
+      "url": "https://github.com/FlowiseAI/Flowise",
+      "description": "Build AI Agents, Visually",
+      "stars": 51612,
+      "source": "github"
+    },
+    {
+      "title": "Rethinking Model Efficiency: Multi-Agent Inference with Large Models",
+      "url": "http://arxiv.org/abs/2604.04929v1",
+      "abstract": "Most vision-language models (VLMs) apply a large language model (LLM) as the decoder, where the response tokens are generated sequentially through autoregression. Therefore, the number of output tokens can be the bottleneck of the end-to-end latency. However, different models may require vastly diff",
+      "source": "arxiv"
+    },
+    {
+      "title": "Stratifying Reinforcement Learning with Signal Temporal Logic",
+      "url": "http://arxiv.org/abs/2604.04923v1",
+      "abstract": "In this paper, we develop a stratification-based semantics for Signal Temporal Logic (STL) in which each atomic predicate is interpreted as a membership test in a stratified space. This perspective reveals a novel correspondence principle between stratification theory and STL, showing that most STL ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Comparing Human Oversight Strategies for Computer-Use Agents",
+      "url": "http://arxiv.org/abs/2604.04918v1",
+      "abstract": "LLM-powered computer-use agents (CUAs) are shifting users from direct manipulation to supervisory coordination. Existing oversight mechanisms, however, have largely been studied as isolated interface features, making broader oversight strategies difficult to compare. We conceptualize CUA oversight a",
+      "source": "arxiv"
+    },
+    {
+      "title": "Analyzing Symbolic Properties for DRL Agents in Systems and Networking",
+      "url": "http://arxiv.org/abs/2604.04914v1",
+      "abstract": "Deep reinforcement learning (DRL) has shown remarkable performance on complex control problems in systems and networking, including adaptive video streaming, wireless resource management, and congestion control. For safe deployment, however, it is critical to reason about how agents behave across th",
+      "source": "arxiv"
+    },
+    {
+      "title": "How AI Aggregation Affects Knowledge",
+      "url": "http://arxiv.org/abs/2604.04906v1",
+      "abstract": "Artificial intelligence (AI) changes social learning when aggregated outputs become training data for future predictions. To study this, we extend the DeGroot model by introducing an AI aggregator that trains on population beliefs and feeds synthesized signals back to agents. We define the learning ",
+      "source": "arxiv"
+    },
+    {
+      "title": "ClickAIXR: On-Device Multimodal Vision-Language Interaction with Real-World Objects in Extended Reality",
+      "url": "http://arxiv.org/abs/2604.04905v1",
+      "abstract": "We present ClickAIXR, a novel on-device framework for multimodal vision-language interaction with objects in extended reality (XR). Unlike prior systems that rely on cloud-based AI (e.g., ChatGPT) or gaze-based selection (e.g., GazePointAR), ClickAIXR integrates an on-device vision-language model (V",
+      "source": "arxiv"
+    },
+    {
+      "title": "FileGram: Grounding Agent Personalization in File-System Behavioral Traces",
+      "url": "http://arxiv.org/abs/2604.04901v1",
+      "abstract": "Coworking AI agents operating within local file systems are rapidly emerging as a paradigm in human-AI interaction; however, effective personalization remains limited by severe data constraints, as strict privacy barriers and the difficulty of jointly collecting multimodal real-world traces prevent ",
+      "source": "arxiv"
+    },
+    {
+      "title": "QED-Nano: Teaching a Tiny Model to Prove Hard Theorems",
+      "url": "http://arxiv.org/abs/2604.04898v1",
+      "abstract": "Proprietary AI systems have recently demonstrated impressive capabilities on complex proof-based problems, with gold-level performance reported at the 2025 International Mathematical Olympiad (IMO). However, the training pipelines behind these systems remain largely undisclosed, and their reliance o",
+      "source": "arxiv"
+    },
+    {
+      "title": "Agentic Federated Learning: The Future of Distributed Training Orchestration",
+      "url": "http://arxiv.org/abs/2604.04895v1",
+      "abstract": "Although Federated Learning (FL) promises privacy and distributed collaboration, its effectiveness in real-world scenarios is often hampered by the stochastic heterogeneity of clients and unpredictable system dynamics. Existing static optimization approaches fail to adapt to these fluctuations, resu",
+      "source": "arxiv"
+    },
+    {
+      "title": "Learning, Potential, and Retention: An Approach for Evaluating Adaptive AI-Enabled Medical Devices",
+      "url": "http://arxiv.org/abs/2604.04878v1",
+      "abstract": "This work addresses challenges in evaluating adaptive artificial intelligence (AI) models for medical devices, where iterative updates to both models and evaluation datasets complicate performance assessment. We introduce a novel approach with three complementary measurements: learning (model improv",
+      "source": "arxiv"
+    },
+    {
+      "title": "Incompleteness of AI Safety Verification via Kolmogorov Complexity",
+      "url": "http://arxiv.org/abs/2604.04876v1",
+      "abstract": "Ensuring that artificial intelligence (AI) systems satisfy formal safety and policy constraints is a central challenge in safety-critical domains. While limitations of verification are often attributed to combinatorial complexity and model expressiveness, we show that they arise from intrinsic infor",
+      "source": "arxiv"
+    },
+    {
+      "title": "DIRECT: Video Mashup Creation via Hierarchical Multi-Agent Planning and Intent-Guided Editing",
+      "url": "http://arxiv.org/abs/2604.04875v1",
+      "abstract": "Video mashup creation represents a complex video editing paradigm that recomposes existing footage to craft engaging audio-visual experiences, demanding intricate orchestration across semantic, visual, and auditory dimensions and multiple levels. However, existing automated editing frameworks often ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Synthetic Sandbox for Training Machine Learning Engineering Agents",
+      "url": "http://arxiv.org/abs/2604.04872v1",
+      "abstract": "As large language model agents advance beyond software engineering (SWE) tasks toward machine learning engineering (MLE), verifying agent behavior becomes orders of magnitude more expensive: while SWE tasks can be verified via fast-executing unit tests, MLE verification requires running full ML pipe",
+      "source": "arxiv"
+    },
+    {
+      "title": "StatsClaw: An AI-Collaborative Workflow for Statistical Software Development",
+      "url": "http://arxiv.org/abs/2604.04871v1",
+      "abstract": "Translating statistical methods into reliable software is a persistent bottleneck in quantitative research. Existing AI code-generation tools produce code quickly but cannot guarantee faithful implementation -- a critical requirement for statistical software. We introduce StatsClaw, a multi-agent ar",
+      "source": "arxiv"
+    },
+    {
+      "title": "MemMachine: A Ground-Truth-Preserving Memory System for Personalized AI Agents",
+      "url": "http://arxiv.org/abs/2604.04853v1",
+      "abstract": "Large Language Model (LLM) agents require persistent memory to maintain personalization, factual continuity, and long-horizon reasoning, yet standard context-window and retrieval-augmented generation (RAG) pipelines degrade over multi-session interactions. We present MemMachine, an open-source memor",
+      "source": "arxiv"
+    },
+    {
+      "title": "Strengthening Human-Centric Chain-of-Thought Reasoning Integrity in LLMs via a Structured Prompt Framework",
+      "url": "http://arxiv.org/abs/2604.04852v1",
+      "abstract": "Chain-of-Thought (CoT) prompting has been used to enhance the reasoning capability of LLMs. However, its reliability in security-sensitive analytical tasks remains insufficiently examined, particularly under structured human evaluation. Alternative approaches, such as model scaling and fine-tuning c",
+      "source": "arxiv"
+    },
+    {
+      "title": "Latent Profiles of AI Risk Perception and Their Differential Association with Community Driving Safety Concerns: A Person-Centered Analysis",
+      "url": "http://arxiv.org/abs/2604.04849v1",
+      "abstract": "Public attitudes toward artificial intelligence (AI) and driving safety are typically studied in isolation using variable-centered methods that assume population homogeneity, yet risk perception theory predicts that these evaluations covary within individuals as expressions of underlying worldviews.",
+      "source": "arxiv"
+    },
+    {
+      "title": "Full-Duplex-Bench-v3: Benchmarking Tool Use for Full-Duplex Voice Agents Under Real-World Disfluency",
+      "url": "http://arxiv.org/abs/2604.04847v1",
+      "abstract": "We introduce Full-Duplex-Bench-v3 (FDB-v3), a benchmark for evaluating spoken language models under naturalistic speech conditions and multi-step tool use. Unlike prior work, our dataset consists entirely of real human audio annotated for five disfluency categories, paired with scenarios requiring c",
+      "source": "arxiv"
+    },
+    {
+      "title": "InfBaGel: Human-Object-Scene Interaction Generation with Dynamic Perception and Iterative Refinement",
+      "url": "http://arxiv.org/abs/2604.04843v1",
+      "abstract": "Human-object-scene interactions (HOSI) generation has broad applications in embodied AI, simulation, and animation. Unlike human-object interaction (HOI) and human-scene interaction (HSI), HOSI generation requires reasoning over dynamic object-scene changes, yet suffers from limited annotated data. ",
+      "source": "arxiv"
+    },
+    {
+      "title": "ANX: Protocol-First Design for AI Agent Interaction with a Supporting 3EX Decoupled Architecture",
+      "url": "http://arxiv.org/abs/2604.04820v1",
+      "abstract": "AI agents, autonomous digital actors, need agent-native protocols; existing methods include GUI automation and MCP-based skills, with defects of high token consumption, fragmented interaction, inadequate security, due to lacking a unified top-level framework and key components, each independent modu",
+      "source": "arxiv"
+    }
+  ],
+  "quality": {
+    "total": 40,
+    "quality_score": 0.493,
+    "dimensions": {
+      "authority": 0.95,
+      "quality": 0.025,
+      "star_power": 0.503,
+      "diversity": 0.5
+    },
+    "sources_breakdown": {
+      "github": 20,
+      "arxiv": 20
+    }
+  }
+}

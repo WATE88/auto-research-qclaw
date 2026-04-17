@@ -1,0 +1,159 @@
+{
+  "topic": "vector database",
+  "timestamp": "2026-03-30T13:02:56.233565",
+  "findings": [
+    {
+      "title": "redis/redis",
+      "url": "https://github.com/redis/redis",
+      "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
+      "stars": 73569,
+      "source": "github"
+    },
+    {
+      "title": "milvus-io/milvus",
+      "url": "https://github.com/milvus-io/milvus",
+      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+      "stars": 43494,
+      "source": "github"
+    },
+    {
+      "title": "QuivrHQ/quivr",
+      "url": "https://github.com/QuivrHQ/quivr",
+      "description": "Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want.",
+      "stars": 39073,
+      "source": "github"
+    },
+    {
+      "title": "qdrant/qdrant",
+      "url": "https://github.com/qdrant/qdrant",
+      "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+      "stars": 29915,
+      "source": "github"
+    },
+    {
+      "title": "weaviate/weaviate",
+      "url": "https://github.com/weaviate/weaviate",
+      "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",
+      "stars": 15920,
+      "source": "github"
+    },
+    {
+      "title": "langchain4j/langchain4j",
+      "url": "https://github.com/langchain4j/langchain4j",
+      "description": "LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks.",
+      "stars": 11369,
+      "source": "github"
+    },
+    {
+      "title": "oceanbase/oceanbase",
+      "url": "https://github.com/oceanbase/oceanbase",
+      "description": "The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.",
+      "stars": 10041,
+      "source": "github"
+    },
+    {
+      "title": "alibaba/zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "stars": 9189,
+      "source": "github"
+    },
+    {
+      "title": "alibaba/AliSQL",
+      "url": "https://github.com/alibaba/AliSQL",
+      "description": "AliSQL is a MySQL branch originated from Alibaba Group. Fetch document from Release Notes at bottom.",
+      "stars": 5776,
+      "source": "github"
+    },
+    {
+      "title": "objectbox/objectbox-java",
+      "url": "https://github.com/objectbox/objectbox-java",
+      "description": "Database for Android and JVM - first and fast, lightweight on-device vector database",
+      "stars": 4602,
+      "source": "github"
+    },
+    {
+      "title": "infiniflow/infinity",
+      "url": "https://github.com/infiniflow/infinity",
+      "description": "The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vector, tensor (multi-vector), and full-text.",
+      "stars": 4461,
+      "source": "github"
+    },
+    {
+      "title": "HelixDB/helix-db",
+      "url": "https://github.com/HelixDB/helix-db",
+      "description": "HelixDB is an open-source graph-vector database built from scratch in Rust.",
+      "stars": 4026,
+      "source": "github"
+    },
+    {
+      "title": "unum-cloud/USearch",
+      "url": "https://github.com/unum-cloud/USearch",
+      "description": "Fast Open-Source Search & Clustering engine × for Vectors & Arbitrary Objects × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍",
+      "stars": 4007,
+      "source": "github"
+    },
+    {
+      "title": "cozodb/cozo",
+      "url": "https://github.com/cozodb/cozo",
+      "description": "A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI!",
+      "stars": 3927,
+      "source": "github"
+    },
+    {
+      "title": "kuzudb/kuzu",
+      "url": "https://github.com/kuzudb/kuzu",
+      "description": "Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.",
+      "stars": 3809,
+      "source": "github"
+    },
+    {
+      "title": "GanymedeNil/document.ai",
+      "url": "https://github.com/GanymedeNil/document.ai",
+      "description": "基于向量数据库与GPT3.5的通用本地知识库方案(A universal local knowledge base solution based on vector database and GPT3.5)",
+      "stars": 3682,
+      "source": "github"
+    },
+    {
+      "title": "pashpashpash/vault-ai",
+      "url": "https://github.com/pashpashpash/vault-ai",
+      "description": "OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend.",
+      "stars": 3401,
+      "source": "github"
+    },
+    {
+      "title": "hegelai/prompttools",
+      "url": "https://github.com/hegelai/prompttools",
+      "description": "Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB).",
+      "stars": 3029,
+      "source": "github"
+    },
+    {
+      "title": "pinecone-io/examples",
+      "url": "https://github.com/pinecone-io/examples",
+      "description": "Jupyter Notebooks to help you get hands-on with Pinecone vector databases",
+      "stars": 2999,
+      "source": "github"
+    },
+    {
+      "title": "dblalock/bolt",
+      "url": "https://github.com/dblalock/bolt",
+      "description": "10x faster matrix and vector operations",
+      "stars": 2518,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.308,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.189,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "topic": "local LLM deployment",
+  "timestamp": "2026-03-30T12:58:44.812757",
+  "findings": [
+    {
+      "title": "Tiiny-AI/PowerInfer",
+      "url": "https://github.com/Tiiny-AI/PowerInfer",
+      "description": "High-speed Large Language Model Serving for Local Deployment",
+      "stars": 9185,
+      "source": "github"
+    },
+    {
+      "title": "Troyanovsky/Local-LLM-Comparison-Colab-UI",
+      "url": "https://github.com/Troyanovsky/Local-LLM-Comparison-Colab-UI",
+      "description": "Compare the performance of different LLM that can be deployed locally on consumer hardware. Run yourself with Colab WebUI.",
+      "stars": 1098,
+      "source": "github"
+    },
+    {
+      "title": "QmiAI/Qmedia",
+      "url": "https://github.com/QmiAI/Qmedia",
+      "description": "An open-source AI content search engine designed specifically for content creators. Supports extraction of text, images, and short videos. Allows full local deployment (web app, RAG server, LLM server). Supports multi-modal RAG content Q&A. ",
+      "stars": 617,
+      "source": "github"
+    },
+    {
+      "title": "intergalacticalvariable/reader",
+      "url": "https://github.com/intergalacticalvariable/reader",
+      "description": "📚 This is an adapted version of Jina AI's Reader for local deployment using Docker. Convert any URL to an LLM-friendly input with a simple prefix http://127.0.0.1:3000/https://website-to-scrape.com/",
+      "stars": 299,
+      "source": "github"
+    },
+    {
+      "title": "powerserve-project/PowerServe",
+      "url": "https://github.com/powerserve-project/PowerServe",
+      "description": "High-speed and easy-use LLM serving framework for local deployment",
+      "stars": 147,
+      "source": "github"
+    },
+    {
+      "title": "enescingoz/colab-llm",
+      "url": "https://github.com/enescingoz/colab-llm",
+      "description": "This repository provides a ready-to-use Google Colab notebook that turns Colab into a temporary server for running local LLM models using Ollama. It exposes the model API via a secure Cloudflare tunnel, allowing remote access from tools like curl or ROO Code in VS Code — no server setup or cloud deployment required.",
+      "stars": 122,
+      "source": "github"
+    },
+    {
+      "title": "uukuguy/speechless",
+      "url": "https://github.com/uukuguy/speechless",
+      "description": "LLM based agents with proactive interactions, long-term memory, external tool integration, and local deployment capabilities.",
+      "stars": 110,
+      "source": "github"
+    },
+    {
+      "title": "SFARPak/AliFullStack",
+      "url": "https://github.com/SFARPak/AliFullStack",
+      "description": "Free Local-first Full-Stack AI App Builder & Automation — Build, Test & Deploy with LLMs - Antigravity, Lovable, Bolt opensource Alternative ✨ 🌟 Star if you like it!",
+      "stars": 50,
+      "source": "github"
+    },
+    {
+      "title": "anseryuer/Local_LLM_Deployment_Guide_Chinese",
+      "url": "https://github.com/anseryuer/Local_LLM_Deployment_Guide_Chinese",
+      "description": "本地部署大语言模型的中文教学",
+      "stars": 43,
+      "source": "github"
+    },
+    {
+      "title": "SAP/STARS",
+      "url": "https://github.com/SAP/STARS",
+      "description": "AI agent whose purpose is to conduct vulnerability tests on LLMs from SAP AI Core or from local deployments, or models from HuggingFace. The goal of this project is to identify and correct any potential security vulnerabilities.",
+      "stars": 43,
+      "source": "github"
+    },
+    {
+      "title": "leogopal/bolt.local.llm",
+      "url": "https://github.com/leogopal/bolt.local.llm",
+      "description": "Run bolt.new locallly with any LLM API key. Prompt, run, edit, and deploy full-stack web applications using any LLM you want!",
+      "stars": 39,
+      "source": "github"
+    },
+    {
+      "title": "Sebulba46/document-RAG-pipeline",
+      "url": "https://github.com/Sebulba46/document-RAG-pipeline",
+      "description": "This guide is made to help you deploy your own document RAG pipline with Open-WebUI and Local LLM.",
+      "stars": 38,
+      "source": "github"
+    },
+    {
+      "title": "splunk/splunk-mcp-server2",
+      "url": "https://github.com/splunk/splunk-mcp-server2",
+      "description": "Unofficial. Splunk MCP server. Implemented in Python and TypeScript/JS. Runs searches, queries Splunk, and outputs data as JSON, CSV, or Markdown for agentic LLM workflows. Includes guardrails for input SPL validation and output sanitization. SSE/stdio transport support. Deployment options: Stdio, local HTTP (SSE), or Docker.",
+      "stars": 30,
+      "source": "github"
+    },
+    {
+      "title": "syzhy113/Engineering-Code-Analysis",
+      "url": "https://github.com/syzhy113/Engineering-Code-Analysis",
+      "description": "Automated and fast parsing of local project directories and GitHub directories, one-click deployment of local parsing with AutoGPT（自动化快速解析本地工程目录和github目录，一键部署本地解析AutoGPT）",
+      "stars": 26,
+      "source": "github"
+    },
+    {
+      "title": "SagarBiswas-MultiHAT/Speech2Speech-AIAssistant",
+      "url": "https://github.com/SagarBiswas-MultiHAT/Speech2Speech-AIAssistant",
+      "description": " Speech2Speech-AIAssistant; A lightweight, offline-capable voice assistant that listens for a wake phrase, converts speech to text, runs local or API-based intent handling, and replies with natural-sounding TTS. Built for quick local deployment, it supports configurable wake words, microphone I/O, and easy integration with custom actions or LLMs.",
+      "stars": 21,
+      "source": "github"
+    },
+    {
+      "title": "gjbex/Deploying-LLMs-locally",
+      "url": "https://github.com/gjbex/Deploying-LLMs-locally",
+      "description": "Material for a training on AI tools",
+      "stars": 18,
+      "source": "github"
+    },
+    {
+      "title": "khaidq97/SimpleChatbot",
+      "url": "https://github.com/khaidq97/SimpleChatbot",
+      "description": "Models: Deepseek R1 models, Llama3.2, Qwen2.5. Integrations: Ollama, Gradio. Supports Local LLM.  Test and deploy the latest LLM models in the fastest and most efficient way",
+      "stars": 16,
+      "source": "github"
+    },
+    {
+      "title": "JustInCache/n8n-workflows",
+      "url": "https://github.com/JustInCache/n8n-workflows",
+      "description": "Curated, production‑ready collection of 2,000+ n8n workflows across 350+ integrations—featuring a zero‑setup searchable web UI, local API, and turnkey Docker/Compose/Kubernetes deployment.",
+      "stars": 16,
+      "source": "github"
+    },
+    {
+      "title": "DAILtech/Qwen3-deploy-for-developer",
+      "url": "https://github.com/DAILtech/Qwen3-deploy-for-developer",
+      "description": "Local deployment guidance of Qwen3 for developer, and CLI script implementation.",
+      "stars": 16,
+      "source": "github"
+    },
+    {
+      "title": "evereven-tech/horizons-omnichat",
+      "url": "https://github.com/evereven-tech/horizons-omnichat",
+      "description": "Modular chatbot solution integrating Ollama, Open-WebUI, LiteLLM and AWS Bedrock, with on-premises, hybrid, AWS and Kubernetes deployment options",
+      "stars": 16,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.283,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.065,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

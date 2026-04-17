@@ -1,0 +1,271 @@
+{
+  "topic": "AI deployment",
+  "round": 1,
+  "timestamp": "2026-03-27T16:14:58.450544",
+  "findings": [
+    {
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "stars": 146291,
+      "source": "github"
+    },
+    {
+      "title": "ray-project/ray",
+      "url": "https://github.com/ray-project/ray",
+      "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+      "stars": 41879,
+      "source": "github"
+    },
+    {
+      "title": "reworkd/AgentGPT",
+      "url": "https://github.com/reworkd/AgentGPT",
+      "description": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.",
+      "stars": 35890,
+      "source": "github"
+    },
+    {
+      "title": "zeroclaw-labs/zeroclaw",
+      "url": "https://github.com/zeroclaw-labs/zeroclaw",
+      "description": "Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀",
+      "stars": 28931,
+      "source": "github"
+    },
+    {
+      "title": "labring/FastGPT",
+      "url": "https://github.com/labring/FastGPT",
+      "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+      "stars": 27548,
+      "source": "github"
+    },
+    {
+      "title": "simstudioai/sim",
+      "url": "https://github.com/simstudioai/sim",
+      "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+      "stars": 27221,
+      "source": "github"
+    },
+    {
+      "title": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "stars": 27151,
+      "source": "github"
+    },
+    {
+      "title": "coze-dev/coze-studio",
+      "url": "https://github.com/coze-dev/coze-studio",
+      "description": "An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.",
+      "stars": 20338,
+      "source": "github"
+    },
+    {
+      "title": "marimo-team/marimo",
+      "url": "https://github.com/marimo-team/marimo",
+      "description": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
+      "stars": 19961,
+      "source": "github"
+    },
+    {
+      "title": "google/adk-python",
+      "url": "https://github.com/google/adk-python",
+      "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+      "stars": 18614,
+      "source": "github"
+    },
+    {
+      "title": "wasp-lang/wasp",
+      "url": "https://github.com/wasp-lang/wasp",
+      "description": "The batteries-included full-stack framework for the AI era. Develop JS/TS web apps (React, Node.js, and Prisma) using declarative code that abstracts away complex full-stack features like auth, background jobs, RPC, email sending, end-to-end type safety, single-command deployment, and more.",
+      "stars": 18222,
+      "source": "github"
+    },
+    {
+      "title": "labring/sealos",
+      "url": "https://github.com/labring/sealos",
+      "description": "Sealos is an AI-native Cloud Operating System built on Kubernetes that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect for building and scaling modern AI applications, managed databases (MySQL, PostgreSQL, Redis, MongoDB) and complex microservice architectures.",
+      "stars": 17074,
+      "source": "github"
+    },
+    {
+      "title": "botpress/botpress",
+      "url": "https://github.com/botpress/botpress",
+      "description": "The open-source hub to build & deploy GPT/LLM Agents ⚡️",
+      "stars": 14620,
+      "source": "github"
+    },
+    {
+      "title": "triggerdotdev/trigger.dev",
+      "url": "https://github.com/triggerdotdev/trigger.dev",
+      "description": "Trigger.dev – build and deploy fully‑managed AI agents and workflows",
+      "stars": 14243,
+      "source": "github"
+    },
+    {
+      "title": "wasp-lang/open-saas",
+      "url": "https://github.com/wasp-lang/open-saas",
+      "description": "A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework.",
+      "stars": 13660,
+      "source": "github"
+    },
+    {
+      "title": "agentscope-ai/CoPaw",
+      "url": "https://github.com/agentscope-ai/CoPaw",
+      "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
+      "stars": 13424,
+      "source": "github"
+    },
+    {
+      "title": "Lightning-AI/litgpt",
+      "url": "https://github.com/Lightning-AI/litgpt",
+      "description": "20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.",
+      "stars": 13263,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/promptflow",
+      "url": "https://github.com/microsoft/promptflow",
+      "description": "Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.",
+      "stars": 11080,
+      "source": "github"
+    },
+    {
+      "title": "Netflix/metaflow",
+      "url": "https://github.com/Netflix/metaflow",
+      "description": "Build, Manage and Deploy AI/ML Systems",
+      "stars": 9977,
+      "source": "github"
+    },
+    {
+      "title": "openvinotoolkit/openvino",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "stars": 9958,
+      "source": "github"
+    },
+    {
+      "title": "Back to Basics: Revisiting ASR in the Age of Voice Agents",
+      "url": "https://arxiv.org/abs/2603.25727v1",
+      "abstract": "Automatic speech recognition (ASR) systems have achieved near-human accuracy on curated benchmarks, yet still fail in real-world voice agents under conditions that current evaluations do not systemati",
+      "source": "arxiv"
+    },
+    {
+      "title": "AnyHand: A Large-Scale Synthetic Dataset for RGB(-D) Hand Pose Estimation",
+      "url": "https://arxiv.org/abs/2603.25726v1",
+      "abstract": "We present AnyHand, a large-scale synthetic dataset designed to advance the state of the art in 3D hand pose estimation from both RGB-only and RGB-D inputs. While recent works with foundation approach",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Unified Memory Perspective for Probabilistic Trustworthy AI",
+      "url": "https://arxiv.org/abs/2603.25692v1",
+      "abstract": "Trustworthy artificial intelligence increasingly relies on probabilistic computation to achieve robustness, interpretability, security and privacy. In practical systems, such workloads interleave dete",
+      "source": "arxiv"
+    },
+    {
+      "title": "LEMMA: Laplacian pyramids for Efficient Marine SeMAntic Segmentation",
+      "url": "https://arxiv.org/abs/2603.25689v1",
+      "abstract": "Semantic segmentation in marine environments is crucial for the autonomous navigation of unmanned surface vessels (USVs) and coastal Earth Observation events such as oil spills. However, existing meth",
+      "source": "arxiv"
+    },
+    {
+      "title": "Longitudinal Digital Phenotyping for Early Cognitive-Motor Screening",
+      "url": "https://arxiv.org/abs/2603.25673v1",
+      "abstract": "Early detection of atypical cognitive-motor development is critical for timely intervention, yet traditional assessments rely heavily on subjective, static evaluations. The integration of digital devi",
+      "source": "arxiv"
+    },
+    {
+      "title": "SHAPR: Operationalising Human-AI Collaborative Research Through Structured Knowledge Generation",
+      "url": "https://arxiv.org/abs/2603.25660v1",
+      "abstract": "SHAPR (Solo Human-Centred and AI-Assisted Practice) is a framework for research software development that integrates human-centred decision-making with AI-assisted capabilities. While prior work intro",
+      "source": "arxiv"
+    },
+    {
+      "title": "Colon-Bench: An Agentic Workflow for Scalable Dense Lesion Annotation in Full-Procedure Colonoscopy Videos",
+      "url": "https://arxiv.org/abs/2603.25645v1",
+      "abstract": "Early screening via colonoscopy is critical for colon cancer prevention, yet developing robust AI systems for this domain is hindered by the lack of densely annotated, long-sequence video datasets. Ex",
+      "source": "arxiv"
+    },
+    {
+      "title": "Is Mathematical Problem-Solving Expertise in Large Language Models Associated with Assessment Performance?",
+      "url": "https://arxiv.org/abs/2603.25633v1",
+      "abstract": "Large Language Models (LLMs) are increasingly used in math education not only as problem solvers but also as assessors of learners' reasoning. However, it remains unclear whether stronger math problem",
+      "source": "arxiv"
+    },
+    {
+      "title": "Intelligent Reflection as a Service (IRaaS): System Architecture, Enabling Technologies, and Deployment Strategy",
+      "url": "https://arxiv.org/abs/2603.25593v1",
+      "abstract": "Reflecting intelligent surface (RIS) is a promising technology for 6G mobile communications. However, identifying the niche of RIS within the mobile networks is a challenging task. To mitigate the esc",
+      "source": "arxiv"
+    },
+    {
+      "title": "Cooperative Deep Reinforcement Learning for Fair RIS Allocation",
+      "url": "https://arxiv.org/abs/2603.25572v1",
+      "abstract": "The deployment of reconfigurable intelligent surfaces (RISs) introduces new challenges for resource allocation in multi-cell wireless networks, particularly when user loads are uneven across base stat",
+      "source": "arxiv"
+    },
+    {
+      "title": "TAAC: A gate into Trustable Audio Affective Computing",
+      "url": "https://arxiv.org/abs/2603.25570v1",
+      "abstract": "With the emergence of AI techniques for depression diagnosis, the conflict between high demand and limited supply for depression screening has been significantly alleviated. Among various modal data, ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Rotatable Antenna-Empowered Wireless Networks: A Tutorial",
+      "url": "https://arxiv.org/abs/2603.25559v1",
+      "abstract": "Non-fixed flexible antenna architectures, such as fluid antenna system (FAS), movable antenna (MA), and pinching antenna, have garnered significant interest in recent years. Among them, rotatable ante",
+      "source": "arxiv"
+    },
+    {
+      "title": "Towards Embodied AI with MuscleMimic: Unlocking full-body musculoskeletal motor learning at scale",
+      "url": "https://arxiv.org/abs/2603.25544v1",
+      "abstract": "Learning motor control for muscle-driven musculoskeletal models is hindered by the computational cost of biomechanically accurate simulation and the scarcity of validated, open full-body models. Here ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Investigating the Fundamental Limit: A Feasibility Study of Hybrid-Neural Archival",
+      "url": "https://arxiv.org/abs/2603.25526v1",
+      "abstract": "Large Language Models (LLMs) possess a theoretical capability to model information density far beyond the limits of classical statistical methods (e.g., Lempel-Ziv). However, utilizing this capability",
+      "source": "arxiv"
+    },
+    {
+      "title": "Lightweight GenAI for Network Traffic Synthesis: Fidelity, Augmentation, and Classification",
+      "url": "https://arxiv.org/abs/2603.25507v1",
+      "abstract": "Accurate Network Traffic Classification (NTC) is increasingly constrained by limited labeled data and strict privacy requirements. While Network Traffic Generation (NTG) provides an effective means to",
+      "source": "arxiv"
+    },
+    {
+      "title": "Unveiling the Resilience of LLM-Enhanced Search Engines against Black-Hat SEO Manipulation",
+      "url": "https://arxiv.org/abs/2603.25500v1",
+      "abstract": "The emergence of Large Language Model-enhanced Search Engines (LLMSEs) has revolutionized information retrieval by integrating web-scale search capabilities with AI-powered summarization. While these ",
+      "source": "arxiv"
+    },
+    {
+      "title": "EcoThink: A Green Adaptive Inference Framework for Sustainable and Accessible Agents",
+      "url": "https://arxiv.org/abs/2603.25498v1",
+      "abstract": "As the Web transitions from static retrieval to generative interaction, the escalating environmental footprint of Large Language Models (LLMs) presents a critical sustainability challenge. Current par",
+      "source": "arxiv"
+    },
+    {
+      "title": "Interpretable PM2.5 Forecasting for Urban Air Quality: A Comparative Study of Operational Time-Series Models",
+      "url": "https://arxiv.org/abs/2603.25495v1",
+      "abstract": "Accurate short-term air-quality forecasting is essential for public health protection and urban management, yet many recent forecasting frameworks rely on complex, data-intensive, and computationally ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Maximum Entropy Behavior Exploration for Sim2Real Zero-Shot Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2603.25464v1",
+      "abstract": "Zero-shot reinforcement learning (RL) algorithms aim to learn a family of policies from a reward-free dataset, and recover optimal policies for any reward function directly at test time. Naturally, th",
+      "source": "arxiv"
+    },
+    {
+      "title": "CIAR: Interval-based Collaborative Decoding for Image Generation Acceleration",
+      "url": "https://arxiv.org/abs/2603.25463v1",
+      "abstract": "Auto-regressive (AR) models have recently made notable progress in image generation, achieving performance comparable to diffusion-based approaches. However, their computational intensity and sequenti",
+      "source": "arxiv"
+    }
+  ],
+  "sources": [
+    "github",
+    "arxiv"
+  ]
+}

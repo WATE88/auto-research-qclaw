@@ -1,0 +1,159 @@
+{
+  "topic": "text classification",
+  "timestamp": "2026-03-30T13:05:21.664225",
+  "findings": [
+    {
+      "title": "facebookresearch/fastText",
+      "url": "https://github.com/facebookresearch/fastText",
+      "description": "Library for fast text representation and classification.",
+      "stars": 26514,
+      "source": "github"
+    },
+    {
+      "title": "brightmart/text_classification",
+      "url": "https://github.com/brightmart/text_classification",
+      "description": "all kinds of text classification models and more with deep learning",
+      "stars": 7949,
+      "source": "github"
+    },
+    {
+      "title": "649453932/Chinese-Text-Classification-Pytorch",
+      "url": "https://github.com/649453932/Chinese-Text-Classification-Pytorch",
+      "description": "中文文本分类，TextCNN，TextRNN，FastText，TextRCNN，BiLSTM_Attention，DPCNN，Transformer，基于pytorch，开箱即用。",
+      "stars": 5721,
+      "source": "github"
+    },
+    {
+      "title": "dennybritz/cnn-text-classification-tf",
+      "url": "https://github.com/dennybritz/cnn-text-classification-tf",
+      "description": "Convolutional Neural Network for Text Classification in Tensorflow",
+      "stars": 5684,
+      "source": "github"
+    },
+    {
+      "title": "649453932/Bert-Chinese-Text-Classification-Pytorch",
+      "url": "https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch",
+      "description": "使用Bert，ERNIE，进行中文文本分类",
+      "stars": 4412,
+      "source": "github"
+    },
+    {
+      "title": "gaussic/text-classification-cnn-rnn",
+      "url": "https://github.com/gaussic/text-classification-cnn-rnn",
+      "description": "CNN-RNN中文文本分类，基于TensorFlow",
+      "stars": 4297,
+      "source": "github"
+    },
+    {
+      "title": "ThilinaRajapakse/simpletransformers",
+      "url": "https://github.com/ThilinaRajapakse/simpletransformers",
+      "description": "Transformers for Information Retrieval, Text Classification, NER, QA, Language Modelling, Language Generation, T5, Multi-Modal, and Conversational AI",
+      "stars": 4237,
+      "source": "github"
+    },
+    {
+      "title": "HarderThenHarder/transformers_tasks",
+      "url": "https://github.com/HarderThenHarder/transformers_tasks",
+      "description": "⭐️ NLP Algorithms with transformers lib. Supporting Text-Classification, Text-Generation, Information-Extraction, Text-Matching, RLHF, SFT etc.",
+      "stars": 2413,
+      "source": "github"
+    },
+    {
+      "title": "BrikerMan/Kashgari",
+      "url": "https://github.com/BrikerMan/Kashgari",
+      "description": "Kashgari is a production-level NLP Transfer learning framework built on top of tf.keras for text-labeling and text-classification, includes Word2Vec, BERT, and GPT2 Language Embedding.",
+      "stars": 2385,
+      "source": "github"
+    },
+    {
+      "title": "UniversalDataTool/universal-data-tool",
+      "url": "https://github.com/UniversalDataTool/universal-data-tool",
+      "description": "Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.",
+      "stars": 2060,
+      "source": "github"
+    },
+    {
+      "title": "Tencent/NeuralNLP-NeuralClassifier",
+      "url": "https://github.com/Tencent/NeuralNLP-NeuralClassifier",
+      "description": "An Open-source Neural Hierarchical Multi-label Text Classification Toolkit",
+      "stars": 1920,
+      "source": "github"
+    },
+    {
+      "title": "kk7nc/Text_Classification",
+      "url": "https://github.com/kk7nc/Text_Classification",
+      "description": "Text Classification Algorithms: A Survey",
+      "stars": 1831,
+      "source": "github"
+    },
+    {
+      "title": "yongzhuo/Keras-TextClassification",
+      "url": "https://github.com/yongzhuo/Keras-TextClassification",
+      "description": "中文长文本分类、短句子分类、多标签分类、两句子相似度（Chinese Text Classification of Keras NLP, multi-label classify, or sentence classify, long or short），字词句向量嵌入层（embeddings）和网络层（graph）构建基类，FastText，TextCNN，CharCNN，TextRNN,  RCNN,  DCNN, DPCNN, VDCNN, CRNN, Bert, Xlnet, Albert, Attention, DeepMoji, HAN, 胶囊网络-CapsuleNet, Transformer-encode,  Seq2seq,  SWEM, LEAM, TextGCN",
+      "stars": 1809,
+      "source": "github"
+    },
+    {
+      "title": "bazingagin/npc_gzip",
+      "url": "https://github.com/bazingagin/npc_gzip",
+      "description": "Code for Paper: “Low-Resource” Text Classification: A Parameter-Free Classification Method with Compressors",
+      "stars": 1786,
+      "source": "github"
+    },
+    {
+      "title": "timoschick/pet",
+      "url": "https://github.com/timoschick/pet",
+      "description": "This repository contains the code for \"Exploiting Cloze Questions for Few-Shot Text Classification and Natural Language Inference\"",
+      "stars": 1627,
+      "source": "github"
+    },
+    {
+      "title": "yongzhuo/nlp_xiaojiang",
+      "url": "https://github.com/yongzhuo/nlp_xiaojiang",
+      "description": "自然语言处理（nlp），小姜机器人（闲聊检索式chatbot），BERT句向量-相似度（Sentence Similarity），XLNET句向量-相似度（text xlnet embedding），文本分类（Text classification）， 实体提取（ner，bert+bilstm+crf），数据增强（text augment, data enhance），同义句同义词生成，句子主干提取（mainpart），中文汉语短文本相似度，文本特征工程，keras-http-service调用",
+      "stars": 1539,
+      "source": "github"
+    },
+    {
+      "title": "yao8839836/text_gcn",
+      "url": "https://github.com/yao8839836/text_gcn",
+      "description": "Graph Convolutional Networks for Text Classification. AAAI 2019",
+      "stars": 1391,
+      "source": "github"
+    },
+    {
+      "title": "linkedin/detext",
+      "url": "https://github.com/linkedin/detext",
+      "description": "DeText: A Deep Neural Text Understanding Framework for Ranking and Classification Tasks ",
+      "stars": 1265,
+      "source": "github"
+    },
+    {
+      "title": "kavgan/nlp-in-practice",
+      "url": "https://github.com/kavgan/nlp-in-practice",
+      "description": "Starter code to solve real world text data problems. Includes: Gensim Word2Vec, phrase embeddings, Text Classification with Logistic Regression, word count with pyspark, simple text preprocessing, pre-trained embeddings and more.",
+      "stars": 1183,
+      "source": "github"
+    },
+    {
+      "title": "huridocs/pdf-document-layout-analysis",
+      "url": "https://github.com/huridocs/pdf-document-layout-analysis",
+      "description": "A Docker-powered service for PDF document layout analysis. This service provides a powerful and flexible PDF analysis service. The service allows for the segmentation and classification of different parts of PDF pages, identifying the elements such as texts, titles, pictures, tables and so on.",
+      "stars": 1101,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.301,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.153,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

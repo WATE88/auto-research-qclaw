@@ -1,0 +1,174 @@
+{
+  "topic": "AI agent workflow automation",
+  "timestamp": "2026-04-01T16:26:49.051226",
+  "findings": [
+    {
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "description": "Production-ready platform for agentic workflow development.",
+      "stars": 135295,
+      "source": "github"
+    },
+    {
+      "title": "activepieces/activepieces",
+      "url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 21511,
+      "source": "github"
+    },
+    {
+      "title": "enescingoz/awesome-n8n-templates",
+      "url": "https://github.com/enescingoz/awesome-n8n-templates",
+      "description": "280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG   chatbots, email automation, social media, DevOps, and document processing. The largest open-source n8n template collection.",
+      "stars": 20754,
+      "source": "github"
+    },
+    {
+      "title": "triggerdotdev/trigger.dev",
+      "url": "https://github.com/triggerdotdev/trigger.dev",
+      "description": "Trigger.dev – build and deploy fully‑managed AI agents and workflows",
+      "stars": 14312,
+      "source": "github"
+    },
+    {
+      "title": "nanobrowser/nanobrowser",
+      "url": "https://github.com/nanobrowser/nanobrowser",
+      "description": "Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.",
+      "stars": 12586,
+      "source": "github"
+    },
+    {
+      "title": "saturndec/waoowaoo",
+      "url": "https://github.com/saturndec/waoowaoo",
+      "description": "首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.",
+      "stars": 10691,
+      "source": "github"
+    },
+    {
+      "title": "firerpa/lamda",
+      "url": "https://github.com/firerpa/lamda",
+      "description": " The most powerful Android RPA agent framework, next generation of mobile automation robots.",
+      "stars": 7700,
+      "source": "github"
+    },
+    {
+      "title": "AIDC-AI/ComfyUI-Copilot",
+      "url": "https://github.com/AIDC-AI/ComfyUI-Copilot",
+      "description": "An AI-powered custom node for ComfyUI designed to enhance workflow automation and provide intelligent assistance",
+      "stars": 4841,
+      "source": "github"
+    },
+    {
+      "title": "darrenhinde/OpenAgentsControl",
+      "url": "https://github.com/darrenhinde/OpenAgentsControl",
+      "description": "AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built for OpenCode",
+      "stars": 3167,
+      "source": "github"
+    },
+    {
+      "title": "pipeshub-ai/pipeshub-ai",
+      "url": "https://github.com/pipeshub-ai/pipeshub-ai",
+      "description": "PipesHub is a fully extensible and explainable workplace AI platform for enterprise search and workflow automation",
+      "stars": 2766,
+      "source": "github"
+    },
+    {
+      "title": "moazbuilds/CodeMachine-CLI",
+      "url": "https://github.com/moazbuilds/CodeMachine-CLI",
+      "description": "CodeMachine is an open-source tool that orchestrates AI coding agents into repeatable, long-running workflows. ⚡️",
+      "stars": 2415,
+      "source": "github"
+    },
+    {
+      "title": "neuron-core/neuron-ai",
+      "url": "https://github.com/neuron-core/neuron-ai",
+      "description": "The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, vector DBs, memory) to agents that can interact with your data. With its modular architecture it's best suited for building RAG, multi-agent workflows, or business process automations.",
+      "stars": 1813,
+      "source": "github"
+    },
+    {
+      "title": "parruda/swarm",
+      "url": "https://github.com/parruda/swarm",
+      "description": "Ruby gems for general-purpose AI agent systems: automation, research, data processing, customer support, content creation. SwarmSDK provides single-process orchestration, persistent memory with semantic   search, node workflows, and hooks. SwarmMemory/SwarmCLI included. Claude Swarm v1 for dev teams.",
+      "stars": 1689,
+      "source": "github"
+    },
+    {
+      "title": "patched-codes/patchwork",
+      "url": "https://github.com/patched-codes/patchwork",
+      "description": "Agentic AI framework for enterprise workflow automation.",
+      "stars": 1548,
+      "source": "github"
+    },
+    {
+      "title": "lucaswalter/n8n-ai-automations",
+      "url": "https://github.com/lucaswalter/n8n-ai-automations",
+      "description": "Collection of n8n workflows, n8n templates, AI automations, and AI agents created for The Recap AI YouTube channel and the AI Automation Mastery free Skool community.",
+      "stars": 1421,
+      "source": "github"
+    },
+    {
+      "title": "softaworks/agent-toolkit",
+      "url": "https://github.com/softaworks/agent-toolkit",
+      "description": "A curated collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities across development, documentation, planning, and professional workflows.",
+      "stars": 1314,
+      "source": "github"
+    },
+    {
+      "title": "ghostwright/ghost-os",
+      "url": "https://github.com/ghostwright/ghost-os",
+      "description": "Full computer-use for AI agents. Self-learning workflows. Native macOS. No screenshots required.",
+      "stars": 1270,
+      "source": "github"
+    },
+    {
+      "title": "cgoinglove/better-chatbot",
+      "url": "https://github.com/cgoinglove/better-chatbot",
+      "description": "Just a Better Chatbot. Powered by Agent & MCP & Workflows.",
+      "stars": 1059,
+      "source": "github"
+    },
+    {
+      "title": "FuzzingLabs/fuzzforge_ai",
+      "url": "https://github.com/FuzzingLabs/fuzzforge_ai",
+      "description": "AI-powered workflow automation and AI Agents platform for AppSec, Fuzzing & Offensive Security. Automate vulnerability discovery with intelligent fuzzing, AI-driven analysis, and a marketplace of security tools.",
+      "stars": 779,
+      "source": "github"
+    },
+    {
+      "title": "bytechefhq/bytechef",
+      "url": "https://github.com/bytechefhq/bytechef",
+      "description": "Open-source, AI-native, low-code platform for API orchestration, workflow automation, and AI agent integration across internal systems and SaaS products.",
+      "stars": 742,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.423,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.092,
+      "diversity": 0.0,
+      "usability": 0.1,
+      "applicability": 1.0,
+      "coverage": 1.0,
+      "ndcg": 0.636,
+      "map": 0.931,
+      "mrr": 1.0,
+      "rouge_1": 0.562,
+      "semantic_sim": 0.287,
+      "coherence": 0.123,
+      "task_completion": 0.621,
+      "tool_use": 0.143,
+      "reasoning_depth": 0.05,
+      "autonomy": 0.175,
+      "multi_agent": 0.09
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

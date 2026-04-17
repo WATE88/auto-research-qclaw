@@ -1,0 +1,24 @@
+<!DOCTYPE html><html><head><meta charset="UTF-8"><title>AutoResearch v3.8</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<style>body{font-family:sans-serif;background:#0f172a;color:#e2e8f0;padding:20px}
+.c{max-width:1400px;margin:0 auto}h1{color:#38bdf8}h2{color:#a78bfa;margin:20px 0 10px}
+.g{display:grid;grid-template-columns:repeat(5,1fr);gap:15px;margin:20px 0}
+.b{background:#1e293b;padding:20px;border-radius:12px}v{font-size:28px;font-weight:bold;color:#38bdf8}
+.cv{background:#1e293b;padding:20px;border-radius:12px;margin:15px 0}</style></head>
+<body><div class="c">
+<h1>AutoResearch v3.8 Multi-Dimension</h1><p>Topic: AI model distillation | 2026-03-27 15:54</p>
+<div class="g">
+<div class="b"><div>Findings</div><v>135</v></div>
+<div class="b"><div>Quality</div><v>0%</v></div>
+<div class="b"><div>Authority</div><v>79%</v></div>
+<div class="b"><div>Diversity</div><v>72%</v></div>
+<div class="b"><div>Recency</div><v>70%</v></div>
+</div>
+<div class="cv"><canvas id="t"></canvas></div>
+<div class="cv"><canvas id="d"></canvas></div></div>
+<script>
+const td=[{"r": 1, "n": 15, "w": 0.5016666666666667}, {"r": 2, "n": 60, "w": 0.5325}, {"r": 3, "n": 60, "w": 0.5325}];
+const dd=[{"d": "quality", "s": 0.0}, {"d": "authority", "s": 0.7888888888888889}, {"d": "diversity", "s": 0.7222222222222223}, {"d": "recency", "s": 0.6999999999999998}];
+new Chart(document.getElementById('t'),{type:'line',data:{labels:td.map(x=>'R'+x.r),datasets:[{label:'Findings',data:td.map(x=>x.n),borderColor:'#38bdf8'}]}});
+new Chart(document.getElementById('d'),{type:'bar',data:{labels:dd.map(x=>x.d),datasets:[{label:'Score',data:dd.map(x=>x.s*100),backgroundColor:['#38bdf8','#a78bfa','#34d399','#fbbf24']}]}});
+</script></body></html>

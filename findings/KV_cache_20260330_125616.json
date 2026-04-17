@@ -1,0 +1,280 @@
+{
+  "topic": "KV cache",
+  "timestamp": "2026-03-30T12:56:16.791942",
+  "findings": [
+    {
+      "title": "BlinkDL/RWKV-LM",
+      "url": "https://github.com/BlinkDL/RWKV-LM",
+      "description": "RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 \"Goose\". So it's combining the best of RNN and transformer - great performance, linear time, constant space (no kv-cache), fast training, infinite ctx_len, and free sentence embedding.",
+      "stars": 14441,
+      "source": "github"
+    },
+    {
+      "title": "LMCache/LMCache",
+      "url": "https://github.com/LMCache/LMCache",
+      "description": "Supercharge Your LLM with the Fastest KV Cache Layer",
+      "stars": 7759,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/LLMLingua",
+      "url": "https://github.com/microsoft/LLMLingua",
+      "description": "[EMNLP'23, ACL'24] To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss. ",
+      "stars": 5964,
+      "source": "github"
+    },
+    {
+      "title": "HeyPuter/kv.js",
+      "url": "https://github.com/HeyPuter/kv.js",
+      "description": "⚡️ Advanced in-memory caching for JavaScript",
+      "stars": 1518,
+      "source": "github"
+    },
+    {
+      "title": "Zefan-Cai/KVCache-Factory",
+      "url": "https://github.com/Zefan-Cai/KVCache-Factory",
+      "description": "Unified KV Cache Compression Methods for Auto-Regressive Models",
+      "stars": 1314,
+      "source": "github"
+    },
+    {
+      "title": "uccl-project/uccl",
+      "url": "https://github.com/uccl-project/uccl",
+      "description": "UCCL is an efficient communication library for GPUs, covering collectives, P2P (e.g., KV cache transfer, RL weight transfer), and EP (e.g., GPU-driven)",
+      "stars": 1256,
+      "source": "github"
+    },
+    {
+      "title": "Zefan-Cai/R-KV",
+      "url": "https://github.com/Zefan-Cai/R-KV",
+      "description": "[Neurips 2025] R-KV: Redundancy-aware KV Cache Compression for Reasoning Models",
+      "stars": 1189,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/kvpress",
+      "url": "https://github.com/NVIDIA/kvpress",
+      "description": "LLM KV cache compression made easy",
+      "stars": 987,
+      "source": "github"
+    },
+    {
+      "title": "NVlabs/Fast-dLLM",
+      "url": "https://github.com/NVlabs/Fast-dLLM",
+      "description": "Official implementation of \"Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding\"",
+      "stars": 898,
+      "source": "github"
+    },
+    {
+      "title": "hans0809/MiniMind-in-Depth",
+      "url": "https://github.com/hans0809/MiniMind-in-Depth",
+      "description": "轻量级大语言模型MiniMind的源码解读，包含tokenizer、RoPE、MoE、KV Cache、pretraining、SFT、LoRA、DPO等完整流程",
+      "stars": 859,
+      "source": "github"
+    },
+    {
+      "title": "ovg-project/kvcached",
+      "url": "https://github.com/ovg-project/kvcached",
+      "description": "Virtualized Elastic KV Cache for Dynamic GPU Sharing and Beyond",
+      "stars": 825,
+      "source": "github"
+    },
+    {
+      "title": "October2001/Awesome-KV-Cache-Compression",
+      "url": "https://github.com/October2001/Awesome-KV-Cache-Compression",
+      "description": "📰 Must-read papers on KV Cache Compression (constantly updating 🤗).",
+      "stars": 677,
+      "source": "github"
+    },
+    {
+      "title": "Tencent/WeDLM",
+      "url": "https://github.com/Tencent/WeDLM",
+      "description": "WeDLM: The fastest diffusion language model with standard causal attention and native KV cache compatibility, delivering real speedups over vLLM-optimized baselines.",
+      "stars": 637,
+      "source": "github"
+    },
+    {
+      "title": "TangSY/edge-next-starter",
+      "url": "https://github.com/TangSY/edge-next-starter",
+      "description": "An out‑of‑the‑box Next.js + Cloudflare full‑stack starter integrating Edge Runtime, D1 database, R2 storage, KV cache, Analytics Engine hooks, and a complete CI/CD pipeline.一个开箱即用的 Next.js + Cloudflare 全栈项目模板，集成 Edge Runtime、D1 数据库、R2 存储和完整的 CI/CD 流程。",
+      "stars": 464,
+      "source": "github"
+    },
+    {
+      "title": "Zefan-Cai/Awesome-LLM-KV-Cache",
+      "url": "https://github.com/Zefan-Cai/Awesome-LLM-KV-Cache",
+      "description": "Awesome-LLM-KV-Cache: A curated list of 📙Awesome LLM KV Cache Papers with Codes. ",
+      "stars": 419,
+      "source": "github"
+    },
+    {
+      "title": "SqueezeAILab/KVQuant",
+      "url": "https://github.com/SqueezeAILab/KVQuant",
+      "description": "[NeurIPS 2024] KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization",
+      "stars": 417,
+      "source": "github"
+    },
+    {
+      "title": "bytedance/InfiniStore",
+      "url": "https://github.com/bytedance/InfiniStore",
+      "description": "KV cache store for distributed LLM inference",
+      "stars": 401,
+      "source": "github"
+    },
+    {
+      "title": "jy-yuan/KIVI",
+      "url": "https://github.com/jy-yuan/KIVI",
+      "description": "[ICML 2024] KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache",
+      "stars": 373,
+      "source": "github"
+    },
+    {
+      "title": "tonbistudio/turboquant-pytorch",
+      "url": "https://github.com/tonbistudio/turboquant-pytorch",
+      "description": "From-scratch PyTorch implementation of Google's TurboQuant (ICLR 2026) for LLM KV cache compression. 5x compression at 3-bit with 99.5% attention fidelity.",
+      "stars": 363,
+      "source": "github"
+    },
+    {
+      "title": "dipampaul17/KVSplit",
+      "url": "https://github.com/dipampaul17/KVSplit",
+      "description": "Run larger LLMs with longer contexts on Apple Silicon by using differentiated precision for KV cache quantization. KVSplit enables 8-bit keys & 4-bit values, reducing memory by 59% with <1% quality loss. Includes benchmarking, visualization, and one-command setup. Optimized for M1/M2/M3 Macs with Metal support.",
+      "stars": 362,
+      "source": "github"
+    },
+    {
+      "title": "ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling",
+      "url": "https://arxiv.org/abs/2603.25746v1",
+      "abstract": "Multi-shot video generation is crucial for long narrative storytelling, yet current bidirectional architectures suffer from limited interactivity and high latency. We propose ShotStream, a novel causa",
+      "source": "arxiv"
+    },
+    {
+      "title": "PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference",
+      "url": "https://arxiv.org/abs/2603.25730v1",
+      "abstract": "Autoregressive video diffusion models have demonstrated remarkable progress, yet they remain bottlenecked by intractable linear KV-cache growth, temporal repetition, and compounding errors during long",
+      "source": "arxiv"
+    },
+    {
+      "title": "Shape and Substance: Dual-Layer Side-Channel Attacks on Local Vision-Language Models",
+      "url": "https://arxiv.org/abs/2603.25403v1",
+      "abstract": "On-device Vision-Language Models (VLMs) promise data privacy via local execution. However, we show that the architectural shift toward Dynamic High-Resolution preprocessing (e.g., AnyRes) introduces a",
+      "source": "arxiv"
+    },
+    {
+      "title": "GlowQ: Group-Shared LOw-Rank Approximation for Quantized LLMs",
+      "url": "https://arxiv.org/abs/2603.25385v1",
+      "abstract": "Quantization techniques such as BitsAndBytes, AWQ, and GPTQ are widely used as a standard method in deploying large language models but often degrades accuracy when using low-bit representations, e.g.",
+      "source": "arxiv"
+    },
+    {
+      "title": "Once-for-All Channel Mixers (HYPERTINYPW): Generative Compression for TinyML",
+      "url": "https://arxiv.org/abs/2603.24916v1",
+      "abstract": "Deploying neural networks on microcontrollers is constrained by kilobytes of flash and SRAM, where 1x1 pointwise (PW) mixers often dominate memory even after INT8 quantization across vision, audio, an",
+      "source": "arxiv"
+    },
+    {
+      "title": "Training LLMs for Multi-Step Tool Orchestration with Constrained Data Synthesis and Graduated Rewards",
+      "url": "https://arxiv.org/abs/2603.24709v1",
+      "abstract": "Multi-step tool orchestration, where LLMs must invoke multiple dependent APIs in the correct order while propagating intermediate outputs, remains challenging. State-of-the-art models frequently fail ",
+      "source": "arxiv"
+    },
+    {
+      "title": "SEGAR: Selective Enhancement for Generative Augmented Reality",
+      "url": "https://arxiv.org/abs/2603.24541v1",
+      "abstract": "Generative world models offer a compelling foundation for augmented-reality (AR) applications: by predicting future image sequences that incorporate deliberate visual edits, they enable temporally coh",
+      "source": "arxiv"
+    },
+    {
+      "title": "Accelerating Diffusion-based Video Editing via Heterogeneous Caching: Beyond Full Computing at Sampled Denoising Timestep",
+      "url": "https://arxiv.org/abs/2603.24260v1",
+      "abstract": "Diffusion-based video editing has emerged as an important paradigm for high-quality and flexible content generation. However, despite their generality and strong modeling capacity, Diffusion Transform",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Low Cost Discrete Digital Isolator Circuit",
+      "url": "https://arxiv.org/abs/2603.24096v1",
+      "abstract": "This work presents a fully discrete, low cost digital isolator requiring no specialized ICs and implemented entirely with general purpose transistors and a two layer PCB embedded air core transformer.",
+      "source": "arxiv"
+    },
+    {
+      "title": "Forensic Implications of Localized AI: Artifact Analysis of Ollama, LM Studio, and llama.cpp",
+      "url": "https://arxiv.org/abs/2603.23996v1",
+      "abstract": "The proliferation of local Large Language Model (LLM) runners, such as Ollama, LM Studio and llama.cpp, presents a new challenge for digital forensics investigators. These tools enable users to deploy",
+      "source": "arxiv"
+    },
+    {
+      "title": "PIM-CACHE: High-Efficiency Content-Aware Copy for Processing-In-Memory",
+      "url": "https://arxiv.org/abs/2603.23762v1",
+      "abstract": "Processing-in-memory (PIM) architectures bring computation closer to data, reducing the processor-memory transfer bottleneck in traditional processor-centric designs. Novel hardware solutions, such as",
+      "source": "arxiv"
+    },
+    {
+      "title": "SortedRL: Accelerating RL Training for LLMs through Online Length-Aware Scheduling",
+      "url": "https://arxiv.org/abs/2603.23414v1",
+      "abstract": "Scaling reinforcement learning (RL) has shown strong promise for enhancing the reasoning abilities of large language models (LLMs), particularly in tasks requiring long chain-of-thought generation. Ho",
+      "source": "arxiv"
+    },
+    {
+      "title": "UniDial-EvalKit: A Unified Toolkit for Evaluating Multi-Faceted Conversational Abilities",
+      "url": "https://arxiv.org/abs/2603.23160v1",
+      "abstract": "Benchmarking AI systems in multi-turn interactive scenarios is essential for understanding their practical capabilities in real-world applications. However, existing evaluation protocols are highly he",
+      "source": "arxiv"
+    },
+    {
+      "title": "PCR: A Prefetch-Enhanced Cache Reuse System for Low-Latency RAG Serving",
+      "url": "https://arxiv.org/abs/2603.23049v1",
+      "abstract": "Retrieval-Augmented Generation (RAG) systems enhance the performance of large language models (LLMs) by incorporating supplementary retrieved documents, enabling more accurate and context-aware respon",
+      "source": "arxiv"
+    },
+    {
+      "title": "EchoKV: Efficient KV Cache Compression via Similarity-Based Reconstruction",
+      "url": "https://arxiv.org/abs/2603.22910v1",
+      "abstract": "The increasing memory demand of the Key-Value (KV) cache poses a significant bottleneck for Large Language Models (LLMs) in long-context applications. Existing low-rank compression methods often rely ",
+      "source": "arxiv"
+    },
+    {
+      "title": "TorR: Towards Brain-Inspired Task-Oriented Reasoning via Cache-Oriented Algorithm-Architecture Co-design",
+      "url": "https://arxiv.org/abs/2603.22855v1",
+      "abstract": "Task-oriented object detection (TOOD) atop CLIP offers open-vocabulary, prompt-driven semantics, yet dense per-window computation and heavy memory traffic hinder real-time, power-limited edge deployme",
+      "source": "arxiv"
+    },
+    {
+      "title": "CATNAV: Cached Vision-Language Traversability for Efficient Zero-Shot Robot Navigation",
+      "url": "https://arxiv.org/abs/2603.22800v1",
+      "abstract": "Navigating unstructured environments requires assessing traversal risk relative to a robot's physical capabilities, a challenge that varies across embodiments. We present CATNAV, a cost-aware traversa",
+      "source": "arxiv"
+    },
+    {
+      "title": "Benchmarking Multi-Agent LLM Architectures for Financial Document Processing: A Comparative Study of Orchestration Patterns, Cost-Accuracy Tradeoffs and Production Scaling Strategies",
+      "url": "https://arxiv.org/abs/2603.22651v1",
+      "abstract": "The adoption of large language models (LLMs) for structured information extraction from financial documents has accelerated rapidly, yet production deployments face fundamental architectural decisions",
+      "source": "arxiv"
+    },
+    {
+      "title": "Far-field compressive ultrasound beamforming",
+      "url": "https://arxiv.org/abs/2603.22496v1",
+      "abstract": "We present a compressive beamforming method for coherent plane-wave compounding (CPWC) ultrasound imaging based on a far-field decomposition of the received radiofrequency (RF) data into virtual plane",
+      "source": "arxiv"
+    },
+    {
+      "title": "WorldCache: Content-Aware Caching for Accelerated Video World Models",
+      "url": "https://arxiv.org/abs/2603.22286v1",
+      "abstract": "Diffusion Transformers (DiTs) power high-fidelity video world models but remain computationally expensive due to sequential denoising and costly spatio-temporal attention. Training-free feature cachin",
+      "source": "arxiv"
+    }
+  ],
+  "quality": {
+    "total": 40,
+    "quality_score": 0.421,
+    "dimensions": {
+      "authority": 0.95,
+      "quality": 0.025,
+      "star_power": 0.142,
+      "diversity": 0.5
+    },
+    "sources_breakdown": {
+      "github": 20,
+      "arxiv": 20
+    }
+  }
+}

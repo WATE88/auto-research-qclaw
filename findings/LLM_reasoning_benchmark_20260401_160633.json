@@ -1,0 +1,174 @@
+{
+  "topic": "LLM reasoning benchmark",
+  "timestamp": "2026-04-01T16:06:33.940446",
+  "findings": [
+    {
+      "title": "zzli2022/Awesome-System2-Reasoning-LLM",
+      "url": "https://github.com/zzli2022/Awesome-System2-Reasoning-LLM",
+      "description": "Latest Advances on System-2 Reasoning",
+      "stars": 1340,
+      "source": "github"
+    },
+    {
+      "title": "SanMuzZzZz/LuaN1aoAgent",
+      "url": "https://github.com/SanMuzZzZz/LuaN1aoAgent",
+      "description": "LuaN1aoAgent is a cognitive-driven AI hacker. It is a fully autonomous AI penetration testing agent powered by DeepSeek V3.2. Using dual-graph reasoning, LuaN1ao achieves a success rate of over 90% on the XBOW Benchmark, with a median exploit cost of just $0.09.",
+      "stars": 659,
+      "source": "github"
+    },
+    {
+      "title": "reasoning-survey/Awesome-Reasoning-Foundation-Models",
+      "url": "https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models",
+      "description": "✨✨Latest Papers and Benchmarks in Reasoning with Foundation Models",
+      "stars": 654,
+      "source": "github"
+    },
+    {
+      "title": "MMMU-Benchmark/MMMU",
+      "url": "https://github.com/MMMU-Benchmark/MMMU",
+      "description": "This repo contains evaluation code for the paper \"MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI\"",
+      "stars": 551,
+      "source": "github"
+    },
+    {
+      "title": "tianyi-lab/HallusionBench",
+      "url": "https://github.com/tianyi-lab/HallusionBench",
+      "description": "[CVPR'24] HallusionBench: You See What You Think? Or You Think What You See? An Image-Context Reasoning Benchmark Challenging for GPT-4V(ision), LLaVA-1.5, and Other Multi-modality Models",
+      "stars": 336,
+      "source": "github"
+    },
+    {
+      "title": "TeleAI-UAGI/Awesome-Agent-Memory",
+      "url": "https://github.com/TeleAI-UAGI/Awesome-Agent-Memory",
+      "description": "Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning.",
+      "stars": 320,
+      "source": "github"
+    },
+    {
+      "title": "samkhur006/awesome-llm-planning-reasoning",
+      "url": "https://github.com/samkhur006/awesome-llm-planning-reasoning",
+      "description": "A curated collection of LLM reasoning and planning resources, including key papers, limitations, benchmarks, and additional learning materials.",
+      "stars": 316,
+      "source": "github"
+    },
+    {
+      "title": "lechmazur/elimination_game",
+      "url": "https://github.com/lechmazur/elimination_game",
+      "description": "A multi-player tournament benchmark that tests LLMs in social reasoning, strategy, and deception. Players engage in public and private conversations, form alliances, and vote to eliminate each other",
+      "stars": 301,
+      "source": "github"
+    },
+    {
+      "title": "ZubinGou/math-evaluation-harness",
+      "url": "https://github.com/ZubinGou/math-evaluation-harness",
+      "description": "A simple toolkit for benchmarking LLMs on mathematical reasoning tasks. 🧮✨",
+      "stars": 274,
+      "source": "github"
+    },
+    {
+      "title": "facebookresearch/sweet_rl",
+      "url": "https://github.com/facebookresearch/sweet_rl",
+      "description": "Benchmark and research code for the paper SWEET-RL Training Multi-Turn LLM Agents onCollaborative Reasoning Tasks",
+      "stars": 264,
+      "source": "github"
+    },
+    {
+      "title": "SeekingDream/DyCodeEval",
+      "url": "https://github.com/SeekingDream/DyCodeEval",
+      "description": "Official repository of the ICML2025 paper “Dynamic Benchmarking of Reasoning Capabilities in Code Large Language Models Under Data Contamination”",
+      "stars": 251,
+      "source": "github"
+    },
+    {
+      "title": "balrog-ai/BALROG",
+      "url": "https://github.com/balrog-ai/BALROG",
+      "description": "Benchmarking Agentic LLM and VLM Reasoning On Games",
+      "stars": 242,
+      "source": "github"
+    },
+    {
+      "title": "stalkermustang/llm-bulls-and-cows-benchmark",
+      "url": "https://github.com/stalkermustang/llm-bulls-and-cows-benchmark",
+      "description": "A mini-framework for evaluating LLM performance on the Bulls and Cows number guessing game, supporting multiple LLM providers.",
+      "stars": 236,
+      "source": "github"
+    },
+    {
+      "title": "tongye98/Awesome-Code-Benchmark",
+      "url": "https://github.com/tongye98/Awesome-Code-Benchmark",
+      "description": "A comprehensive code domain benchmark review of LLM researches.",
+      "stars": 212,
+      "source": "github"
+    },
+    {
+      "title": "lechmazur/nyt-connections",
+      "url": "https://github.com/lechmazur/nyt-connections",
+      "description": "Benchmark that evaluates LLMs using 759 NYT Connections puzzles extended with extra trick words",
+      "stars": 199,
+      "source": "github"
+    },
+    {
+      "title": "kxzk/snapbench",
+      "url": "https://github.com/kxzk/snapbench",
+      "description": "📸 gotta find 'em all; spatial reasoning benchmark for LLMs",
+      "stars": 168,
+      "source": "github"
+    },
+    {
+      "title": "babelcloud/LLM-RGB",
+      "url": "https://github.com/babelcloud/LLM-RGB",
+      "description": "LLM Reasoning and Generation Benchmark. Evaluate LLMs in complex scenarios systematically.",
+      "stars": 165,
+      "source": "github"
+    },
+    {
+      "title": "InternScience/SGI-Bench",
+      "url": "https://github.com/InternScience/SGI-Bench",
+      "description": "Probing Scientific General Intelligence of LLMs with Scientist-Aligned Workflows",
+      "stars": 160,
+      "source": "github"
+    },
+    {
+      "title": "IAAR-Shanghai/xVerify",
+      "url": "https://github.com/IAAR-Shanghai/xVerify",
+      "description": "xVerify: Efficient Answer Verifier for Reasoning Model Evaluations",
+      "stars": 146,
+      "source": "github"
+    },
+    {
+      "title": "TsinghuaC3I/MedXpertQA",
+      "url": "https://github.com/TsinghuaC3I/MedXpertQA",
+      "description": "[ICML 2025] MedXpertQA: Benchmarking Expert-Level Medical Reasoning and Understanding",
+      "stars": 144,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.462,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.85,
+      "star_power": 0.259,
+      "diversity": 0.0,
+      "usability": 0.1,
+      "applicability": 0.95,
+      "coverage": 1.0,
+      "ndcg": 0.619,
+      "map": 0.819,
+      "mrr": 1.0,
+      "rouge_1": 0.517,
+      "semantic_sim": 0.239,
+      "coherence": 0.16,
+      "task_completion": 0.443,
+      "tool_use": 0.035,
+      "reasoning_depth": 0.163,
+      "autonomy": 0.025,
+      "multi_agent": 0.015
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

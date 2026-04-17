@@ -1,0 +1,159 @@
+{
+  "topic": "fine-tuning LLMs",
+  "timestamp": "2026-03-30T11:26:36.653956",
+  "findings": [
+    {
+      "title": "hiyouga/LlamaFactory",
+      "url": "https://github.com/hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars": 69224,
+      "source": "github"
+    },
+    {
+      "title": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Unsloth Studio is a web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.",
+      "stars": 58598,
+      "source": "github"
+    },
+    {
+      "title": "kvcache-ai/ktransformers",
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "stars": 16852,
+      "source": "github"
+    },
+    {
+      "title": "xming521/WeClone",
+      "url": "https://github.com/xming521/WeClone",
+      "description": "🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊天记录创造数字分身的一站式解决方案  ",
+      "stars": 16461,
+      "source": "github"
+    },
+    {
+      "title": "ConardLi/easy-dataset",
+      "url": "https://github.com/ConardLi/easy-dataset",
+      "description": "A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval",
+      "stars": 13751,
+      "source": "github"
+    },
+    {
+      "title": "bentoml/OpenLLM",
+      "url": "https://github.com/bentoml/OpenLLM",
+      "description": "Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.",
+      "stars": 12261,
+      "source": "github"
+    },
+    {
+      "title": "ludwig-ai/ludwig",
+      "url": "https://github.com/ludwig-ai/ludwig",
+      "description": "Low-code framework for building custom LLMs, neural networks, and other AI models",
+      "stars": 11666,
+      "source": "github"
+    },
+    {
+      "title": "bigscience-workshop/petals",
+      "url": "https://github.com/bigscience-workshop/petals",
+      "description": "🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading",
+      "stars": 10030,
+      "source": "github"
+    },
+    {
+      "title": "oumi-ai/oumi",
+      "url": "https://github.com/oumi-ai/oumi",
+      "description": "Easily fine-tune, evaluate and deploy gpt-oss, Qwen3, DeepSeek-R1, or any open source LLM / VLM!",
+      "stars": 8920,
+      "source": "github"
+    },
+    {
+      "title": "h2oai/h2o-llmstudio",
+      "url": "https://github.com/h2oai/h2o-llmstudio",
+      "description": "H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/",
+      "stars": 4903,
+      "source": "github"
+    },
+    {
+      "title": "SylphAI-Inc/LLM-engineer-handbook",
+      "url": "https://github.com/SylphAI-Inc/LLM-engineer-handbook",
+      "description": "A curated list of Large Language Model resources, covering model training, serving, fine-tuning, and building LLM applications.",
+      "stars": 4758,
+      "source": "github"
+    },
+    {
+      "title": "predibase/lorax",
+      "url": "https://github.com/predibase/lorax",
+      "description": "Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs",
+      "stars": 3739,
+      "source": "github"
+    },
+    {
+      "title": "iusztinpaul/hands-on-llms",
+      "url": "https://github.com/iusztinpaul/hands-on-llms",
+      "description": "🦖 𝗟𝗲𝗮𝗿𝗻 about 𝗟𝗟𝗠𝘀, 𝗟𝗟𝗠𝗢𝗽𝘀, and 𝘃𝗲𝗰𝘁𝗼𝗿 𝗗𝗕𝘀 for free by designing, training, and deploying a real-time financial advisor LLM system ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 𝘷𝘪𝘥𝘦𝘰 & 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴",
+      "stars": 3402,
+      "source": "github"
+    },
+    {
+      "title": "ashishpatel26/LLM-Finetuning",
+      "url": "https://github.com/ashishpatel26/LLM-Finetuning",
+      "description": "LLM Finetuning with peft",
+      "stars": 2855,
+      "source": "github"
+    },
+    {
+      "title": "stochasticai/xTuring",
+      "url": "https://github.com/stochasticai/xTuring",
+      "description": "Build, personalize and control your own LLMs. From data pre-processing to fine-tuning, xTuring provides an easy way to personalize open-source LLMs. Join our discord community: https://discord.gg/TgHXuSJEk6",
+      "stars": 2668,
+      "source": "github"
+    },
+    {
+      "title": "decodingai-magazine/second-brain-ai-assistant-course",
+      "url": "https://github.com/decodingai-magazine/second-brain-ai-assistant-course",
+      "description": "Learn to build your Second Brain AI assistant with LLMs, agents, RAG, fine-tuning, LLMOps and AI systems techniques.",
+      "stars": 2595,
+      "source": "github"
+    },
+    {
+      "title": "Memento-Teams/Memento",
+      "url": "https://github.com/Memento-Teams/Memento",
+      "description": "Official Code of Memento: Fine-tuning LLM Agents without Fine-tuning LLMs",
+      "stars": 2372,
+      "source": "github"
+    },
+    {
+      "title": "AI-Hypercomputer/maxtext",
+      "url": "https://github.com/AI-Hypercomputer/maxtext",
+      "description": "A simple, performant and scalable Jax LLM!",
+      "stars": 2185,
+      "source": "github"
+    },
+    {
+      "title": "dstackai/dstack",
+      "url": "https://github.com/dstackai/dstack",
+      "description": "Control plane for agents and engineers to provision compute and run training and inference across NVIDIA, AMD, TPU, and Tenstorrent GPUs—on clouds, Kubernetes, and bare-metal clusters.",
+      "stars": 2075,
+      "source": "github"
+    },
+    {
+      "title": "kubeflow/trainer",
+      "url": "https://github.com/kubeflow/trainer",
+      "description": "Distributed AI Model Training and LLM Fine-Tuning on Kubernetes",
+      "stars": 2069,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.306,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.182,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

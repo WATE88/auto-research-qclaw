@@ -1,0 +1,159 @@
+{
+  "topic": "deep learning optimizer",
+  "timestamp": "2026-03-30T13:03:41.740284",
+  "findings": [
+    {
+      "title": "labmlai/annotated_deep_learning_paper_implementations",
+      "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+      "description": "🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠",
+      "stars": 66180,
+      "source": "github"
+    },
+    {
+      "title": "deepspeedai/DeepSpeed",
+      "url": "https://github.com/deepspeedai/DeepSpeed",
+      "description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+      "stars": 41942,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/DALI",
+      "url": "https://github.com/NVIDIA/DALI",
+      "description": "A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.",
+      "stars": 5655,
+      "source": "github"
+    },
+    {
+      "title": "XiaoMi/mace",
+      "url": "https://github.com/XiaoMi/mace",
+      "description": "MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms.",
+      "stars": 5036,
+      "source": "github"
+    },
+    {
+      "title": "Tencent/TNN",
+      "url": "https://github.com/Tencent/TNN",
+      "description": "TNN: developed by Tencent Youtu Lab and Guangying Lab, a uniform deep learning inference framework for mobile、desktop and server. TNN is distinguished by several outstanding features, including its cross-platform capability, high performance, model compression and code pruning. Based on ncnn and Rapidnet, TNN further strengthens the support and performance optimization for mobile devices, and also draws on the advantages of good extensibility and high performance from existed open source efforts. TNN has been deployed in multiple Apps from Tencent, such as Mobile QQ, Weishi, Pitu, etc. Contributions are welcome to work in collaborative with us and make TNN a better framework. ",
+      "stars": 4631,
+      "source": "github"
+    },
+    {
+      "title": "amanchadha/coursera-deep-learning-specialization",
+      "url": "https://github.com/amanchadha/coursera-deep-learning-specialization",
+      "description": "Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specialization offered by deeplearning.ai: (i) Neural Networks and Deep Learning; (ii) Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization; (iii) Structuring Machine Learning Projects; (iv) Convolutional Neural Networks; (v) Sequence Models",
+      "stars": 4232,
+      "source": "github"
+    },
+    {
+      "title": "ikostrikov/pytorch-a2c-ppo-acktr-gail",
+      "url": "https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail",
+      "description": "PyTorch implementation of Advantage Actor Critic (A2C), Proximal Policy Optimization (PPO), Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation (ACKTR) and Generative Adversarial Imitation Learning (GAIL).",
+      "stars": 3887,
+      "source": "github"
+    },
+    {
+      "title": "TJU-DRL-LAB/AI-Optimizer",
+      "url": "https://github.com/TJU-DRL-LAB/AI-Optimizer",
+      "description": "The next generation deep reinforcement learning tookit",
+      "stars": 3462,
+      "source": "github"
+    },
+    {
+      "title": "IntelLabs/nlp-architect",
+      "url": "https://github.com/IntelLabs/nlp-architect",
+      "description": "A model library for exploring state-of-the-art deep learning topologies and techniques for optimizing Natural Language Processing neural networks",
+      "stars": 2935,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "stars": 2264,
+      "source": "github"
+    },
+    {
+      "title": "neonwatty/machine-learning-refined",
+      "url": "https://github.com/neonwatty/machine-learning-refined",
+      "description": "Master the fundamentals of machine learning, deep learning, and mathematical optimization by building key concepts and models from scratch using Python.",
+      "stars": 1890,
+      "source": "github"
+    },
+    {
+      "title": "LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms",
+      "url": "https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms",
+      "description": "Implementation of hyperparameter optimization/tuning methods for machine learning & deep learning models (easy&clear)",
+      "stars": 1326,
+      "source": "github"
+    },
+    {
+      "title": "lessw2020/Ranger-Deep-Learning-Optimizer",
+      "url": "https://github.com/lessw2020/Ranger-Deep-Learning-Optimizer",
+      "description": "Ranger - a synergistic optimizer using RAdam (Rectified Adam), Gradient Centralization and LookAhead in one codebase",
+      "stars": 1206,
+      "source": "github"
+    },
+    {
+      "title": "jankrepl/deepdow",
+      "url": "https://github.com/jankrepl/deepdow",
+      "description": "Portfolio optimization with deep learning.",
+      "stars": 1122,
+      "source": "github"
+    },
+    {
+      "title": "intel/ai-reference-models",
+      "url": "https://github.com/intel/ai-reference-models",
+      "description": "Intel® AI Reference Models: contains Intel optimizations for running deep learning workloads on Intel® Xeon® Scalable processors and Intel® Data Center GPUs",
+      "stars": 730,
+      "source": "github"
+    },
+    {
+      "title": "dso-org/deep-symbolic-optimization",
+      "url": "https://github.com/dso-org/deep-symbolic-optimization",
+      "description": "A deep learning framework for symbolic optimization.",
+      "stars": 717,
+      "source": "github"
+    },
+    {
+      "title": "Lyken17/pytorch-memonger",
+      "url": "https://github.com/Lyken17/pytorch-memonger",
+      "description": "Sublinear memory optimization for deep learning. https://arxiv.org/abs/1604.06174",
+      "stars": 602,
+      "source": "github"
+    },
+    {
+      "title": "NotPunchnox/rkllama",
+      "url": "https://github.com/NotPunchnox/rkllama",
+      "description": "Ollama alternative for Rockchip NPU: An efficient solution for running AI and Deep learning models on Rockchip devices with optimized NPU support ( rkllm )",
+      "stars": 476,
+      "source": "github"
+    },
+    {
+      "title": "joaopauloschuler/neural-api",
+      "url": "https://github.com/joaopauloschuler/neural-api",
+      "description": "CAI NEURAL API - Pascal based deep learning neural network API optimized for AVX, AVX2 and AVX512 instruction sets plus OpenCL capable devices including AMD, Intel and NVIDIA.",
+      "stars": 414,
+      "source": "github"
+    },
+    {
+      "title": "higgsfield/np-hard-deep-reinforcement-learning",
+      "url": "https://github.com/higgsfield/np-hard-deep-reinforcement-learning",
+      "description": "pytorch neural combinatorial optimization",
+      "stars": 389,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.293,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.113,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

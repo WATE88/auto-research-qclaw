@@ -1,0 +1,174 @@
+{
+  "topic": "AI research automation agent",
+  "timestamp": "2026-03-31T12:30:49.701388",
+  "findings": [
+    {
+      "title": "khoj-ai/khoj",
+      "url": "https://github.com/khoj-ai/khoj",
+      "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+      "stars": 33728,
+      "source": "github"
+    },
+    {
+      "title": "assafelovic/gpt-researcher",
+      "url": "https://github.com/assafelovic/gpt-researcher",
+      "description": "An autonomous agent that conducts deep research on any data using any LLM providers",
+      "stars": 26132,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/RD-Agent",
+      "url": "https://github.com/microsoft/RD-Agent",
+      "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report",
+      "stars": 12133,
+      "source": "github"
+    },
+    {
+      "title": "0x4m4/hexstrike-ai",
+      "url": "https://github.com/0x4m4/hexstrike-ai",
+      "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.",
+      "stars": 7781,
+      "source": "github"
+    },
+    {
+      "title": "parruda/swarm",
+      "url": "https://github.com/parruda/swarm",
+      "description": "Ruby gems for general-purpose AI agent systems: automation, research, data processing, customer support, content creation. SwarmSDK provides single-process orchestration, persistent memory with semantic   search, node workflows, and hooks. SwarmMemory/SwarmCLI included. Claude Swarm v1 for dev teams.",
+      "stars": 1689,
+      "source": "github"
+    },
+    {
+      "title": "crshdn/mission-control",
+      "url": "https://github.com/crshdn/mission-control",
+      "description": "The world's first Autonomous Product Engine (APE): AI agents research your market, generate features, and ship code as PRs. Convoy mode, crash recovery, cost tracking, 80+ API endpoints. Self-hosted via OpenClaw Gateway.",
+      "stars": 1668,
+      "source": "github"
+    },
+    {
+      "title": "Sri-Krishna-V/awesome-adk-agents",
+      "url": "https://github.com/Sri-Krishna-V/awesome-adk-agents",
+      "description": "Curated collection of AI agents built with Google’s Agent Development Kit (ADK): templates, best practices, and production-ready examples for research, business, automation, education, and more.",
+      "stars": 272,
+      "source": "github"
+    },
+    {
+      "title": "kaymen99/sales-outreach-automation-langgraph",
+      "url": "https://github.com/kaymen99/sales-outreach-automation-langgraph",
+      "description": "Automate lead research, qualification, and outreach with AI agents and Langgraph, creating personalized messaging and connecting with your CRMs (HubSpot, Airtable, Google Sheets)",
+      "stars": 258,
+      "source": "github"
+    },
+    {
+      "title": "bio-xyz/BioAgents",
+      "url": "https://github.com/bio-xyz/BioAgents",
+      "description": "BioAgents: An AI scientist framework for autonomous deep research in biological sciences. Multi-agent system combining literature analysis agents with data scientist agents to enable deep research automation through user feedback integration and iterative scientific discovery. Inspired by advances in Edison Kosmos, Sakana AI, K-Dense and others.",
+      "stars": 117,
+      "source": "github"
+    },
+    {
+      "title": "caimingshuo/AI-Research-Agent-Stack",
+      "url": "https://github.com/caimingshuo/AI-Research-Agent-Stack",
+      "description": "Looking Forward to the True Realization of AI Research Automation",
+      "stars": 89,
+      "source": "github"
+    },
+    {
+      "title": "nexscope-ai/eCommerce-Skills",
+      "url": "https://github.com/nexscope-ai/eCommerce-Skills",
+      "description": "E-commerce skills for AI agents — product research, marketing automation, supply chain optimization, and business analytics for online sellers across Amazon, Shopify, Etsy, TikTok Shop, and all platforms.",
+      "stars": 62,
+      "source": "github"
+    },
+    {
+      "title": "TheAgenticAI/TheAgenticBench",
+      "url": "https://github.com/TheAgenticAI/TheAgenticBench",
+      "description": "An advanced Digital Worker framework for AI agent-driven research and process automations.",
+      "stars": 48,
+      "source": "github"
+    },
+    {
+      "title": "Pantheon-Security/notebooklm-mcp-secure",
+      "url": "https://github.com/Pantheon-Security/notebooklm-mcp-secure",
+      "description": "Secure NotebookLM MCP Server - Query Google NotebookLM from Claude/AI agents with 17 security hardening layers",
+      "stars": 44,
+      "source": "github"
+    },
+    {
+      "title": "roomi-fields/notebooklm-mcp",
+      "url": "https://github.com/roomi-fields/notebooklm-mcp",
+      "description": "MCP server for NotebookLM - Let your AI agents (Claude Code, Codex) research documentation directly with grounded, citation-backed answers from Gemini. Persistent auth, library management, cross-client sharing. Zero hallucinations, just your knowledge base.",
+      "stars": 44,
+      "source": "github"
+    },
+    {
+      "title": "kuluruvineeth/openstudio-beta",
+      "url": "https://github.com/kuluruvineeth/openstudio-beta",
+      "description": "Open Studio is an open-source AI ecosystem powering research and automation with specialized agents like ChatHub for AI conversations and OpenStudio Tube for YouTube creators. More niche AI tools on the way—powerful, open, and built for impact!",
+      "stars": 39,
+      "source": "github"
+    },
+    {
+      "title": "sstklen/infinite-gratitude",
+      "url": "https://github.com/sstklen/infinite-gratitude",
+      "description": "🥋 Multi-agent research skill for Claude Code | 10 個 AI Agent 協作研究 | 10 AIエージェント協調リサーチ — AI Dojo series",
+      "stars": 31,
+      "source": "github"
+    },
+    {
+      "title": "k-kolomeitsev/agent-browser-workspace",
+      "url": "https://github.com/k-kolomeitsev/agent-browser-workspace",
+      "description": "Local browser toolkit for AI agents: deep research and browser use automation with local Chrome (CDP) + Playwright. Flexible, extensible scripts for web navigation, extraction and workflow automatization - built for reproducible research and agent-driven browsing.",
+      "stars": 31,
+      "source": "github"
+    },
+    {
+      "title": "AutomatosAI/automatos-ai",
+      "url": "https://github.com/AutomatosAI/automatos-ai",
+      "description": "Automatos AI: Open-source platform for advanced context engineering and multi-agent orchestration in enterprise automation. Built on frontier research in RAG, vector embeddings, cognitive tools, emergent symbols, and neural field theory—powered by FastAPI, Next.js, and PostgreSQL.",
+      "stars": 27,
+      "source": "github"
+    },
+    {
+      "title": "hannesill/m4",
+      "url": "https://github.com/hannesill/m4",
+      "description": "Give your AI agents clinical database access, research automation, and clinician-reviewed domain knowledge for MIMIC-IV, eICU, and more.",
+      "stars": 25,
+      "source": "github"
+    },
+    {
+      "title": "arn-c0de/Crawllama",
+      "url": "https://github.com/arn-c0de/Crawllama",
+      "description": "CrawlLama 🦙 is an  local AI agent that answers questions via Ollama and integrates web- and RAG-based research.",
+      "stars": 21,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.467,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.125,
+      "diversity": 0.0,
+      "usability": 0.2,
+      "applicability": 1.0,
+      "coverage": 1.0,
+      "ndcg": 0.788,
+      "map": 0.978,
+      "mrr": 1.0,
+      "rouge_1": 0.725,
+      "semantic_sim": 0.3,
+      "coherence": 0.137,
+      "task_completion": 0.547,
+      "tool_use": 0.312,
+      "reasoning_depth": 0.043,
+      "autonomy": 0.3,
+      "multi_agent": 0.09
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

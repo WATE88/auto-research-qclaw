@@ -1,0 +1,183 @@
+{
+  "topic": "search relevance evaluation",
+  "timestamp": "2026-03-31T12:02:08.911731",
+  "findings": [
+    {
+      "title": "mitre/quaerite",
+      "url": "https://github.com/mitre/quaerite",
+      "description": "Search relevance evaluation toolkit",
+      "stars": 73,
+      "updated_at": "2026-01-28T08:46:40Z",
+      "source": "github"
+    },
+    {
+      "title": "hinatades/elasticsearch-ir-evaluator",
+      "url": "https://github.com/hinatades/elasticsearch-ir-evaluator",
+      "description": "Evaluates search accuracy and relevance using Elasticsearch and datasets",
+      "stars": 5,
+      "updated_at": "2026-01-03T14:46:23Z",
+      "source": "github"
+    },
+    {
+      "title": "BlueBash/RAG-Raptor-RE-Ranker-demo",
+      "url": "https://github.com/BlueBash/RAG-Raptor-RE-Ranker-demo",
+      "description": "The method of re-ranking involves a two-stage retrieval system, with re-rankers playing a crucial role in evaluating the relevance of each document to the query. RAG systems can be optimized to mitigate hallucinations and ensure dependable search outcomes by selecting the optimal reranking model.",
+      "stars": 5,
+      "updated_at": "2025-11-20T10:30:23Z",
+      "source": "github"
+    },
+    {
+      "title": "ChaiShalev18/HomeDepotProductSearch",
+      "url": "https://github.com/ChaiShalev18/HomeDepotProductSearch",
+      "description": "Enhance Home Depot's search relevance using PyTorch. Collaborative effort by @livneido1, @eladinbar, and @ChaiShalev18. Advanced NLP techniques, model training, and evaluation. MIT License",
+      "stars": 4,
+      "updated_at": "2024-12-31T07:28:05Z",
+      "source": "github"
+    },
+    {
+      "title": "rahulpyne/Information-Retrieval-System",
+      "url": "https://github.com/rahulpyne/Information-Retrieval-System",
+      "description": "The project has four information retrieval systems implemented - Lucene, tfidf, Cosine Similarity, BM25. Along with this, implementation of Query expansion using pseudo relevance feedback has been done. Search engine evaluation has also been implemented.",
+      "stars": 4,
+      "updated_at": "2025-01-21T03:52:56Z",
+      "source": "github"
+    },
+    {
+      "title": "asarnaout/veritail",
+      "url": "https://github.com/asarnaout/veritail",
+      "description": "LLM-as-a-Judge evaluation platform for ecommerce search. Scores relevance, computes IR metrics, and flags quality issues across multiple retail verticals",
+      "stars": 4,
+      "updated_at": "2026-03-15T02:38:47Z",
+      "source": "github"
+    },
+    {
+      "title": "himatbhanushali/Search-Engine-Evaluation",
+      "url": "https://github.com/himatbhanushali/Search-Engine-Evaluation",
+      "description": "A PHP based search engine that filters results from various sources like Google, Yahoo and Bing, based on the relevance of web pages with searched keywords. To evaluate  the results various technics like  page level keywords, inbound and outbound links, domain age, Dmoz listing, alexa rank,etc were used. 40 educational keywords were used for test data.",
+      "stars": 3,
+      "updated_at": "2023-10-03T08:12:31Z",
+      "source": "github"
+    },
+    {
+      "title": "syfantid/Search-Engine-Evaluation-Metrics",
+      "url": "https://github.com/syfantid/Search-Engine-Evaluation-Metrics",
+      "description": "Information Retrieval Systems (e.g. Search Engines) evaluation metrics in R. ",
+      "stars": 2,
+      "updated_at": "2021-07-01T21:07:32Z",
+      "source": "github"
+    },
+    {
+      "title": "santiguay/scraper_google_scholar",
+      "url": "https://github.com/santiguay/scraper_google_scholar",
+      "description": "This repository contains a Google Scholar scraper designed to assist in academic research. The tool automates searches on Google Scholar based on your input and generates a concise summary of the most relevant papers. Each paper is reviewed and evaluated by an AI to ensure quality and relevance.",
+      "stars": 2,
+      "updated_at": "2025-04-25T17:39:04Z",
+      "source": "github"
+    },
+    {
+      "title": "objective-inc/objective-anton-evaluation",
+      "url": "https://github.com/objective-inc/objective-anton-evaluation",
+      "description": "Quality of Anton as a Search Relevance Judge",
+      "stars": 1,
+      "updated_at": "2024-09-04T19:22:20Z",
+      "source": "github"
+    },
+    {
+      "title": "kedarwagh/Home-Depot-Search-Relevance-Prediction",
+      "url": "https://github.com/kedarwagh/Home-Depot-Search-Relevance-Prediction",
+      "description": "Shoppers rely on Home Depot’s product authority to find and buy the latest products and to get timely solutions to their home improvement needs. From installing a new ceiling fan to remodeling an entire kitchen, with the click of a mouse or tap of the screen, customers expect the correct results to their queries – quickly. Speed, accuracy and delivering a frictionless customer experience are essential.  In this competition, Home Depot is asking Kagglers to help them improve their customers' shopping experience by developing a model that can accurately predict the relevance of search results.  Search relevancy is an implicit measure Home Depot uses to gauge how quickly they can get customers to the right products. Currently, human raters evaluate the impact of potential changes to their search algorithms, which is a slow and subjective process. By removing or minimizing human input in search relevance evaluation, Home Depot hopes to increase the number of iterations their team can perform on the current search algorithms.",
+      "stars": 1,
+      "updated_at": "2019-02-08T12:37:19Z",
+      "source": "github"
+    },
+    {
+      "title": "lyl0602/Home-Depot-Product-Search-Relevance-Model",
+      "url": "https://github.com/lyl0602/Home-Depot-Product-Search-Relevance-Model",
+      "description": "Shoppers rely on Home Depot’s product authority to find and buy the latest products and to get timely solutions to their home improvement needs. From installing a new ceiling fan to remodeling an entire kitchen, with the click of a mouse or tap of the screen, customers expect the correct results to their queries – quickly. Speed, accuracy and delivering a frictionless customer experience are essential.  In this competition, Home Depot is asking Kagglers to help them improve their customers' shopping experience by developing a model that can accurately predict the relevance of search results.  Search relevancy is an implicit measure Home Depot uses to gauge how quickly they can get customers to the right products. Currently, human raters evaluate the impact of potential changes to their search algorithms, which is a slow and subjective process. By removing or minimizing human input in search relevance evaluation, Home Depot hopes to increase the number of iterations their team can perform on the current search algorithms.",
+      "stars": 1,
+      "updated_at": "2019-02-08T12:37:01Z",
+      "source": "github"
+    },
+    {
+      "title": "mikeh-studio/youtube_transcript_rag",
+      "url": "https://github.com/mikeh-studio/youtube_transcript_rag",
+      "description": "YouTube Transcript RAG (EN/JP): hybrid search, relevance review, and      evaluation metrics in a local-first app",
+      "stars": 1,
+      "updated_at": "2026-03-25T03:42:44Z",
+      "source": "github"
+    },
+    {
+      "title": "parsakhavarinejad/product-relevance-learning-to-rank",
+      "url": "https://github.com/parsakhavarinejad/product-relevance-learning-to-rank",
+      "description": "This project implements a comprehensive Learning to Rank system for e-commerce product relevance scoring. The objective is to build and evaluate machine learning models that can accurately predict and rank product relevance based on user search queries and product characteristics.",
+      "stars": 1,
+      "updated_at": "2026-01-21T10:07:32Z",
+      "source": "github"
+    },
+    {
+      "title": "CPotnis/Corrective-RAG-LangGraph-LangSmith-Evaluation",
+      "url": "https://github.com/CPotnis/Corrective-RAG-LangGraph-LangSmith-Evaluation",
+      "description": "This project implements a Corrective Retrieval-Augmented Generation (RAG) system using LangGraph and evaluates its performance with LangSmith. The system aims to improve the quality of responses by incorporating web search when necessary and grading the relevance of retrieved documents.",
+      "stars": 1,
+      "updated_at": "2025-02-06T06:35:31Z",
+      "source": "github"
+    },
+    {
+      "title": "RoeeS7/IR-Search-Engine",
+      "url": "https://github.com/RoeeS7/IR-Search-Engine",
+      "description": "This project focuses on Information Retrieval (IR), building a search engine that matches user queries to relevant documents in a health-related corpus. By using basic and advanced models, we evaluate results against expert judgments to optimize search precision and relevance.",
+      "stars": 1,
+      "updated_at": "2025-05-15T02:56:59Z",
+      "source": "github"
+    },
+    {
+      "title": "Saurav-VK/RAG-System-",
+      "url": "https://github.com/Saurav-VK/RAG-System-",
+      "description": "A Retrieval-Augmented Generation (RAG) system enhancing LLM responses with optimized text chunking, vector search (FAISS/ChromaDB), and response validation. Built using LangChain and GPT models, it ensures high accuracy by evaluating coherence, relevance, and readability for scalable NLP applications.",
+      "stars": 1,
+      "updated_at": "2026-01-29T08:49:43Z",
+      "source": "github"
+    },
+    {
+      "title": "noorrezk064-art/Search-Relevance-Notes",
+      "url": "https://github.com/noorrezk064-art/Search-Relevance-Notes",
+      "description": "Notes and examples related to search relevance evaluation tasks.",
+      "stars": 0,
+      "updated_at": "2025-12-19T17:09:58Z",
+      "source": "github"
+    },
+    {
+      "title": "rajulkumar/SearchEngineEvaluation",
+      "url": "https://github.com/rajulkumar/SearchEngineEvaluation",
+      "description": "evaluation using results and relevance on CACM corpus",
+      "stars": 0,
+      "updated_at": "2016-04-29T14:01:55Z",
+      "source": "github"
+    },
+    {
+      "title": "dragon-warrior-nyc/qir",
+      "url": "https://github.com/dragon-warrior-nyc/qir",
+      "description": "Product search (query, item) relevance evaluation",
+      "stars": 0,
+      "updated_at": "2026-02-07T04:18:04Z",
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.408,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.089,
+      "diversity": 0.0,
+      "usability": 0.1,
+      "applicability": 1.0,
+      "coverage": 1.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "topic": "code generation AI",
+  "timestamp": "2026-03-30T15:45:25.286235",
+  "findings": [
+    {
+      "title": "mylxsw/aidea",
+      "url": "https://github.com/mylxsw/aidea",
+      "description": "An APP that integrates mainstream large language models and image generation models, built with Flutter, with fully open-source code.",
+      "stars": 6941,
+      "source": "github"
+    },
+    {
+      "title": "qodo-ai/qodo-cover",
+      "url": "https://github.com/qodo-ai/qodo-cover",
+      "description": "Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞",
+      "stars": 5347,
+      "source": "github"
+    },
+    {
+      "title": "SamurAIGPT/Generative-Media-Skills",
+      "url": "https://github.com/SamurAIGPT/Generative-Media-Skills",
+      "description": "Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI). High-quality image, video, and audio generation powered by muapi.ai.",
+      "stars": 2973,
+      "source": "github"
+    },
+    {
+      "title": "ErlichLiu/DeepClaude",
+      "url": "https://github.com/ErlichLiu/DeepClaude",
+      "description": "Unleash Next-Level AI! 🚀  💻 Code Generation: DeepSeek r1 + Claude 3.7 Sonnet - Unparalleled Performance! 📝 Content Creation: DeepSeek r1 + Gemini 2.5 Pro - Superior Quality! 🔌 OpenAI-Compatible. 🌊 Streaming & Non-Streaming Support.  ✨ Experience the Future of AI – Today! Click to Try Now! ✨",
+      "stars": 2795,
+      "source": "github"
+    },
+    {
+      "title": "leofan90/Awesome-World-Models",
+      "url": "https://github.com/leofan90/Awesome-World-Models",
+      "description": "A comprehensive list of papers for the definition of World Models and using World Models for General Video Generation, Embodied AI, and Autonomous Driving, including papers, codes, and related websites.",
+      "stars": 1417,
+      "source": "github"
+    },
+    {
+      "title": "shuvonsec/claude-bug-bounty",
+      "url": "https://github.com/shuvonsec/claude-bug-bounty",
+      "description": "AI-powered bug bounty hunting from your terminal - recon, 20 vuln classes,         autonomous hunting, and report generation. All inside Claude Code.",
+      "stars": 1289,
+      "source": "github"
+    },
+    {
+      "title": "ferrislucas/promptr",
+      "url": "https://github.com/ferrislucas/promptr",
+      "description": "Promptr is a CLI tool that applies plain language instructions to the filesystem. Instructions can utilize a liquidjs based templating system. Use cases include refactoring, code generation, and experimentation.",
+      "stars": 945,
+      "source": "github"
+    },
+    {
+      "title": "facebookresearch/CodeGen",
+      "url": "https://github.com/facebookresearch/CodeGen",
+      "description": "Reference implementation of code generation projects from Facebook AI Research. General toolkit to apply machine learning to code, from dataset creation to model training and evaluation. Comes with pretrained models.",
+      "stars": 773,
+      "source": "github"
+    },
+    {
+      "title": "bgauryy/octocode-mcp",
+      "url": "https://github.com/bgauryy/octocode-mcp",
+      "description": "MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codebase/s into AI-optimized knowledge on simple and complex flows | Find real implementations and live docs from anywhere",
+      "stars": 767,
+      "source": "github"
+    },
+    {
+      "title": "lgrammel/rubberduck-vscode",
+      "url": "https://github.com/lgrammel/rubberduck-vscode",
+      "description": "Use AI-powered code edits, explanations, code generation, error diagnosis, and chat in Visual Studio Code with the official OpenAI API.",
+      "stars": 633,
+      "source": "github"
+    },
+    {
+      "title": "jerry-ai-dev/MODULAR-RAG-MCP-SERVER",
+      "url": "https://github.com/jerry-ai-dev/MODULAR-RAG-MCP-SERVER",
+      "description": "A modular RAG (Retrieval-Augmented Generation) system with MCP Server architecture. Using Skill to make AI follow each step of the spec and complete the code 100% by AI.",
+      "stars": 614,
+      "source": "github"
+    },
+    {
+      "title": "Denis2054/RAG-Driven-Generative-AI",
+      "url": "https://github.com/Denis2054/RAG-Driven-Generative-AI",
+      "description": "This repository provides programs to build Retrieval Augmented Generation (RAG) code for Generative AI with LlamaIndex, Deep Lake, and Pinecone leveraging the power of OpenAI and Hugging Face models for generation and evaluation.",
+      "stars": 592,
+      "source": "github"
+    },
+    {
+      "title": "salesforce/CodeRL",
+      "url": "https://github.com/salesforce/CodeRL",
+      "description": "This is the official code for the paper CodeRL: Mastering Code Generation through Pretrained Models and Deep Reinforcement Learning (NeurIPS22).",
+      "stars": 565,
+      "source": "github"
+    },
+    {
+      "title": "biaogebusy/web-builder",
+      "url": "https://github.com/biaogebusy/web-builder",
+      "description": "AI 驱动 UI 生成和发布的低代码平台，基于TailwindCss，通过拖拽可视化快速构建现代化响应式UI、动态自定义组件、多主题、多语言的网站应用。AI-powered UI generation and publishing low code platform, built on TailwindCSS, enabling rapid drag-and-drop visual creation of modern responsive UIs, dynamic customizable components, multi-theme, and multi-language web applications.",
+      "stars": 552,
+      "source": "github"
+    },
+    {
+      "title": "jau123/MeiGen-AI-Design-MCP",
+      "url": "https://github.com/jau123/MeiGen-AI-Design-MCP",
+      "description": "MeiGen-AI-Design-MCP — Turn Claude Code / OpenClaw into your local Lovart. Local ComfyUI, 1,400+ prompt library, multi-direction parallel generation.",
+      "stars": 545,
+      "source": "github"
+    },
+    {
+      "title": "GCWing/BitFun",
+      "url": "https://github.com/GCWing/BitFun",
+      "description": "BitFun is a next-generation AI assistant with built-in Code Agent and Cowork Agent. It has memory, personality, and the ability to evolve over time. You can remotely control the desktop through mobile QR pairing or Telegram / Feishu bots, send instructions, and watch each execution step in real time while the Agent keeps working in the background.",
+      "stars": 531,
+      "source": "github"
+    },
+    {
+      "title": "dense-analysis/neural",
+      "url": "https://github.com/dense-analysis/neural",
+      "description": "AI Vim/Neovim code generation plugin (OpenAI, ChatGPT, and more)",
+      "stars": 511,
+      "source": "github"
+    },
+    {
+      "title": "project-codeguard/rules",
+      "url": "https://github.com/project-codeguard/rules",
+      "description": "Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance.",
+      "stars": 399,
+      "source": "github"
+    },
+    {
+      "title": "HamedMP/CursorLens",
+      "url": "https://github.com/HamedMP/CursorLens",
+      "description": "An open-source dashboard for Cursor.sh IDE. Log AI code generations, track usage, and control AI models (including local ones). Run locally or use upcoming hosted version.",
+      "stars": 391,
+      "source": "github"
+    },
+    {
+      "title": "modelence/modelence",
+      "url": "https://github.com/modelence/modelence",
+      "description": "Modelence is a full-stack framework for building production web apps with a built-in database, authentication and monitoring. Modelence is opinionated and AI agent-first, which means it's optimized for AI code generation with built-in guardrails.",
+      "stars": 383,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.312,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.209,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "topic": "AI workflow orchestration",
+  "timestamp": "2026-03-31T11:55:01.121052",
+  "findings": [
+    {
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "description": "Production-ready platform for agentic workflow development.",
+      "stars": 135081,
+      "updated_at": "2026-03-31T03:54:46Z",
+      "source": "github"
+    },
+    {
+      "title": "apache/airflow",
+      "url": "https://github.com/apache/airflow",
+      "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+      "stars": 44834,
+      "updated_at": "2026-03-31T03:18:54Z",
+      "source": "github"
+    },
+    {
+      "title": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "stars": 28715,
+      "updated_at": "2026-03-31T03:54:18Z",
+      "source": "github"
+    },
+    {
+      "title": "labring/FastGPT",
+      "url": "https://github.com/labring/FastGPT",
+      "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+      "stars": 27574,
+      "updated_at": "2026-03-31T03:28:14Z",
+      "source": "github"
+    },
+    {
+      "title": "deepset-ai/haystack",
+      "url": "https://github.com/deepset-ai/haystack",
+      "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
+      "stars": 24659,
+      "updated_at": "2026-03-31T03:48:44Z",
+      "source": "github"
+    },
+    {
+      "title": "Avaiga/taipy",
+      "url": "https://github.com/Avaiga/taipy",
+      "description": "Turns Data and AI algorithms into production-ready web applications in no time.",
+      "stars": 19146,
+      "updated_at": "2026-03-31T03:53:39Z",
+      "source": "github"
+    },
+    {
+      "title": "microsoft/mcp-for-beginners",
+      "url": "https://github.com/microsoft/mcp-for-beginners",
+      "description": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.",
+      "stars": 15725,
+      "updated_at": "2026-03-30T18:42:15Z",
+      "source": "github"
+    },
+    {
+      "title": "triggerdotdev/trigger.dev",
+      "url": "https://github.com/triggerdotdev/trigger.dev",
+      "description": "Trigger.dev – build and deploy fully‑managed AI agents and workflows",
+      "stars": 14288,
+      "updated_at": "2026-03-31T02:00:14Z",
+      "source": "github"
+    },
+    {
+      "title": "neuml/txtai",
+      "url": "https://github.com/neuml/txtai",
+      "description": "💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+      "stars": 12354,
+      "updated_at": "2026-03-31T02:40:12Z",
+      "source": "github"
+    },
+    {
+      "title": "dataelement/bisheng",
+      "url": "https://github.com/dataelement/bisheng",
+      "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Management, Observability and more.",
+      "stars": 11262,
+      "updated_at": "2026-03-31T02:36:28Z",
+      "source": "github"
+    },
+    {
+      "title": "iflytek/astron-agent",
+      "url": "https://github.com/iflytek/astron-agent",
+      "description": "Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.",
+      "stars": 10640,
+      "updated_at": "2026-03-31T03:44:13Z",
+      "source": "github"
+    },
+    {
+      "title": "microsoft/agent-framework",
+      "url": "https://github.com/microsoft/agent-framework",
+      "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
+      "stars": 8310,
+      "updated_at": "2026-03-31T03:49:35Z",
+      "source": "github"
+    },
+    {
+      "title": "flyteorg/flyte",
+      "url": "https://github.com/flyteorg/flyte",
+      "description": "Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows. Flyte 2 now available locally: https://github.com/flyteorg/flyte-sdk",
+      "stars": 6909,
+      "updated_at": "2026-03-30T20:36:04Z",
+      "source": "github"
+    },
+    {
+      "title": "inngest/inngest",
+      "url": "https://github.com/inngest/inngest",
+      "description": "The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge.",
+      "stars": 5115,
+      "updated_at": "2026-03-31T00:47:33Z",
+      "source": "github"
+    },
+    {
+      "title": "builderz-labs/mission-control",
+      "url": "https://github.com/builderz-labs/mission-control",
+      "description": "Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.",
+      "stars": 3623,
+      "updated_at": "2026-03-31T03:35:42Z",
+      "source": "github"
+    },
+    {
+      "title": "SolaceLabs/solace-agent-mesh",
+      "url": "https://github.com/SolaceLabs/solace-agent-mesh",
+      "description": "An event-driven framework designed to build and orchestrate multi-agent AI systems. It enables seamless integration of AI agents with real-world data sources and systems, facilitating complex, multi-step workflows.",
+      "stars": 2621,
+      "updated_at": "2026-03-30T23:12:23Z",
+      "source": "github"
+    },
+    {
+      "title": "moazbuilds/CodeMachine-CLI",
+      "url": "https://github.com/moazbuilds/CodeMachine-CLI",
+      "description": "CodeMachine is an open-source tool that orchestrates AI coding agents into repeatable, long-running workflows. ⚡️",
+      "stars": 2412,
+      "updated_at": "2026-03-31T00:43:15Z",
+      "source": "github"
+    },
+    {
+      "title": "parruda/swarm",
+      "url": "https://github.com/parruda/swarm",
+      "description": "Ruby gems for general-purpose AI agent systems: automation, research, data processing, customer support, content creation. SwarmSDK provides single-process orchestration, persistent memory with semantic   search, node workflows, and hooks. SwarmMemory/SwarmCLI included. Claude Swarm v1 for dev teams.",
+      "stars": 1689,
+      "updated_at": "2026-03-30T09:41:21Z",
+      "source": "github"
+    },
+    {
+      "title": "agentjido/jido",
+      "url": "https://github.com/agentjido/jido",
+      "description": "🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.",
+      "stars": 1610,
+      "updated_at": "2026-03-30T16:38:21Z",
+      "source": "github"
+    },
+    {
+      "title": "rulego/rulego",
+      "url": "https://github.com/rulego/rulego",
+      "description": "⛓️RuleGo is a lightweight, high-performance, embedded, next-generation component orchestration rule engine framework for Go.",
+      "stars": 1468,
+      "updated_at": "2026-03-30T09:50:02Z",
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.408,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.14,
+      "diversity": 0.0,
+      "usability": 0.1,
+      "applicability": 0.95,
+      "coverage": 1.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

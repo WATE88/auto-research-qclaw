@@ -1,0 +1,174 @@
+{
+  "topic": "LLM inference framework",
+  "timestamp": "2026-03-31T12:58:58.538800",
+  "findings": [
+    {
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "stars": 158568,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "stars": 36872,
+      "source": "github"
+    },
+    {
+      "title": "sgl-project/sglang",
+      "url": "https://github.com/sgl-project/sglang",
+      "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+      "stars": 25255,
+      "source": "github"
+    },
+    {
+      "title": "kvcache-ai/ktransformers",
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "stars": 16860,
+      "source": "github"
+    },
+    {
+      "title": "thu-pacman/chitu",
+      "url": "https://github.com/thu-pacman/chitu",
+      "description": "High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability.",
+      "stars": 4216,
+      "source": "github"
+    },
+    {
+      "title": "ModelTC/LightLLM",
+      "url": "https://github.com/ModelTC/LightLLM",
+      "description": "LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.",
+      "stars": 3980,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "stars": 2275,
+      "source": "github"
+    },
+    {
+      "title": "openvinotoolkit/nncf",
+      "url": "https://github.com/openvinotoolkit/nncf",
+      "description": "Neural Network Compression Framework for enhanced OpenVINO™ inference",
+      "stars": 1146,
+      "source": "github"
+    },
+    {
+      "title": "efeslab/Nanoflow",
+      "url": "https://github.com/efeslab/Nanoflow",
+      "description": "A throughput-oriented high-performance serving framework for LLMs",
+      "stars": 952,
+      "source": "github"
+    },
+    {
+      "title": "harleyszhang/llm_note",
+      "url": "https://github.com/harleyszhang/llm_note",
+      "description": "LLM notes, including model inference, transformer model structure, and llm framework code analysis notes.",
+      "stars": 870,
+      "source": "github"
+    },
+    {
+      "title": "MegEngine/InferLLM",
+      "url": "https://github.com/MegEngine/InferLLM",
+      "description": "a lightweight LLM model inference framework",
+      "stars": 751,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/vidur",
+      "url": "https://github.com/microsoft/vidur",
+      "description": "A large-scale simulation framework for LLM inference",
+      "stars": 566,
+      "source": "github"
+    },
+    {
+      "title": "TsinghuaC3I/MARTI",
+      "url": "https://github.com/TsinghuaC3I/MARTI",
+      "description": "A Framework for LLM-based Multi-Agent Reinforced Training and Inference",
+      "stars": 470,
+      "source": "github"
+    },
+    {
+      "title": "harleyszhang/lite_llama",
+      "url": "https://github.com/harleyszhang/lite_llama",
+      "description": "A light llama-like llm inference framework based on the triton kernel.",
+      "stars": 178,
+      "source": "github"
+    },
+    {
+      "title": "bentoml/llm-optimizer",
+      "url": "https://github.com/bentoml/llm-optimizer",
+      "description": "Benchmark and optimize LLM inference across frameworks with ease",
+      "stars": 177,
+      "source": "github"
+    },
+    {
+      "title": "inclusionAI/asystem-awex",
+      "url": "https://github.com/inclusionAI/asystem-awex",
+      "description": "A high-performance RL training-inference weight synchronization framework, designed to enable second-level parameter updates from training to inference in RL workflows",
+      "stars": 141,
+      "source": "github"
+    },
+    {
+      "title": "antgroup/LLMOPT",
+      "url": "https://github.com/antgroup/LLMOPT",
+      "description": "The LLMOPT project offers a comprehensive set of resources, including the model, dataset, training framework, and inference code, enabling users to fully utilize LLMOPT.",
+      "stars": 132,
+      "source": "github"
+    },
+    {
+      "title": "jkanalakis/deep-recall",
+      "url": "https://github.com/jkanalakis/deep-recall",
+      "description": "Enterprise-grade memory framework for LLMs featuring GPU-optimized inference, vector storage, and automated scaling. Enables hyper-personalized responses through efficient context retrieval and integration.",
+      "stars": 91,
+      "source": "github"
+    },
+    {
+      "title": "jd-opensource/xllm-service",
+      "url": "https://github.com/jd-opensource/xllm-service",
+      "description": "A flexible serving framework that delivers efficient and fault-tolerant LLM inference for clustered deployments.",
+      "stars": 89,
+      "source": "github"
+    },
+    {
+      "title": "pan-x-c/EE-LLM",
+      "url": "https://github.com/pan-x-c/EE-LLM",
+      "description": "EE-LLM is a framework for large-scale training and inference of early-exit (EE) large language models (LLMs).",
+      "stars": 78,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.394,
+    "grade": "D",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.1,
+      "star_power": 0.08,
+      "diversity": 0.0,
+      "usability": 0.1,
+      "applicability": 0.15,
+      "coverage": 1.0,
+      "ndcg": 0.586,
+      "map": 1.0,
+      "mrr": 1.0,
+      "rouge_1": 0.783,
+      "semantic_sim": 0.377,
+      "coherence": 0.062,
+      "task_completion": 0.732,
+      "tool_use": 0.022,
+      "reasoning_depth": 0.14,
+      "autonomy": 0.05,
+      "multi_agent": 0.035
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

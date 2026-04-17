@@ -1,0 +1,174 @@
+{
+  "topic": "LLM fine-tuning framework",
+  "timestamp": "2026-03-31T12:58:29.247703",
+  "findings": [
+    {
+      "title": "run-llama/llama_index",
+      "url": "https://github.com/run-llama/llama_index",
+      "description": "LlamaIndex is the leading document agent and OCR platform",
+      "stars": 48156,
+      "source": "github"
+    },
+    {
+      "title": "kvcache-ai/ktransformers",
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "stars": 16860,
+      "source": "github"
+    },
+    {
+      "title": "ludwig-ai/ludwig",
+      "url": "https://github.com/ludwig-ai/ludwig",
+      "description": "Low-code framework for building custom LLMs, neural networks, and other AI models",
+      "stars": 11666,
+      "source": "github"
+    },
+    {
+      "title": "h2oai/h2o-llmstudio",
+      "url": "https://github.com/h2oai/h2o-llmstudio",
+      "description": "H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/",
+      "stars": 4900,
+      "source": "github"
+    },
+    {
+      "title": "truefoundry/cognita",
+      "url": "https://github.com/truefoundry/cognita",
+      "description": "RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry ",
+      "stars": 4394,
+      "source": "github"
+    },
+    {
+      "title": "YiVal/YiVal",
+      "url": "https://github.com/YiVal/YiVal",
+      "description": "Your Automatic Prompt Engineering Assistant for GenAI Applications",
+      "stars": 2129,
+      "source": "github"
+    },
+    {
+      "title": "IntelLabs/RAG-FiT",
+      "url": "https://github.com/IntelLabs/RAG-FiT",
+      "description": "Framework for enhancing LLMs for RAG tasks using fine-tuning.",
+      "stars": 770,
+      "source": "github"
+    },
+    {
+      "title": "codefuse-ai/MFTCoder",
+      "url": "https://github.com/codefuse-ai/MFTCoder",
+      "description": "High Accuracy and efficiency multi-task fine-tuning framework for Code LLMs. This work has been accepted by KDD 2024.",
+      "stars": 713,
+      "source": "github"
+    },
+    {
+      "title": "Maximilian-Winter/llama-cpp-agent",
+      "url": "https://github.com/Maximilian-Winter/llama-cpp-agent",
+      "description": "The llama-cpp-agent framework is a tool designed for easy interaction with Large Language Models (LLMs). Allowing users to chat with LLM models, execute structured function calls and get structured output. Works also with models not fine-tuned to JSON output and function calls.",
+      "stars": 624,
+      "source": "github"
+    },
+    {
+      "title": "agentscope-ai/Trinity-RFT",
+      "url": "https://github.com/agentscope-ai/Trinity-RFT",
+      "description": "Trinity-RFT is a general-purpose, flexible and scalable framework designed for reinforcement fine-tuning (RFT) of large language models (LLM).",
+      "stars": 574,
+      "source": "github"
+    },
+    {
+      "title": "opendilab/LightRFT",
+      "url": "https://github.com/opendilab/LightRFT",
+      "description": "LightRFT: Light, Efficient, Omni-modal & Reward-model Driven Reinforcement Fine-Tuning Framework",
+      "stars": 256,
+      "source": "github"
+    },
+    {
+      "title": "arcee-ai/EvolKit",
+      "url": "https://github.com/arcee-ai/EvolKit",
+      "description": "EvolKit is an innovative framework designed to automatically enhance the complexity of instructions used for fine-tuning Large Language Models (LLMs). ",
+      "stars": 254,
+      "source": "github"
+    },
+    {
+      "title": "Epistates/pmetal",
+      "url": "https://github.com/Epistates/pmetal",
+      "description": "Powdered Metal — High performance LLM fine-tuning framework for Apple Silicon",
+      "stars": 205,
+      "source": "github"
+    },
+    {
+      "title": "rileycleavenger/Silicon-Studio",
+      "url": "https://github.com/rileycleavenger/Silicon-Studio",
+      "description": "Fine-tune and run LLMs locally on your M-series Mac. A powerful desktop interface built on Apple's MLX framework for zero-setup AI.",
+      "stars": 142,
+      "source": "github"
+    },
+    {
+      "title": "Simplifine-gamedev/Simplifine",
+      "url": "https://github.com/Simplifine-gamedev/Simplifine",
+      "description": "🚀 Easy, open-source LLM finetuning with one-line commands, seamless cloud integration, and popular optimization frameworks. ✨",
+      "stars": 96,
+      "source": "github"
+    },
+    {
+      "title": "multimindlab/multimind-sdk",
+      "url": "https://github.com/multimindlab/multimind-sdk",
+      "description": "Your SDK solves all of this. One interface. Unified logic. Local + hosted models. Fine-tuning. Agent tools. Enterprise-ready. Hybrid RAG.Star 🌟 if you like it!",
+      "stars": 90,
+      "source": "github"
+    },
+    {
+      "title": "moyuan5989/mlx-forge",
+      "url": "https://github.com/moyuan5989/mlx-forge",
+      "description": "LLM fine-tuning & RL framework for MLX.",
+      "stars": 84,
+      "source": "github"
+    },
+    {
+      "title": "homanp/nagato",
+      "url": "https://github.com/homanp/nagato",
+      "description": "🌸 The open framework for question answering fine-tuning LLMs on private data",
+      "stars": 69,
+      "source": "github"
+    },
+    {
+      "title": "velocitybolt/synkro",
+      "url": "https://github.com/velocitybolt/synkro",
+      "description": "AI agent simulation framework",
+      "stars": 67,
+      "source": "github"
+    },
+    {
+      "title": "RuslanPeresy/gptchain",
+      "url": "https://github.com/RuslanPeresy/gptchain",
+      "description": "Framework to fine-tune LLMs and build RAG applications.",
+      "stars": 66,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.348,
+    "grade": "D",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.096,
+      "diversity": 0.0,
+      "usability": 0.3,
+      "applicability": 0.125,
+      "coverage": 1.0,
+      "ndcg": 0.492,
+      "map": 0.784,
+      "mrr": 0.5,
+      "rouge_1": 0.588,
+      "semantic_sim": 0.306,
+      "coherence": 0.103,
+      "task_completion": 0.649,
+      "tool_use": 0.063,
+      "reasoning_depth": 0.02,
+      "autonomy": 0.087,
+      "multi_agent": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

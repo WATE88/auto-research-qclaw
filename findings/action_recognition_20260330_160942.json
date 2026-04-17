@@ -1,0 +1,159 @@
+{
+  "topic": "action recognition",
+  "timestamp": "2026-03-30T16:09:42.523887",
+  "findings": [
+    {
+      "title": "TadasBaltrusaitis/OpenFace",
+      "url": "https://github.com/TadasBaltrusaitis/OpenFace",
+      "description": "OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.",
+      "stars": 7607,
+      "source": "github"
+    },
+    {
+      "title": "kenshohara/3D-ResNets-PyTorch",
+      "url": "https://github.com/kenshohara/3D-ResNets-PyTorch",
+      "description": "3D ResNets for Action Recognition (CVPR 2018)",
+      "stars": 4043,
+      "source": "github"
+    },
+    {
+      "title": "jinwchoi/awesome-action-recognition",
+      "url": "https://github.com/jinwchoi/awesome-action-recognition",
+      "description": "A curated list of action recognition and related area resources",
+      "stars": 3991,
+      "source": "github"
+    },
+    {
+      "title": "open-mmlab/mmskeleton",
+      "url": "https://github.com/open-mmlab/mmskeleton",
+      "description": "A OpenMMLAB toolbox  for human pose estimation, skeleton-based action recognition, and action synthesis.",
+      "stars": 3098,
+      "source": "github"
+    },
+    {
+      "title": "PaddlePaddle/PaddleVideo",
+      "url": "https://github.com/PaddlePaddle/PaddleVideo",
+      "description": "Awesome video understanding toolkits based on PaddlePaddle. It supports video data annotation tools, lightweight RGB and skeleton based action recognition model, practical applications for video tagging and sport action detection.",
+      "stars": 1692,
+      "source": "github"
+    },
+    {
+      "title": "kennymckormick/pyskl",
+      "url": "https://github.com/kennymckormick/pyskl",
+      "description": "A toolbox for skeleton-based action recognition.",
+      "stars": 1218,
+      "source": "github"
+    },
+    {
+      "title": "HHTseng/video-classification",
+      "url": "https://github.com/HHTseng/video-classification",
+      "description": "Tutorial for video classification/ action recognition using 3D CNN/ CNN+RNN on UCF101",
+      "stars": 972,
+      "source": "github"
+    },
+    {
+      "title": "EvelynFan/AWESOME-FER",
+      "url": "https://github.com/EvelynFan/AWESOME-FER",
+      "description": "Top conferences & Journals focused on Facial expression recognition (FER)/ Facial action unit (FAU)  ",
+      "stars": 960,
+      "source": "github"
+    },
+    {
+      "title": "felixchenfy/Realtime-Action-Recognition",
+      "url": "https://github.com/felixchenfy/Realtime-Action-Recognition",
+      "description": "Apply ML to the skeletons from OpenPose; 9 actions; multiple people. (WARNING: I'm sorry that this is only good for course demo, not for real world applications !!! Those ary very difficult !!!)",
+      "stars": 940,
+      "source": "github"
+    },
+    {
+      "title": "jeffreyyihuang/two-stream-action-recognition",
+      "url": "https://github.com/jeffreyyihuang/two-stream-action-recognition",
+      "description": "Using two stream architecture to implement a classic action recognition method on UCF101 dataset",
+      "stars": 876,
+      "source": "github"
+    },
+    {
+      "title": "shahroudy/NTURGB-D",
+      "url": "https://github.com/shahroudy/NTURGB-D",
+      "description": "Info and sample codes for \"NTU RGB+D Action Recognition Dataset\"",
+      "stars": 864,
+      "source": "github"
+    },
+    {
+      "title": "LZQthePlane/Online-Realtime-Action-Recognition-based-on-OpenPose",
+      "url": "https://github.com/LZQthePlane/Online-Realtime-Action-Recognition-based-on-OpenPose",
+      "description": "A skeleton-based real-time online action recognition project, classifying and recognizing base on framewise joints, which can be used for safety surveilence.",
+      "stars": 716,
+      "source": "github"
+    },
+    {
+      "title": "feichtenhofer/twostreamfusion",
+      "url": "https://github.com/feichtenhofer/twostreamfusion",
+      "description": "Code release for \"Convolutional Two-Stream Network Fusion for Video Action Recognition\", CVPR 2016.",
+      "stars": 716,
+      "source": "github"
+    },
+    {
+      "title": "lshiwjx/2s-AGCN",
+      "url": "https://github.com/lshiwjx/2s-AGCN",
+      "description": "Two-Stream Adaptive Graph Convolutional Networks for Skeleton-Based Action Recognition in CVPR19",
+      "stars": 702,
+      "source": "github"
+    },
+    {
+      "title": "niais/Awesome-Skeleton-based-Action-Recognition",
+      "url": "https://github.com/niais/Awesome-Skeleton-based-Action-Recognition",
+      "description": "Skeleton-based Action Recognition",
+      "stars": 686,
+      "source": "github"
+    },
+    {
+      "title": "firework8/Awesome-Skeleton-based-Action-Recognition",
+      "url": "https://github.com/firework8/Awesome-Skeleton-based-Action-Recognition",
+      "description": "A curated paper list of awesome skeleton-based action recognition.",
+      "stars": 679,
+      "source": "github"
+    },
+    {
+      "title": "sallymmx/ActionCLIP",
+      "url": "https://github.com/sallymmx/ActionCLIP",
+      "description": "This is the official implement of paper \"ActionCLIP: A New Paradigm for Action Recognition\"",
+      "stars": 604,
+      "source": "github"
+    },
+    {
+      "title": "bryanyzhu/two-stream-pytorch",
+      "url": "https://github.com/bryanyzhu/two-stream-pytorch",
+      "description": "PyTorch implementation of  two-stream networks for video action recognition",
+      "stars": 582,
+      "source": "github"
+    },
+    {
+      "title": "chaoyuaw/pytorch-coviar",
+      "url": "https://github.com/chaoyuaw/pytorch-coviar",
+      "description": "Compressed Video Action Recognition",
+      "stars": 521,
+      "source": "github"
+    },
+    {
+      "title": "FaceAR/OpenFaceIOS",
+      "url": "https://github.com/FaceAR/OpenFaceIOS",
+      "description": "OpenFace is get from https://github.com/TadasBaltrusaitis/OpenFace, a state-of-the art open source tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation. And I create an ios project. Delete Dlib,TBB,Boost. Only use OpenCV .",
+      "stars": 512,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.312,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.21,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

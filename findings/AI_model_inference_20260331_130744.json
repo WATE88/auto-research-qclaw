@@ -1,0 +1,174 @@
+{
+  "topic": "AI model inference",
+  "timestamp": "2026-03-31T13:07:44.231857",
+  "findings": [
+    {
+      "title": "hpcaitech/ColossalAI",
+      "url": "https://github.com/hpcaitech/ColossalAI",
+      "description": "Making large AI models cheaper, faster and more accessible",
+      "stars": 41373,
+      "source": "github"
+    },
+    {
+      "title": "meta-llama/llama-cookbook",
+      "url": "https://github.com/meta-llama/llama-cookbook",
+      "description": "Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services  ",
+      "stars": 18269,
+      "source": "github"
+    },
+    {
+      "title": "bentoml/BentoML",
+      "url": "https://github.com/bentoml/BentoML",
+      "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!",
+      "stars": 8548,
+      "source": "github"
+    },
+    {
+      "title": "leejet/stable-diffusion.cpp",
+      "url": "https://github.com/leejet/stable-diffusion.cpp",
+      "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
+      "stars": 5648,
+      "source": "github"
+    },
+    {
+      "title": "winfunc/deepreasoning",
+      "url": "https://github.com/winfunc/deepreasoning",
+      "description": "A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models.",
+      "stars": 5369,
+      "source": "github"
+    },
+    {
+      "title": "OpenCSGs/csghub",
+      "url": "https://github.com/OpenCSGs/csghub",
+      "description": "CSGHub is a brand-new open-source platform for managing LLMs, developed by the OpenCSG team. It offers both open-source and on-premise/SaaS solutions, with features comparable to Hugging Face. Gain full control over the lifecycle of LLMs, datasets, and agents, with Python SDK compatibility with Hugging Face. Join us! ⭐️",
+      "stars": 5356,
+      "source": "github"
+    },
+    {
+      "title": "gpustack/gpustack",
+      "url": "https://github.com/gpustack/gpustack",
+      "description": "A GPU cluster manager that configures and orchestrates inference engines like vLLM and SGLang for high-performance AI model deployment.",
+      "stars": 4755,
+      "source": "github"
+    },
+    {
+      "title": "huggingface/text-embeddings-inference",
+      "url": "https://github.com/huggingface/text-embeddings-inference",
+      "description": "A blazing fast inference solution for text embeddings models",
+      "stars": 4639,
+      "source": "github"
+    },
+    {
+      "title": "Lagrange-Labs/deep-prove",
+      "url": "https://github.com/Lagrange-Labs/deep-prove",
+      "description": "Framework to prove inference of ML models blazingly fast",
+      "stars": 3342,
+      "source": "github"
+    },
+    {
+      "title": "zml/zml",
+      "url": "https://github.com/zml/zml",
+      "description": "Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild",
+      "stars": 3295,
+      "source": "github"
+    },
+    {
+      "title": "containers/ramalama",
+      "url": "https://github.com/containers/ramalama",
+      "description": "RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of containers.",
+      "stars": 2677,
+      "source": "github"
+    },
+    {
+      "title": "pykeio/ort",
+      "url": "https://github.com/pykeio/ort",
+      "description": "Fast ML inference & training for ONNX models in Rust",
+      "stars": 2128,
+      "source": "github"
+    },
+    {
+      "title": "Bytez-com/docs",
+      "url": "https://github.com/Bytez-com/docs",
+      "description": "1 API key. 220,000+ AI models. Bytez is the largest serverless Model Inference API on the internet. Let's build ✨",
+      "stars": 1643,
+      "source": "github"
+    },
+    {
+      "title": "trymirai/uzu",
+      "url": "https://github.com/trymirai/uzu",
+      "description": "A high-performance inference engine for AI models",
+      "stars": 1523,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/edgeai-for-beginners",
+      "url": "https://github.com/microsoft/edgeai-for-beginners",
+      "description": "This course is designed to guide beginners through the exciting world of Edge AI, covering fundamental concepts, popular models, inference techniques, device-specific applications, model optimization, and the development of intelligent Edge AI agents.",
+      "stars": 1384,
+      "source": "github"
+    },
+    {
+      "title": "OpenCSGs/csghub-server",
+      "url": "https://github.com/OpenCSGs/csghub-server",
+      "description": "csghub-server is the backend server for CSGHub which helps user to manage datasets, modes, and also run Model Inference, Finetune and Application Spaces.",
+      "stars": 1376,
+      "source": "github"
+    },
+    {
+      "title": "zkonduit/ezkl",
+      "url": "https://github.com/zkonduit/ezkl",
+      "description": "ezkl is an engine for doing inference for deep learning models and other computational graphs in a zk-snark (ZKML). Use it from Python, Javascript, or the command line. ",
+      "stars": 1187,
+      "source": "github"
+    },
+    {
+      "title": "kubeai-project/kubeai",
+      "url": "https://github.com/kubeai-project/kubeai",
+      "description": "AI Inference Operator for Kubernetes. The easiest way to serve ML models in production. Supports VLMs, LLMs, embeddings, and speech-to-text.",
+      "stars": 1169,
+      "source": "github"
+    },
+    {
+      "title": "replit/ReplitLM",
+      "url": "https://github.com/replit/ReplitLM",
+      "description": "Inference code and configs for the ReplitLM model family",
+      "stars": 1052,
+      "source": "github"
+    },
+    {
+      "title": "awslabs/multi-model-server",
+      "url": "https://github.com/awslabs/multi-model-server",
+      "description": "Multi Model Server is a tool for serving neural net models for inference",
+      "stars": 1026,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.355,
+    "grade": "D",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.14,
+      "diversity": 0.0,
+      "usability": 0.2,
+      "applicability": 0.2,
+      "coverage": 1.0,
+      "ndcg": 0.49,
+      "map": 0.905,
+      "mrr": 1.0,
+      "rouge_1": 0.583,
+      "semantic_sim": 0.24,
+      "coherence": 0.14,
+      "task_completion": 0.563,
+      "tool_use": 0.093,
+      "reasoning_depth": 0.13,
+      "autonomy": 0.025,
+      "multi_agent": 0.03
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

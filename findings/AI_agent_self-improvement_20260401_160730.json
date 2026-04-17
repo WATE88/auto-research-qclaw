@@ -1,0 +1,174 @@
+{
+  "topic": "AI agent self-improvement",
+  "timestamp": "2026-04-01T16:07:30.998097",
+  "findings": [
+    {
+      "title": "metauto-ai/GPTSwarm",
+      "url": "https://github.com/metauto-ai/GPTSwarm",
+      "description": "🐝  The First Self-Improving Agentic Solution",
+      "stars": 1010,
+      "source": "github"
+    },
+    {
+      "title": "sentrux/sentrux",
+      "url": "https://github.com/sentrux/sentrux",
+      "description": "Real-time architectural sensor that helps AI agents close the feedback loop, enabling recursive self-improvement of code quality. Pure Rust.",
+      "stars": 773,
+      "source": "github"
+    },
+    {
+      "title": "ShunsukeHayashi/agent-skill-bus",
+      "url": "https://github.com/ShunsukeHayashi/agent-skill-bus",
+      "description": "The missing runtime for Agent Skills — health monitoring, self-improvement, and dependency management for any AI agent framework. Zero dependencies.",
+      "stars": 154,
+      "source": "github"
+    },
+    {
+      "title": "dakotalock/holygrailopensource",
+      "url": "https://github.com/dakotalock/holygrailopensource",
+      "description": "Fully autonomous AI development agent with stateful memory, live web access, pseudo self-improvement and more!",
+      "stars": 78,
+      "source": "github"
+    },
+    {
+      "title": "hankbesser/recursive-agents",
+      "url": "https://github.com/hankbesser/recursive-agents",
+      "description": "A meta-framework for self-improving LLMs with transparent reasoning",
+      "stars": 38,
+      "source": "github"
+    },
+    {
+      "title": "AlekseiUL/openclaw-superagent",
+      "url": "https://github.com/AlekseiUL/openclaw-superagent",
+      "description": "Complete AI Agent System for OpenClaw — memory, self-healing, self-improvement, voice, automation",
+      "stars": 32,
+      "source": "github"
+    },
+    {
+      "title": "Handit-AI/handit-examples",
+      "url": "https://github.com/Handit-AI/handit-examples",
+      "description": "🔥 Open Source AI Agents with Self-improvement Capabilities 🔥",
+      "stars": 24,
+      "source": "github"
+    },
+    {
+      "title": "EvoMap/awesome-agent-evolution",
+      "url": "https://github.com/EvoMap/awesome-agent-evolution",
+      "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap.ai",
+      "stars": 18,
+      "source": "github"
+    },
+    {
+      "title": "privkeyio/evolve-mcp",
+      "url": "https://github.com/privkeyio/evolve-mcp",
+      "description": "Universal MCP server for agent self-improvement via evolutionary algorithms.",
+      "stars": 9,
+      "source": "github"
+    },
+    {
+      "title": "open-agent-studio/agent",
+      "url": "https://github.com/open-agent-studio/agent",
+      "description": "An autonomous, goal-oriented AI agent runtime with persistent memory, skill execution, and self-improvement capabilities. The agent acts as your digital employee, capable of breaking down high-level objectives into actionable tasks, executing them using a variety of skills, and learning from its experiences.",
+      "stars": 6,
+      "source": "github"
+    },
+    {
+      "title": "Djtony707/TITAN",
+      "url": "https://github.com/Djtony707/TITAN",
+      "description": "TITAN — The Intelligent Task Automation Network. Autonomous AI agent framework with GPU VRAM orchestration, NVIDIA cuOpt/NIM integration, ~155 tools, 34 LLM providers, 15 channels, mesh networking, LiveKit voice, self-improvement, and a React dashboard. npm i -g titan-agent",
+      "stars": 6,
+      "source": "github"
+    },
+    {
+      "title": "DavinciDreams/evolving-ai",
+      "url": "https://github.com/DavinciDreams/evolving-ai",
+      "description": "A sophisticated AI agent with self-improvement capabilities, long-term memory, dynamic context queries, and autonomous code modification abilities.",
+      "stars": 5,
+      "source": "github"
+    },
+    {
+      "title": "ai-in-pm/Recursive-Self-Improvement-AI-Agent",
+      "url": "https://github.com/ai-in-pm/Recursive-Self-Improvement-AI-Agent",
+      "description": "A Python framework implementing self-modifying AI agents based on Gödel's incompleteness theorems. This framework enables agents to analyze and modify their own code during runtime, achieve self-awareness, and recursively optimize their decision-making processes.",
+      "stars": 3,
+      "source": "github"
+    },
+    {
+      "title": "choutos/agent-reliability-engineering",
+      "url": "https://github.com/choutos/agent-reliability-engineering",
+      "description": "Agent Reliability Engineering: applying SRE principles to AI agent systems. Evals, imp@k metrics, self-improvement, config versioning, transfer experiments.",
+      "stars": 3,
+      "source": "github"
+    },
+    {
+      "title": "Patysko/ARIA",
+      "url": "https://github.com/Patysko/ARIA",
+      "description": "AI agent with self-improvement, compressed memory, and an OpenClaw-style skill system. Runs locally with Ollama. Vibecoded with Claude Opus 4.6 and tested with codegemma:latest.",
+      "stars": 3,
+      "source": "github"
+    },
+    {
+      "title": "sskarz/nanoclawbster",
+      "url": "https://github.com/sskarz/nanoclawbster",
+      "description": "Self-hosted Discord AI assistant powered by Claude Agent SDK — runs agents in isolated Docker containers with skills, memory, and self-improvement",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "ShivankK26/AI-Voice-Agent",
+      "url": "https://github.com/ShivankK26/AI-Voice-Agent",
+      "description": "A sophisticated AI-powered voice agent testing and self-improvement platform built with Next.js, Twilio, and Anthropic Claude. This application enables automated testing of voice agents using real phone calls, comprehensive analysis, and AI-driven script improvement.",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "mfang0126/openclaw-skills",
+      "url": "https://github.com/mfang0126/openclaw-skills",
+      "description": "A curated collection of OpenClaw AI agent skills — workspace optimization, diagram generation, search, self-improvement, and more.",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "ObisDevs/node-typer-MCP",
+      "url": "https://github.com/ObisDevs/node-typer-MCP",
+      "description": "🧠 Ultimate MCP Server - 20 AI tools with autonomous cognition, self-improvement, and multi-modal processing for AI agents and workflows",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "adityasasidhar/_an_autonomous_agent",
+      "url": "https://github.com/adityasasidhar/_an_autonomous_agent",
+      "description": "This project implements an autonomous AI agent capable of self-improvement by evolving its own system prompt (context) rather than fine-tuning weights. This approach is inspired by the research concept that \"Fine-tuning is Dead\" (in favor of dynamic context engineering).",
+      "stars": 2,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.45,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.108,
+      "diversity": 0.0,
+      "usability": 0.0,
+      "applicability": 0.975,
+      "coverage": 1.0,
+      "ndcg": 0.662,
+      "map": 1.0,
+      "mrr": 1.0,
+      "rouge_1": 0.85,
+      "semantic_sim": 0.416,
+      "coherence": 0.151,
+      "task_completion": 0.627,
+      "tool_use": 0.055,
+      "reasoning_depth": 0.187,
+      "autonomy": 0.35,
+      "multi_agent": 0.03
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

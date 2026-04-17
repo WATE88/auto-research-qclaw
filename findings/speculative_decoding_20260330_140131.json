@@ -1,0 +1,159 @@
+{
+  "topic": "speculative decoding",
+  "timestamp": "2026-03-30T14:01:31.908159",
+  "findings": [
+    {
+      "title": "NVIDIA/Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "stars": 2264,
+      "source": "github"
+    },
+    {
+      "title": "hemingkx/SpeculativeDecodingPapers",
+      "url": "https://github.com/hemingkx/SpeculativeDecodingPapers",
+      "description": "📰 Must-read papers and blogs on Speculative Decoding ⚡️",
+      "stars": 1165,
+      "source": "github"
+    },
+    {
+      "title": "feifeibear/LLMSpeculativeSampling",
+      "url": "https://github.com/feifeibear/LLMSpeculativeSampling",
+      "description": "Fast inference from large lauguage models via speculative decoding",
+      "stars": 909,
+      "source": "github"
+    },
+    {
+      "title": "tanishqkumar/ssd",
+      "url": "https://github.com/tanishqkumar/ssd",
+      "description": "A lightweight inference engine supporting speculative speculative decoding (SSD). ",
+      "stars": 831,
+      "source": "github"
+    },
+    {
+      "title": "sgl-project/SpecForge",
+      "url": "https://github.com/sgl-project/SpecForge",
+      "description": "Train speculative decoding models effortlessly and port them smoothly to SGLang serving.",
+      "stars": 751,
+      "source": "github"
+    },
+    {
+      "title": "z-lab/dflash",
+      "url": "https://github.com/z-lab/dflash",
+      "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
+      "stars": 672,
+      "source": "github"
+    },
+    {
+      "title": "hemingkx/Spec-Bench",
+      "url": "https://github.com/hemingkx/Spec-Bench",
+      "description": "Spec-Bench: A Comprehensive Benchmark and Unified Evaluation Platform for Speculative Decoding (ACL 2024 Findings)",
+      "stars": 378,
+      "source": "github"
+    },
+    {
+      "title": "Infini-AI-Lab/Sequoia",
+      "url": "https://github.com/Infini-AI-Lab/Sequoia",
+      "description": "scalable and robust tree-based speculative decoding algorithm",
+      "stars": 376,
+      "source": "github"
+    },
+    {
+      "title": "facebookresearch/LayerSkip",
+      "url": "https://github.com/facebookresearch/LayerSkip",
+      "description": "Code for \"LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding\", ACL 2024",
+      "stars": 363,
+      "source": "github"
+    },
+    {
+      "title": "vllm-project/speculators",
+      "url": "https://github.com/vllm-project/speculators",
+      "description": "A unified library for building, evaluating, and storing speculative decoding algorithms for LLM inference in vLLM",
+      "stars": 307,
+      "source": "github"
+    },
+    {
+      "title": "lucidrains/speculative-decoding",
+      "url": "https://github.com/lucidrains/speculative-decoding",
+      "description": "Explorations into some recent techniques surrounding speculative decoding",
+      "stars": 301,
+      "source": "github"
+    },
+    {
+      "title": "Infini-AI-Lab/TriForce",
+      "url": "https://github.com/Infini-AI-Lab/TriForce",
+      "description": "[COLM 2024] TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding",
+      "stars": 279,
+      "source": "github"
+    },
+    {
+      "title": "dilab-zju/self-speculative-decoding",
+      "url": "https://github.com/dilab-zju/self-speculative-decoding",
+      "description": "Code associated with the paper **Draft & Verify: Lossless Large Language Model Acceleration via Self-Speculative Decoding**",
+      "stars": 223,
+      "source": "github"
+    },
+    {
+      "title": "FasterDecoding/REST",
+      "url": "https://github.com/FasterDecoding/REST",
+      "description": "REST: Retrieval-Based Speculative Decoding, NAACL 2024",
+      "stars": 216,
+      "source": "github"
+    },
+    {
+      "title": "smart-lty/nano-PEARL",
+      "url": "https://github.com/smart-lty/nano-PEARL",
+      "description": "Draft-Target Disaggregation LLM Serving System via Parallel Speculative Decoding.",
+      "stars": 183,
+      "source": "github"
+    },
+    {
+      "title": "smart-lty/ParallelSpeculativeDecoding",
+      "url": "https://github.com/smart-lty/ParallelSpeculativeDecoding",
+      "description": "[ICLR 2025] PEARL: Parallel Speculative Decoding with Adaptive Draft Length",
+      "stars": 152,
+      "source": "github"
+    },
+    {
+      "title": "Infini-AI-Lab/MagicDec",
+      "url": "https://github.com/Infini-AI-Lab/MagicDec",
+      "description": "[ICLR2025] Breaking Throughput-Latency Trade-off for Long Sequences with Speculative Decoding",
+      "stars": 145,
+      "source": "github"
+    },
+    {
+      "title": "alexziskind1/draftbench",
+      "url": "https://github.com/alexziskind1/draftbench",
+      "description": "Benchmark tool for measuring speculative decoding speedups. Sweep draft/target model combinations and generate interactive charts.",
+      "stars": 142,
+      "source": "github"
+    },
+    {
+      "title": "psmarter/mini-infer",
+      "url": "https://github.com/psmarter/mini-infer",
+      "description": "LLM inference engine from scratch — paged KV cache, continuous batching, chunked prefill, prefix caching, speculative decoding, CUDA graph,    tensor parallelism, MoE expert parallelism, OpenAI-compatible serving ",
+      "stars": 127,
+      "source": "github"
+    },
+    {
+      "title": "thunlp/Ouroboros",
+      "url": "https://github.com/thunlp/Ouroboros",
+      "description": "Ouroboros: Speculative Decoding with Large Model Enhanced Drafting (EMNLP 2024 main)",
+      "stars": 116,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.314,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.219,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

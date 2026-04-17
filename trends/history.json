@@ -1,0 +1,3151 @@
+{
+  "topics": {
+    "AI agents": [
+      {
+        "timestamp": "2026-03-30T11:18:37.236239",
+        "findings_count": 20,
+        "quality_score": 0.366,
+        "top_keywords": [
+          "langflow",
+          "langchain",
+          "gemini",
+          "browser",
+          "lobehub",
+          "agents",
+          "openbb",
+          "microsoft",
+          "significant",
+          "gravitas"
+        ],
+        "sources": {
+          "github": 20
+        }
+      },
+      {
+        "timestamp": "2026-03-30T12:09:17.440556",
+        "findings_count": 20,
+        "quality_score": 0.366,
+        "top_keywords": [
+          "langflow",
+          "langchain",
+          "gemini",
+          "browser",
+          "lobehub",
+          "agents",
+          "openbb",
+          "microsoft",
+          "significant",
+          "gravitas"
+        ],
+        "sources": {
+          "github": 20
+        }
+      },
+      {
+        "timestamp": "2026-03-31T11:18:29.675766",
+        "findings_count": 40,
+        "quality_score": 0.489,
+        "top_keywords": [
+          "based",
+          "agentic",
+          "driven",
+          "dynamic",
+          "learning",
+          "langflow",
+          "models",
+          "langchain",
+          "gemini",
+          "browser"
+        ],
+        "sources": {
+          "github": 20,
+          "arxiv": 20
+        }
+      },
+      {
+        "timestamp": "2026-04-07T11:37:34.633066",
+        "findings_count": 40,
+        "quality_score": 0.493,
+        "top_keywords": [
+          "agents",
+          "with",
+          "agent",
+          "learning",
+          "system",
+          "human",
+          "interaction",
+          "langflow",
+          "models",
+          "langchain"
+        ],
+        "sources": {
+          "github": 20,
+          "arxiv": 20
+        }
+      },
+      {
+        "timestamp": "2026-04-08T11:13:22.907102",
+        "findings_count": 40,
+        "quality_score": 0.486,
+        "top_keywords": [
+          "agents",
+          "agent",
+          "with",
+          "framework",
+          "langflow",
+          "models",
+          "langchain",
+          "firecrawl",
+          "gemini",
+          "browser"
+        ],
+        "sources": {
+          "github": 20,
+          "arxiv": 20
+        }
+      },
+      {
+        "timestamp": "2026-04-13T11:06:26.798584",
+        "findings_count": 40,
+        "quality_score": 0.495,
+        "top_keywords": [
+          "reasoning",
+          "agents",
+          "agent",
+          "learning",
+          "multi",
+          "semantic",
+          "agentic",
+          "from",
+          "with",
+          "langflow"
+        ],
+        "sources": {
+          "github": 20,
+          "arxiv": 20
+        }
+      },
+      {
+        "timestamp": "2026-04-14T11:10:43.121812",
+        "findings_count": 40,
+        "quality_score": 0.496,
+        "top_keywords": [
+          "agent",
+          "agents",
+          "framework",
+          "agentic",
+          "multi",
+          "systems",
+          "langflow",
+          "system",
+          "prompts",
+          "models"
+        ],
+        "sources": {
+          "github": 20,
+          "arxiv": 20
+        }
+      },
+      {
+        "timestamp": "2026-04-15T11:09:06.106562",
+        "findings_count": 40,
+        "quality_score": 0.493,
+        "top_keywords": [
+          "models",
+          "agents",
+          "search",
+          "agent",
+          "engineering",
+          "visual",
+          "long",
+          "horizon",
+          "agentic",
+          "language"
+        ],
+        "sources": {
+          "github": 20,
+          "arxiv": 20
+        }
+      },
+      {
+        "timestamp": "2026-04-16T11:22:09.288698",
+        "findings_count": 40,
+        "quality_score": 0.501,
+        "top_keywords": [
+          "agent",
+          "agents",
+          "from",
+          "self",
+          "memory",
+          "langflow",
+          "models",
+          "langchain",
+          "gemini",
+          "browser"
+        ],
+        "sources": {
+          "github": 20,
+          "arxiv": 20
+        }
+      }
+    ],
+    "LLM optimization": [
+      {
+        "timestamp": "2026-03-30T11:25:53.239876",
+        "findings_count": 20,
+        "quality_score": 0.294,
+        "top_keywords": [
+          "nvidia",
+          "project",
+          "mlflow",
+          "tensorzero",
+          "krillinai",
+          "lemonade",
+          "affaan",
+          "everything",
+          "claude",
+          "code"
+        ],
+        "sources": {
+          "github": 20
+        }
+      },
+      {
+        "timestamp": "2026-03-30T12:09:13.839320",
+        "findings_count": 20,
+        "quality_score": 0.294,
+        "top_keywords": [
+          "nvidia",
+          "project",
+          "mlflow",
+          "tensorzero",
+          "krillinai",
+          "lemonade",
+          "affaan",
+          "everything",
+          "claude",
+          "code"
+        ],
+        "sources": {
+          "github": 20
+        }
+      },
+      {
+        "timestamp": "2026-03-31T11:18:25.489098",
+        "findings_count": 40,
+        "quality_score": 0.409,
+        "top_keywords": [
+          "optimization",
+          "model",
+          "nvidia",
+          "with",
+          "based",
+          "linear",
+          "driven",
+          "project",
+          "mlflow",
+          "tensorzero"
+        ],
+        "sources": {
+          "github": 20,
+          "arxiv": 20
+        }
+      },
+      {
+        "timestamp": "2026-04-07T11:37:30.722301",
+        "findings_count": 40,
+        "quality_score": 0.407,
+        "top_keywords": [
+          "with",
+          "nvidia",
+          "model",
+          "agent",
+          "learning",
+          "project",
+          "mlflow",
+          "tensorzero",
+          "krillinai",
+          "lemonade"
+        ],
+        "sources": {
+          "github": 20,
+          "arxiv": 20
+        }
+      },
+      {
+        "timestamp": "2026-04-08T11:13:18.101437",
+        "findings_count": 40,
+        "quality_score": 0.414,
+        "top_keywords": [
+          "with",
+          "nvidia",
+          "optimal",
+          "code",
+          "project",
+          "mlflow",
+          "tensorzero",
+          "krillinai",
+          "lemonade",
+          "model"
+        ],
+        "sources": {
+          "github": 20,
+          "arxiv": 20
+        }
+      },
+      {
+        "timestamp": "2026-04-13T11:06:22.770674",
+        "findings_count": 40,
+        "quality_score": 0.414,
+        "top_keywords": [
+          "with",
+          "nvidia",
+          "visual",
+          "large",
+          "language",
+          "models",
+          "retrieval",
+          "reasoning",
+          "from",
+          "generation"
+        ],
+        "sources": {
+          "github": 20,
+          "arxiv": 20
+        }
+      },
+      {
+        "timestamp": "2026-04-14T11:10:39.017099",
+        "findings_count": 40,
+        "quality_score": 0.421,
+        "top_keywords": [
+          "nvidia",
+          "agent",
+          "language",
+          "models",
+          "multi",
+          "project",
+          "mlflow",
+          "tensorzero",
+          "krillinai",
+          "lemonade"
+        ],
+        "sources": {
+          "github": 20,
+          "arxiv": 20
+        }
+      },
+      {
+        "timestamp": "2026-04-15T11:09:01.478290",
+        "findings_count": 40,
+        "quality_score": 0.406,
+        "top_keywords": [
+          "optimization",
+          "nvidia",
+          "with",
+          "large",
+          "models",
+          "project",
+          "mlflow",
+          "tensorzero",
+          "krillinai",
+          "lemonade"
+        ],
+        "sources": {
+          "github": 20,
+          "arxiv": 20
+        }
+      },
+      {
+        "timestamp": "2026-04-16T11:22:04.172397",
+        "findings_count": 40,
+        "quality_score": 0.408,
+        "top_keywords": [
+          "nvidia",
+          "models",
+          "project",
+          "optimizer",
+          "mlflow",
+          "tensorzero",
+          "krillinai",
+          "lemonade",
+          "agent",
+          "towards"
+        ],
+        "sources": {
+          "github": 20,
+          "arxiv": 20
+        }
+      }
+    ],
+    "RAG retrieval": [
+      {
+        "timestamp": "2026-03-30T11:26:08.673408",
+        "findings_count": 20,
+        "quality_score": 0.316,
+        "top_keywords": [
+          "vanna",
+          "memvid",
+          "airweave",
+          "infiniflow",
+          "ragflow",
+          "microsoft",
+          "graphrag",
+          "hkuds",
+          "lightrag",
+          "labring"
+        ],
+        "sources": {
+          "github": 20
+        }
+      },
+      {
+        "timestamp": "2026-03-30T12:09:36.248549",
+        "findings_count": 20,
+        "quality_score": 0.316,
+        "top_keywords": [
+          "vanna",
+          "memvid",
+          "airweave",
+          "infiniflow",
+          "ragflow",
+          "microsoft",
+          "graphrag",
+          "hkuds",
+          "lightrag",
+          "labring"
+        ],
+        "sources": {
+          "github": 20
+        }
+      },
+      {
+        "timestamp": "2026-03-31T11:18:33.871285",
+        "findings_count": 40,
+        "quality_score": 0.453,
+        "top_keywords": [
+          "with",
+          "from",
+          "based",
+          "text",
+          "model",
+          "vision",
+          "agents",
+          "agent",
+          "multimodal",
+          "vanna"
+        ],
+        "sources": {
+          "github": 20,
+          "arxiv": 20
+        }
+      },
+      {
+        "timestamp": "2026-04-07T11:37:38.747601",
+        "findings_count": 40,
+        "quality_score": 0.431,
+        "top_keywords": [
+          "memory",
+          "with",
+          "learning",
+          "agents",
+          "retrieval",
+          "based",
+          "self",
+          "supervised",
+          "vanna",
+          "memvid"
+        ],
+        "sources": {
+          "github": 20,
+          "arxiv": 20
+        }
+      },
+      {
+        "timestamp": "2026-04-08T11:13:27.011762",
+        "findings_count": 40,
+        "quality_score": 0.439,
+        "top_keywords": [
+          "paper",
+          "model",
+          "with",
+          "multi",
+          "information",
+          "large",
+          "language",
+          "models",
+          "state",
+          "multimodal"
+        ],
+        "sources": {
+          "github": 20,
+          "arxiv": 20
+        }
+      },
+      {
+        "timestamp": "2026-04-13T11:06:31.274621",
+        "findings_count": 40,
+        "quality_score": 0.431,
+        "top_keywords": [
+          "retrieval",
+          "evidence",
+          "framework",
+          "knowledge",
+          "multi",
+          "vanna",
+          "memvid",
+          "airweave",
+          "generation",
+          "agentic"
+        ],
+        "sources": {
+          "github": 20,
+          "arxiv": 20
+        }
+      },
+      {
+        "timestamp": "2026-04-14T11:10:47.218075",
+        "findings_count": 40,
+        "quality_score": 0.439,
+        "top_keywords": [
+          "memory",
+          "retrieval",
+          "multi",
+          "reasoning",
+          "language",
+          "vanna",
+          "memvid",
+          "airweave",
+          "visual",
+          "learning"
+        ],
+        "sources": {
+          "github": 20,
+          "arxiv": 20
+        }
+      },
+      {
+        "timestamp": "2026-04-15T11:09:15.245658",
+        "findings_count": 40,
+        "quality_score": 0.439,
+        "top_keywords": [
+          "retrieval",
+          "knowledge",
+          "memory",
+          "language",
+          "based",
+          "reasoning",
+          "vanna",
+          "memvid",
+          "airweave",
+          "learning"
+        ],
+        "sources": {
+          "github": 20,
+          "arxiv": 20
+        }
+      },
+      {
+        "timestamp": "2026-04-16T11:22:14.308835",
+        "findings_count": 40,
+        "quality_score": 0.431,
+        "top_keywords": [
+          "with",
+          "retrieval",
+          "multi",
+          "language",
+          "recommendation",
+          "large",
+          "fusion",
+          "models",
+          "agentic",
+          "model"
+        ],
+        "sources": {
+          "github": 20,
+          "arxiv": 20
+        }
+      }
+    ],
+    "model quantization": [
+      {
+        "timestamp": "2026-03-30T11:26:17.620319",
+        "findings_count": 20,
+        "quality_score": 0.345,
+        "top_keywords": [
+          "model",
+          "bitsandbytes",
+          "nunchaku",
+          "foundation",
+          "lightning",
+          "llama",
+          "opennmt",
+          "comfyui",
+          "gguf",
+          "sageattention"
+        ],
+        "sources": {
+          "github": 20
+        }
+      },
+      {
+        "timestamp": "2026-03-30T12:10:09.249159",
+        "findings_count": 0,
+        "quality_score": 0,
+        "top_keywords": [],
+        "sources": {}
+      },
+      {
+        "timestamp": "2026-03-30T12:20:28.240765",
+        "findings_count": 0,
+        "quality_score": 0,
+        "top_keywords": [],
+        "sources": {}
+      },
+      {
+        "timestamp": "2026-03-30T12:21:13.374059",
+        "findings_count": 20,
+        "quality_score": 0.345,
+        "top_keywords": [
+          "model",
+          "bitsandbytes",
+          "nunchaku",
+          "foundation",
+          "lightning",
+          "llama",
+          "opennmt",
+          "comfyui",
+          "gguf",
+          "sageattention"
+        ],
+        "sources": {
+          "github": 20
+        }
+      },
+      {
+        "timestamp": "2026-03-30T12:21:20.235820",
+        "findings_count": 20,
+        "quality_score": 0.345,
+        "top_keywords": [
+          "model",
+          "bitsandbytes",
+          "nunchaku",
+          "foundation",
+          "lightning",
+          "llama",
+          "opennmt",
+          "comfyui",
+          "gguf",
+          "sageattention"
+        ],
+        "sources": {
+          "github": 20
+        }
+      },
+      {
+        "timestamp": "2026-03-30T14:07:47.538425",
+        "findings_count": 20,
+        "quality_score": 0.345,
+        "sources": {
+          "github": 20
+        }
+      },
+      {
+        "timestamp": "2026-03-31T11:18:37.936880",
+        "findings_count": 40,
+        "quality_score": 0.46,
+        "top_keywords": [
+          "model",
+          "language",
+          "optimization",
+          "generation",
+          "data",
+          "with",
+          "bitsandbytes",
+          "nunchaku",
+          "neural",
+          "scaling"
+        ],
+        "sources": {
+          "github": 20,
+          "arxiv": 20
+        }
+      },
+      {
+        "timestamp": "2026-03-31T11:35:53.899554",
+        "findings_count": 20,
+        "quality_score": 0.379,
+        "grade": "D",
+        "dimensions": {
+          "authority": 0.9,
+          "academic": 0.35,
+          "star_power": 0.377,
+          "diversity": 0.0,
+          "usability": 0.0,
+          "applicability": 0.15,
+          "coverage": 1.0
+        }
+      },
+      {
+        "timestamp": "2026-04-07T11:37:42.833664",
+        "findings_count": 40,
+        "quality_score": 0.468,
+        "top_keywords": [
+          "with",
+          "model",
+          "reasoning",
+          "efficient",
+          "models",
+          "bitsandbytes",
+          "nunchaku",
+          "language",
+          "neural",
+          "open"
+        ],
+        "sources": {
+          "github": 20,
+          "arxiv": 20
+        }
+      },
+      {
+        "timestamp": "2026-04-08T11:13:32.406885",
+        "findings_count": 40,
+        "quality_score": 0.461,
+        "top_keywords": [
+          "model",
+          "with",
+          "models",
+          "bitsandbytes",
+          "nunchaku",
+          "language",
+          "neural",
+          "open",
+          "rwkv",
+          "multi"
+        ],
+        "sources": {
+          "github": 20,
+          "arxiv": 20
+        }
+      },
+      {
+        "timestamp": "2026-04-13T11:06:35.554519",
+        "findings_count": 40,
+        "quality_score": 0.468,
+        "top_keywords": [
+          "model",
+          "language",
+          "models",
+          "large",
+          "bitsandbytes",
+          "nunchaku",
+          "neural",
+          "compressor",
+          "efficient",
+          "visual"
+        ],
+        "sources": {
+          "github": 20,
+          "arxiv": 20
+        }
+      },
+      {
+        "timestamp": "2026-04-14T11:10:52.273050",
+        "findings_count": 40,
+        "quality_score": 0.476,
+        "top_keywords": [
+          "generation",
+          "model",
+          "object",
+          "language",
+          "physics",
+          "models",
+          "framework",
+          "bitsandbytes",
+          "nunchaku",
+          "neural"
+        ],
+        "sources": {
+          "github": 20,
+          "arxiv": 20
+        }
+      },
+      {
+        "timestamp": "2026-04-15T11:09:38.238989",
+        "findings_count": 20,
+        "quality_score": 0.346,
+        "top_keywords": [
+          "model",
+          "bitsandbytes",
+          "nunchaku",
+          "foundation",
+          "lightning",
+          "llama",
+          "opennmt",
+          "comfyui",
+          "gguf",
+          "sageattention"
+        ],
+        "sources": {
+          "github": 20
+        }
+      },
+      {
+        "timestamp": "2026-04-16T11:22:34.226854",
+        "findings_count": 20,
+        "quality_score": 0.346,
+        "top_keywords": [
+          "model",
+          "bitsandbytes",
+          "nunchaku",
+          "foundation",
+          "lightning",
+          "llama",
+          "opennmt",
+          "comfyui",
+          "gguf",
+          "sageattention"
+        ],
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "fine-tuning LLMs": [
+      {
+        "timestamp": "2026-03-30T11:26:36.654973",
+        "findings_count": 20,
+        "quality_score": 0.306,
+        "top_keywords": [
+          "ludwig",
+          "oumi",
+          "memento",
+          "hiyouga",
+          "llamafactory",
+          "unslothai",
+          "unsloth",
+          "kvcache",
+          "ktransformers",
+          "weclone"
+        ],
+        "sources": {
+          "github": 20
+        }
+      },
+      {
+        "timestamp": "2026-03-30T12:10:23.090719",
+        "findings_count": 20,
+        "quality_score": 0.306,
+        "top_keywords": [
+          "ludwig",
+          "oumi",
+          "memento",
+          "hiyouga",
+          "llamafactory",
+          "unslothai",
+          "unsloth",
+          "kvcache",
+          "ktransformers",
+          "weclone"
+        ],
+        "sources": {
+          "github": 20
+        }
+      },
+      {
+        "timestamp": "2026-03-31T11:18:42.068131",
+        "findings_count": 40,
+        "quality_score": 0.436,
+        "top_keywords": [
+          "language",
+          "models",
+          "driven",
+          "from",
+          "large",
+          "dataset",
+          "ludwig",
+          "oumi",
+          "llms",
+          "memento"
+        ],
+        "sources": {
+          "github": 20,
+          "arxiv": 20
+        }
+      },
+      {
+        "timestamp": "2026-04-07T11:37:46.957847",
+        "findings_count": 40,
+        "quality_score": 0.429,
+        "top_keywords": [
+          "with",
+          "models",
+          "llms",
+          "model",
+          "large",
+          "reasoning",
+          "agents",
+          "ludwig",
+          "oumi",
+          "memento"
+        ],
+        "sources": {
+          "github": 20,
+          "arxiv": 20
+        }
+      },
+      {
+        "timestamp": "2026-04-08T11:13:36.518119",
+        "findings_count": 40,
+        "quality_score": 0.429,
+        "top_keywords": [
+          "framework",
+          "models",
+          "language",
+          "large",
+          "multi",
+          "analysis",
+          "toward",
+          "ludwig",
+          "oumi",
+          "memento"
+        ],
+        "sources": {
+          "github": 20,
+          "arxiv": 20
+        }
+      },
+      {
+        "timestamp": "2026-04-13T11:06:39.866645",
+        "findings_count": 40,
+        "quality_score": 0.429,
+        "top_keywords": [
+          "large",
+          "language",
+          "models",
+          "reasoning",
+          "from",
+          "ludwig",
+          "oumi",
+          "llms",
+          "memento",
+          "visual"
+        ],
+        "sources": {
+          "github": 20,
+          "arxiv": 20
+        }
+      },
+      {
+        "timestamp": "2026-04-14T11:10:56.458202",
+        "findings_count": 40,
+        "quality_score": 0.437,
+        "top_keywords": [
+          "multi",
+          "generation",
+          "language",
+          "framework",
+          "reasoning",
+          "models",
+          "with",
+          "large",
+          "agent",
+          "ludwig"
+        ],
+        "sources": {
+          "github": 20,
+          "arxiv": 20
+        }
+      },
+      {
+        "timestamp": "2026-04-15T11:10:00.235025",
+        "findings_count": 20,
+        "quality_score": 0.307,
+        "top_keywords": [
+          "ludwig",
+          "oumi",
+          "memento",
+          "hiyouga",
+          "llamafactory",
+          "unslothai",
+          "unsloth",
+          "weclone",
+          "kvcache",
+          "ktransformers"
+        ],
+        "sources": {
+          "github": 20
+        }
+      },
+      {
+        "timestamp": "2026-04-16T11:22:53.220012",
+        "findings_count": 20,
+        "quality_score": 0.307,
+        "top_keywords": [
+          "ludwig",
+          "oumi",
+          "memento",
+          "hiyouga",
+          "llamafactory",
+          "unslothai",
+          "unsloth",
+          "weclone",
+          "kvcache",
+          "ktransformers"
+        ],
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "multimodal AI": [
+      {
+        "timestamp": "2026-03-30T11:27:05.245444",
+        "findings_count": 20,
+        "quality_score": 0.318,
+        "top_keywords": [
+          "screenpipe",
+          "nemo",
+          "pipecat",
+          "lancedb",
+          "gorse",
+          "bentoml",
+          "lance",
+          "genkit",
+          "pyspur",
+          "mintplex"
+        ],
+        "sources": {
+          "github": 20
+        }
+      },
+      {
+        "timestamp": "2026-03-30T12:55:23.245750",
+        "findings_count": 20,
+        "quality_score": 0.318,
+        "top_keywords": [
+          "screenpipe",
+          "nemo",
+          "pipecat",
+          "lancedb",
+          "gorse",
+          "bentoml",
+          "lance",
+          "pyspur",
+          "genkit",
+          "mintplex"
+        ],
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "LLM inference": [
+      {
+        "timestamp": "2026-03-30T12:55:44.245635",
+        "findings_count": 20,
+        "quality_score": 0.308,
+        "top_keywords": [
+          "llama",
+          "vllm",
+          "project",
+          "inference",
+          "oumi",
+          "huggingface",
+          "transformers",
+          "ggml",
+          "microsoft",
+          "bitnet"
+        ],
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "transformer architecture": [
+      {
+        "timestamp": "2026-03-30T12:56:06.261200",
+        "findings_count": 20,
+        "quality_score": 0.339,
+        "top_keywords": [
+          "transformers",
+          "google",
+          "research",
+          "pytorch",
+          "transformer",
+          "microsoft",
+          "torchscale",
+          "apple",
+          "paddlepaddle",
+          "paddleslim"
+        ],
+        "sources": {
+          "github": 20
+        }
+      },
+      {
+        "timestamp": "2026-03-30T15:44:30.536923",
+        "findings_count": 20,
+        "quality_score": 0.339,
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "speculative decoding": [
+      {
+        "timestamp": "2026-03-30T12:56:11.886589",
+        "findings_count": 40,
+        "quality_score": 0.429,
+        "top_keywords": [
+          "decoding",
+          "with",
+          "model",
+          "infini",
+          "llms",
+          "detection",
+          "hemingkx",
+          "project",
+          "speculative",
+          "self"
+        ],
+        "sources": {
+          "github": 20,
+          "arxiv": 20
+        }
+      },
+      {
+        "timestamp": "2026-03-30T14:01:31.909159",
+        "findings_count": 20,
+        "quality_score": 0.314,
+        "sources": {
+          "github": 20
+        }
+      },
+      {
+        "timestamp": "2026-03-30T15:43:49.793050",
+        "findings_count": 20,
+        "quality_score": 0.314,
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "KV cache": [
+      {
+        "timestamp": "2026-03-30T12:56:16.793941",
+        "findings_count": 40,
+        "quality_score": 0.421,
+        "top_keywords": [
+          "cache",
+          "video",
+          "multi",
+          "zefan",
+          "compression",
+          "training",
+          "llms",
+          "aware",
+          "lmcache",
+          "uccl"
+        ],
+        "sources": {
+          "github": 20,
+          "arxiv": 20
+        }
+      },
+      {
+        "timestamp": "2026-03-30T14:01:59.683042",
+        "findings_count": 20,
+        "quality_score": 0.299,
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "mixture of experts": [
+      {
+        "timestamp": "2026-03-30T12:57:14.059464",
+        "findings_count": 20,
+        "quality_score": 0.324,
+        "top_keywords": [
+          "deepseek",
+          "mixture",
+          "experts",
+          "xuefuzhao",
+          "awesome",
+          "time",
+          "yuangroup",
+          "llava",
+          "openmoe",
+          "davidmrau"
+        ],
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "chain of thought reasoning": [
+      {
+        "timestamp": "2026-03-30T12:57:35.244117",
+        "findings_count": 20,
+        "quality_score": 0.34,
+        "top_keywords": [
+          "cosmos",
+          "awesome",
+          "reasoning",
+          "chain",
+          "amazon",
+          "science",
+          "thought",
+          "griptape",
+          "nvidia",
+          "atfortes"
+        ],
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "RLHF alignment": [
+      {
+        "timestamp": "2026-03-30T12:57:56.248675",
+        "findings_count": 20,
+        "quality_score": 0.298,
+        "top_keywords": [
+          "alignment",
+          "rlhf",
+          "huggingface",
+          "handbook",
+          "natolambert",
+          "book",
+          "safe",
+          "openlmlab",
+          "moss",
+          "princeton"
+        ],
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "prompt engineering": [
+      {
+        "timestamp": "2026-03-30T12:58:17.241775",
+        "findings_count": 20,
+        "quality_score": 0.307,
+        "top_keywords": [
+          "prompt",
+          "engineering",
+          "awesome",
+          "build",
+          "langfuse",
+          "context",
+          "promptslab",
+          "learnprompt",
+          "dair",
+          "guide"
+        ],
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "LoRA fine-tuning": [
+      {
+        "timestamp": "2026-03-30T12:58:38.238105",
+        "findings_count": 20,
+        "quality_score": 0.304,
+        "top_keywords": [
+          "lora",
+          "hiyouga",
+          "finetuning",
+          "llamafactory",
+          "huggingface",
+          "peft",
+          "cloneofsimo",
+          "lightning",
+          "llama",
+          "predibase"
+        ],
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "local LLM deployment": [
+      {
+        "timestamp": "2026-03-30T12:58:44.813761",
+        "findings_count": 20,
+        "quality_score": 0.283,
+        "top_keywords": [
+          "local",
+          "colab",
+          "powerserve",
+          "splunk",
+          "tiiny",
+          "powerinfer",
+          "troyanovsky",
+          "comparison",
+          "qmiai",
+          "qmedia"
+        ],
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "vLLM inference": [
+      {
+        "timestamp": "2026-03-30T12:59:06.181300",
+        "findings_count": 20,
+        "quality_score": 0.294,
+        "top_keywords": [
+          "vllm",
+          "project",
+          "llama",
+          "inference",
+          "intel",
+          "lmcache",
+          "kserve",
+          "gpustack",
+          "kubeai",
+          "meta"
+        ],
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "attention mechanism": [
+      {
+        "timestamp": "2026-03-30T13:00:22.240111",
+        "findings_count": 20,
+        "quality_score": 0.294,
+        "top_keywords": [
+          "attention",
+          "pytorch",
+          "mechanism",
+          "awesome",
+          "self",
+          "keras",
+          "external",
+          "shaoanlu",
+          "faceswap",
+          "gordicaleksa"
+        ],
+        "sources": {
+          "github": 20
+        }
+      },
+      {
+        "timestamp": "2026-03-30T15:43:58.269828",
+        "findings_count": 20,
+        "quality_score": 0.294,
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "model compression": [
+      {
+        "timestamp": "2026-03-30T13:00:26.143595",
+        "findings_count": 40,
+        "quality_score": 0.434,
+        "top_keywords": [
+          "video",
+          "model",
+          "shot",
+          "awesome",
+          "models",
+          "generation",
+          "learning",
+          "with",
+          "paddlepaddle",
+          "tencent"
+        ],
+        "sources": {
+          "github": 20,
+          "arxiv": 20
+        }
+      },
+      {
+        "timestamp": "2026-03-30T15:44:38.624677",
+        "findings_count": 20,
+        "quality_score": 0.311,
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "distillation": [
+      {
+        "timestamp": "2026-03-30T13:00:48.243265",
+        "findings_count": 20,
+        "quality_score": 0.287,
+        "top_keywords": [
+          "distillation",
+          "knowledge",
+          "awesome",
+          "labmlai",
+          "dkozlov",
+          "turbodiffusion",
+          "fastvideo",
+          "tinyvision",
+          "damo",
+          "yolo"
+        ],
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "sparse attention": [
+      {
+        "timestamp": "2026-03-30T13:00:55.577376",
+        "findings_count": 20,
+        "quality_score": 0.345,
+        "top_keywords": [
+          "attention",
+          "sparse",
+          "native",
+          "flash",
+          "evermind",
+          "openai",
+          "openimaginglab",
+          "flashvsr",
+          "dreamtechai",
+          "microsoft"
+        ],
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "flash attention": [
+      {
+        "timestamp": "2026-03-30T13:01:03.041237",
+        "findings_count": 20,
+        "quality_score": 0.299,
+        "top_keywords": [
+          "flash",
+          "attention",
+          "flashinfer",
+          "sparse",
+          "ailab",
+          "deepseek",
+          "flashmla",
+          "lightning",
+          "llama",
+          "xlite"
+        ],
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "embedding models": [
+      {
+        "timestamp": "2026-03-30T13:01:09.105238",
+        "findings_count": 20,
+        "quality_score": 0.29,
+        "top_keywords": [
+          "unstructured",
+          "cvxpy",
+          "awesome",
+          "embedding",
+          "funnlp",
+          "paddlepaddle",
+          "paddlenlp",
+          "stanfordnlp",
+          "glove",
+          "unslothai"
+        ],
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "neural network pruning": [
+      {
+        "timestamp": "2026-03-30T13:01:31.251917",
+        "findings_count": 20,
+        "quality_score": 0.339,
+        "top_keywords": [
+          "pruning",
+          "pytorch",
+          "neuralmagic",
+          "filter",
+          "quic",
+          "aimet",
+          "awesome",
+          "micronet",
+          "sparseml",
+          "openvinotoolkit"
+        ],
+        "sources": {
+          "github": 20
+        }
+      },
+      {
+        "timestamp": "2026-03-30T15:44:50.500151",
+        "findings_count": 20,
+        "quality_score": 0.339,
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "prefix tuning": [
+      {
+        "timestamp": "2026-03-30T13:01:53.890850",
+        "findings_count": 20,
+        "quality_score": 0.284,
+        "top_keywords": [
+          "tuning",
+          "prefix",
+          "adapters",
+          "prefixtuning",
+          "microsoft",
+          "unisumm",
+          "plus",
+          "flash",
+          "preference",
+          "rasbt"
+        ],
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "vector database": [
+      {
+        "timestamp": "2026-03-30T13:02:56.234562",
+        "findings_count": 20,
+        "quality_score": 0.308,
+        "top_keywords": [
+          "redis",
+          "milvus",
+          "qdrant",
+          "weaviate",
+          "oceanbase",
+          "alibaba",
+          "objectbox",
+          "quivrhq",
+          "quivr",
+          "zvec"
+        ],
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "GPU inference": [
+      {
+        "timestamp": "2026-03-30T13:03:02.025197",
+        "findings_count": 20,
+        "quality_score": 0.321,
+        "top_keywords": [
+          "nvidia",
+          "tensorrt",
+          "inference",
+          "server",
+          "aidlearning",
+          "gpustack",
+          "deepspeedai",
+          "deepspeed",
+          "lyogavin",
+          "airllm"
+        ],
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "llama cpp": [
+      {
+        "timestamp": "2026-03-30T13:03:09.355918",
+        "findings_count": 20,
+        "quality_score": 0.286,
+        "top_keywords": [
+          "llama",
+          "serge",
+          "ngxson",
+          "node",
+          "ggml",
+          "abetlen",
+          "python",
+          "intel",
+          "ipex",
+          "chat"
+        ],
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "ONNX runtime": [
+      {
+        "timestamp": "2026-03-30T13:03:30.243557",
+        "findings_count": 20,
+        "quality_score": 0.294,
+        "top_keywords": [
+          "onnxruntime",
+          "microsoft",
+          "iree",
+          "examples",
+          "voltaml",
+          "rapidai",
+          "rapidocr",
+          "neuralmagic",
+          "deepsparse",
+          "intel"
+        ],
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "TensorRT": [
+      {
+        "timestamp": "2026-03-30T13:03:36.271939",
+        "findings_count": 20,
+        "quality_score": 0.359,
+        "top_keywords": [
+          "nvidia",
+          "tensorrt",
+          "pytorch",
+          "onnx",
+          "megvii",
+          "basedetection",
+          "yolox",
+          "dusty",
+          "jetson",
+          "inference"
+        ],
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "deep learning optimizer": [
+      {
+        "timestamp": "2026-03-30T13:03:41.741283",
+        "findings_count": 20,
+        "quality_score": 0.293,
+        "top_keywords": [
+          "learning",
+          "deep",
+          "optimizer",
+          "nvidia",
+          "pytorch",
+          "machine",
+          "optimization",
+          "labmlai",
+          "deepspeedai",
+          "deepspeed"
+        ],
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "PyTorch inference": [
+      {
+        "timestamp": "2026-03-30T13:03:47.696257",
+        "findings_count": 20,
+        "quality_score": 0.301,
+        "top_keywords": [
+          "huggingface",
+          "vllm",
+          "nvidia",
+          "llama",
+          "inference",
+          "lmcache",
+          "kserve",
+          "superduper",
+          "transformers",
+          "project"
+        ],
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "llm serving": [
+      {
+        "timestamp": "2026-03-30T13:04:08.247308",
+        "findings_count": 20,
+        "quality_score": 0.298,
+        "top_keywords": [
+          "project",
+          "vllm",
+          "sglang",
+          "flashinfer",
+          "alpa",
+          "lemonade",
+          "tiiny",
+          "powerinfer",
+          "internlm",
+          "lmdeploy"
+        ],
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "text generation": [
+      {
+        "timestamp": "2026-03-30T13:05:00.999272",
+        "findings_count": 20,
+        "quality_score": 0.31,
+        "top_keywords": [
+          "mermaid",
+          "text",
+          "generation",
+          "vanna",
+          "qwenlm",
+          "funnlp",
+          "oobabooga",
+          "webui",
+          "nextapps",
+          "flexsearch"
+        ],
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "tokenizer": [
+      {
+        "timestamp": "2026-03-30T13:05:08.328871",
+        "findings_count": 20,
+        "quality_score": 0.311,
+        "top_keywords": [
+          "toon",
+          "google",
+          "darc",
+          "funnlp",
+          "format",
+          "facebookresearch",
+          "audiocraft",
+          "node",
+          "jsonwebtoken",
+          "kilo"
+        ],
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "sentence embeddings": [
+      {
+        "timestamp": "2026-03-30T13:05:15.224101",
+        "findings_count": 20,
+        "quality_score": 0.31,
+        "top_keywords": [
+          "facebookresearch",
+          "sentence",
+          "yongzhuo",
+          "huggingface",
+          "transformers",
+          "blinkdl",
+          "rwkv",
+          "jina",
+          "clip",
+          "service"
+        ],
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "text classification": [
+      {
+        "timestamp": "2026-03-30T13:05:21.665225",
+        "findings_count": 20,
+        "quality_score": 0.301,
+        "top_keywords": [
+          "text",
+          "classification",
+          "chinese",
+          "pytorch",
+          "yongzhuo",
+          "facebookresearch",
+          "fasttext",
+          "brightmart",
+          "dennybritz",
+          "bert"
+        ],
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "NER named entity": [
+      {
+        "timestamp": "2026-03-30T13:05:28.125464",
+        "findings_count": 20,
+        "quality_score": 0.298,
+        "top_keywords": [
+          "bert",
+          "pytorch",
+          "funnlp",
+          "urchade",
+          "gliner",
+          "luopeixiang",
+          "lonepatient",
+          "guillaumegenthial",
+          "ucas",
+          "chinesener"
+        ],
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "semantic search": [
+      {
+        "timestamp": "2026-03-30T13:05:50.248994",
+        "findings_count": 20,
+        "quality_score": 0.303,
+        "top_keywords": [
+          "openrecall",
+          "weggli",
+          "gnes",
+          "open",
+          "deepset",
+          "haystack",
+          "neuml",
+          "txtai",
+          "hangwin",
+          "chrome"
+        ],
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "question answering": [
+      {
+        "timestamp": "2026-03-30T13:06:26.248412",
+        "findings_count": 0,
+        "quality_score": 0,
+        "top_keywords": [],
+        "sources": {}
+      }
+    ],
+    "knowledge graph": [
+      {
+        "timestamp": "2026-03-30T13:06:47.245886",
+        "findings_count": 20,
+        "quality_score": 0.309,
+        "top_keywords": [
+          "logseq",
+          "knowledge",
+          "graph",
+          "falkordb",
+          "getzep",
+          "graphiti",
+          "abhigyanpatwari",
+          "gitnexus",
+          "liuhuanyong",
+          "qasystemonmedicalkg"
+        ],
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "code generation": [
+      {
+        "timestamp": "2026-03-30T13:52:44.350976",
+        "findings_count": 20,
+        "quality_score": 0.327,
+        "top_keywords": [
+          "grapesjs",
+          "questpdf",
+          "qodo",
+          "cglib",
+          "asmjit",
+          "rudrabha",
+          "codegeex",
+          "vektra",
+          "mockery",
+          "mylxsw"
+        ],
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "code completion": [
+      {
+        "timestamp": "2026-03-30T13:53:13.254706",
+        "findings_count": 20,
+        "quality_score": 0.307,
+        "top_keywords": [
+          "core",
+          "nvim",
+          "racer",
+          "youcompleteme",
+          "codota",
+          "tabnine",
+          "motemen",
+          "gore",
+          "zufuliu",
+          "hjlebbink"
+        ],
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "AI coding assistant": [
+      {
+        "timestamp": "2026-03-30T13:53:22.158793",
+        "findings_count": 20,
+        "quality_score": 0.317,
+        "top_keywords": [
+          "posthog",
+          "sourcegraph",
+          "codegraphcontext",
+          "code",
+          "fission",
+          "openspec",
+          "tabbyml",
+          "tabby",
+          "archon",
+          "context"
+        ],
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "diffusion model": [
+      {
+        "timestamp": "2026-03-30T13:53:45.079298",
+        "findings_count": 20,
+        "quality_score": 0.312,
+        "top_keywords": [
+          "diffusion",
+          "compvis",
+          "magic",
+          "comfy",
+          "comfyui",
+          "stable",
+          "lllyasviel",
+          "controlnet",
+          "huggingface",
+          "diffusers"
+        ],
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "stable diffusion": [
+      {
+        "timestamp": "2026-03-30T13:53:54.547887",
+        "findings_count": 20,
+        "quality_score": 0.298,
+        "top_keywords": [
+          "stable",
+          "diffusion",
+          "webui",
+          "easydiffusion",
+          "sygil",
+          "mochidiffusion",
+          "compvis",
+          "invoke",
+          "invokeai",
+          "sanster"
+        ],
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "image generation AI": [
+      {
+        "timestamp": "2026-03-30T13:54:02.858895",
+        "findings_count": 20,
+        "quality_score": 0.327,
+        "top_keywords": [
+          "awesome",
+          "prompts",
+          "open",
+          "comfyui",
+          "youmind",
+          "openlab",
+          "nano",
+          "banana",
+          "brycedrennan",
+          "imaginairy"
+        ],
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "speech recognition": [
+      {
+        "timestamp": "2026-03-30T13:54:11.140691",
+        "findings_count": 20,
+        "quality_score": 0.304,
+        "top_keywords": [
+          "whisper",
+          "nemo",
+          "modelscope",
+          "moonshine",
+          "wenet",
+          "openai",
+          "funnlp",
+          "bain",
+          "whisperx",
+          "nvidia"
+        ],
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "text to speech": [
+      {
+        "timestamp": "2026-03-30T13:54:21.367407",
+        "findings_count": 20,
+        "quality_score": 0.33,
+        "top_keywords": [
+          "mozilla",
+          "index",
+          "nemo",
+          "coqui",
+          "deepspeech",
+          "cjpais",
+          "handy",
+          "nvidia",
+          "modelscope",
+          "funasr"
+        ],
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "object detection": [
+      {
+        "timestamp": "2026-03-30T13:54:46.242129",
+        "findings_count": 20,
+        "quality_score": 0.368,
+        "top_keywords": [
+          "facebookresearch",
+          "detr",
+          "blakeblackshear",
+          "frigate",
+          "detectron",
+          "wzmiaomiao",
+          "deep",
+          "learning",
+          "image",
+          "processing"
+        ],
+        "sources": {
+          "github": 20
+        }
+      },
+      {
+        "timestamp": "2026-03-30T15:45:16.652261",
+        "findings_count": 20,
+        "quality_score": 0.368,
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "LLM inference optimization": [
+      {
+        "timestamp": "2026-03-30T14:07:56.290876",
+        "findings_count": 20,
+        "quality_score": 0.295,
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "KV cache optimization": [
+      {
+        "timestamp": "2026-03-30T15:43:42.379403",
+        "findings_count": 20,
+        "quality_score": 0.297,
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "code generation AI": [
+      {
+        "timestamp": "2026-03-30T15:45:25.287235",
+        "findings_count": 20,
+        "quality_score": 0.312,
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "image generation": [
+      {
+        "timestamp": "2026-03-30T15:45:34.975220",
+        "findings_count": 20,
+        "quality_score": 0.321,
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "vision transformer": [
+      {
+        "timestamp": "2026-03-30T16:06:44.651713",
+        "findings_count": 20,
+        "quality_score": 0.289,
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "semantic segmentation": [
+      {
+        "timestamp": "2026-03-30T16:06:56.127196",
+        "findings_count": 20,
+        "quality_score": 0.352,
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "depth estimation": [
+      {
+        "timestamp": "2026-03-30T16:07:46.981957",
+        "findings_count": 20,
+        "quality_score": 0.33,
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "pose estimation": [
+      {
+        "timestamp": "2026-03-30T16:08:17.083017",
+        "findings_count": 20,
+        "quality_score": 0.305,
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "action recognition": [
+      {
+        "timestamp": "2026-03-30T16:09:42.524886",
+        "findings_count": 20,
+        "quality_score": 0.312,
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "video understanding": [
+      {
+        "timestamp": "2026-03-30T16:10:49.698753",
+        "findings_count": 20,
+        "quality_score": 0.338,
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "3D point cloud": [
+      {
+        "timestamp": "2026-03-30T16:11:03.248749",
+        "findings_count": 20,
+        "quality_score": 0.349,
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "medical imaging AI": [
+      {
+        "timestamp": "2026-03-30T16:11:19.940009",
+        "findings_count": 20,
+        "quality_score": 0.296,
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "autonomous driving": [
+      {
+        "timestamp": "2026-03-30T16:11:43.571131",
+        "findings_count": 20,
+        "quality_score": 0.305,
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "bitsandbytes quantization": [
+      {
+        "timestamp": "2026-03-31T11:17:05.453351",
+        "findings_count": 20,
+        "quality_score": 0.281,
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "GPTQ quantization LLM": [
+      {
+        "timestamp": "2026-03-31T11:17:17.894791",
+        "findings_count": 20,
+        "quality_score": 0.288,
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "AWQ quantization": [
+      {
+        "timestamp": "2026-03-31T11:17:29.135490",
+        "findings_count": 20,
+        "quality_score": 0.297,
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "GGUF GGML quantization": [
+      {
+        "timestamp": "2026-03-31T11:17:55.579116",
+        "findings_count": 0,
+        "quality_score": 0,
+        "sources": {}
+      }
+    ],
+    "INT4 INT8 quantization": [
+      {
+        "timestamp": "2026-03-31T11:18:07.394646",
+        "findings_count": 20,
+        "quality_score": 0.293,
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "bitsandbytes INT8 training": [
+      {
+        "timestamp": "2026-03-31T11:27:37.197606",
+        "findings_count": 1,
+        "quality_score": 0.27,
+        "sources": {
+          "github": 1
+        }
+      }
+    ],
+    "QLoRA quantized LoRA": [
+      {
+        "timestamp": "2026-03-31T11:27:46.885444",
+        "findings_count": 20,
+        "quality_score": 0.285,
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "LLM fine-tuning 4bit": [
+      {
+        "timestamp": "2026-03-31T11:27:58.980074",
+        "findings_count": 7,
+        "quality_score": 0.412,
+        "sources": {
+          "github": 7
+        }
+      }
+    ],
+    "memory efficient training": [
+      {
+        "timestamp": "2026-03-31T11:28:08.064563",
+        "findings_count": 20,
+        "quality_score": 0.296,
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "peft parameter efficient": [
+      {
+        "timestamp": "2026-03-31T11:28:20.739297",
+        "findings_count": 20,
+        "quality_score": 0.28,
+        "sources": {
+          "github": 20
+        }
+      }
+    ],
+    "AI research automation": [
+      {
+        "timestamp": "2026-03-31T11:35:41.072830",
+        "findings_count": 20,
+        "quality_score": 0.424,
+        "grade": "C",
+        "dimensions": {
+          "authority": 0.9,
+          "academic": 0.05,
+          "star_power": 0.127,
+          "diversity": 0.0,
+          "usability": 0.1,
+          "applicability": 1.0,
+          "coverage": 1.0
+        }
+      }
+    ],
+    "research paper search": [
+      {
+        "timestamp": "2026-03-31T11:54:14.121517",
+        "findings_count": 20,
+        "quality_score": 0.471,
+        "grade": "C",
+        "dimensions": {
+          "authority": 0.9,
+          "academic": 0.1,
+          "star_power": 0.074,
+          "diversity": 0.0,
+          "usability": 0.4,
+          "applicability": 1.0,
+          "coverage": 1.0
+        }
+      }
+    ],
+    "web scraping crawler": [
+      {
+        "timestamp": "2026-03-31T11:54:23.355064",
+        "findings_count": 20,
+        "quality_score": 0.403,
+        "grade": "C",
+        "dimensions": {
+          "authority": 0.9,
+          "academic": 0.0,
+          "star_power": 0.15,
+          "diversity": 0.0,
+          "usability": 0.0,
+          "applicability": 1.0,
+          "coverage": 1.0
+        }
+      }
+    ],
+    "information retrieval system": [
+      {
+        "timestamp": "2026-03-31T11:54:32.972739",
+        "findings_count": 20,
+        "quality_score": 0.473,
+        "grade": "C",
+        "dimensions": {
+          "authority": 0.9,
+          "academic": 0.05,
+          "star_power": 0.056,
+          "diversity": 0.0,
+          "usability": 0.5,
+          "applicability": 1.0,
+          "coverage": 1.0
+        }
+      }
+    ],
+    "knowledge base search": [
+      {
+        "timestamp": "2026-03-31T11:54:42.762139",
+        "findings_count": 20,
+        "quality_score": 0.515,
+        "grade": "C",
+        "dimensions": {
+          "authority": 0.9,
+          "academic": 0.15,
+          "star_power": 0.303,
+          "diversity": 0.0,
+          "usability": 0.4,
+          "applicability": 1.0,
+          "coverage": 1.0
+        }
+      }
+    ],
+    "data pipeline automation": [
+      {
+        "timestamp": "2026-03-31T11:54:51.840051",
+        "findings_count": 20,
+        "quality_score": 0.455,
+        "grade": "C",
+        "dimensions": {
+          "authority": 0.9,
+          "academic": 0.0,
+          "star_power": 0.101,
+          "diversity": 0.0,
+          "usability": 0.5,
+          "applicability": 0.9,
+          "coverage": 1.0
+        }
+      }
+    ],
+    "AI workflow orchestration": [
+      {
+        "timestamp": "2026-03-31T11:55:01.123052",
+        "findings_count": 20,
+        "quality_score": 0.408,
+        "grade": "C",
+        "dimensions": {
+          "authority": 0.9,
+          "academic": 0.0,
+          "star_power": 0.14,
+          "diversity": 0.0,
+          "usability": 0.1,
+          "applicability": 0.95,
+          "coverage": 1.0
+        }
+      }
+    ],
+    "academic paper analysis": [
+      {
+        "timestamp": "2026-03-31T11:55:09.546755",
+        "findings_count": 20,
+        "quality_score": 0.404,
+        "grade": "C",
+        "dimensions": {
+          "authority": 0.9,
+          "academic": 0.0,
+          "star_power": 0.062,
+          "diversity": 0.0,
+          "usability": 0.1,
+          "applicability": 1.0,
+          "coverage": 1.0
+        }
+      }
+    ],
+    "trend analysis monitoring": [
+      {
+        "timestamp": "2026-03-31T11:55:18.058172",
+        "findings_count": 20,
+        "quality_score": 0.483,
+        "grade": "C",
+        "dimensions": {
+          "authority": 0.9,
+          "academic": 0.0,
+          "star_power": 0.184,
+          "diversity": 0.0,
+          "usability": 0.5,
+          "applicability": 1.0,
+          "coverage": 1.0
+        }
+      }
+    ],
+    "GitHub repository analysis": [
+      {
+        "timestamp": "2026-03-31T11:55:27.327141",
+        "findings_count": 20,
+        "quality_score": 0.471,
+        "grade": "C",
+        "dimensions": {
+          "authority": 0.9,
+          "academic": 0.0,
+          "star_power": 0.129,
+          "diversity": 0.0,
+          "usability": 0.5,
+          "applicability": 0.975,
+          "coverage": 1.0
+        }
+      }
+    ],
+    "LLM evaluation benchmark": [
+      {
+        "timestamp": "2026-03-31T11:55:36.892663",
+        "findings_count": 20,
+        "quality_score": 0.575,
+        "grade": "B",
+        "dimensions": {
+          "authority": 0.9,
+          "academic": 0.8,
+          "star_power": 0.161,
+          "diversity": 0.0,
+          "usability": 0.1,
+          "applicability": 0.975,
+          "coverage": 1.0
+        }
+      }
+    ],
+    "AI research tools": [
+      {
+        "timestamp": "2026-03-31T11:55:47.160736",
+        "findings_count": 20,
+        "quality_score": 0.447,
+        "grade": "C",
+        "dimensions": {
+          "authority": 0.9,
+          "academic": 0.0,
+          "star_power": 0.073,
+          "diversity": 0.0,
+          "usability": 0.4,
+          "applicability": 0.975,
+          "coverage": 1.0
+        }
+      }
+    ],
+    "AI paper summarization": [
+      {
+        "timestamp": "2026-03-31T11:57:26.761554",
+        "findings_count": 20,
+        "quality_score": 0.34,
+        "grade": "D",
+        "dimensions": {
+          "authority": 0.9,
+          "academic": 0.0,
+          "star_power": 0.23,
+          "diversity": 0.0,
+          "usability": 0.2,
+          "applicability": 0.3,
+          "coverage": 1.0
+        }
+      }
+    ],
+    "scientific literature mining": [
+      {
+        "timestamp": "2026-03-31T11:57:52.904434",
+        "findings_count": 20,
+        "quality_score": 0.308,
+        "grade": "D",
+        "dimensions": {
+          "authority": 0.9,
+          "academic": 0.05,
+          "star_power": 0.076,
+          "diversity": 0.0,
+          "usability": 0.2,
+          "applicability": 0.175,
+          "coverage": 1.0
+        }
+      }
+    ],
+    "open source AI tools": [
+      {
+        "timestamp": "2026-03-31T11:58:02.804506",
+        "findings_count": 20,
+        "quality_score": 0.429,
+        "grade": "C",
+        "dimensions": {
+          "authority": 0.9,
+          "academic": 0.0,
+          "star_power": 0.129,
+          "diversity": 0.0,
+          "usability": 0.2,
+          "applicability": 1.0,
+          "coverage": 1.0
+        }
+      }
+    ],
+    "AI model evaluation metrics": [
+      {
+        "timestamp": "2026-03-31T11:58:13.522770",
+        "findings_count": 20,
+        "quality_score": 0.456,
+        "grade": "C",
+        "dimensions": {
+          "authority": 0.9,
+          "academic": 0.1,
+          "star_power": 0.171,
+          "diversity": 0.0,
+          "usability": 0.2,
+          "applicability": 1.0,
+          "coverage": 1.0
+        }
+      }
+    ],
+    "research dataset collection": [
+      {
+        "timestamp": "2026-03-31T11:58:24.379599",
+        "findings_count": 20,
+        "quality_score": 0.461,
+        "grade": "C",
+        "dimensions": {
+          "authority": 0.9,
+          "academic": 0.1,
+          "star_power": 0.135,
+          "diversity": 0.0,
+          "usability": 0.3,
+          "applicability": 0.975,
+          "coverage": 1.0
+        }
+      }
+    ],
+    "API aggregation tool": [
+      {
+        "timestamp": "2026-03-31T11:58:33.550391",
+        "findings_count": 20,
+        "quality_score": 0.419,
+        "grade": "C",
+        "dimensions": {
+          "authority": 0.9,
+          "academic": 0.0,
+          "star_power": 0.082,
+          "diversity": 0.0,
+          "usability": 0.2,
+          "applicability": 0.975,
+          "coverage": 1.0
+        }
+      }
+    ],
+    "NLP benchmark evaluation": [
+      {
+        "timestamp": "2026-03-31T11:58:42.683752",
+        "findings_count": 20,
+        "quality_score": 0.608,
+        "grade": "B",
+        "dimensions": {
+          "authority": 0.9,
+          "academic": 0.8,
+          "star_power": 0.18,
+          "diversity": 0.0,
+          "usability": 0.3,
+          "applicability": 0.975,
+          "coverage": 1.0
+        }
+      },
+      {
+        "timestamp": "2026-03-31T12:16:21.850597",
+        "findings_count": 20,
+        "quality_score": 0.608,
+        "grade": "B",
+        "ndcg": 0.469,
+        "map": 0.912,
+        "mrr": 1.0
+      }
+    ],
+    "AI agent framework": [
+      {
+        "timestamp": "2026-03-31T11:58:51.427769",
+        "findings_count": 20,
+        "quality_score": 0.41,
+        "grade": "C",
+        "dimensions": {
+          "authority": 0.9,
+          "academic": 0.0,
+          "star_power": 0.225,
+          "diversity": 0.0,
+          "usability": 0.0,
+          "applicability": 0.975,
+          "coverage": 1.0
+        }
+      }
+    ],
+    "search engine API": [
+      {
+        "timestamp": "2026-03-31T11:59:00.851048",
+        "findings_count": 20,
+        "quality_score": 0.444,
+        "grade": "C",
+        "dimensions": {
+          "authority": 0.9,
+          "academic": 0.05,
+          "star_power": 0.063,
+          "diversity": 0.0,
+          "usability": 0.3,
+          "applicability": 1.0,
+          "coverage": 1.0
+        }
+      }
+    ],
+    "automated report generation": [
+      {
+        "timestamp": "2026-03-31T11:59:10.404488",
+        "findings_count": 20,
+        "quality_score": 0.33,
+        "grade": "D",
+        "dimensions": {
+          "authority": 0.9,
+          "academic": 0.05,
+          "star_power": 0.124,
+          "diversity": 0.0,
+          "usability": 0.2,
+          "applicability": 0.275,
+          "coverage": 1.0
+        }
+      }
+    ],
+    "competitive intelligence tool": [
+      {
+        "timestamp": "2026-03-31T11:59:22.637284",
+        "findings_count": 20,
+        "quality_score": 0.418,
+        "grade": "C",
+        "dimensions": {
+          "authority": 0.9,
+          "academic": 0.0,
+          "star_power": 0.08,
+          "diversity": 0.0,
+          "usability": 0.2,
+          "applicability": 0.975,
+          "coverage": 1.0
+        }
+      }
+    ],
+    "NLP evaluation benchmark tutorial": [
+      {
+        "timestamp": "2026-03-31T12:00:48.756492",
+        "findings_count": 1,
+        "quality_score": 0.833,
+        "grade": "A",
+        "dimensions": {
+          "authority": 0.9,
+          "academic": 1.0,
+          "star_power": 1.0,
+          "diversity": 0.0,
+          "usability": 1.0,
+          "applicability": 1.0,
+          "coverage": 0.05
+        }
+      }
+    ],
+    "LLM benchmark evaluation guide": [
+      {
+        "timestamp": "2026-03-31T12:01:01.028333",
+        "findings_count": 10,
+        "quality_score": 0.789,
+        "grade": "A",
+        "dimensions": {
+          "authority": 0.9,
+          "academic": 1.0,
+          "star_power": 0.56,
+          "diversity": 0.0,
+          "usability": 1.0,
+          "applicability": 1.0,
+          "coverage": 0.5
+        }
+      }
+    ],
+    "AI research pipeline tool": [
+      {
+        "timestamp": "2026-03-31T12:01:10.339139",
+        "findings_count": 20,
+        "quality_score": 0.429,
+        "grade": "C",
+        "dimensions": {
+          "authority": 0.9,
+          "academic": 0.05,
+          "star_power": 0.06,
+          "diversity": 0.0,
+          "usability": 0.2,
+          "applicability": 1.0,
+          "coverage": 1.0
+        }
+      }
+    ],
+    "MMLU benchmark evaluation": [
+      {
+        "timestamp": "2026-03-31T12:01:20.322307",
+        "findings_count": 20,
+        "quality_score": 0.62,
+        "grade": "B",
+        "dimensions": {
+          "authority": 0.9,
+          "academic": 1.0,
+          "star_power": 0.094,
+          "diversity": 0.0,
+          "usability": 0.2,
+          "applicability": 0.975,
+          "coverage": 1.0
+        }
+      }
+    ],
+    "HELM benchmark evaluation tutorial": [
+      {
+        "timestamp": "2026-03-31T12:01:28.770974",
+        "findings_count": 0,
+        "quality_score": 0,
+        "grade": "F",
+        "dimensions": {}
+      }
+    ],
+    "RAG evaluation benchmark": [
+      {
+        "timestamp": "2026-03-31T12:01:38.705906",
+        "findings_count": 20,
+        "quality_score": 0.611,
+        "grade": "B",
+        "dimensions": {
+          "authority": 0.9,
+          "academic": 0.9,
+          "star_power": 0.168,
+          "diversity": 0.0,
+          "usability": 0.2,
+          "applicability": 0.975,
+          "coverage": 1.0
+        }
+      }
+    ],
+    "AI agent benchmark evaluation": [
+      {
+        "timestamp": "2026-03-31T12:01:50.524892",
+        "findings_count": 20,
+        "quality_score": 0.552,
+        "grade": "B",
+        "dimensions": {
+          "authority": 0.9,
+          "academic": 0.8,
+          "star_power": 0.08,
+          "diversity": 0.0,
+          "usability": 0.0,
+          "applicability": 1.0,
+          "coverage": 1.0
+        }
+      }
+    ],
+    "information retrieval benchmark tutorial": [
+      {
+        "timestamp": "2026-03-31T12:01:58.925844",
+        "findings_count": 0,
+        "quality_score": 0,
+        "grade": "F",
+        "dimensions": {}
+      }
+    ],
+    "search relevance evaluation": [
+      {
+        "timestamp": "2026-03-31T12:02:08.913735",
+        "findings_count": 20,
+        "quality_score": 0.408,
+        "grade": "C",
+        "dimensions": {
+          "authority": 0.9,
+          "academic": 0.0,
+          "star_power": 0.089,
+          "diversity": 0.0,
+          "usability": 0.1,
+          "applicability": 1.0,
+          "coverage": 1.0
+        }
+      }
+    ],
+    "knowledge retrieval benchmark": [
+      {
+        "timestamp": "2026-03-31T12:02:18.223077",
+        "findings_count": 20,
+        "quality_score": 0.58,
+        "grade": "B",
+        "dimensions": {
+          "authority": 0.9,
+          "academic": 0.95,
+          "star_power": 0.093,
+          "diversity": 0.0,
+          "usability": 0.0,
+          "applicability": 0.975,
+          "coverage": 1.0
+        }
+      }
+    ],
+    "text mining analysis tool": [
+      {
+        "timestamp": "2026-03-31T12:02:28.836079",
+        "findings_count": 20,
+        "quality_score": 0.492,
+        "grade": "C",
+        "dimensions": {
+          "authority": 0.9,
+          "academic": 0.0,
+          "star_power": 0.147,
+          "diversity": 0.0,
+          "usability": 0.6,
+          "applicability": 1.0,
+          "coverage": 1.0
+        }
+      },
+      {
+        "timestamp": "2026-03-31T12:16:33.867857",
+        "findings_count": 20,
+        "quality_score": 0.613,
+        "grade": "B",
+        "ndcg": 0.751,
+        "map": 1.0,
+        "mrr": 1.0
+      }
+    ],
+    "NLP evaluation metrics": [
+      {
+        "timestamp": "2026-03-31T12:06:18.375640",
+        "findings_count": 20,
+        "quality_score": 0.432,
+        "grade": "C",
+        "dimensions": {
+          "authority": 0.9,
+          "academic": 0.2,
+          "star_power": 0.078,
+          "diversity": 0.0,
+          "usability": 0.0,
+          "applicability": 1.0,
+          "coverage": 1.0
+        }
+      }
+    ],
+    "text benchmark BLEU ROUGE": [
+      {
+        "timestamp": "2026-03-31T12:06:27.803381",
+        "findings_count": 1,
+        "quality_score": 0.682,
+        "grade": "B",
+        "dimensions": {
+          "authority": 0.9,
+          "academic": 1.0,
+          "star_power": 0,
+          "diversity": 0.0,
+          "usability": 1.0,
+          "applicability": 1.0,
+          "coverage": 0.05
+        }
+      }
+    ],
+    "LLM leaderboard evaluation": [
+      {
+        "timestamp": "2026-03-31T12:06:36.714616",
+        "findings_count": 20,
+        "quality_score": 0.481,
+        "grade": "C",
+        "dimensions": {
+          "authority": 0.9,
+          "academic": 0.25,
+          "star_power": 0.091,
+          "diversity": 0.0,
+          "usability": 0.3,
+          "applicability": 0.95,
+          "coverage": 1.0
+        }
+      }
+    ],
+    "LLM benchmark evaluation": [
+      {
+        "timestamp": "2026-03-31T12:15:57.855823",
+        "findings_count": 0,
+        "quality_score": 0,
+        "grade": "F",
+        "ndcg": 0,
+        "map": 0,
+        "mrr": 0
+      }
+    ],
+    "RAG retrieval search": [
+      {
+        "timestamp": "2026-03-31T12:16:09.555618",
+        "findings_count": 20,
+        "quality_score": 0.489,
+        "grade": "C",
+        "ndcg": 0.506,
+        "map": 0.863,
+        "mrr": 0.5
+      }
+    ],
+    "AI agent benchmark": [
+      {
+        "timestamp": "2026-03-31T12:16:16.215544",
+        "findings_count": 20,
+        "quality_score": 0.622,
+        "grade": "B",
+        "ndcg": 0.651,
+        "map": 0.885,
+        "mrr": 1.0
+      }
+    ],
+    "knowledge base retrieval": [
+      {
+        "timestamp": "2026-03-31T12:16:28.298492",
+        "findings_count": 20,
+        "quality_score": 0.494,
+        "grade": "C",
+        "ndcg": 0.477,
+        "map": 0.819,
+        "mrr": 0.5
+      }
+    ]
+  },
+  "overall": [
+    {
+      "timestamp": "2026-04-07T11:37:30.722301",
+      "topic": "LLM optimization",
+      "findings_count": 40,
+      "quality_score": 0.407
+    },
+    {
+      "timestamp": "2026-04-07T11:37:34.633066",
+      "topic": "AI agents",
+      "findings_count": 40,
+      "quality_score": 0.493
+    },
+    {
+      "timestamp": "2026-04-07T11:37:38.747601",
+      "topic": "RAG retrieval",
+      "findings_count": 40,
+      "quality_score": 0.431
+    },
+    {
+      "timestamp": "2026-04-07T11:37:42.833664",
+      "topic": "model quantization",
+      "findings_count": 40,
+      "quality_score": 0.468
+    },
+    {
+      "timestamp": "2026-04-07T11:37:46.957847",
+      "topic": "fine-tuning LLMs",
+      "findings_count": 40,
+      "quality_score": 0.429
+    },
+    {
+      "timestamp": "2026-04-08T11:13:18.101437",
+      "topic": "LLM optimization",
+      "findings_count": 40,
+      "quality_score": 0.414
+    },
+    {
+      "timestamp": "2026-04-08T11:13:22.907102",
+      "topic": "AI agents",
+      "findings_count": 40,
+      "quality_score": 0.486
+    },
+    {
+      "timestamp": "2026-04-08T11:13:27.011762",
+      "topic": "RAG retrieval",
+      "findings_count": 40,
+      "quality_score": 0.439
+    },
+    {
+      "timestamp": "2026-04-08T11:13:32.406885",
+      "topic": "model quantization",
+      "findings_count": 40,
+      "quality_score": 0.461
+    },
+    {
+      "timestamp": "2026-04-08T11:13:36.518119",
+      "topic": "fine-tuning LLMs",
+      "findings_count": 40,
+      "quality_score": 0.429
+    },
+    {
+      "timestamp": "2026-04-13T11:06:22.770674",
+      "topic": "LLM optimization",
+      "findings_count": 40,
+      "quality_score": 0.414
+    },
+    {
+      "timestamp": "2026-04-13T11:06:26.798584",
+      "topic": "AI agents",
+      "findings_count": 40,
+      "quality_score": 0.495
+    },
+    {
+      "timestamp": "2026-04-13T11:06:31.274621",
+      "topic": "RAG retrieval",
+      "findings_count": 40,
+      "quality_score": 0.431
+    },
+    {
+      "timestamp": "2026-04-13T11:06:35.554519",
+      "topic": "model quantization",
+      "findings_count": 40,
+      "quality_score": 0.468
+    },
+    {
+      "timestamp": "2026-04-13T11:06:39.866645",
+      "topic": "fine-tuning LLMs",
+      "findings_count": 40,
+      "quality_score": 0.429
+    },
+    {
+      "timestamp": "2026-04-14T11:10:39.017099",
+      "topic": "LLM optimization",
+      "findings_count": 40,
+      "quality_score": 0.421
+    },
+    {
+      "timestamp": "2026-04-14T11:10:43.121812",
+      "topic": "AI agents",
+      "findings_count": 40,
+      "quality_score": 0.496
+    },
+    {
+      "timestamp": "2026-04-14T11:10:47.218075",
+      "topic": "RAG retrieval",
+      "findings_count": 40,
+      "quality_score": 0.439
+    },
+    {
+      "timestamp": "2026-04-14T11:10:52.273050",
+      "topic": "model quantization",
+      "findings_count": 40,
+      "quality_score": 0.476
+    },
+    {
+      "timestamp": "2026-04-14T11:10:56.458202",
+      "topic": "fine-tuning LLMs",
+      "findings_count": 40,
+      "quality_score": 0.437
+    },
+    {
+      "timestamp": "2026-04-15T11:09:01.478290",
+      "topic": "LLM optimization",
+      "findings_count": 40,
+      "quality_score": 0.406
+    },
+    {
+      "timestamp": "2026-04-15T11:09:06.106562",
+      "topic": "AI agents",
+      "findings_count": 40,
+      "quality_score": 0.493
+    },
+    {
+      "timestamp": "2026-04-15T11:09:15.245658",
+      "topic": "RAG retrieval",
+      "findings_count": 40,
+      "quality_score": 0.439
+    },
+    {
+      "timestamp": "2026-04-15T11:09:38.238989",
+      "topic": "model quantization",
+      "findings_count": 20,
+      "quality_score": 0.346
+    },
+    {
+      "timestamp": "2026-04-15T11:10:00.235025",
+      "topic": "fine-tuning LLMs",
+      "findings_count": 20,
+      "quality_score": 0.307
+    },
+    {
+      "timestamp": "2026-04-16T11:22:04.172397",
+      "topic": "LLM optimization",
+      "findings_count": 40,
+      "quality_score": 0.408
+    },
+    {
+      "timestamp": "2026-04-16T11:22:09.288698",
+      "topic": "AI agents",
+      "findings_count": 40,
+      "quality_score": 0.501
+    },
+    {
+      "timestamp": "2026-04-16T11:22:14.308835",
+      "topic": "RAG retrieval",
+      "findings_count": 40,
+      "quality_score": 0.431
+    },
+    {
+      "timestamp": "2026-04-16T11:22:34.226854",
+      "topic": "model quantization",
+      "findings_count": 20,
+      "quality_score": 0.346
+    },
+    {
+      "timestamp": "2026-04-16T11:22:53.220012",
+      "topic": "fine-tuning LLMs",
+      "findings_count": 20,
+      "quality_score": 0.307
+    }
+  ]
+}

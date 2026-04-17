@@ -1,0 +1,174 @@
+{
+  "topic": "LLM training optimization",
+  "timestamp": "2026-03-31T12:52:38.899276",
+  "findings": [
+    {
+      "title": "langfengQ/verl-agent",
+      "url": "https://github.com/langfengQ/verl-agent",
+      "description": "verl-agent is an extension of veRL, designed for training LLM/VLM agents via RL. verl-agent is also the official code for paper \"Group-in-Group Policy Optimization for LLM Agent Training\"",
+      "stars": 1745,
+      "source": "github"
+    },
+    {
+      "title": "kyegomez/Sophia",
+      "url": "https://github.com/kyegomez/Sophia",
+      "description": " Effortless plugin and play Optimizer to cut model training costs by 50%.  New optimizer that is 2x faster than Adam on LLMs.",
+      "stars": 382,
+      "source": "github"
+    },
+    {
+      "title": "SandAI-org/MagiCompiler",
+      "url": "https://github.com/SandAI-org/MagiCompiler",
+      "description": "A plug-and-play compiler that delivers free-lunch optimizations for both inference and training.",
+      "stars": 255,
+      "source": "github"
+    },
+    {
+      "title": "WayneJin0918/SRUM",
+      "url": "https://github.com/WayneJin0918/SRUM",
+      "description": "Official repo of paper \"SRUM: Fine-Grained Self-Rewarding for Unified Multimodal Models\". A post-training framework that creates a cost-effective, self-iterative optimization loop.",
+      "stars": 98,
+      "source": "github"
+    },
+    {
+      "title": "rasbt/pytorch-memory-optim",
+      "url": "https://github.com/rasbt/pytorch-memory-optim",
+      "description": "This code repository contains the code used for my \"Optimizing Memory Usage for Training LLMs and Vision Transformers in PyTorch\" blog post.",
+      "stars": 92,
+      "source": "github"
+    },
+    {
+      "title": "AI-Maker-Space/LLM-Engineering-Foundations-to-SLMs-Open-Source",
+      "url": "https://github.com/AI-Maker-Space/LLM-Engineering-Foundations-to-SLMs-Open-Source",
+      "description": "Large Language Model Engineering (LLM Engineering) refers to the emerging best-practices and tools for pretraining, post-training, and optimizing LLMs prior to production deployment.  Pre- and post-training techniques include unsupervised pretraining, supervised fine-tuning, alignment, model merging, distillation, quantization. and others.",
+      "stars": 69,
+      "source": "github"
+    },
+    {
+      "title": "RLsys-Foundation/APRIL",
+      "url": "https://github.com/RLsys-Foundation/APRIL",
+      "description": "APRIL: Active Partial Rollouts in Reinforcement Learning to Tame Long-tail   Generation. A system-level optimization for scalable LLM training.",
+      "stars": 55,
+      "source": "github"
+    },
+    {
+      "title": "tlc4418/llm_optimization",
+      "url": "https://github.com/tlc4418/llm_optimization",
+      "description": "A repo for RLHF training and BoN over LLMs, with support for reward model ensembles.",
+      "stars": 47,
+      "source": "github"
+    },
+    {
+      "title": "evelyyyyynnnnn/Ai-Engineering-Toolkit",
+      "url": "https://github.com/evelyyyyynnnnn/Ai-Engineering-Toolkit",
+      "description": "Engineering toolkit for building scalable AI systems, including model training pipelines, LLM optimization utilities, and data engineering tools.",
+      "stars": 37,
+      "source": "github"
+    },
+    {
+      "title": "AmanPriyanshu/GeneticPromptLab",
+      "url": "https://github.com/AmanPriyanshu/GeneticPromptLab",
+      "description": "GeneticPromptLab uses genetic algorithms for automated prompt engineering (for LLMs), enhancing quality and diversity through iterative selection, crossover, and mutation, while efficiently exploring minimal yet diverse samples from the training set.",
+      "stars": 33,
+      "source": "github"
+    },
+    {
+      "title": "Cre4T3Tiv3/unsloth-llama3-alpaca-lora",
+      "url": "https://github.com/Cre4T3Tiv3/unsloth-llama3-alpaca-lora",
+      "description": "Custom model training using modern architectures. 4-bit QLoRA fine-tuning pipeline for LLaMA 3 8B with production-grade optimization. Memory-efficient training on consumer GPUs. Published adapter on HuggingFace. From training pipeline to deployed model.",
+      "stars": 31,
+      "source": "github"
+    },
+    {
+      "title": "Refinath/DPO_LLM_finetuning",
+      "url": "https://github.com/Refinath/DPO_LLM_finetuning",
+      "description": "Implementation of Direct Preference Optimization (DPO) for fine-tuning large language models, including training pipelines, dataset handling, and experiment configurations for preference-based model alignment.",
+      "stars": 30,
+      "source": "github"
+    },
+    {
+      "title": "IST-DASLab/HALO",
+      "url": "https://github.com/IST-DASLab/HALO",
+      "description": "HALO: Hadamard-Assisted Low-Precision Optimization and Training method for finetuning LLMs. 🚀 The official implementation of https://arxiv.org/abs/2501.02625",
+      "stars": 29,
+      "source": "github"
+    },
+    {
+      "title": "soketlabs/coom",
+      "url": "https://github.com/soketlabs/coom",
+      "description": "A training framework for large-scale language models based on Megatron-Core, the COOM Training Framework is designed to efficiently handle extensive model training inspired by Deepseek's HAI-LLM optimizations.",
+      "stars": 26,
+      "source": "github"
+    },
+    {
+      "title": "marcus-jw/Targeted-Manipulation-and-Deception-in-LLMs",
+      "url": "https://github.com/marcus-jw/Targeted-Manipulation-and-Deception-in-LLMs",
+      "description": "Codebase for \"On Targeted Manipulation and Deception when Optimizing LLMs for User Feedback\". This repo implements a generative multi-turn RL environment with support for agent, user, user feedback, transition and veto models. It also implements KTO and expert iteration for training on user preferences.",
+      "stars": 25,
+      "source": "github"
+    },
+    {
+      "title": "maitrix-org/dynamic-alignment-optimization",
+      "url": "https://github.com/maitrix-org/dynamic-alignment-optimization",
+      "description": "[EMNLP'24 (Main)] DRPO(Dynamic Rewarding with Prompt Optimization) is a tuning-free approach for self-alignment. DRPO leverages a search-based optimization framework that allows LLMs to iteratively self-improve and design the best alignment instructions without the need for additional training. ",
+      "stars": 25,
+      "source": "github"
+    },
+    {
+      "title": "VodLM/vod",
+      "url": "https://github.com/VodLM/vod",
+      "description": "End-to-end training of Retrieval-Augmented LMs (REALM, RAG)",
+      "stars": 23,
+      "source": "github"
+    },
+    {
+      "title": "xie-lab-ml/Mano-Restriking-Manifold-Optimization-for-LLM-Training",
+      "url": "https://github.com/xie-lab-ml/Mano-Restriking-Manifold-Optimization-for-LLM-Training",
+      "description": "The official code of \"Mano: Restriking Manifold Optimization for LLM Training\".",
+      "stars": 17,
+      "source": "github"
+    },
+    {
+      "title": "moinulmoin/free-llmstxt-generator",
+      "url": "https://github.com/moinulmoin/free-llmstxt-generator",
+      "description": "converts webpage content into Markdown format, optimized for LLM training and context",
+      "stars": 16,
+      "source": "github"
+    },
+    {
+      "title": "RTkenny/RiskPO",
+      "url": "https://github.com/RTkenny/RiskPO",
+      "description": "Official implementation of 'RiskPO: Risk-based Policy Optimization via Verifiable Reward for LLM Post-Training', accepted by ICLR 2026",
+      "stars": 16,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.357,
+    "grade": "D",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.05,
+      "star_power": 0.087,
+      "diversity": 0.0,
+      "usability": 0.0,
+      "applicability": 0.2,
+      "coverage": 1.0,
+      "ndcg": 0.606,
+      "map": 0.907,
+      "mrr": 1.0,
+      "rouge_1": 0.633,
+      "semantic_sim": 0.253,
+      "coherence": 0.165,
+      "task_completion": 0.543,
+      "tool_use": 0.115,
+      "reasoning_depth": 0.047,
+      "autonomy": 0.075,
+      "multi_agent": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

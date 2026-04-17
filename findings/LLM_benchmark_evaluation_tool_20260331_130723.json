@@ -1,0 +1,174 @@
+{
+  "topic": "LLM benchmark evaluation tool",
+  "timestamp": "2026-03-31T13:07:23.672864",
+  "findings": [
+    {
+      "title": "ModelTC/LightCompress",
+      "url": "https://github.com/ModelTC/LightCompress",
+      "description": "[EMNLP 2024 & AAAI 2026] A powerful toolkit for compressing large models including LLMs, VLMs, and video generative models.",
+      "stars": 695,
+      "source": "github"
+    },
+    {
+      "title": "onejune2018/Awesome-LLM-Eval",
+      "url": "https://github.com/onejune2018/Awesome-LLM-Eval",
+      "description": "Awesome-LLM-Eval: a curated list of tools, datasets/benchmark, demos, leaderboard, papers, docs and models, mainly for Evaluation on LLMs.  一个由工具、基准/数据、演示、排行榜和大模型等组成的精选列表，主要面向基础大模型评测，旨在探求生成式AI的技术边界.",
+      "stars": 627,
+      "source": "github"
+    },
+    {
+      "title": "abacusai/Long-Context",
+      "url": "https://github.com/abacusai/Long-Context",
+      "description": "This repository contains code and tooling for the Abacus.AI LLM Context Expansion project. Also included are evaluation scripts and benchmark tasks that evaluate a model’s information retrieval capabilities with context expansion. We also include key experimental results and instructions for reproducing and building on them.",
+      "stars": 601,
+      "source": "github"
+    },
+    {
+      "title": "rentruewang/bocoel",
+      "url": "https://github.com/rentruewang/bocoel",
+      "description": "Bayesian Optimization as a Coverage Tool for Evaluating LLMs. Accurate evaluation (benchmarking) that's 10 times faster with just a few lines of modular code.",
+      "stars": 289,
+      "source": "github"
+    },
+    {
+      "title": "sgl-project/genai-bench",
+      "url": "https://github.com/sgl-project/genai-bench",
+      "description": "Genai-bench is a powerful benchmark tool designed for comprehensive token-level performance evaluation of large language model (LLM) serving systems.",
+      "stars": 285,
+      "source": "github"
+    },
+    {
+      "title": "IBM/unitxt",
+      "url": "https://github.com/IBM/unitxt",
+      "description": "🦄 Unitxt is a Python library for enterprise-grade evaluation of AI performance, offering the world's largest catalog of  tools and data for end-to-end AI benchmarking",
+      "stars": 211,
+      "source": "github"
+    },
+    {
+      "title": "causalNLP/cladder",
+      "url": "https://github.com/causalNLP/cladder",
+      "description": "We develop benchmarks and analysis tools to evaluate the causal reasoning abilities of LLMs.",
+      "stars": 139,
+      "source": "github"
+    },
+    {
+      "title": "TrustGen/TrustEval-toolkit",
+      "url": "https://github.com/TrustGen/TrustEval-toolkit",
+      "description": "[ICLR'26, NAACL'25 Demo] Toolkit & Benchmark for evaluating the trustworthiness of generative foundation models.",
+      "stars": 128,
+      "source": "github"
+    },
+    {
+      "title": "Yunhao-Feng/BackdoorAgent",
+      "url": "https://github.com/Yunhao-Feng/BackdoorAgent",
+      "description": "BackdoorAgent is a stage-aware framework and benchmark that instruments LLM-agent workflows (planning, memory, tools) to systematically inject, track, and evaluate backdoor triggers across multi-step trajectories using unified metrics like ASR and clean accuracy.",
+      "stars": 34,
+      "source": "github"
+    },
+    {
+      "title": "chaosync-org/awesome-ai-agent-testing",
+      "url": "https://github.com/chaosync-org/awesome-ai-agent-testing",
+      "description": "🤖 A curated list of resources for testing AI agents - frameworks, methodologies, benchmarks, tools, and best practices for ensuring reliable, safe, and effective autonomous AI systems",
+      "stars": 31,
+      "source": "github"
+    },
+    {
+      "title": "sinanuozdemir/oreilly-evaluating-llms",
+      "url": "https://github.com/sinanuozdemir/oreilly-evaluating-llms",
+      "description": "Metrics, Benchmarks, and Practical Tools for Assessing Large Language Models",
+      "stars": 26,
+      "source": "github"
+    },
+    {
+      "title": "TsingmaoAI/MI-optimize",
+      "url": "https://github.com/TsingmaoAI/MI-optimize",
+      "description": "mi-optimize is a versatile tool designed for the quantization and evaluation of large language models (LLMs). The library's seamless integration of various quantization methods and evaluation techniques empowers users to customize their approaches according to specific requirements and constraints, providing a high level of flexibility. ",
+      "stars": 25,
+      "source": "github"
+    },
+    {
+      "title": "Solirinai/GeoBenchX",
+      "url": "https://github.com/Solirinai/GeoBenchX",
+      "description": "LLM-agents benchmark set of geospatial tasks requiring multi-step tool use; and LLM-as-Judge based evaluation framework.",
+      "stars": 19,
+      "source": "github"
+    },
+    {
+      "title": "Melmaphother/PaperArena",
+      "url": "https://github.com/Melmaphother/PaperArena",
+      "description": "Official implement of the paper: 🤺 PaperArena: An Evaluation Benchmark for Tool-Augmented Agentic Reasoning on Scientific Literature",
+      "stars": 10,
+      "source": "github"
+    },
+    {
+      "title": "Cristian-Curaba/CryptoFormalEval",
+      "url": "https://github.com/Cristian-Curaba/CryptoFormalEval",
+      "description": "We introduce a benchmark for testing how well LLMs can find vulnerabilities in cryptographic protocols. By combining LLMs with symbolic reasoning tools like Tamarin, we aim to improve the efficiency and thoroughness of protocol analysis, paving the way for future AI-powered cybersecurity defenses.",
+      "stars": 10,
+      "source": "github"
+    },
+    {
+      "title": "pvlbzn/latai",
+      "url": "https://github.com/pvlbzn/latai",
+      "description": "LatAI – A latency benchmarking tool for evaluating multiple generative AI providers and models 🌎.",
+      "stars": 9,
+      "source": "github"
+    },
+    {
+      "title": "snooow1029/ETOM",
+      "url": "https://github.com/snooow1029/ETOM",
+      "description": "Five-level benchmark for evaluating LLM tool orchestration in the MCP ecosystem",
+      "stars": 8,
+      "source": "github"
+    },
+    {
+      "title": "BudEcosystem/GPU-Virt-Bench",
+      "url": "https://github.com/BudEcosystem/GPU-Virt-Bench",
+      "description": "A GPU Virtualisation benchmarking tool - For LLM like workloads, overhead evaluations and on resource isolation metrics",
+      "stars": 8,
+      "source": "github"
+    },
+    {
+      "title": "maferrag/AlphaBench",
+      "url": "https://github.com/maferrag/AlphaBench",
+      "description": "α³-Bench is a large-scale benchmark dataset for evaluating LLM agents in autonomous UAV systems through multi-turn conversational reasoning under realistic 6G network constraints. It measures mission success, safety, dialogue quality, tool use, and network-aware decision-making.",
+      "stars": 7,
+      "source": "github"
+    },
+    {
+      "title": "DIA-Bench/DIA-Bench",
+      "url": "https://github.com/DIA-Bench/DIA-Bench",
+      "description": "The DIA Benchmark Dataset is a benchmarking tool consisting of 150 dynamic question generators for the evaluation of the problem-solving capability of LLMs",
+      "stars": 6,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.467,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.9,
+      "star_power": 0.228,
+      "diversity": 0.0,
+      "usability": 0.2,
+      "applicability": 1.0,
+      "coverage": 1.0,
+      "ndcg": 0.49,
+      "map": 0.769,
+      "mrr": 0.5,
+      "rouge_1": 0.475,
+      "semantic_sim": 0.196,
+      "coherence": 0.098,
+      "task_completion": 0.61,
+      "tool_use": 0.155,
+      "reasoning_depth": 0.077,
+      "autonomy": 0.113,
+      "multi_agent": 0.015
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

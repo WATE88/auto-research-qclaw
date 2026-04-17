@@ -1,0 +1,159 @@
+{
+  "topic": "GPTQ quantization LLM",
+  "timestamp": "2026-03-31T11:17:17.893794",
+  "findings": [
+    {
+      "title": "AutoGPTQ/AutoGPTQ",
+      "url": "https://github.com/AutoGPTQ/AutoGPTQ",
+      "description": "An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm.",
+      "stars": 5037,
+      "source": "github"
+    },
+    {
+      "title": "intel/neural-compressor",
+      "url": "https://github.com/intel/neural-compressor",
+      "description": "SOTA low-bit LLM quantization (INT8/FP8/MXFP8/INT4/MXFP4/NVFP4) & sparsity; leading model compression techniques on PyTorch, TensorFlow, and ONNX Runtime",
+      "stars": 2610,
+      "source": "github"
+    },
+    {
+      "title": "ModelCloud/GPTQModel",
+      "url": "https://github.com/ModelCloud/GPTQModel",
+      "description": "LLM model quantization (compression) toolkit with hw acceleration support for Nvidia CUDA, AMD ROCm, Intel XPU and Intel/AMD/Apple CPU via HF, vLLM, and SGLang.",
+      "stars": 1079,
+      "source": "github"
+    },
+    {
+      "title": "taishan1994/LLM-Quantization",
+      "url": "https://github.com/taishan1994/LLM-Quantization",
+      "description": "记录量化LLM中的总结。",
+      "stars": 67,
+      "source": "github"
+    },
+    {
+      "title": "abhinand5/gptq_for_langchain",
+      "url": "https://github.com/abhinand5/gptq_for_langchain",
+      "description": "A guide about how to use GPTQ models with langchain",
+      "stars": 40,
+      "source": "github"
+    },
+    {
+      "title": "zhihu/TLLM_QMM",
+      "url": "https://github.com/zhihu/TLLM_QMM",
+      "description": "TLLM_QMM strips the implementation of quantized kernels of Nvidia's TensorRT-LLM, removing NVInfer dependency and exposes ease of use Pytorch module. We modified the dequantation and weight preprocessing to align with popular quantization alogirthms such as AWQ and GPTQ, and combine them with new FP8 quantization.",
+      "stars": 16,
+      "source": "github"
+    },
+    {
+      "title": "bayjarvis/llm",
+      "url": "https://github.com/bayjarvis/llm",
+      "description": "Fine-tuning, DPO, RLHF, RLAIF on LLMs - Qwen3, Zephyr 7B GPTQ with 4-Bit Quantization, Mistral-7B-GPTQ ",
+      "stars": 15,
+      "source": "github"
+    },
+    {
+      "title": "SIC0RPS/GIA",
+      "url": "https://github.com/SIC0RPS/GIA",
+      "description": "Run local or API connected models from OpenAI, Hugging Face, or OpenRouter. Use your own data, load .safetensors or GPTQ models, and extend capabilities with Python plugins. Full UI (Gradio) and CLI integration. No cloud lock in. No coding required.",
+      "stars": 4,
+      "source": "github"
+    },
+    {
+      "title": "upunaprosk/quantized-lm-confidence",
+      "url": "https://github.com/upunaprosk/quantized-lm-confidence",
+      "description": "Code for NAACL paper When Quantization Affects Confidence of Large Language Models?",
+      "stars": 3,
+      "source": "github"
+    },
+    {
+      "title": "SSshuishui/quant_gptq_series",
+      "url": "https://github.com/SSshuishui/quant_gptq_series",
+      "description": "GPTQ-based LLM quantization methods",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "amajji/LLM-Quantization-Techniques-Absmax-Zeropoint-GPTQ-GGUF",
+      "url": "https://github.com/amajji/LLM-Quantization-Techniques-Absmax-Zeropoint-GPTQ-GGUF",
+      "description": "LLM quantization techniques: absmax, zero-point, GPTQ and GGUF ",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "IST-DASLab/GPTQ-Babai",
+      "url": "https://github.com/IST-DASLab/GPTQ-Babai",
+      "description": "Official Repository for \"The Geometry of LLM Quantization: GPTQ as Babai's Nearest Plane Algorithm\" (ICLR 2026)",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "ShipItAndPray/turboquant",
+      "url": "https://github.com/ShipItAndPray/turboquant",
+      "description": "Compress Any LLM Up to 6x in One Command. Unified CLI for GGUF, GPTQ, and AWQ quantization.",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "STiFLeR7/Edge-LLM",
+      "url": "https://github.com/STiFLeR7/Edge-LLM",
+      "description": "Optimized Qwen2.5-3B using GPTQ, reducing size from 5.75GB → 1.93GB and improving inference speed. Ideal for efficient edge AI deployments.",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "psunlpgroup/Compression-Effects",
+      "url": "https://github.com/psunlpgroup/Compression-Effects",
+      "description": "[ICLR2026] When Reasoning Meets Compression: Understanding the Effects of LLMs Compression on Large Reasoning Models. Support interpretation of Qwen, Llama, etc.",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "lpalbou/model-quantizer",
+      "url": "https://github.com/lpalbou/model-quantizer",
+      "description": "Effortlessly quantize, benchmark, and publish Hugging Face models with cross-platform support for CPU/GPU. Reduce model size by 75% while maintaining performance.",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "SujanNeupane42/LLM_Quantization",
+      "url": "https://github.com/SujanNeupane42/LLM_Quantization",
+      "description": "Quantizing LLMs using GPTQ",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "lciric/gptq-from-scratch",
+      "url": "https://github.com/lciric/gptq-from-scratch",
+      "description": "GPTQ post-training quantization from scratch — GPT-2, OPT, LLaMA support",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "hao-hoang/LLM-Quantization-Zoo",
+      "url": "https://github.com/hao-hoang/LLM-Quantization-Zoo",
+      "description": "A collection of hands-on notebooks demonstrating various model quantization techniques, including GPTQ, GGUF, ExLlamaV2, and 8-bit quantization.",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "cloud-zby/LLM-Acceleration",
+      "url": "https://github.com/cloud-zby/LLM-Acceleration",
+      "description": "Comprehensive Acceleration of Llama-3.2-3B-Instruct with GPTQ-Quantization, VLLM, KV-Cache Quantization, Speculative Decoding, and Flash Attention.",
+      "stars": 1,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.288,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.088,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

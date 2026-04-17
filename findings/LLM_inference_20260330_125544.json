@@ -1,0 +1,159 @@
+{
+  "topic": "LLM inference",
+  "timestamp": "2026-03-30T12:55:44.244636",
+  "findings": [
+    {
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "stars": 158532,
+      "source": "github"
+    },
+    {
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "stars": 99920,
+      "source": "github"
+    },
+    {
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "stars": 74666,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "stars": 36836,
+      "source": "github"
+    },
+    {
+      "title": "sgl-project/sglang",
+      "url": "https://github.com/sgl-project/sglang",
+      "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+      "stars": 25185,
+      "source": "github"
+    },
+    {
+      "title": "meta-llama/llama-cookbook",
+      "url": "https://github.com/meta-llama/llama-cookbook",
+      "description": "Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services  ",
+      "stars": 18266,
+      "source": "github"
+    },
+    {
+      "title": "mlc-ai/web-llm",
+      "url": "https://github.com/mlc-ai/web-llm",
+      "description": "High-performance In-browser LLM Inference Engine ",
+      "stars": 17655,
+      "source": "github"
+    },
+    {
+      "title": "stas00/ml-engineering",
+      "url": "https://github.com/stas00/ml-engineering",
+      "description": "Machine Learning Engineering Open Book",
+      "stars": 17573,
+      "source": "github"
+    },
+    {
+      "title": "cheahjs/free-llm-api-resources",
+      "url": "https://github.com/cheahjs/free-llm-api-resources",
+      "description": "A list of free LLM inference resources accessible via API.",
+      "stars": 17405,
+      "source": "github"
+    },
+    {
+      "title": "kvcache-ai/ktransformers",
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "stars": 16853,
+      "source": "github"
+    },
+    {
+      "title": "alibaba/MNN",
+      "url": "https://github.com/alibaba/MNN",
+      "description": "MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI.",
+      "stars": 14694,
+      "source": "github"
+    },
+    {
+      "title": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "stars": 14508,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/TensorRT-LLM",
+      "url": "https://github.com/NVIDIA/TensorRT-LLM",
+      "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+      "stars": 13215,
+      "source": "github"
+    },
+    {
+      "title": "GeeeekExplorer/nano-vllm",
+      "url": "https://github.com/GeeeekExplorer/nano-vllm",
+      "description": "Nano vLLM",
+      "stars": 12506,
+      "source": "github"
+    },
+    {
+      "title": "mistralai/mistral-inference",
+      "url": "https://github.com/mistralai/mistral-inference",
+      "description": "Official inference library for Mistral models",
+      "stars": 10743,
+      "source": "github"
+    },
+    {
+      "title": "RunanywhereAI/runanywhere-sdks",
+      "url": "https://github.com/RunanywhereAI/runanywhere-sdks",
+      "description": "Production ready toolkit to run AI locally",
+      "stars": 10366,
+      "source": "github"
+    },
+    {
+      "title": "bigscience-workshop/petals",
+      "url": "https://github.com/bigscience-workshop/petals",
+      "description": "🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading",
+      "stars": 10030,
+      "source": "github"
+    },
+    {
+      "title": "xorbitsai/inference",
+      "url": "https://github.com/xorbitsai/inference",
+      "description": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.",
+      "stars": 9181,
+      "source": "github"
+    },
+    {
+      "title": "oumi-ai/oumi",
+      "url": "https://github.com/oumi-ai/oumi",
+      "description": "Easily fine-tune, evaluate and deploy gpt-oss, Qwen3, DeepSeek-R1, or any open source LLM / VLM!",
+      "stars": 8920,
+      "source": "github"
+    },
+    {
+      "title": "intel/ipex-llm",
+      "url": "https://github.com/intel/ipex-llm",
+      "description": "Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, DeepSeek, Mixtral, Gemma, Phi, MiniCPM, Qwen-VL, MiniCPM-V, etc.) on Intel XPU (e.g., local PC with iGPU and NPU, discrete GPU such as Arc, Flex and Max); seamlessly integrate with llama.cpp, Ollama, HuggingFace, LangChain, LlamaIndex, vLLM, DeepSpeed, Axolotl, etc.",
+      "stars": 8737,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.308,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.188,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

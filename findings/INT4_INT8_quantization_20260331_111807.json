@@ -1,0 +1,159 @@
+{
+  "topic": "INT4 INT8 quantization",
+  "timestamp": "2026-03-31T11:18:07.393646",
+  "findings": [
+    {
+      "title": "intel/neural-compressor",
+      "url": "https://github.com/intel/neural-compressor",
+      "description": "SOTA low-bit LLM quantization (INT8/FP8/MXFP8/INT4/MXFP4/NVFP4) & sparsity; leading model compression techniques on PyTorch, TensorFlow, and ONNX Runtime",
+      "stars": 2610,
+      "source": "github"
+    },
+    {
+      "title": "RWKV/rwkv.cpp",
+      "url": "https://github.com/RWKV/rwkv.cpp",
+      "description": "INT4/INT5/INT8 and FP16 inference on CPU for RWKV language model",
+      "stars": 1565,
+      "source": "github"
+    },
+    {
+      "title": "intel/neural-speed",
+      "url": "https://github.com/intel/neural-speed",
+      "description": "An innovative library for efficient LLM inference via low-bit quantization",
+      "stars": 352,
+      "source": "github"
+    },
+    {
+      "title": "gongouveia/Resnet-Quantization-Experiments",
+      "url": "https://github.com/gongouveia/Resnet-Quantization-Experiments",
+      "description": "Tools for per layer quantization, fp32, fp16 , PTQ and QAT int8  (int4 not yet implemented)",
+      "stars": 8,
+      "source": "github"
+    },
+    {
+      "title": "allisonandreyev/WhisperQuantization",
+      "url": "https://github.com/allisonandreyev/WhisperQuantization",
+      "description": "WhisperCPP (FP32) INT8, INT4, INT5, quantization effect on model latency and WER experiment",
+      "stars": 6,
+      "source": "github"
+    },
+    {
+      "title": "ygorml/local_inference_calculator",
+      "url": "https://github.com/ygorml/local_inference_calculator",
+      "description": " Local Inference Calculator - A CLI tool for estimating LLM VRAM requirements. Supports FP32/FP16/INT8/INT4   quantization, 40+ GPUs (NVIDIA, AMD, Google Colab), and models from 7B to 180B parameters. No external dependencies -   just Python 3.10+. Use python main.py --context 4096 --only-runs to quickly find viable model × GPU combinations.",
+      "stars": 6,
+      "source": "github"
+    },
+    {
+      "title": "shyamsridhar123/Quantization",
+      "url": "https://github.com/shyamsridhar123/Quantization",
+      "description": "Model quantization techniques for efficient LLM inference. Experiments with INT8, INT4, and mixed-precision quantization.",
+      "stars": 3,
+      "source": "github"
+    },
+    {
+      "title": "alexeybelkov/YSDA-CPU-inference",
+      "url": "https://github.com/alexeybelkov/YSDA-CPU-inference",
+      "description": "Quantized inference on CPU (int8 / int4 / mixed precision )",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "ambv231/tinyllama-coreml-ios18-quantization",
+      "url": "https://github.com/ambv231/tinyllama-coreml-ios18-quantization",
+      "description": "Quantize TinyLlama-1.1B-Chat from PyTorch to CoreML (float16, int8, int4) for efficient on-device inference on iOS 18+.",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "chanjoongx/mobilevit-quantization",
+      "url": "https://github.com/chanjoongx/mobilevit-quantization",
+      "description": "From-scratch PyTorch implementation of \"MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer\" (ICLR 2022) with FP16, INT8, and INT4 post-training quantization",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "jordanmacintyre/tinyQAT",
+      "url": "https://github.com/jordanmacintyre/tinyQAT",
+      "description": "Sandbox for Quantization-Aware Training (QAT) — from-scratch implementations, PyTorch workflows, low-bit (INT8/INT4) experiments, and deployment paths with ONNX/TensorRT.",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "brangi/blitzed",
+      "url": "https://github.com/brangi/blitzed",
+      "description": "Ultra-fast edge AI optimization framework. Deploy neural networks on microcontrollers with INT8/INT4 quantization — 10x faster than TensorFlow Lite on ESP32.",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "ugosan/search-vectorfaces",
+      "url": "https://github.com/ugosan/search-vectorfaces",
+      "description": "Real-time face recognition demo searching 1.2M celebrity embeddings using Elasticsearch. Compare BBQ, DiskBBQ, int8, and int4 quantization methods side-by-side to see their performance trade-offs in action.",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "EthanCornell/PicoGPT",
+      "url": "https://github.com/EthanCornell/PicoGPT",
+      "description": "A hands-on fork of NanoGPT with FlashAttention-2 CUDA kernels, INT8/INT4 GPTQ quantization, paged KV-cache reuse, and continuous batching, turning a tiny Shakespeare model into a full-speed GPU LLM inference demo.",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "G-B-KEVIN-ARJUN/size-precision-slm-bench",
+      "url": "https://github.com/G-B-KEVIN-ARJUN/size-precision-slm-bench",
+      "description": "is it better to run a Tiny Model (2B-4B) at High Precision (FP16/INT8), or a Large Model (8B+) at Low Precision (INT4)?\"  This benchmark framework allows developers to scientifically choose the best model for resource-constrained environments (consumer GPUs, laptops, edge devices) by measuring the trade-off between Speed and Intelligence",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "teslavia/FP32-to-INT-Quantizer",
+      "url": "https://github.com/teslavia/FP32-to-INT-Quantizer",
+      "description": "A high-performance FP32-to-INT8/INT4 quantization toolkit with full workflow support.",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "MrJoeSack/elastic-vector-3d",
+      "url": "https://github.com/MrJoeSack/elastic-vector-3d",
+      "description": "Interactive 3D visualization of Elasticsearch vector index performance trade-offs with BBQ, int8/int4 HNSW quantization",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "lokkju/nemotron-speech-streaming-onnx-quant",
+      "url": "https://github.com/lokkju/nemotron-speech-streaming-onnx-quant",
+      "description": "Quantize Nemotron Speech Streaming EN 0.6B ONNX model to int8 and int4",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "GreenBull31/tinyllama-coreml-ios18-quantization",
+      "url": "https://github.com/GreenBull31/tinyllama-coreml-ios18-quantization",
+      "description": "Quantize TinyLlama-1.1B-Chat from PyTorch to CoreML (float16, int8, int4) for efficient on-device inference on iOS 18+.",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "samixyzdev/llm-inference-bench",
+      "url": "https://github.com/samixyzdev/llm-inference-bench",
+      "description": "GPU benchmarking toolkit for LLM inference - measures throughput, latency (TTFT), and memory usage across quantization levels (FP16/INT8/INT4)",
+      "stars": 0,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.293,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.117,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

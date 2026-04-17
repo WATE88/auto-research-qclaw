@@ -1,0 +1,174 @@
+{
+  "topic": "AI evaluation benchmark platform",
+  "timestamp": "2026-03-31T12:31:05.825066",
+  "findings": [
+    {
+      "title": "Tencent/AI-Infra-Guard",
+      "url": "https://github.com/Tencent/AI-Infra-Guard",
+      "description": "A full-stack AI Red Teaming platform securing AI ecosystems via OpenClaw Security Scan, Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
+      "stars": 3362,
+      "source": "github"
+    },
+    {
+      "title": "facebookresearch/meta-agents-research-environments",
+      "url": "https://github.com/facebookresearch/meta-agents-research-environments",
+      "description": "Meta Agents Research Environments is a comprehensive platform designed to evaluate AI agents in dynamic, realistic scenarios. Unlike static benchmarks, this platform introduces evolving environments where agents must adapt their strategies as new information becomes available, mirroring real-world challenges.",
+      "stars": 464,
+      "source": "github"
+    },
+    {
+      "title": "facebookresearch/param",
+      "url": "https://github.com/facebookresearch/param",
+      "description": "PArametrized Recommendation and Ai Model benchmark is a repository for development of numerous uBenchmarks as well as end to end nets for evaluation of training and inference platforms.",
+      "stars": 153,
+      "source": "github"
+    },
+    {
+      "title": "svilupp/Julia-LLM-Leaderboard",
+      "url": "https://github.com/svilupp/Julia-LLM-Leaderboard",
+      "description": "Provides a platform for the Julia community to compare AI models' abilities in generating syntactically correct Julia code, featuring structured tests and automated evaluations for easy and collaborative benchmarking.",
+      "stars": 86,
+      "source": "github"
+    },
+    {
+      "title": "RagView/RagView",
+      "url": "https://github.com/RagView/RagView",
+      "description": "We believe that every SOTA result is only valid on its own dataset. RAGView provides a unified evaluation platform to benchmark different RAG methods on your specific data.",
+      "stars": 81,
+      "source": "github"
+    },
+    {
+      "title": "opea-project/GenAIStudio",
+      "url": "https://github.com/opea-project/GenAIStudio",
+      "description": "GenAI Studio is a low code platform to enable users to construct, evaluate, and benchmark GenAI applications. The platform also provide capability to export developed application as a ready-to-deploy package for immediate enterprise integration. ",
+      "stars": 60,
+      "source": "github"
+    },
+    {
+      "title": "zhihao1998/LLM4NetLab",
+      "url": "https://github.com/zhihao1998/LLM4NetLab",
+      "description": "An open benchmarking platform to build and evaluate AI agents on network troubleshooting with low operational effort. Lightening paper accepted at the ACM SIGCOMM 2025 1st Workshop on Next-Generation Network Observability (NGNO).",
+      "stars": 9,
+      "source": "github"
+    },
+    {
+      "title": "lavantien/llm-tournament",
+      "url": "https://github.com/lavantien/llm-tournament",
+      "description": "Simple and blazingly fast dynamic evaluation platform for benchmarking Large Language Models",
+      "stars": 8,
+      "source": "github"
+    },
+    {
+      "title": "FishCodeTech/ctf-agent-benchmark",
+      "url": "https://github.com/FishCodeTech/ctf-agent-benchmark",
+      "description": "Benchmarking platform for evaluating AI agents on CTF-style tasks and tool-use workflows.",
+      "stars": 8,
+      "source": "github"
+    },
+    {
+      "title": "Quixocodes/EmoSupportBench",
+      "url": "https://github.com/Quixocodes/EmoSupportBench",
+      "description": "A professional benchmark platform for evaluating AI models' emotional support capabilities through multi-dimensional expert scoring and arena-style peer review.",
+      "stars": 6,
+      "source": "github"
+    },
+    {
+      "title": "iqbalxo/AI-Evaluation-And-Benchmarking",
+      "url": "https://github.com/iqbalxo/AI-Evaluation-And-Benchmarking",
+      "description": "AI evaluation and benchmarking platform with dataset ingestion, LLM-as-a-judge scoring, run tracing observability, and cost-aware model comparison.",
+      "stars": 4,
+      "source": "github"
+    },
+    {
+      "title": "pulzeai-oss/evals",
+      "url": "https://github.com/pulzeai-oss/evals",
+      "description": "Evals is an open-source evaluation framework designed to benchmark and assess the performance of AI models on the Pulze AI platform.",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "NeekChaw/llm-judge",
+      "url": "https://github.com/NeekChaw/llm-judge",
+      "description": "LLM 评测平台 | LLM Evaluation Platform - 多评分器 + 代码沙箱 + 实时监控",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "ryantzr1/EvalHub",
+      "url": "https://github.com/ryantzr1/EvalHub",
+      "description": "Discover Evaluation Benchmarks for Your AI Models. EvalHub is a platform designed to help researchers and developers find and review evaluation benchmarks for their machine learning models. Easily browse, filter, and access detailed information, GitHub links, and research papers for a variety of metrics.",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "playsaurus-inc/play-bench",
+      "url": "https://github.com/playsaurus-inc/play-bench",
+      "description": "PlayBench is a platform that evaluates AI models by having them compete in various games and creative tasks. Unlike traditional benchmarks that focus on text generation quality or factual knowledge, PlayBench tests models on skills like strategic thinking, pattern recognition, and creative problem-solving.",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "UCD-193AB-ws24/Minecapstone",
+      "url": "https://github.com/UCD-193AB-ws24/Minecapstone",
+      "description": "SPEEN is an open-source platform for benchmarking embodied LLM agents in a simulated environment, addressing the critical need for standardized tools to evaluate embodied AI systems. Using simulated scenarios, SPEEN tests LLMs on relevant tasks, including environmental interaction, visual understanding, and sequential reasoning.",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "Azi023/strike7.ai-benchmark-harness",
+      "url": "https://github.com/Azi023/strike7.ai-benchmark-harness",
+      "description": "Autonomous AI Agent Evaluation Platform for Penetration Testing",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "someonehereexists/AI-Arena---Benchmarking-Platform-for-Autonomous-AI-Agents",
+      "url": "https://github.com/someonehereexists/AI-Arena---Benchmarking-Platform-for-Autonomous-AI-Agents",
+      "description": "AI Arena is a competitive evaluation framework where multiple AI agents answer the same set of questions under identical conditions. Their performance is scored, ranked, and tracked over time using two complementary metrics AIQ and ELO",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "Userf1995/multimodal-ai-benchmark",
+      "url": "https://github.com/Userf1995/multimodal-ai-benchmark",
+      "description": "Multimodal AI Benchmark Platform A comprehensive platform for evaluating and comparing Google's Gemini with other multimodal AI models (like GPT-4V) across text, image, video, and audio tasks. The platform enables standardized testing and visualization of model performance across various benchmarking scenarios.",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "stellaagbim/synaptra-studio",
+      "url": "https://github.com/stellaagbim/synaptra-studio",
+      "description": " multimodal AI platform with pipeline orchestration, RAG memory, multi-dimensional evaluation, and reproducible benchmarking.",
+      "stars": 1,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.5,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.9,
+      "star_power": 0.063,
+      "diversity": 0.0,
+      "usability": 0.2,
+      "applicability": 1.0,
+      "coverage": 1.0,
+      "ndcg": 0.736,
+      "map": 1.0,
+      "mrr": 1.0,
+      "rouge_1": 0.637,
+      "semantic_sim": 0.284,
+      "coherence": 0.149,
+      "task_completion": 0.562,
+      "tool_use": 0.048,
+      "reasoning_depth": 0.04,
+      "autonomy": 0.075,
+      "multi_agent": 0.045
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

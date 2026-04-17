@@ -1,0 +1,280 @@
+{
+  "topic": "AI agents",
+  "timestamp": "2026-04-15T11:09:06.103948",
+  "findings": [
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "stars": 183432,
+      "source": "github"
+    },
+    {
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "stars": 146942,
+      "source": "github"
+    },
+    {
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "description": "Production-ready platform for agentic workflow development.",
+      "stars": 137796,
+      "source": "github"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "stars": 135196,
+      "source": "github"
+    },
+    {
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "description": "The agent engineering platform",
+      "stars": 133580,
+      "source": "github"
+    },
+    {
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "stars": 105588,
+      "source": "github"
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "stars": 101264,
+      "source": "github"
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "stars": 87837,
+      "source": "github"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 85233,
+      "source": "github"
+    },
+    {
+      "title": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "stars": 80023,
+      "source": "github"
+    },
+    {
+      "title": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stars": 78062,
+      "source": "github"
+    },
+    {
+      "title": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+      "stars": 75186,
+      "source": "github"
+    },
+    {
+      "title": "dair-ai/Prompt-Engineering-Guide",
+      "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+      "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+      "stars": 73322,
+      "source": "github"
+    },
+    {
+      "title": "karpathy/autoresearch",
+      "url": "https://github.com/karpathy/autoresearch",
+      "description": "AI agents running research on single-GPU nanochat training automatically",
+      "stars": 72328,
+      "source": "github"
+    },
+    {
+      "title": "FoundationAgents/MetaGPT",
+      "url": "https://github.com/FoundationAgents/MetaGPT",
+      "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+      "stars": 67076,
+      "source": "github"
+    },
+    {
+      "title": "OpenBB-finance/OpenBB",
+      "url": "https://github.com/OpenBB-finance/OpenBB",
+      "description": "Financial data platform for analysts, quants and AI agents.",
+      "stars": 65891,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/autogen",
+      "url": "https://github.com/microsoft/autogen",
+      "description": "A programming framework for agentic AI",
+      "stars": 57087,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "description": "12 Lessons to Get Started Building AI Agents",
+      "stars": 56695,
+      "source": "github"
+    },
+    {
+      "title": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "stars": 56022,
+      "source": "github"
+    },
+    {
+      "title": "mem0ai/mem0",
+      "url": "https://github.com/mem0ai/mem0",
+      "description": "Universal memory layer for AI Agents",
+      "stars": 53066,
+      "source": "github"
+    },
+    {
+      "title": "DySkew: Dynamic Data Redistribution for Skew-Resilient Snowpark UDF Execution",
+      "url": "http://arxiv.org/abs/2604.13034v1",
+      "abstract": "Snowflake revolutionized data warehousing with an elastic architecture that decouples compute and storage, enabling scalable solutions for diverse data analytics needs. Building on this foundation, Snowflake has advanced its AI Data Cloud vision by introducing Snowpark, a managed turnkey solution th",
+      "source": "arxiv"
+    },
+    {
+      "title": "See, Point, Refine: Multi-Turn Approach to GUI Grounding with Visual Feedback",
+      "url": "http://arxiv.org/abs/2604.13019v1",
+      "abstract": "Computer Use Agents (CUAs) fundamentally rely on graphical user interface (GUI) grounding to translate language instructions into executable screen actions, but editing-level grounding in dense coding interfaces, where sub-pixel accuracy is required to interact with dense IDE elements, remains under",
+      "source": "arxiv"
+    },
+    {
+      "title": "Toward Autonomous Long-Horizon Engineering for ML Research",
+      "url": "http://arxiv.org/abs/2604.13018v1",
+      "abstract": "Autonomous AI research has advanced rapidly, but long-horizon ML research engineering remains difficult: agents must sustain coherent progress across task comprehension, environment setup, implementation, experimentation, and debugging over hours or days. We introduce AiScientist, a system for auton",
+      "source": "arxiv"
+    },
+    {
+      "title": "PAL: Personal Adaptive Learner",
+      "url": "http://arxiv.org/abs/2604.13017v1",
+      "abstract": "AI-driven education platforms have made some progress in personalisation, yet most remain constrained to static adaptation--predefined quizzes, uniform pacing, or generic feedback--limiting their ability to respond to learners' evolving understanding. This shortfall highlights the need for systems t",
+      "source": "arxiv"
+    },
+    {
+      "title": "Agentic Discovery with Active Hypothesis Exploration for Visual Recognition",
+      "url": "http://arxiv.org/abs/2604.12999v1",
+      "abstract": "We introduce HypoExplore, an agentic framework that formulates neural architecture discovery for visual recognition as a hypothesis-driven scientific inquiry. Given a human-specified high-level research direction, HypoExplore ideates, implements, evaluates, and improves neural architectures through ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Parallax: Why AI Agents That Think Must Never Act",
+      "url": "http://arxiv.org/abs/2604.12986v1",
+      "abstract": "Autonomous AI agents are rapidly transitioning from experimental tools to operational infrastructure, with projections that 80% of enterprise applications will embed AI copilots by the end of 2026. As agents gain the ability to execute real-world actions (reading files, running commands, making netw",
+      "source": "arxiv"
+    },
+    {
+      "title": "An Engineering Journey Training Large Language Models at Scale on Alps: The Apertus Experience",
+      "url": "http://arxiv.org/abs/2604.12973v1",
+      "abstract": "Large Language Models (LLMs) have surged as a transformative technology for science and society, prompting governments worldwide to pursue sovereign AI capabilities that ensure data compliance and cultural representation. However, the associated capital costs and engineering complexity required to t",
+      "source": "arxiv"
+    },
+    {
+      "title": "Cycle-Consistent Search: Question Reconstructability as a Proxy Reward for Search Agent Training",
+      "url": "http://arxiv.org/abs/2604.12967v1",
+      "abstract": "Reinforcement Learning (RL) has shown strong potential for optimizing search agents in complex information retrieval tasks. However, existing approaches predominantly rely on gold supervision, such as ground-truth answers, which is difficult to scale. To address this limitation, we propose Cycle-Con",
+      "source": "arxiv"
+    },
+    {
+      "title": "Modeling Co-Pilots for Text-to-Model Translation",
+      "url": "http://arxiv.org/abs/2604.12955v1",
+      "abstract": "There is growing interest in leveraging large language models (LLMs) for text-to-model translation and optimization tasks. This paper aims to advance this line of research by introducing \\textsc{Text2Model} and \\textsc{Text2Zinc}. \\textsc{Text2Model} is a suite of co-pilots based on several LLM stra",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Verification Tax: Fundamental Limits of AI Auditing in the Rare-Error Regime",
+      "url": "http://arxiv.org/abs/2604.12951v1",
+      "abstract": "The most cited calibration result in deep learning -- post-temperature-scaling ECE of 0.012 on CIFAR-100 (Guo et al., 2017) -- is below the statistical noise floor. We prove this is not a failure of the experiment but a law: the minimax rate for estimating calibration error with model error rate eps",
+      "source": "arxiv"
+    },
+    {
+      "title": "Drawing on Memory: Dual-Trace Encoding Improves Cross-Session Recall in LLM Agents",
+      "url": "http://arxiv.org/abs/2604.12948v1",
+      "abstract": "LLM agents with persistent memory store information as flat factual records, providing little context for temporal reasoning, change tracking, or cross-session aggregation. Inspired by the drawing effect [3], we introduce dual-trace memory encoding. In this method, each stored fact is paired with a ",
+      "source": "arxiv"
+    },
+    {
+      "title": "MoshiRAG: Asynchronous Knowledge Retrieval for Full-Duplex Speech Language Models",
+      "url": "http://arxiv.org/abs/2604.12928v1",
+      "abstract": "Speech-to-speech language models have recently emerged to enhance the naturalness of conversational AI. In particular, full-duplex models are distinguished by their real-time interactivity, including handling of pauses, interruptions, and backchannels. However, improving their factuality remains an ",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Sanity Check on Composed Image Retrieval",
+      "url": "http://arxiv.org/abs/2604.12904v1",
+      "abstract": "Composed Image Retrieval (CIR) aims to retrieve a target image based on a query composed of a reference image, and a relative caption that specifies the desired modification. Despite the rapid development of CIR models, their performance is not well characterized by existing benchmarks, which inhere",
+      "source": "arxiv"
+    },
+    {
+      "title": "Mobile Communications in Intelligent Rail Transit: From LCX to PASS",
+      "url": "http://arxiv.org/abs/2604.12899v1",
+      "abstract": "Wireless communications in intelligent rail transit face harsh propagation conditions, including severe penetration loss, frequent blockages, and amplified large-scale fading. Existing leaky coaxial cables (LCX) provide wired-to-wireless conversion and stable coverage, but can be energy- and spectru",
+      "source": "arxiv"
+    },
+    {
+      "title": "Don't Show Pixels, Show Cues: Unlocking Visual Tool Reasoning in Language Models via Perception Programs",
+      "url": "http://arxiv.org/abs/2604.12896v1",
+      "abstract": "Multimodal language models (MLLMs) are increasingly paired with vision tools (e.g., depth, flow, correspondence) to enhance visual reasoning. However, despite access to these tool-generated visual cues, MLLMs often fail to benefit from them. Existing approaches typically feed raw tool outputs into t",
+      "source": "arxiv"
+    },
+    {
+      "title": "Towards Long-horizon Agentic Multimodal Search",
+      "url": "http://arxiv.org/abs/2604.12890v1",
+      "abstract": "Multimodal deep search agents have shown great potential in solving complex tasks by iteratively collecting textual and visual evidence. However, managing the heterogeneous information and high token costs associated with multimodal inputs over long horizons remains a critical challenge, as existing",
+      "source": "arxiv"
+    },
+    {
+      "title": "AISafetyBenchExplorer: A Metric-Aware Catalogue of AI Safety Benchmarks Reveals Fragmented Measurement and Weak Benchmark Governance",
+      "url": "http://arxiv.org/abs/2604.12875v1",
+      "abstract": "The rapid expansion of large language model (LLM) safety evaluation has produced a substantial benchmark ecosystem, but not a correspondingly coherent measurement ecosystem. We present AISafetyBenchExplorer, a structured catalogue of 195 AI safety benchmarks released between 2018 and 2026, organized",
+      "source": "arxiv"
+    },
+    {
+      "title": "LIFE -- an energy efficient advanced continual learning agentic AI framework for frontier systems",
+      "url": "http://arxiv.org/abs/2604.12874v1",
+      "abstract": "The rapid advancement of AI has changed the character of HPC usage such as dimensioning, provisioning, and execution. Not only has energy demand been amplified, but existing rudimentary continual learning capabilities limit ability of AI to effectively manage HPCs. This paper reviews emerging direct",
+      "source": "arxiv"
+    },
+    {
+      "title": "OVAL: Open-Vocabulary Augmented Memory Model for Lifelong Object Goal Navigation",
+      "url": "http://arxiv.org/abs/2604.12872v1",
+      "abstract": "Object Goal Navigation (ObjectNav) refers to an agent navigating to an object in an unseen environment, which is an ability often required in the accomplishment of complex tasks. While existing methods demonstrate proficiency in isolated single object navigation, their limitations emerge in the rest",
+      "source": "arxiv"
+    },
+    {
+      "title": "QuarkMedSearch: A Long-Horizon Deep Search Agent for Exploring Medical Intelligence",
+      "url": "http://arxiv.org/abs/2604.12867v1",
+      "abstract": "As agentic foundation models continue to evolve, how to further improve their performance in vertical domains has become an important challenge. To this end, building upon Tongyi DeepResearch, a powerful agentic foundation model, we focus on the Chinese medical deep search scenario and propose Quark",
+      "source": "arxiv"
+    }
+  ],
+  "quality": {
+    "total": 40,
+    "quality_score": 0.493,
+    "dimensions": {
+      "authority": 0.95,
+      "quality": 0.025,
+      "star_power": 0.505,
+      "diversity": 0.5
+    },
+    "sources_breakdown": {
+      "github": 20,
+      "arxiv": 20
+    }
+  }
+}

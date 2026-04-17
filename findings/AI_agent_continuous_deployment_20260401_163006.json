@@ -1,0 +1,174 @@
+{
+  "topic": "AI agent continuous deployment",
+  "timestamp": "2026-04-01T16:30:06.450218",
+  "findings": [
+    {
+      "title": "OrchardHarmonics/orchard-kit",
+      "url": "https://github.com/OrchardHarmonics/orchard-kit",
+      "description": "Complete alignment and safety architecture for autonomous AI agents. Membrane security, continuous trust verification, epistemic hygiene, emergence protocols, and defence tools. 30 years of cybernetic research — deployable today.",
+      "stars": 7,
+      "source": "github"
+    },
+    {
+      "title": "AnthusAI/Plexus",
+      "url": "https://github.com/AnthusAI/Plexus",
+      "description": "An AI agent incubator and MLOps platform for evaluating, deploying, and continuously improving AI agents, ML models, and hybrid predictors.",
+      "stars": 6,
+      "source": "github"
+    },
+    {
+      "title": "BotNestOrg/BotNest",
+      "url": "https://github.com/BotNestOrg/BotNest",
+      "description": "A fully customizable platform that enables clients to build, train, and deploy AI-driven chatbots for automated customer support while reducing live agent workload. Seamlessly integrated with continuous improvement for increasingly accurate responses.",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "mrggambles-stack/Obelisk-An-Autonomous-Digital-Intelligence-ADI-",
+      "url": "https://github.com/mrggambles-stack/Obelisk-An-Autonomous-Digital-Intelligence-ADI-",
+      "description": "A framework for building persistent, incentive-driven AI systems that control real on-chain resources, maintain public memory, and operate continuously without human supervision. This repository documents the architecture, design philosophy, and implementation patterns for deploying sovereign, wallet-backed AI agents.",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "jagguvarma15/Zoe-AI",
+      "url": "https://github.com/jagguvarma15/Zoe-AI",
+      "description": "Zoe AI is a dynamic business agent integrating semantic retrieval, LoRA fine-tuned LLMs, Guardrails validation, and continuous evaluation to automate business queries, enhance customer support, and ensure compliance-safe outputs with scalable deployment.",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "lightmantrust/BLETCHLEY-TEMPORAL-SUPERINTELLIGENCE",
+      "url": "https://github.com/lightmantrust/BLETCHLEY-TEMPORAL-SUPERINTELLIGENCE",
+      "description": "This implementation blueprint provides everything needed to deploy a fully functional, production-ready AI agent system based on the BLETCHLEY TEMPORAL SUPERINTELLIGENCE architecture, with enhanced capabilities for real-world deployment and continuous evolution.",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "syed-ahad13/Autonomous-Enterprise-AI-Decision-System",
+      "url": "https://github.com/syed-ahad13/Autonomous-Enterprise-AI-Decision-System",
+      "description": "A fully autonomous analytics + AI execution engine that continuously ingests data, learns patterns, deploys ML/LLMs, issues actions, and self-monitors — powered by Airflow, Kafka, Spark, ML frameworks, agents, and LLM tool orchestration.",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "RajVamsee/sonuclicks",
+      "url": "https://github.com/RajVamsee/sonuclicks",
+      "description": "This is my first website I built using Google Antigravity development platform, Gemini 3.1 AI Agent and Claude AI. I will host this website which will serve as the major website for my friend's photgraphy page in the future and I will keep developing this website (Continuous Deployment). ",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "francodem/release-engineer-agent",
+      "url": "https://github.com/francodem/release-engineer-agent",
+      "description": "AI-powered Release Engineering agent for Kubernetes. Continuously deploys and validates Kubernetes Deployments across environments, with automated rollout, verification, and recovery actions.",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "Rudhrathota/AutoGPT-Build-Deploy-and-Run-AI-Agents",
+      "url": "https://github.com/Rudhrathota/AutoGPT-Build-Deploy-and-Run-AI-Agents",
+      "description": "AutoGPT is a powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows.",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "Agentscreator/Nova-Nexa",
+      "url": "https://github.com/Agentscreator/Nova-Nexa",
+      "description": "Nova Nexus 6.0 is an agentic AI framework that generates, deploys, and continuously improves multi-agent systems",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "0xking-sol/autonomous-ai-framework",
+      "url": "https://github.com/0xking-sol/autonomous-ai-framework",
+      "description": "A battle-tested architecture for deploying continuous, self-improving AI systems with dual-agent oversight and bounded self-improvement.",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "Marwa-Khan/AI-Agent-Portfolio",
+      "url": "https://github.com/Marwa-Khan/AI-Agent-Portfolio",
+      "description": "🚀 A collection of AI agents designed and deployed using MindStudio. This portfolio showcases diverse use cases—from automation and productivity to research and creative tasks—highlighting prompt engineering, tool integration, and custom logic. Continuously updated with new agents and demos.",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "Manasvi-1/agentautogpt",
+      "url": "https://github.com/Manasvi-1/agentautogpt",
+      "description": "AutoGPT is an open-source platform to build, deploy, and run continuous AI agents — featuring a low-code builder, workflow automation, benchmarking, and a growing marketplace of ready-to-use agents.",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "qianyouliang/Ghost-Agent",
+      "url": "https://github.com/qianyouliang/Ghost-Agent",
+      "description": "The objective of this project is to develop an AI ghost deployed on the web, powered by LangChain technology. The AI ghost will continuously observe the web, learn from its interactions, and autonomously improve its knowledge base and performance over time.",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "Rodri-BF/AutoGPT",
+      "url": "https://github.com/Rodri-BF/AutoGPT",
+      "description": "AutoGPT is a powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows.",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "ismaelloveexcel/baynunah-hr-portal-2026",
+      "url": "https://github.com/ismaelloveexcel/baynunah-hr-portal-2026",
+      "description": "AI‑Driven Orchestration Hub for automating the consolidation, rebuilding, and Azure deployment of my Employee Self‑Service (ESS) / HR Portal. Includes Supervisor AI agent, multi‑agent pipeline, continuous preview deployments, and Next.js + SWA + Functions + Azure OpenAI starter app.",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "mthamil107/pg-sentinel",
+      "url": "https://github.com/mthamil107/pg-sentinel",
+      "description": "Autonomous PostgreSQL Security Agent — Continuous auditing, AI-code-aware RLS scanning, hardening, and LLM-generated SQL fingerprinting for modern Postgres deployments.",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "Bugasu/agentos-web",
+      "url": "https://github.com/Bugasu/agentos-web",
+      "description": "AgentOS is an autonomous web intelligence platform for deploying AI agents that continuously monitor the internet, detect meaningful changes, and summarize impact in real time. It replaces manual monitoring with persistent agents that observe, reason, and act over time.",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "eonedgeproject-code/CastrArmor-",
+      "url": "https://github.com/eonedgeproject-code/CastrArmor-",
+      "description": "CastrArmor deploys autonomous AI agents that continuously assess risk, price premiums dynamically, and trigger insolvency payouts no governance votes, no manual intervention.",
+      "stars": 0,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.452,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.05,
+      "star_power": 0.375,
+      "diversity": 0.0,
+      "usability": 0.1,
+      "applicability": 0.975,
+      "coverage": 1.0,
+      "ndcg": 0.811,
+      "map": 1.0,
+      "mrr": 1.0,
+      "rouge_1": 0.562,
+      "semantic_sim": 0.218,
+      "coherence": 0.109,
+      "task_completion": 0.522,
+      "tool_use": 0.125,
+      "reasoning_depth": 0.077,
+      "autonomy": 0.362,
+      "multi_agent": 0.045
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

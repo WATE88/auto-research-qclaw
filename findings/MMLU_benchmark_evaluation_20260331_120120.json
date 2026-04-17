@@ -1,0 +1,183 @@
+{
+  "topic": "MMLU benchmark evaluation",
+  "timestamp": "2026-03-31T12:01:20.320307",
+  "findings": [
+    {
+      "title": "TIGER-AI-Lab/MMLU-Pro",
+      "url": "https://github.com/TIGER-AI-Lab/MMLU-Pro",
+      "description": "The code and data for \"MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark\" [NeurIPS 2024]",
+      "stars": 358,
+      "updated_at": "2026-03-30T16:44:09Z",
+      "source": "github"
+    },
+    {
+      "title": "FSoft-AI4Code/CodeMMLU",
+      "url": "https://github.com/FSoft-AI4Code/CodeMMLU",
+      "description": "[ICLR 2025] 🚀 CodeMMLU Evaluator: A framework for evaluating LM models on CodeMMLU MCQs benchmark.",
+      "stars": 29,
+      "updated_at": "2025-12-27T23:01:53Z",
+      "source": "github"
+    },
+    {
+      "title": "dhyaneesh/llm-benchmarking",
+      "url": "https://github.com/dhyaneesh/llm-benchmarking",
+      "description": "A flexible benchmarking suite for evaluating Gemma, Mistral, and other LLMs on academic benchmarks like MMLU.",
+      "stars": 4,
+      "updated_at": "2026-03-20T09:40:15Z",
+      "source": "github"
+    },
+    {
+      "title": "AlmazErmilov/FormationEval-an-Open-Benchmark-for-Oil-Gas-Geoscience-MCQ-Evaluation",
+      "url": "https://github.com/AlmazErmilov/FormationEval-an-Open-Benchmark-for-Oil-Gas-Geoscience-MCQ-Evaluation",
+      "description": "attempts on creating something like MMLU, but for subsurface and petroleum sciences. Paper: arXiv:2601.02158",
+      "stars": 3,
+      "updated_at": "2026-03-30T10:19:35Z",
+      "source": "github"
+    },
+    {
+      "title": "sergeyklay/factly",
+      "url": "https://github.com/sergeyklay/factly",
+      "description": "CLI tool to evaluate LLM factuality on MMLU benchmark.",
+      "stars": 2,
+      "updated_at": "2026-01-08T17:02:32Z",
+      "source": "github"
+    },
+    {
+      "title": "davidset13/intelligence_eval",
+      "url": "https://github.com/davidset13/intelligence_eval",
+      "description": "This will allow any agent to use LLM evaluation benchmarks. Currently, this only supports the HLE and MMLU-Pro, but future additions will be made to support many different benchmarks.",
+      "stars": 2,
+      "updated_at": "2025-08-17T19:49:16Z",
+      "source": "github"
+    },
+    {
+      "title": "galvsk/mmlu-eval",
+      "url": "https://github.com/galvsk/mmlu-eval",
+      "description": "Evaluate prompt sensitivity on MMLU benchmark for various LLMs",
+      "stars": 1,
+      "updated_at": "2025-01-23T14:39:56Z",
+      "source": "github"
+    },
+    {
+      "title": "RenaudGaudron/MMLU_benchmark",
+      "url": "https://github.com/RenaudGaudron/MMLU_benchmark",
+      "description": "An easy-to-use and standardised framework for evaluating Large Language Models (LLMs) on the Massive Multitask Language Understanding (MMLU) dataset. Currently supported: Hugging Face transformer models and Bedrock models.",
+      "stars": 1,
+      "updated_at": "2025-09-19T11:56:38Z",
+      "source": "github"
+    },
+    {
+      "title": "omaryashraf5/pydantic-llm-evals",
+      "url": "https://github.com/omaryashraf5/pydantic-llm-evals",
+      "description": "LLM evaluation framework using Pydantic-Evals with support for SQuAD, MMLU, and BFCL benchmarks",
+      "stars": 1,
+      "updated_at": "2026-03-01T07:42:40Z",
+      "source": "github"
+    },
+    {
+      "title": "NahuelGiudizi/llm-evaluation",
+      "url": "https://github.com/NahuelGiudizi/llm-evaluation",
+      "description": "Enterprise-grade LLM evaluation framework | Multi-model benchmarking, honest dashboards, system profiling | Academic metrics: MMLU, TruthfulQA, HellaSwag | Zero fake data | PyPI: llm-benchmark-toolkit | Blog: https://dev.to/nahuelgiudizi/building-an-honest-llm-evaluation-framework-from-fake-metrics-to-real-benchmarks-2b90",
+      "stars": 1,
+      "updated_at": "2026-01-25T08:25:07Z",
+      "source": "github"
+    },
+    {
+      "title": "FISHERperact/E2LM-MMLU-Curriculum",
+      "url": "https://github.com/FISHERperact/E2LM-MMLU-Curriculum",
+      "description": "We propose MMLU-Curriculum for the E2LM challenge, a curriculum-based benchmark that ranks MMLU tasks by difficulty using small model performance, assigns easier tasks early and harder ones later, and converts MCQs to cloze-style generation for smoother, more discriminative evaluation.",
+      "stars": 1,
+      "updated_at": "2025-10-29T12:33:55Z",
+      "source": "github"
+    },
+    {
+      "title": "jeff52415/LLMDataParser",
+      "url": "https://github.com/jeff52415/LLMDataParser",
+      "description": "LLMDataParser is a Python library that provides a collection of parsers for various benchmark datasets used in the evaluation of Large Language Models (LLMs). It offers a unified and easy-to-use interface for loading and parsing datasets such as MMLU, MMLU-Pro, GSM8k, and more.",
+      "stars": 1,
+      "updated_at": "2025-05-23T08:30:46Z",
+      "source": "github"
+    },
+    {
+      "title": "iamrock123/MMLU-Benchmark-Pipeline",
+      "url": "https://github.com/iamrock123/MMLU-Benchmark-Pipeline",
+      "description": "MMLU Benchmark Pipeline for Electronics Manufacturing (SLM Evaluation)",
+      "stars": 0,
+      "updated_at": "2026-02-09T01:24:51Z",
+      "source": "github"
+    },
+    {
+      "title": "rukun-dou/DB-MMLU",
+      "url": "https://github.com/rukun-dou/DB-MMLU",
+      "description": "A benchmark to evaluate LLMs' suceptibility to hallucination derived from MMLU using Deception-Based Benchmarking methodology.",
+      "stars": 0,
+      "updated_at": "2024-08-19T03:00:45Z",
+      "source": "github"
+    },
+    {
+      "title": "mohamednizzad/TamilMMLU",
+      "url": "https://github.com/mohamednizzad/TamilMMLU",
+      "description": "TamilMMLU: Benchmark Initiative for Evaluating Large Language Models for Multitask Language Understanding in Tamil",
+      "stars": 0,
+      "updated_at": "2024-08-30T02:38:32Z",
+      "source": "github"
+    },
+    {
+      "title": "PSP1259/international_research_project",
+      "url": "https://github.com/PSP1259/international_research_project",
+      "description": "A bilingual evaluation pipeline for benchmarking state-of-the-art LLMs on the MMLU-PRO dataset.",
+      "stars": 0,
+      "updated_at": "2026-03-20T10:27:32Z",
+      "source": "github"
+    },
+    {
+      "title": "Annie80119/Probabilistic-Evaluation-of-LLM-Performance-on-MMLU",
+      "url": "https://github.com/Annie80119/Probabilistic-Evaluation-of-LLM-Performance-on-MMLU",
+      "description": "Developed a Bayesian hierarchical logistic regression model to analyze performance disparities among Gemini-1.5, Claude-3, and Llama-70B across 14 subject categories in the MMLU benchmark.",
+      "stars": 0,
+      "updated_at": "2026-03-04T22:24:21Z",
+      "source": "github"
+    },
+    {
+      "title": "Jschorr21/NYU2023-Mixture-of-Experts",
+      "url": "https://github.com/Jschorr21/NYU2023-Mixture-of-Experts",
+      "description": "Transformer model evaluation scripts and framework for evaluating mixture of experts models on MMLU benchmark",
+      "stars": 0,
+      "updated_at": "2023-08-10T23:15:47Z",
+      "source": "github"
+    },
+    {
+      "title": "nate-daba/benchmark-contamination",
+      "url": "https://github.com/nate-daba/benchmark-contamination",
+      "description": "Analysis of benchmark contamination in open-source LLMs, evaluating reasoning performance on AIME-2024 & MMLU while implementing contamination detection techniques.",
+      "stars": 0,
+      "updated_at": "2025-04-26T21:56:07Z",
+      "source": "github"
+    },
+    {
+      "title": "Shuichi346/llm-benchmark-script",
+      "url": "https://github.com/Shuichi346/llm-benchmark-script",
+      "description": "A tool to evaluate and compare local LLMs running on Ollama or LM Studio under identical conditions using deepeval's public benchmarks (MMLU, TruthfulQA, GSM8K).",
+      "stars": 0,
+      "updated_at": "2026-03-15T09:14:13Z",
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.62,
+    "grade": "B",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 1.0,
+      "star_power": 0.094,
+      "diversity": 0.0,
+      "usability": 0.2,
+      "applicability": 0.975,
+      "coverage": 1.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

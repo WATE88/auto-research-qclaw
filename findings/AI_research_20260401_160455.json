@@ -1,0 +1,174 @@
+{
+  "topic": "AI research",
+  "timestamp": "2026-04-01T16:04:55.982689",
+  "findings": [
+    {
+      "title": "karpathy/autoresearch",
+      "url": "https://github.com/karpathy/autoresearch",
+      "description": "AI agents running research on single-GPU nanochat training automatically",
+      "stars": 63000,
+      "source": "github"
+    },
+    {
+      "title": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "stars": 55635,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/qlib",
+      "url": "https://github.com/microsoft/qlib",
+      "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.",
+      "stars": 39656,
+      "source": "github"
+    },
+    {
+      "title": "google-research/google-research",
+      "url": "https://github.com/google-research/google-research",
+      "description": "Google Research",
+      "stars": 37615,
+      "source": "github"
+    },
+    {
+      "title": "khoj-ai/khoj",
+      "url": "https://github.com/khoj-ai/khoj",
+      "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+      "stars": 33783,
+      "source": "github"
+    },
+    {
+      "title": "facebookresearch/fairseq",
+      "url": "https://github.com/facebookresearch/fairseq",
+      "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+      "stars": 32200,
+      "source": "github"
+    },
+    {
+      "title": "assafelovic/gpt-researcher",
+      "url": "https://github.com/assafelovic/gpt-researcher",
+      "description": "An autonomous agent that conducts deep research on any data using any LLM providers",
+      "stars": 26158,
+      "source": "github"
+    },
+    {
+      "title": "aishwaryanr/awesome-generative-ai-guide",
+      "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+      "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+      "stars": 25827,
+      "source": "github"
+    },
+    {
+      "title": "The-Art-of-Hacking/h4cker",
+      "url": "https://github.com/The-Art-of-Hacking/h4cker",
+      "description": "This repository is maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), AI security, vulnerability research, exploit development, reverse engineering, and more. 🔥 Also check: https://hackertraining.org",
+      "stars": 25739,
+      "source": "github"
+    },
+    {
+      "title": "dzhng/deep-research",
+      "url": "https://github.com/dzhng/deep-research",
+      "description": "An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic.",
+      "stars": 18661,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/AirSim",
+      "url": "https://github.com/microsoft/AirSim",
+      "description": "Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research",
+      "stars": 18076,
+      "source": "github"
+    },
+    {
+      "title": "arc53/DocsGPT",
+      "url": "https://github.com/arc53/DocsGPT",
+      "description": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.",
+      "stars": 17794,
+      "source": "github"
+    },
+    {
+      "title": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 17049,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA-NeMo/NeMo",
+      "url": "https://github.com/NVIDIA-NeMo/NeMo",
+      "description": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)",
+      "stars": 17017,
+      "source": "github"
+    },
+    {
+      "title": "UFund-Me/Qbot",
+      "url": "https://github.com/UFund-Me/Qbot",
+      "description": "[🔥updating ...] AI 自动量化交易机器人(完全本地部署) AI-powered Quantitative Investment Research Platform. 📃 online docs: https://ufund-me.github.io/Qbot   ✨ :news: qbot-mini: https://github.com/Charmve/iQuant",
+      "stars": 16803,
+      "source": "github"
+    },
+    {
+      "title": "kailashahirwar/cheatsheets-ai",
+      "url": "https://github.com/kailashahirwar/cheatsheets-ai",
+      "description": "Essential Cheat Sheets for deep learning and machine learning researchers https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5",
+      "stars": 15402,
+      "source": "github"
+    },
+    {
+      "title": "Leey21/awesome-ai-research-writing",
+      "url": "https://github.com/Leey21/awesome-ai-research-writing",
+      "description": "Elevate your AI research writing, no more tedious polishing ✨ ",
+      "stars": 15119,
+      "source": "github"
+    },
+    {
+      "title": "carla-simulator/carla",
+      "url": "https://github.com/carla-simulator/carla",
+      "description": "Open-source simulator for autonomous driving research.",
+      "stars": 13774,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/RD-Agent",
+      "url": "https://github.com/microsoft/RD-Agent",
+      "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report",
+      "stars": 12162,
+      "source": "github"
+    },
+    {
+      "title": "google/dopamine",
+      "url": "https://github.com/google/dopamine",
+      "description": "Dopamine is a research framework for fast prototyping of reinforcement learning algorithms. ",
+      "stars": 10861,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.469,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.407,
+      "diversity": 0.0,
+      "usability": 0.1,
+      "applicability": 1.0,
+      "coverage": 1.0,
+      "ndcg": 0.743,
+      "map": 0.881,
+      "mrr": 1.0,
+      "rouge_1": 0.75,
+      "semantic_sim": 0.279,
+      "coherence": 0.196,
+      "task_completion": 0.584,
+      "tool_use": 0.333,
+      "reasoning_depth": 0.05,
+      "autonomy": 0.175,
+      "multi_agent": 0.02
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

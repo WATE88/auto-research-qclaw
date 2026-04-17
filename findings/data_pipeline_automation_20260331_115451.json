@@ -1,0 +1,183 @@
+{
+  "topic": "data pipeline automation",
+  "timestamp": "2026-03-31T11:54:51.839051",
+  "findings": [
+    {
+      "title": "PrefectHQ/prefect",
+      "url": "https://github.com/PrefectHQ/prefect",
+      "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+      "stars": 22003,
+      "updated_at": "2026-03-31T03:41:30Z",
+      "source": "github"
+    },
+    {
+      "title": "Avaiga/taipy",
+      "url": "https://github.com/Avaiga/taipy",
+      "description": "Turns Data and AI algorithms into production-ready web applications in no time.",
+      "stars": 19146,
+      "updated_at": "2026-03-31T03:53:39Z",
+      "source": "github"
+    },
+    {
+      "title": "fmind/mlops-python-package",
+      "url": "https://github.com/fmind/mlops-python-package",
+      "description": "A comprehensive Python package template to kickstart and standardize your MLOps initiatives and data pipelines.",
+      "stars": 1401,
+      "updated_at": "2026-03-30T15:39:31Z",
+      "source": "github"
+    },
+    {
+      "title": "raystack/optimus",
+      "url": "https://github.com/raystack/optimus",
+      "description": "Optimus is an easy-to-use, reliable, and performant workflow orchestrator for data transformation, data modeling, pipelines, and data quality management.",
+      "stars": 760,
+      "updated_at": "2026-03-07T12:48:28Z",
+      "source": "github"
+    },
+    {
+      "title": "DataSQRL/sqrl",
+      "url": "https://github.com/DataSQRL/sqrl",
+      "description": "Data Pipeline Automation Framework to build MCP servers, data APIs, and data lakes with SQL.",
+      "stars": 210,
+      "updated_at": "2026-03-29T06:32:35Z",
+      "source": "github"
+    },
+    {
+      "title": "smart-data-lake/smart-data-lake",
+      "url": "https://github.com/smart-data-lake/smart-data-lake",
+      "description": "Smart Automation Tool for building modern Data Lakes and Data Pipelines",
+      "stars": 123,
+      "updated_at": "2026-03-28T08:17:36Z",
+      "source": "github"
+    },
+    {
+      "title": "anna-geller/dataflow-ops",
+      "url": "https://github.com/anna-geller/dataflow-ops",
+      "description": "Project demonstrating how to automate Prefect 2.0 deployments to AWS ECS Fargate",
+      "stars": 115,
+      "updated_at": "2026-01-05T19:57:13Z",
+      "source": "github"
+    },
+    {
+      "title": "anna-geller/prefect-deployment-patterns",
+      "url": "https://github.com/anna-geller/prefect-deployment-patterns",
+      "description": "Code examples showing flow deployment to various types of infrastructure",
+      "stars": 110,
+      "updated_at": "2025-12-22T10:57:24Z",
+      "source": "github"
+    },
+    {
+      "title": "hoangsonww/End-to-End-Data-Pipeline",
+      "url": "https://github.com/hoangsonww/End-to-End-Data-Pipeline",
+      "description": "📈 A scalable, production-ready data pipeline for real-time streaming & batch processing, integrating Kafka, Spark, Airflow, AWS, Kubernetes, and MLflow. Supports end-to-end data ingestion, transformation, storage, monitoring, and AI/ML serving with CI/CD automation using Terraform & GitHub Actions.",
+      "stars": 94,
+      "updated_at": "2026-03-29T07:35:18Z",
+      "source": "github"
+    },
+    {
+      "title": "abeltavares/batch-data-pipeline",
+      "url": "https://github.com/abeltavares/batch-data-pipeline",
+      "description": "🦆 Batch data pipeline with Airflow, DuckDB, Delta Lake, Trino, MinIO, and Metabase. Full observability and data quality.",
+      "stars": 86,
+      "updated_at": "2026-03-20T00:50:04Z",
+      "source": "github"
+    },
+    {
+      "title": "LinkedInLearning/data-pipeline-automation-with-github-actions-4503382",
+      "url": "https://github.com/LinkedInLearning/data-pipeline-automation-with-github-actions-4503382",
+      "description": "This repo is for LinkedIn Learning course: Data Pipeline Automation with GitHub Actions",
+      "stars": 68,
+      "updated_at": "2026-03-31T03:03:26Z",
+      "source": "github"
+    },
+    {
+      "title": "bhowiebkr/PyFlowGraph",
+      "url": "https://github.com/bhowiebkr/PyFlowGraph",
+      "description": "Professional workflow automation platform with universal Python ecosystem access. Visual node-based scripting editor enabling ETL pipelines, API integrations, data transformations, and business process automation through embedded Python code. Built with PySide6 for cross-platform desktop deployment.",
+      "stars": 64,
+      "updated_at": "2026-03-28T16:25:44Z",
+      "source": "github"
+    },
+    {
+      "title": "ChinmayKaitade/N8N-AI-Agents-Masterclass",
+      "url": "https://github.com/ChinmayKaitade/N8N-AI-Agents-Masterclass",
+      "description": "Learn n8n workflow automation with AI Agents 🤖 | Step-by-step guide to build no-code workflows, automate tasks, and create intelligent pipelines 🚀 | Integrate OpenAI, Hugging Face, LLMs, and external APIs 🌐 | Master chatbots, data automation, and smart workflows using n8n. 🧠",
+      "stars": 58,
+      "updated_at": "2026-03-23T06:38:46Z",
+      "source": "github"
+    },
+    {
+      "title": "oslabs-beta/evaStudio",
+      "url": "https://github.com/oslabs-beta/evaStudio",
+      "description": "An Apache Kafka monitoring tool to prototype and scale real-time streaming data pipelines, and test parallelization of multi-stage ML models before production, with metrics for potential automation, in preconfigured Docker containers.",
+      "stars": 58,
+      "updated_at": "2025-08-25T17:06:23Z",
+      "source": "github"
+    },
+    {
+      "title": "CogStack/CogStack-NiFi",
+      "url": "https://github.com/CogStack/CogStack-NiFi",
+      "description": "Building data processing pipelines for documents processing with NLP using Apache NiFi and related services",
+      "stars": 57,
+      "updated_at": "2026-03-30T09:58:24Z",
+      "source": "github"
+    },
+    {
+      "title": "APPIAN-PET/APPIAN",
+      "url": "https://github.com/APPIAN-PET/APPIAN",
+      "description": "APPIAN is an open-source automated software pipeline for analyzing PET images in conjunction with MRI. The goal of APPIAN is to make PET tracer kinetic data analysis easy for users with moderate computing skills and to facilitate reproducible research. ",
+      "stars": 42,
+      "updated_at": "2025-09-23T07:51:01Z",
+      "source": "github"
+    },
+    {
+      "title": "cloudflare/octopus",
+      "url": "https://github.com/cloudflare/octopus",
+      "description": "The Octopus is part of our network automation pipeline. Its job is to aggregate data from different authoritative data sources into one Enriched Topology to provide a full picture to downstream systems.",
+      "stars": 38,
+      "updated_at": "2026-02-07T13:03:26Z",
+      "source": "github"
+    },
+    {
+      "title": "SergeyKasmy/fetcher",
+      "url": "https://github.com/SergeyKasmy/fetcher",
+      "description": "Automation and data pipelining framework",
+      "stars": 31,
+      "updated_at": "2026-03-29T12:03:37Z",
+      "source": "github"
+    },
+    {
+      "title": "Cargill/pipewrench",
+      "url": "https://github.com/Cargill/pipewrench",
+      "description": "Data pipeline automation tool",
+      "stars": 28,
+      "updated_at": "2026-03-30T21:49:14Z",
+      "source": "github"
+    },
+    {
+      "title": "datadrivenconstruction/CAD-BIM-to-Code-Automation-Pipeline-DDC-Workflow-with-LLM-ChatGPT",
+      "url": "https://github.com/datadrivenconstruction/CAD-BIM-to-Code-Automation-Pipeline-DDC-Workflow-with-LLM-ChatGPT",
+      "description": "Automatically generate any useful, project-specific Python code (e.g. volume grouping, charts, QC reports) directly from raw Revit (IFC, DWG) data.",
+      "stars": 28,
+      "updated_at": "2026-03-07T08:18:27Z",
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.455,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.101,
+      "diversity": 0.0,
+      "usability": 0.5,
+      "applicability": 0.9,
+      "coverage": 1.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

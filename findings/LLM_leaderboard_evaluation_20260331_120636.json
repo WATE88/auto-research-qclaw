@@ -1,0 +1,183 @@
+{
+  "topic": "LLM leaderboard evaluation",
+  "timestamp": "2026-03-31T12:06:36.712617",
+  "findings": [
+    {
+      "title": "huggingface/evaluation-guidebook",
+      "url": "https://github.com/huggingface/evaluation-guidebook",
+      "description": "Sharing both practical insights and theoretical knowledge about LLM evaluation that we gathered while managing the Open LLM Leaderboard and designing lighteval!",
+      "stars": 2086,
+      "updated_at": "2026-03-30T22:10:49Z",
+      "source": "github"
+    },
+    {
+      "title": "onejune2018/Awesome-LLM-Eval",
+      "url": "https://github.com/onejune2018/Awesome-LLM-Eval",
+      "description": "Awesome-LLM-Eval: a curated list of tools, datasets/benchmark, demos, leaderboard, papers, docs and models, mainly for Evaluation on LLMs.  一个由工具、基准/数据、演示、排行榜和大模型等组成的精选列表，主要面向基础大模型评测，旨在探求生成式AI的技术边界.",
+      "stars": 627,
+      "updated_at": "2026-03-30T02:10:36Z",
+      "source": "github"
+    },
+    {
+      "title": "rungalileo/agent-leaderboard",
+      "url": "https://github.com/rungalileo/agent-leaderboard",
+      "description": "Ranking LLMs on agentic tasks",
+      "stars": 219,
+      "updated_at": "2026-03-29T14:29:59Z",
+      "source": "github"
+    },
+    {
+      "title": "FastEval/FastEval",
+      "url": "https://github.com/FastEval/FastEval",
+      "description": "Fast & more realistic evaluation of chat language models. Includes leaderboard.",
+      "stars": 189,
+      "updated_at": "2026-03-19T08:39:35Z",
+      "source": "github"
+    },
+    {
+      "title": "wandb/llm-leaderboard",
+      "url": "https://github.com/wandb/llm-leaderboard",
+      "description": "Project of llm evaluation to Japanese tasks",
+      "stars": 92,
+      "updated_at": "2026-02-22T14:44:55Z",
+      "source": "github"
+    },
+    {
+      "title": "svilupp/Julia-LLM-Leaderboard",
+      "url": "https://github.com/svilupp/Julia-LLM-Leaderboard",
+      "description": "Provides a platform for the Julia community to compare AI models' abilities in generating syntactically correct Julia code, featuring structured tests and automated evaluations for easy and collaborative benchmarking.",
+      "stars": 86,
+      "updated_at": "2026-03-02T10:58:43Z",
+      "source": "github"
+    },
+    {
+      "title": "dsdanielpark/open-llm-leaderboard-report",
+      "url": "https://github.com/dsdanielpark/open-llm-leaderboard-report",
+      "description": "Weekly visualization report of Open LLM model performance based on 4 metrics.",
+      "stars": 86,
+      "updated_at": "2025-09-22T20:17:14Z",
+      "source": "github"
+    },
+    {
+      "title": "InternScience/SciEvalKit",
+      "url": "https://github.com/InternScience/SciEvalKit",
+      "description": "A unified evaluation toolkit and leaderboard for rigorously assessing the scientific intelligence of large language and vision–language models across the full research workflow.",
+      "stars": 78,
+      "updated_at": "2026-03-26T09:57:42Z",
+      "source": "github"
+    },
+    {
+      "title": "RouteWorks/RouterArena",
+      "url": "https://github.com/RouteWorks/RouterArena",
+      "description": "RouterArena: An open framework for evaluating LLM routers with standardized datasets, metrics, an automated framework, and a live leaderboard.",
+      "stars": 74,
+      "updated_at": "2026-03-27T07:44:21Z",
+      "source": "github"
+    },
+    {
+      "title": "dustalov/evalica",
+      "url": "https://github.com/dustalov/evalica",
+      "description": "Evalica, your favourite evaluation toolkit",
+      "stars": 62,
+      "updated_at": "2026-03-25T21:15:32Z",
+      "source": "github"
+    },
+    {
+      "title": "h2oai/h2o-LLM-eval",
+      "url": "https://github.com/h2oai/h2o-LLM-eval",
+      "description": "Large-language Model Evaluation framework with Elo Leaderboard and A-B testing",
+      "stars": 52,
+      "updated_at": "2025-04-04T04:12:28Z",
+      "source": "github"
+    },
+    {
+      "title": "VILA-Lab/Open-LLM-Leaderboard",
+      "url": "https://github.com/VILA-Lab/Open-LLM-Leaderboard",
+      "description": "Open-LLM-Leaderboard: Open-Style Question Evaluation. Paper at https://arxiv.org/abs/2406.07545",
+      "stars": 51,
+      "updated_at": "2026-03-12T02:53:31Z",
+      "source": "github"
+    },
+    {
+      "title": "pinchbench/leaderboard",
+      "url": "https://github.com/pinchbench/leaderboard",
+      "description": "PinchBench is a benchmarking system for evaluating LLM models as OpenClaw coding agents. Made with 🦀 by the humans at https://kilo.ai",
+      "stars": 27,
+      "updated_at": "2026-03-30T03:22:02Z",
+      "source": "github"
+    },
+    {
+      "title": "research-outcome/LLM-Game-Benchmark",
+      "url": "https://github.com/research-outcome/LLM-Game-Benchmark",
+      "description": "Evaluating Large Language Models with Grid-Based Game Competitions: An Extensible LLM Benchmark and Leaderboard",
+      "stars": 25,
+      "updated_at": "2026-03-14T07:35:34Z",
+      "source": "github"
+    },
+    {
+      "title": "logikon-ai/cot-eval",
+      "url": "https://github.com/logikon-ai/cot-eval",
+      "description": "A framework for evaluating the effectiveness of chain-of-thought reasoning in language models.",
+      "stars": 19,
+      "updated_at": "2025-12-06T19:44:54Z",
+      "source": "github"
+    },
+    {
+      "title": "JiaQiSJTU/UserCentricLeaderboard",
+      "url": "https://github.com/JiaQiSJTU/UserCentricLeaderboard",
+      "description": "This project introduces a novel, user-centric leaderboard for Large Language Models (LLMs) that moves beyond one-size-fits-all evaluations. Our framework empowers users to create personalized rankings on subjective topics.",
+      "stars": 4,
+      "updated_at": "2026-01-26T05:49:41Z",
+      "source": "github"
+    },
+    {
+      "title": "mattdepaolis/llm-evaluation",
+      "url": "https://github.com/mattdepaolis/llm-evaluation",
+      "description": "llm evaluation framework to mimic the discontinued Huggingface Open LLM Leaderboard",
+      "stars": 3,
+      "updated_at": "2025-10-16T17:13:40Z",
+      "source": "github"
+    },
+    {
+      "title": "leaderboard-modeles-IA-francais/evaluation-pipeline-leaderboard",
+      "url": "https://github.com/leaderboard-modeles-IA-francais/evaluation-pipeline-leaderboard",
+      "description": "The scripts used to run the evaluation pipeline to generate fr-gouv-coordination-ia/llm_leaderboard_fr",
+      "stars": 3,
+      "updated_at": "2025-09-01T04:15:11Z",
+      "source": "github"
+    },
+    {
+      "title": "jyotidabass/Evaluating-LLMs-Benchmarks-evaluation-framework-and-popular-leaderboards",
+      "url": "https://github.com/jyotidabass/Evaluating-LLMs-Benchmarks-evaluation-framework-and-popular-leaderboards",
+      "description": null,
+      "stars": 3,
+      "updated_at": "2026-01-25T10:32:45Z",
+      "source": "github"
+    },
+    {
+      "title": "zainkhatri/theology-llm-evaluation",
+      "url": "https://github.com/zainkhatri/theology-llm-evaluation",
+      "description": "A project dedicated to evaluating and enhancing AI language models through Islamic knowledge and ethical guidelines. It includes developing comprehensive datasets, creating evaluation frameworks, implementing grading systems, and maintaining leaderboards to ensure AI tools align with Islamic principles.",
+      "stars": 3,
+      "updated_at": "2026-03-19T20:55:16Z",
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.481,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.25,
+      "star_power": 0.091,
+      "diversity": 0.0,
+      "usability": 0.3,
+      "applicability": 0.95,
+      "coverage": 1.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

@@ -1,0 +1,58 @@
+AutoResearch 自主进化 + 实时监控系统
+======================================
+版本: 1.0.0
+打包时间: 2026-03-24T19:29:00
+Python版本: 3.13.12
+
+────────────────────────────────────────
+文件清单 & 功能说明
+────────────────────────────────────────
+
+【核心引擎】
+  autoresearch_self_evolve.py       进化引擎（遗传算法 + 贝叶斯优化）
+  autoresearch_autorun.py           自动运行引擎（任务调度 + 实时优化）
+  autoresearch_optimizer.py         优化器核心（搜索空间、采集函数）
+
+【监控服务器】
+  evolution_monitor_server.py       进化系统监控服务（端口 8900）
+  autoresearch_monitor_server.py    自动运行监控服务（端口 8899）
+
+【监控界面 HTML】
+  evolution_dashboard.html          进化系统实时Dashboard
+  autoresearch_realtime_dashboard.html  AutoResearch实时监控界面
+  autoresearch_dashboard.html       自动运行监控界面（Chart.js）
+
+【启动器】
+  launch.bat                        ★ 统一启动器（菜单式，推荐）
+  start_all.py                      Python跨平台启动器
+  start_evolution.bat               进化系统专用启动
+  start_autorun.bat                 自动运行专用启动
+  start_evolution.sh                Linux/macOS 启动
+
+【文档】
+  README.md                         完整项目文档（84KB）
+  DEPLOY.md                         部署指南
+  requirements.txt                  依赖清单
+
+────────────────────────────────────────
+快速启动
+────────────────────────────────────────
+方式1: 双击桌面 "AutoResearch 监控中心.lnk"
+方式2: 双击 launch.bat（菜单选择）
+方式3: python start_all.py
+
+监控地址:
+  进化系统: http://localhost:8900
+  自动运行: http://localhost:8899
+
+────────────────────────────────────────
+依赖（requirements.txt）
+────────────────────────────────────────
+  numpy>=1.24.0
+  scipy>=1.10.0
+  pandas>=2.0.0
+  scikit-learn>=1.3.0
+  psutil>=5.9.0
+  matplotlib>=3.7.0  (可选)
+
+所有依赖均为标准库或纯Python包，无需GPU，开箱即用。

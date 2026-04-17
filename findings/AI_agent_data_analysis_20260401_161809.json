@@ -1,0 +1,174 @@
+{
+  "topic": "AI agent data analysis",
+  "timestamp": "2026-04-01T16:18:09.440340",
+  "findings": [
+    {
+      "title": "starpig1129/DATAGEN",
+      "url": "https://github.com/starpig1129/DATAGEN",
+      "description": "DATAGEN: AI-driven multi-agent research assistant automating hypothesis generation, data analysis, and report writing. ",
+      "stars": 1669,
+      "source": "github"
+    },
+    {
+      "title": "zhongyu09/openchatbi",
+      "url": "https://github.com/zhongyu09/openchatbi",
+      "description": "OpenChatBI is an intelligent chat-based BI tool powered by large language models, designed to help users query, analyze, and visualize data through natural language conversations. It uses LangGraph and LangChain to build chat agent and workflows that support natural language to SQL conversion and data analysis.",
+      "stars": 542,
+      "source": "github"
+    },
+    {
+      "title": "Wilson-ZheLin/Streamline-Analyst",
+      "url": "https://github.com/Wilson-ZheLin/Streamline-Analyst",
+      "description": "An AI agent powered by LLMs that streamlines the entire process of data analysis. 🚀",
+      "stars": 478,
+      "source": "github"
+    },
+    {
+      "title": "Din829/DbRheo-CLI",
+      "url": "https://github.com/Din829/DbRheo-CLI",
+      "description": "A database operations and data analysis AI agent",
+      "stars": 430,
+      "source": "github"
+    },
+    {
+      "title": "xpert-ai/xpert",
+      "url": "https://github.com/xpert-ai/xpert",
+      "description": "Xpert AI is an AI agents and data analysis platform for enterprises to make business decisions.",
+      "stars": 377,
+      "source": "github"
+    },
+    {
+      "title": "liangdabiao/claude-data-analysis",
+      "url": "https://github.com/liangdabiao/claude-data-analysis",
+      "description": "Create a data analysis AI agent with Claude Code. Make data analysis as simple as having a chat!​​ 别忘了！claude code也是agent框架，类似langgraph,crewAI，autogen等等agent框架。我改造claude code搞一个数据分析智能体AI。 让数据分析变得像聊天一样简单！",
+      "stars": 355,
+      "source": "github"
+    },
+    {
+      "title": "surendranb/google-analytics-mcp",
+      "url": "https://github.com/surendranb/google-analytics-mcp",
+      "description": "Google Analytics 4 data to AI agents, agentic workflows, and MCP clients. Give agents analysis-ready access to website traffic, user behavior, and performance data with schema discovery, server-side aggregation, and safe defaults that reduce data wrangling.",
+      "stars": 197,
+      "source": "github"
+    },
+    {
+      "title": "togethercomputer/open-data-scientist",
+      "url": "https://github.com/togethercomputer/open-data-scientist",
+      "description": "Open AI data scientist agent that automates complex data analysis tasks using the ReAct framework. Execute Python code locally or in the cloud, upload datasets, and generate detailed analytical reports with minimal setup.",
+      "stars": 187,
+      "source": "github"
+    },
+    {
+      "title": "pragunbhutani/dbt-llm-agent",
+      "url": "https://github.com/pragunbhutani/dbt-llm-agent",
+      "description": "LLM based AI Agent to automate Data Analysis for dbt projects with remote MCP server",
+      "stars": 168,
+      "source": "github"
+    },
+    {
+      "title": "bio-xyz/BioAgents",
+      "url": "https://github.com/bio-xyz/BioAgents",
+      "description": "BioAgents: An AI scientist framework for autonomous deep research in biological sciences. Multi-agent system combining literature analysis agents with data scientist agents to enable deep research automation through user feedback integration and iterative scientific discovery. Inspired by advances in Edison Kosmos, Sakana AI, K-Dense and others.",
+      "stars": 118,
+      "source": "github"
+    },
+    {
+      "title": "agruai/company-research-agent",
+      "url": "https://github.com/agruai/company-research-agent",
+      "description": "Automated Miulti AI Agent for company research with LangGraph— scrapes web data, extracts business insights, and generates structured reports using LLM analysis.",
+      "stars": 108,
+      "source": "github"
+    },
+    {
+      "title": "colossus-lab/openarg_backend",
+      "url": "https://github.com/colossus-lab/openarg_backend",
+      "description": "AI-powered analysis engine for Argentine government open   data. Multi-agent pipeline (LangGraph) with 10 data   connectors, NL2SQL, semantic caching, and real-time   streaming. Built with FastAPI, PostgreSQL + pgvector,   Celery, and Gemini/Claude LLMs.",
+      "stars": 88,
+      "source": "github"
+    },
+    {
+      "title": "whitew1994WW/AgenticDataAnalysis",
+      "url": "https://github.com/whitew1994WW/AgenticDataAnalysis",
+      "description": "Perform Data Analysis using Agentic AI - The code to accompany my youtube video",
+      "stars": 62,
+      "source": "github"
+    },
+    {
+      "title": "AstraZeneca/cellatria",
+      "url": "https://github.com/AstraZeneca/cellatria",
+      "description": "An Agentic AI Framework for Ingestion and Standardization of Single-Cell RNA-seq Data Analysis",
+      "stars": 59,
+      "source": "github"
+    },
+    {
+      "title": "arkaloscom/arkalos",
+      "url": "https://github.com/arkaloscom/arkalos",
+      "description": "Arkalos is an easy-to-use Python framework for data analysis, building data apps, warehouses, AI agents, and training LLMs with elegant syntax. It just works.",
+      "stars": 59,
+      "source": "github"
+    },
+    {
+      "title": "ruvnet/GenAI-Superstream",
+      "url": "https://github.com/ruvnet/GenAI-Superstream",
+      "description": "Agentic Engineering for Data Analysis ",
+      "stars": 56,
+      "source": "github"
+    },
+    {
+      "title": "RafaelCartenet/mcp-databricks-server",
+      "url": "https://github.com/RafaelCartenet/mcp-databricks-server",
+      "description": "Model Context Protocol (MCP) server for Databricks that empowers AI agents to autonomously interact with Unity Catalog metadata. Enables data discovery, lineage analysis, and intelligent SQL execution. Agents explore catalogs/schemas/tables, understand relationships, discover notebooks/jobs, and execute queries - greatly reducing ad-hoc query time.",
+      "stars": 38,
+      "source": "github"
+    },
+    {
+      "title": "with-geun/alive-analysis",
+      "url": "https://github.com/with-geun/alive-analysis",
+      "description": "Data analysis workflow kit for AI coding agents. Structure your analysis with the ALIVE loop — Ask, Look, Investigate, Voice, Evolve.",
+      "stars": 32,
+      "source": "github"
+    },
+    {
+      "title": "dyneth02/Air-Quality-Trends-Analysis-Project",
+      "url": "https://github.com/dyneth02/Air-Quality-Trends-Analysis-Project",
+      "description": "Full-stack air quality analytics platform built with FastAPI, React, and MySQL. Aggregates multi-source PM2.5/PM10 data, performs multi-city comparison and time-series forecasting (SARIMAX), and integrates an LLM-based planning agent with tiered access, secure APIs, and PDF reporting.",
+      "stars": 22,
+      "source": "github"
+    },
+    {
+      "title": "ChanithaAbey/AI-Agent-for-Stock-Prediction",
+      "url": "https://github.com/ChanithaAbey/AI-Agent-for-Stock-Prediction",
+      "description": "An AI Agent for stock data analysis, news rerieval, and prediction; powered by yfinance, GroqCloud, Llama and TheNewsAPI.",
+      "stars": 21,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.471,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.152,
+      "diversity": 0.0,
+      "usability": 0.2,
+      "applicability": 1.0,
+      "coverage": 1.0,
+      "ndcg": 0.731,
+      "map": 1.0,
+      "mrr": 1.0,
+      "rouge_1": 0.85,
+      "semantic_sim": 0.41,
+      "coherence": 0.191,
+      "task_completion": 0.64,
+      "tool_use": 0.19,
+      "reasoning_depth": 0.043,
+      "autonomy": 0.15,
+      "multi_agent": 0.06
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

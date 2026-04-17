@@ -1,0 +1,174 @@
+{
+  "topic": "AI model evaluation",
+  "timestamp": "2026-04-01T16:03:51.034623",
+  "findings": [
+    {
+      "title": "mlflow/mlflow",
+      "url": "https://github.com/mlflow/mlflow",
+      "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.",
+      "stars": 25036,
+      "source": "github"
+    },
+    {
+      "title": "dataelement/bisheng",
+      "url": "https://github.com/dataelement/bisheng",
+      "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Management, Observability and more.",
+      "stars": 11273,
+      "source": "github"
+    },
+    {
+      "title": "facebookresearch/ParlAI",
+      "url": "https://github.com/facebookresearch/ParlAI",
+      "description": "A framework for training and evaluating AI models on a variety of openly available dialogue datasets.",
+      "stars": 10632,
+      "source": "github"
+    },
+    {
+      "title": "transformerlab/transformerlab-app",
+      "url": "https://github.com/transformerlab/transformerlab-app",
+      "description": "The open source research environment for AI researchers to seamlessly train, evaluate, and scale models from local hardware to GPU clusters.",
+      "stars": 4851,
+      "source": "github"
+    },
+    {
+      "title": "UKGovernmentBEIS/inspect_ai",
+      "url": "https://github.com/UKGovernmentBEIS/inspect_ai",
+      "description": "Inspect: A framework for large language model evaluations",
+      "stars": 1870,
+      "source": "github"
+    },
+    {
+      "title": "EmbeddedLLM/JamAIBase",
+      "url": "https://github.com/EmbeddedLLM/JamAIBase",
+      "description": "The collaborative spreadsheet for AI. Chain cells into powerful pipelines, experiment with prompts and models, and evaluate LLM responses in real-time. Work together seamlessly to build and iterate on AI applications.",
+      "stars": 1091,
+      "source": "github"
+    },
+    {
+      "title": "dezoito/ollama-grid-search",
+      "url": "https://github.com/dezoito/ollama-grid-search",
+      "description": "A multi-platform desktop application to evaluate and compare LLM models, written in Rust and React.",
+      "stars": 921,
+      "source": "github"
+    },
+    {
+      "title": "lucija8320nhung4/HacxGPT",
+      "url": "https://github.com/lucija8320nhung4/HacxGPT",
+      "description": "HacxGPT CLI — Open-source command-line interface for unrestricted AI model access with multi-provider support, prompt injection research capabilities, configurable API endpoints, Termux/Linux/Windows compatibility, and Rich terminal UI for security research and red-team evaluation",
+      "stars": 910,
+      "source": "github"
+    },
+    {
+      "title": "pinchbench/skill",
+      "url": "https://github.com/pinchbench/skill",
+      "description": "PinchBench is a benchmarking system for evaluating LLM models as OpenClaw coding agents. Made with 🦀 by the humans at https://kilo.ai",
+      "stars": 875,
+      "source": "github"
+    },
+    {
+      "title": "braintrustdata/autoevals",
+      "url": "https://github.com/braintrustdata/autoevals",
+      "description": "AutoEvals is a tool for quickly and easily evaluating AI model outputs using best practices.",
+      "stars": 845,
+      "source": "github"
+    },
+    {
+      "title": "The-FinAI/PIXIU",
+      "url": "https://github.com/The-FinAI/PIXIU",
+      "description": "This repository introduces PIXIU, an open-source resource featuring the first financial large language models (LLMs), instruction tuning data, and evaluation benchmarks to holistically assess financial LLMs. Our goal is to continually push forward the open-source development of financial artificial intelligence (AI).",
+      "stars": 844,
+      "source": "github"
+    },
+    {
+      "title": "facebookresearch/CodeGen",
+      "url": "https://github.com/facebookresearch/CodeGen",
+      "description": "Reference implementation of code generation projects from Facebook AI Research. General toolkit to apply machine learning to code, from dataset creation to model training and evaluation. Comes with pretrained models.",
+      "stars": 773,
+      "source": "github"
+    },
+    {
+      "title": "MigoXLab/dingo",
+      "url": "https://github.com/MigoXLab/dingo",
+      "description": "Dingo: A Comprehensive AI Data, Model and Application Quality Evaluation Tool",
+      "stars": 671,
+      "source": "github"
+    },
+    {
+      "title": "onejune2018/Awesome-LLM-Eval",
+      "url": "https://github.com/onejune2018/Awesome-LLM-Eval",
+      "description": "Awesome-LLM-Eval: a curated list of tools, datasets/benchmark, demos, leaderboard, papers, docs and models, mainly for Evaluation on LLMs.  一个由工具、基准/数据、演示、排行榜和大模型等组成的精选列表，主要面向基础大模型评测，旨在探求生成式AI的技术边界.",
+      "stars": 627,
+      "source": "github"
+    },
+    {
+      "title": "HowieHwong/TrustLLM",
+      "url": "https://github.com/HowieHwong/TrustLLM",
+      "description": "[ICML 2024] TrustLLM: Trustworthiness in Large Language Models",
+      "stars": 621,
+      "source": "github"
+    },
+    {
+      "title": "abacusai/Long-Context",
+      "url": "https://github.com/abacusai/Long-Context",
+      "description": "This repository contains code and tooling for the Abacus.AI LLM Context Expansion project. Also included are evaluation scripts and benchmark tasks that evaluate a model’s information retrieval capabilities with context expansion. We also include key experimental results and instructions for reproducing and building on them.",
+      "stars": 601,
+      "source": "github"
+    },
+    {
+      "title": "Denis2054/RAG-Driven-Generative-AI",
+      "url": "https://github.com/Denis2054/RAG-Driven-Generative-AI",
+      "description": "This repository provides programs to build Retrieval Augmented Generation (RAG) code for Generative AI with LlamaIndex, Deep Lake, and Pinecone leveraging the power of OpenAI and Hugging Face models for generation and evaluation.",
+      "stars": 594,
+      "source": "github"
+    },
+    {
+      "title": "stepfun-ai/SteptronOss",
+      "url": "https://github.com/stepfun-ai/SteptronOss",
+      "description": "A lightweight, AI-native training framework for large language models. Designed for fast iteration, reproducible experiments, and modular configuration across SFT, RLVR, and evaluation workflows.",
+      "stars": 517,
+      "source": "github"
+    },
+    {
+      "title": "wgryc/phasellm",
+      "url": "https://github.com/wgryc/phasellm",
+      "description": "Large language model evaluation and workflow framework from Phase AI.",
+      "stars": 460,
+      "source": "github"
+    },
+    {
+      "title": "flageval-baai/FlagEval",
+      "url": "https://github.com/flageval-baai/FlagEval",
+      "description": "FlagEval is an evaluation toolkit for AI large foundation models.",
+      "stars": 337,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.422,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.25,
+      "star_power": 0.129,
+      "diversity": 0.0,
+      "usability": 0.1,
+      "applicability": 0.95,
+      "coverage": 1.0,
+      "ndcg": 0.633,
+      "map": 0.894,
+      "mrr": 1.0,
+      "rouge_1": 0.583,
+      "semantic_sim": 0.215,
+      "coherence": 0.119,
+      "task_completion": 0.547,
+      "tool_use": 0.103,
+      "reasoning_depth": 0.03,
+      "autonomy": 0.062,
+      "multi_agent": 0.045
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

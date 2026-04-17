@@ -1,0 +1,174 @@
+{
+  "topic": "AI agent resource",
+  "timestamp": "2026-04-01T16:31:06.040935",
+  "findings": [
+    {
+      "title": "WangRongsheng/awesome-LLM-resources",
+      "url": "https://github.com/WangRongsheng/awesome-LLM-resources",
+      "description": "🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources. ",
+      "stars": 7978,
+      "source": "github"
+    },
+    {
+      "title": "liyupi/free-programming-resources",
+      "url": "https://github.com/liyupi/free-programming-resources",
+      "description": "2026 年最新的免费编程资源大全，持续更新！🔥 覆盖各种语言和方向（Java / Python / C++ / JavaScript / TypeScript / Golang / 前端 / 后端 / AI大模型应用开发 / AI Agent开发等）的学习路线、零基础入门教程、项目实战教程、经典编程书籍、面试题合集、求职经验分享、简历模板、开源项目推荐、开发工具推荐、实用技术资源等，对程序员和计算机专业学生非常有帮助！⭐️ 学编程，先收藏这个仓库！",
+      "stars": 3399,
+      "source": "github"
+    },
+    {
+      "title": "kite-org/kite",
+      "url": "https://github.com/kite-org/kite",
+      "description": "🪁 A lightweight, modern Kubernetes dashboard that unifies multi-cluster and resource management, enterprise-grade user governance (OAuth, RBAC, and audit logs), and AI agents in one workspace. Not just a tool, but more like a platform.",
+      "stars": 2466,
+      "source": "github"
+    },
+    {
+      "title": "HCPLab-SYSU/Embodied_AI_Paper_List",
+      "url": "https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List",
+      "description": "[Embodied-AI-Survey-2025] Paper List and Resource Repository for Embodied AI",
+      "stars": 1978,
+      "source": "github"
+    },
+    {
+      "title": "CoderSJX/AI-Resources-Central",
+      "url": "https://github.com/CoderSJX/AI-Resources-Central",
+      "description": " Bringing together outstanding artificial intelligence (AI) open source projects from around the world. ",
+      "stars": 1204,
+      "source": "github"
+    },
+    {
+      "title": "lancedb/vectordb-recipes",
+      "url": "https://github.com/lancedb/vectordb-recipes",
+      "description": "Resource, examples & tutorials for multimodal AI, RAG and agents using vector search and LLMs",
+      "stars": 939,
+      "source": "github"
+    },
+    {
+      "title": "avinash201199/free-ai-agents-resources",
+      "url": "https://github.com/avinash201199/free-ai-agents-resources",
+      "description": "Free AI Agents Resources – Your All-in-One 2026 Learning Hub",
+      "stars": 560,
+      "source": "github"
+    },
+    {
+      "title": "skillmatic-ai/awesome-agent-skills",
+      "url": "https://github.com/skillmatic-ai/awesome-agent-skills",
+      "description": "The definitive resource for Agent Skills - modular capabilities revolutionizing AI agent architecture",
+      "stars": 484,
+      "source": "github"
+    },
+    {
+      "title": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "A resource-efficient, open source AI coding agent with a native TUI, built in Rust.",
+      "stars": 212,
+      "source": "github"
+    },
+    {
+      "title": "systempromptio/systemprompt-code-orchestrator",
+      "url": "https://github.com/systempromptio/systemprompt-code-orchestrator",
+      "description": "  MCP server for orchestrating AI coding agents (Claude Code CLI & Gemini CLI). Features task management, process execution, Git integration, and dynamic resource discovery. Full TypeScript implementation with Docker support and Cloudflare Tunnel integration. ",
+      "stars": 139,
+      "source": "github"
+    },
+    {
+      "title": "osmandkitay/aura",
+      "url": "https://github.com/osmandkitay/aura",
+      "description": "AURA (Agent-Usable Resource Assertion) is an open protocol designed to make the web machine-readable. It replaces fragile screen scraping with a declarative aura.json manifest, allowing websites to expose their capabilities as a secure, efficient, and standardized API for AI agents.",
+      "stars": 104,
+      "source": "github"
+    },
+    {
+      "title": "GlobalSushrut/mcp-zero",
+      "url": "https://github.com/GlobalSushrut/mcp-zero",
+      "description": "Production-grade AI agent infrastructure with resource constraints, ethical governance, and cryptographic integrity (private implementation code)",
+      "stars": 63,
+      "source": "github"
+    },
+    {
+      "title": "DharminJoshi/Awesome-Agentic-AI-Learning-Resource-By-DevKay",
+      "url": "https://github.com/DharminJoshi/Awesome-Agentic-AI-Learning-Resource-By-DevKay",
+      "description": "Awesome Agentic AI Learning Resource by DevKay is a curated roadmap for mastering Agentic AI—from ML foundations to production-ready agents. Features a 0–12+ month path, hands-on projects, top resources, agent architectures, and tools like LangChain and AutoGen.",
+      "stars": 56,
+      "source": "github"
+    },
+    {
+      "title": "sameeerjadhav/google-agents-resources",
+      "url": "https://github.com/sameeerjadhav/google-agents-resources",
+      "description": " Complete resource collection of AI Agents whitepapers by Google (from fundamentals to production deployment)",
+      "stars": 45,
+      "source": "github"
+    },
+    {
+      "title": "tkorkmazeth/awesome-solana-ai-hackathon",
+      "url": "https://github.com/tkorkmazeth/awesome-solana-ai-hackathon",
+      "description": "Welcome to the Solana AI Agent Hackathon repository! This resource is your ultimate guide to creating, deploying, and managing autonomous AI agents powered by Solana and cutting-edge tools.",
+      "stars": 36,
+      "source": "github"
+    },
+    {
+      "title": "acvnace/awesome-vibe-coding-resources",
+      "url": "https://github.com/acvnace/awesome-vibe-coding-resources",
+      "description": "A curated list of awesome resources for vibe coding",
+      "stars": 36,
+      "source": "github"
+    },
+    {
+      "title": "jredmondson/madara",
+      "url": "https://github.com/jredmondson/madara",
+      "description": "Multi-Agent Distributed Adaptive Resource Allocation",
+      "stars": 28,
+      "source": "github"
+    },
+    {
+      "title": "karozi/Awesome-Vibecoding-and-Speccoding-Resources",
+      "url": "https://github.com/karozi/Awesome-Vibecoding-and-Speccoding-Resources",
+      "description": "Awesome Vibecoding and Speccoding Resources repo—a living collection of checklists, guides, and practical tools for creators, product managers, and AI builders. Whether you’re vibecoding, spec-driven, or just curious about rapid prototyping in the age of agentic workflows, you’ll find something useful here.",
+      "stars": 24,
+      "source": "github"
+    },
+    {
+      "title": "HammerGPT/claude-co-desk",
+      "url": "https://github.com/HammerGPT/claude-co-desk",
+      "description": "A local AI task automation system built on Claude Code framework, exploring the limits of AI agents with full system resource control.",
+      "stars": 14,
+      "source": "github"
+    },
+    {
+      "title": "rajdeepmondaldotcom/CS294_LLM_Agents_Notes_Fall2024",
+      "url": "https://github.com/rajdeepmondaldotcom/CS294_LLM_Agents_Notes_Fall2024",
+      "description": "Notes for CS294/194-196: Large Language Model Agents (Fall 2024, UC Berkeley), summarizing 12 lectures on LLM fundamentals, reasoning, planning, tool use, agent design, and applications. A resource for learners and AI researchers.",
+      "stars": 14,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.418,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.124,
+      "diversity": 0.0,
+      "usability": 0.3,
+      "applicability": 0.95,
+      "coverage": 1.0,
+      "ndcg": 0.48,
+      "map": 0.94,
+      "mrr": 1.0,
+      "rouge_1": 0.667,
+      "semantic_sim": 0.277,
+      "coherence": 0.193,
+      "task_completion": 0.6,
+      "tool_use": 0.118,
+      "reasoning_depth": 0.093,
+      "autonomy": 0.075,
+      "multi_agent": 0.03
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "topic": "LLM optimization",
+  "round": 1,
+  "timestamp": "2026-03-27T16:10:41.320330",
+  "findings": [
+    {
+      "title": "affaan-m/everything-claude-code",
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 111000,
+      "source": "github"
+    },
+    {
+      "title": "ray-project/ray",
+      "url": "https://github.com/ray-project/ray",
+      "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+      "stars": 41879,
+      "source": "github"
+    },
+    {
+      "title": "mlflow/mlflow",
+      "url": "https://github.com/mlflow/mlflow",
+      "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.",
+      "stars": 24978,
+      "source": "github"
+    },
+    {
+      "title": "emcie-co/parlant",
+      "url": "https://github.com/emcie-co/parlant",
+      "description": "The conversational control layer for customer-facing AI agents - Parlant is a context-engineering framework optimized for controlling customer interactions.",
+      "stars": 17852,
+      "source": "github"
+    },
+    {
+      "title": "kvcache-ai/ktransformers",
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "stars": 16846,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/TensorRT-LLM",
+      "url": "https://github.com/NVIDIA/TensorRT-LLM",
+      "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+      "stars": 13200,
+      "source": "github"
+    },
+    {
+      "title": "tensorzero/tensorzero",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "description": "TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.",
+      "stars": 11155,
+      "source": "github"
+    },
+    {
+      "title": "krillinai/KrillinAI",
+      "url": "https://github.com/krillinai/KrillinAI",
+      "description": "Video translation and dubbing tool powered by LLMs. The video translator offers 100 language translations and one-click full-process deployment. The video translation output is optimized for platforms like YouTube，TikTok.   AI视频翻译配音工具，100种语言双向翻译，一键部署全流程，可以生抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube等形态的内容成适配",
+      "stars": 9751,
+      "source": "github"
+    },
+    {
+      "title": "Marker-Inc-Korea/AutoRAG",
+      "url": "https://github.com/Marker-Inc-Korea/AutoRAG",
+      "description": "AutoRAG: An Open-Source Framework for Retrieval-Augmented Generation (RAG) Evaluation & Optimization with AutoML-Style Automation",
+      "stars": 4644,
+      "source": "github"
+    },
+    {
+      "title": "SylphAI-Inc/AdalFlow",
+      "url": "https://github.com/SylphAI-Inc/AdalFlow",
+      "description": "AdalFlow: The library to build & auto-optimize LLM applications.",
+      "stars": 4081,
+      "source": "github"
+    },
+    {
+      "title": "Less Gaussians, Texture More: 4K Feed-Forward Textured Splatting",
+      "url": "https://arxiv.org/abs/2603.25745v1",
+      "abstract": "Existing feed-forward 3D Gaussian Splatting methods predict pixel-aligned primitives, leading to a quadratic growth in primitive count as resolution increases. This fundamentally limits their scalabil",
+      "source": "arxiv"
+    },
+    {
+      "title": "Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving",
+      "url": "https://arxiv.org/abs/2603.25740v1",
+      "abstract": "Human driving behavior is inherently personal, which is shaped by long-term habits and influenced by short-term intentions. Individuals differ in how they accelerate, brake, merge, yield, and overtake",
+      "source": "arxiv"
+    },
+    {
+      "title": "Training the Knowledge Base through Evidence Distillation and Write-Back Enrichment",
+      "url": "https://arxiv.org/abs/2603.25737v1",
+      "abstract": "The knowledge base in a retrieval-augmented generation (RAG) system is typically assembled once and never revised, even though the facts a query requires are often fragmented across documents and buri",
+      "source": "arxiv"
+    },
+    {
+      "title": "R-C2: Cycle-Consistent Reinforcement Learning Improves Multimodal Reasoning",
+      "url": "https://arxiv.org/abs/2603.25720v1",
+      "abstract": "Robust perception and reasoning require consistency across sensory modalities. Yet current multimodal models often violate this principle, yielding contradictory predictions for visual and textual rep",
+      "source": "arxiv"
+    },
+    {
+      "title": "Agent Factories for High Level Synthesis: How Far Can General-Purpose Coding Agents Go in Hardware Optimization?",
+      "url": "https://arxiv.org/abs/2603.25719v1",
+      "abstract": "We present an empirical study of how far general-purpose coding agents -- without hardware-specific training -- can optimize hardware designs from high-level algorithmic specifications. We introduce a",
+      "source": "arxiv"
+    },
+    {
+      "title": "Seeing to Ground: Visual Attention for Hallucination-Resilient MDLLMs",
+      "url": "https://arxiv.org/abs/2603.25711v1",
+      "abstract": "Multimodal Diffusion Large Language Models (MDLLMs) achieve high-concurrency generation through parallel masked decoding, yet the architectures remain prone to multimodal hallucinations. This structur",
+      "source": "arxiv"
+    },
+    {
+      "title": "S2D2: Fast Decoding for Diffusion LLMs via Training-Free Self-Speculation",
+      "url": "https://arxiv.org/abs/2603.25702v1",
+      "abstract": "Block-diffusion language models offer a promising path toward faster-than-autoregressive generation by combining block-wise autoregressive decoding with within-block parallel denoising. However, in th",
+      "source": "arxiv"
+    },
+    {
+      "title": "Neural Network Conversion of Machine Learning Pipelines",
+      "url": "https://arxiv.org/abs/2603.25699v1",
+      "abstract": "Transfer learning and knowledge distillation has recently gained a lot of attention in the deep learning community. One transfer approach, the student-teacher learning, has been shown to successfully ",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Kitchen Loop: User-Spec-Driven Development for a Self-Evolving Codebase",
+      "url": "https://arxiv.org/abs/2603.25697v1",
+      "abstract": "Code production is now a commodity; the bottleneck is knowing what to build and proving it works. We present the Kitchen Loop, a framework for autonomous, self-evolving software built on a unified tru",
+      "source": "arxiv"
+    },
+    {
+      "title": "On Neural Scaling Laws for Weather Emulation through Continual Training",
+      "url": "https://arxiv.org/abs/2603.25687v1",
+      "abstract": "Neural scaling laws, which in some domains can predict the performance of large neural networks as a function of model, data, and compute scale, are the cornerstone of building foundation models in Na",
+      "source": "arxiv"
+    }
+  ],
+  "sources": [
+    "prosearch",
+    "github",
+    "hackernews",
+    "arxiv"
+  ]
+}

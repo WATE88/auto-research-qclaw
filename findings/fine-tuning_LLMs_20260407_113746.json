@@ -1,0 +1,280 @@
+{
+  "topic": "fine-tuning LLMs",
+  "timestamp": "2026-04-07T11:37:46.955848",
+  "findings": [
+    {
+      "title": "hiyouga/LlamaFactory",
+      "url": "https://github.com/hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars": 69633,
+      "source": "github"
+    },
+    {
+      "title": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Unsloth Studio is a web UI for training and running open models like Qwen3.5, Gemma 4, DeepSeek, gpt-oss locally.",
+      "stars": 59764,
+      "source": "github"
+    },
+    {
+      "title": "kvcache-ai/ktransformers",
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "stars": 16904,
+      "source": "github"
+    },
+    {
+      "title": "xming521/WeClone",
+      "url": "https://github.com/xming521/WeClone",
+      "description": "🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊天记录创造数字分身的一站式解决方案  ",
+      "stars": 16493,
+      "source": "github"
+    },
+    {
+      "title": "ConardLi/easy-dataset",
+      "url": "https://github.com/ConardLi/easy-dataset",
+      "description": "A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval",
+      "stars": 13818,
+      "source": "github"
+    },
+    {
+      "title": "bentoml/OpenLLM",
+      "url": "https://github.com/bentoml/OpenLLM",
+      "description": "Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.",
+      "stars": 12273,
+      "source": "github"
+    },
+    {
+      "title": "ludwig-ai/ludwig",
+      "url": "https://github.com/ludwig-ai/ludwig",
+      "description": "Low-code framework for building custom LLMs, neural networks, and other AI models",
+      "stars": 11666,
+      "source": "github"
+    },
+    {
+      "title": "bigscience-workshop/petals",
+      "url": "https://github.com/bigscience-workshop/petals",
+      "description": "🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading",
+      "stars": 10047,
+      "source": "github"
+    },
+    {
+      "title": "oumi-ai/oumi",
+      "url": "https://github.com/oumi-ai/oumi",
+      "description": "Easily fine-tune, evaluate and deploy gpt-oss, Qwen3, DeepSeek-R1, or any open source LLM / VLM!",
+      "stars": 9164,
+      "source": "github"
+    },
+    {
+      "title": "h2oai/h2o-llmstudio",
+      "url": "https://github.com/h2oai/h2o-llmstudio",
+      "description": "H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/",
+      "stars": 4906,
+      "source": "github"
+    },
+    {
+      "title": "SylphAI-Inc/LLM-engineer-handbook",
+      "url": "https://github.com/SylphAI-Inc/LLM-engineer-handbook",
+      "description": "A curated list of Large Language Model resources, covering model training, serving, fine-tuning, and building LLM applications.",
+      "stars": 4859,
+      "source": "github"
+    },
+    {
+      "title": "predibase/lorax",
+      "url": "https://github.com/predibase/lorax",
+      "description": "Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs",
+      "stars": 3744,
+      "source": "github"
+    },
+    {
+      "title": "iusztinpaul/hands-on-llms",
+      "url": "https://github.com/iusztinpaul/hands-on-llms",
+      "description": "🦖 𝗟𝗲𝗮𝗿𝗻 about 𝗟𝗟𝗠𝘀, 𝗟𝗟𝗠𝗢𝗽𝘀, and 𝘃𝗲𝗰𝘁𝗼𝗿 𝗗𝗕𝘀 for free by designing, training, and deploying a real-time financial advisor LLM system ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 𝘷𝘪𝘥𝘦𝘰 & 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴",
+      "stars": 3404,
+      "source": "github"
+    },
+    {
+      "title": "ashishpatel26/LLM-Finetuning",
+      "url": "https://github.com/ashishpatel26/LLM-Finetuning",
+      "description": "LLM Finetuning with peft",
+      "stars": 2905,
+      "source": "github"
+    },
+    {
+      "title": "stochasticai/xTuring",
+      "url": "https://github.com/stochasticai/xTuring",
+      "description": "Build, personalize and control your own LLMs. From data pre-processing to fine-tuning, xTuring provides an easy way to personalize open-source LLMs. Join our discord community: https://discord.gg/TgHXuSJEk6",
+      "stars": 2665,
+      "source": "github"
+    },
+    {
+      "title": "decodingai-magazine/second-brain-ai-assistant-course",
+      "url": "https://github.com/decodingai-magazine/second-brain-ai-assistant-course",
+      "description": "Learn to build your Second Brain AI assistant with LLMs, agents, RAG, fine-tuning, LLMOps and AI systems techniques.",
+      "stars": 2624,
+      "source": "github"
+    },
+    {
+      "title": "Memento-Teams/Memento",
+      "url": "https://github.com/Memento-Teams/Memento",
+      "description": "Official Code of Memento: Fine-tuning LLM Agents without Fine-tuning LLMs",
+      "stars": 2378,
+      "source": "github"
+    },
+    {
+      "title": "AI-Hypercomputer/maxtext",
+      "url": "https://github.com/AI-Hypercomputer/maxtext",
+      "description": "A simple, performant and scalable Jax LLM!",
+      "stars": 2215,
+      "source": "github"
+    },
+    {
+      "title": "dstackai/dstack",
+      "url": "https://github.com/dstackai/dstack",
+      "description": "Control plane for agents and engineers to provision compute and run training and inference across NVIDIA, AMD, TPU, and Tenstorrent GPUs—on clouds, Kubernetes, and bare-metal clusters.",
+      "stars": 2081,
+      "source": "github"
+    },
+    {
+      "title": "kubeflow/trainer",
+      "url": "https://github.com/kubeflow/trainer",
+      "description": "Distributed AI Model Training and LLM Fine-Tuning on Kubernetes",
+      "stars": 2074,
+      "source": "github"
+    },
+    {
+      "title": "PointTPA: Dynamic Network Parameter Adaptation for 3D Scene Understanding",
+      "url": "http://arxiv.org/abs/2604.04933v1",
+      "abstract": "Scene-level point cloud understanding remains challenging due to diverse geometries, imbalanced category distributions, and highly varied spatial layouts. Existing methods improve object-level performance but rely on static network parameters during inference, limiting their adaptability to dynamic ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Beyond the Final Actor: Modeling the Dual Roles of Creator and Editor for Fine-Grained LLM-Generated Text Detection",
+      "url": "http://arxiv.org/abs/2604.04932v1",
+      "abstract": "The misuse of large language models (LLMs) requires precise detection of synthetic text. Existing works mainly follow binary or ternary classification settings, which can only distinguish pure human/LLM text or collaborative text at best. This remains insufficient for the nuanced regulation, as the ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Rethinking Model Efficiency: Multi-Agent Inference with Large Models",
+      "url": "http://arxiv.org/abs/2604.04929v1",
+      "abstract": "Most vision-language models (VLMs) apply a large language model (LLM) as the decoder, where the response tokens are generated sequentially through autoregression. Therefore, the number of output tokens can be the bottleneck of the end-to-end latency. However, different models may require vastly diff",
+      "source": "arxiv"
+    },
+    {
+      "title": "Your Pre-trained Diffusion Model Secretly Knows Restoration",
+      "url": "http://arxiv.org/abs/2604.04924v1",
+      "abstract": "Pre-trained diffusion models have enabled significant advancements in All-in-One Restoration (AiOR), offering improved perceptual quality and generalization. However, diffusion-based restoration methods primarily rely on fine-tuning or Control-Net style modules to leverage the pre-trained diffusion ",
+      "source": "arxiv"
+    },
+    {
+      "title": "TriAttention: Efficient Long Reasoning with Trigonometric KV Compression",
+      "url": "http://arxiv.org/abs/2604.04921v1",
+      "abstract": "Extended reasoning in large language models (LLMs) creates severe KV cache memory bottlenecks. Leading KV cache compression methods estimate KV importance using attention scores from recent post-RoPE queries. However, queries rotate with position during RoPE, making representative queries very few, ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Comparing Human Oversight Strategies for Computer-Use Agents",
+      "url": "http://arxiv.org/abs/2604.04918v1",
+      "abstract": "LLM-powered computer-use agents (CUAs) are shifting users from direct manipulation to supervisory coordination. Existing oversight mechanisms, however, have largely been studied as isolated interface features, making broader oversight strategies difficult to compare. We conceptualize CUA oversight a",
+      "source": "arxiv"
+    },
+    {
+      "title": "Exploring Expert Perspectives on Wearable-Triggered LLM Conversational Support for Daily Stress Management",
+      "url": "http://arxiv.org/abs/2604.04915v1",
+      "abstract": "Wearable devices increasingly support stress detection, while LLMs enable conversational mental health support. However, designing systems that meaningfully connect wearable-triggered stress events with generative dialogue remains underexplored, particularly from a design perspective. We present EmB",
+      "source": "arxiv"
+    },
+    {
+      "title": "QED-Nano: Teaching a Tiny Model to Prove Hard Theorems",
+      "url": "http://arxiv.org/abs/2604.04898v1",
+      "abstract": "Proprietary AI systems have recently demonstrated impressive capabilities on complex proof-based problems, with gold-level performance reported at the 2025 International Mathematical Olympiad (IMO). However, the training pipelines behind these systems remain largely undisclosed, and their reliance o",
+      "source": "arxiv"
+    },
+    {
+      "title": "Rethinking Exploration in RLVR: From Entropy Regularization to Refinement via Bidirectional Entropy Modulation",
+      "url": "http://arxiv.org/abs/2604.04894v1",
+      "abstract": "Reinforcement learning with verifiable rewards (RLVR) has significantly advanced the reasoning capabilities of large language models (LLMs). However, it faces a fundamental limitation termed \\textit{restricted exploration}, where the policy rapidly converges to a narrow set of solutions. While entro",
+      "source": "arxiv"
+    },
+    {
+      "title": "Synthetic Sandbox for Training Machine Learning Engineering Agents",
+      "url": "http://arxiv.org/abs/2604.04872v1",
+      "abstract": "As large language model agents advance beyond software engineering (SWE) tasks toward machine learning engineering (MLE), verifying agent behavior becomes orders of magnitude more expensive: while SWE tasks can be verified via fast-executing unit tests, MLE verification requires running full ML pipe",
+      "source": "arxiv"
+    },
+    {
+      "title": "Optimizing LLM Prompt Engineering with DSPy Based Declarative Learning",
+      "url": "http://arxiv.org/abs/2604.04869v1",
+      "abstract": "Large Language Models (LLMs) have shown strong performance across a wide range of natural language processing tasks; however, their effectiveness is highly dependent on prompt design, structure, and embedded reasoning signals. Conventional prompt engineering methods largely rely on heuristic trial-a",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Blind Spot of Adaptation: Quantifying and Mitigating Forgetting in Fine-tuned Driving Models",
+      "url": "http://arxiv.org/abs/2604.04857v1",
+      "abstract": "The integration of Vision-Language Models (VLMs) into autonomous driving promises to solve long-tail scenarios, but this paradigm faces the critical and unaddressed challenge of catastrophic forgetting. The very fine-tuning process used to adapt these models to driving-specific data simultaneously e",
+      "source": "arxiv"
+    },
+    {
+      "title": "Assessing Large Language Models for Stabilizing Numerical Expression in Scientific Software",
+      "url": "http://arxiv.org/abs/2604.04854v1",
+      "abstract": "Scientific software relies on high-precision computation, yet finite floating-point representations can introduce precision errors that propagate in safety-critical domains. Despite the growing use of large language models (LLMs) in scientific applications, their reliability in handling floating-poi",
+      "source": "arxiv"
+    },
+    {
+      "title": "MemMachine: A Ground-Truth-Preserving Memory System for Personalized AI Agents",
+      "url": "http://arxiv.org/abs/2604.04853v1",
+      "abstract": "Large Language Model (LLM) agents require persistent memory to maintain personalization, factual continuity, and long-horizon reasoning, yet standard context-window and retrieval-augmented generation (RAG) pipelines degrade over multi-session interactions. We present MemMachine, an open-source memor",
+      "source": "arxiv"
+    },
+    {
+      "title": "Strengthening Human-Centric Chain-of-Thought Reasoning Integrity in LLMs via a Structured Prompt Framework",
+      "url": "http://arxiv.org/abs/2604.04852v1",
+      "abstract": "Chain-of-Thought (CoT) prompting has been used to enhance the reasoning capability of LLMs. However, its reliability in security-sensitive analytical tasks remains insufficiently examined, particularly under structured human evaluation. Alternative approaches, such as model scaling and fine-tuning c",
+      "source": "arxiv"
+    },
+    {
+      "title": "Do No Harm: Exposing Hidden Vulnerabilities of LLMs via Persona-based Client Simulation Attack in Psychological Counseling",
+      "url": "http://arxiv.org/abs/2604.04842v1",
+      "abstract": "The increasing use of large language models (LLMs) in mental healthcare raises safety concerns in high-stakes therapeutic interactions. A key challenge is distinguishing therapeutic empathy from maladaptive validation, where supportive responses may inadvertently reinforce harmful beliefs or behavio",
+      "source": "arxiv"
+    },
+    {
+      "title": "MERIT: Multilingual Expert-Reward Informed Tuning for Chinese-Centric Low-Resource Machine Translation",
+      "url": "http://arxiv.org/abs/2604.04839v1",
+      "abstract": "Neural machine translation (NMT) from Chinese to low-resource Southeast Asian languages remains severely constrained by the extreme scarcity of clean parallel corpora and the pervasive noise in existing mined data. This chronic shortage not only impedes effective model training but also sustains a l",
+      "source": "arxiv"
+    },
+    {
+      "title": "Plausibility as Commonsense Reasoning: Humans Succeed, Large Language Models Do not",
+      "url": "http://arxiv.org/abs/2604.04825v1",
+      "abstract": "Large language models achieve strong performance on many language tasks, yet it remains unclear whether they integrate world knowledge with syntactic structure in a human-like, structure-sensitive way during ambiguity resolution. We test this question in Turkish prenominal relative-clause attachment",
+      "source": "arxiv"
+    },
+    {
+      "title": "ANX: Protocol-First Design for AI Agent Interaction with a Supporting 3EX Decoupled Architecture",
+      "url": "http://arxiv.org/abs/2604.04820v1",
+      "abstract": "AI agents, autonomous digital actors, need agent-native protocols; existing methods include GUI automation and MCP-based skills, with defects of high token consumption, fragmented interaction, inadequate security, due to lacking a unified top-level framework and key components, each independent modu",
+      "source": "arxiv"
+    },
+    {
+      "title": "LiveFact: A Dynamic, Time-Aware Benchmark for LLM-Driven Fake News Detection",
+      "url": "http://arxiv.org/abs/2604.04815v1",
+      "abstract": "The rapid development of Large Language Models (LLMs) has transformed fake news detection and fact-checking tasks from simple classification to complex reasoning. However, evaluation frameworks have not kept pace. Current benchmarks are static, making them vulnerable to benchmark data contamination ",
+      "source": "arxiv"
+    }
+  ],
+  "quality": {
+    "total": 40,
+    "quality_score": 0.429,
+    "dimensions": {
+      "authority": 0.95,
+      "quality": 0.025,
+      "star_power": 0.182,
+      "diversity": 0.5
+    },
+    "sources_breakdown": {
+      "github": 20,
+      "arxiv": 20
+    }
+  }
+}

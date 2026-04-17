@@ -1,0 +1,174 @@
+{
+  "topic": "AI agent scalability",
+  "timestamp": "2026-04-01T16:31:17.738557",
+  "findings": [
+    {
+      "title": "agno-agi/agno",
+      "url": "https://github.com/agno-agi/agno",
+      "description": "Build, run, manage agentic software at scale.",
+      "stars": 39062,
+      "source": "github"
+    },
+    {
+      "title": "nrwl/nx",
+      "url": "https://github.com/nrwl/nx",
+      "description": "The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.",
+      "stars": 28456,
+      "source": "github"
+    },
+    {
+      "title": "deepset-ai/haystack",
+      "url": "https://github.com/deepset-ai/haystack",
+      "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
+      "stars": 24672,
+      "source": "github"
+    },
+    {
+      "title": "camel-ai/camel",
+      "url": "https://github.com/camel-ai/camel",
+      "description": "🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org",
+      "stars": 16555,
+      "source": "github"
+    },
+    {
+      "title": "activeloopai/deeplake",
+      "url": "https://github.com/activeloopai/deeplake",
+      "description": "Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.",
+      "stars": 9054,
+      "source": "github"
+    },
+    {
+      "title": "0xPlaygrounds/rig",
+      "url": "https://github.com/0xPlaygrounds/rig",
+      "description": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+      "stars": 6736,
+      "source": "github"
+    },
+    {
+      "title": "julep-ai/julep",
+      "url": "https://github.com/julep-ai/julep",
+      "description": "Deploy serverless AI workflows at scale. Firebase for AI agents",
+      "stars": 6608,
+      "source": "github"
+    },
+    {
+      "title": "Klavis-AI/klavis",
+      "url": "https://github.com/Klavis-AI/klavis",
+      "description": "Klavis AI:  MCP integration platforms that let AI agents use tools reliably at any scale",
+      "stars": 5698,
+      "source": "github"
+    },
+    {
+      "title": "MemMachine/MemMachine",
+      "url": "https://github.com/MemMachine/MemMachine",
+      "description": "Universal memory layer for AI Agents. It provides scalable, extensible, and interoperable memory storage and retrieval to streamline AI agent state management for next-generation autonomous systems.",
+      "stars": 5367,
+      "source": "github"
+    },
+    {
+      "title": "deepnote/deepnote",
+      "url": "https://github.com/deepnote/deepnote",
+      "description": "Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote cloud for real-time collaboration, Deepnote agent, and deployable data apps. https://deepnote.com/",
+      "stars": 2797,
+      "source": "github"
+    },
+    {
+      "title": "awslabs/agentcore-samples",
+      "url": "https://github.com/awslabs/agentcore-samples",
+      "description": "Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and security, critical to real-world deployment.",
+      "stars": 2556,
+      "source": "github"
+    },
+    {
+      "title": "wassim249/fastapi-langgraph-agent-production-ready-template",
+      "url": "https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template",
+      "description": "A production-ready FastAPI template for building AI agent applications with LangGraph integration. This template provides a robust foundation for building scalable, secure, and maintainable AI agent services.",
+      "stars": 2103,
+      "source": "github"
+    },
+    {
+      "title": "nextlevelbuilder/goclaw",
+      "url": "https://github.com/nextlevelbuilder/goclaw",
+      "description": "GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.",
+      "stars": 1437,
+      "source": "github"
+    },
+    {
+      "title": "tinyfish-io/agentql",
+      "url": "https://github.com/tinyfish-io/agentql",
+      "description": "AgentQL is a suite of tools for connecting your AI to the web. Featuring a query language and Playwright integrations for interacting with elements and extracting data quickly, precisely, and at scale. Includes REST API, Python and JavaScript SDKs, browser debugger.",
+      "stars": 1307,
+      "source": "github"
+    },
+    {
+      "title": "Agent-Field/agentfield",
+      "url": "https://github.com/Agent-Field/agentfield",
+      "description": "Framework for AI Backend. Build and run AI agents like microservices - scalable, observable, and identity-aware from day one.",
+      "stars": 1225,
+      "source": "github"
+    },
+    {
+      "title": "rocketride-org/rocketride-server",
+      "url": "https://github.com/rocketride-org/rocketride-server",
+      "description": "High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all from your IDE. Includes VS Code extension, TypeScript/Python SDKs, and Docker deployment.",
+      "stars": 1181,
+      "source": "github"
+    },
+    {
+      "title": "apecloud/ApeRAG",
+      "url": "https://github.com/apecloud/ApeRAG",
+      "description": "ApeRAG: Production-ready GraphRAG with multi-modal indexing, AI agents, MCP support, and scalable K8s deployment",
+      "stars": 1124,
+      "source": "github"
+    },
+    {
+      "title": "neural-maze/realtime-phone-agents-course",
+      "url": "https://github.com/neural-maze/realtime-phone-agents-course",
+      "description": "Build realtime AI voice agents using FastRTC for low-latency streaming, Superlinked for vector search, Twilio for live phone calls, and Runpod for scalable GPU deployment.",
+      "stars": 967,
+      "source": "github"
+    },
+    {
+      "title": "massgen/MassGen",
+      "url": "https://github.com/massgen/MassGen",
+      "description": "🚀 MassGen is an open-source multi-agent scaling system that runs in your terminal, autonomously orchestrating frontier models and agents to collaborate, reason, and produce high-quality results. | Join us on Discord: discord.massgen.ai",
+      "stars": 912,
+      "source": "github"
+    },
+    {
+      "title": "aws/nova-act",
+      "url": "https://github.com/aws/nova-act",
+      "description": "Amazon Nova Act is an AWS service for building and deploying highly reliable AI agents that automate UI-based workflows at scale.",
+      "stars": 904,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.385,
+    "grade": "D",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.203,
+      "diversity": 0.0,
+      "usability": 0.0,
+      "applicability": 0.975,
+      "coverage": 1.0,
+      "ndcg": 0.537,
+      "map": 0.902,
+      "mrr": 1.0,
+      "rouge_1": 0.433,
+      "semantic_sim": 0.169,
+      "coherence": 0.198,
+      "task_completion": 0.465,
+      "tool_use": 0.243,
+      "reasoning_depth": 0.007,
+      "autonomy": 0.087,
+      "multi_agent": 0.105
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

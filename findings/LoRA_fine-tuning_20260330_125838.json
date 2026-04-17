@@ -1,0 +1,159 @@
+{
+  "topic": "LoRA fine-tuning",
+  "timestamp": "2026-03-30T12:58:38.237105",
+  "findings": [
+    {
+      "title": "hiyouga/LlamaFactory",
+      "url": "https://github.com/hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars": 69227,
+      "source": "github"
+    },
+    {
+      "title": "huggingface/peft",
+      "url": "https://github.com/huggingface/peft",
+      "description": "🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.",
+      "stars": 20857,
+      "source": "github"
+    },
+    {
+      "title": "cloneofsimo/lora",
+      "url": "https://github.com/cloneofsimo/lora",
+      "description": "Using Low-rank adaptation to quickly fine-tune diffusion models.",
+      "stars": 7528,
+      "source": "github"
+    },
+    {
+      "title": "Lightning-AI/lit-llama",
+      "url": "https://github.com/Lightning-AI/lit-llama",
+      "description": "Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.",
+      "stars": 6081,
+      "source": "github"
+    },
+    {
+      "title": "predibase/lorax",
+      "url": "https://github.com/predibase/lorax",
+      "description": "Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs",
+      "stars": 3739,
+      "source": "github"
+    },
+    {
+      "title": "hiyouga/ChatGLM-Efficient-Tuning",
+      "url": "https://github.com/hiyouga/ChatGLM-Efficient-Tuning",
+      "description": "Fine-tuning ChatGLM-6B with PEFT | 基于 PEFT 的高效 ChatGLM 微调",
+      "stars": 3726,
+      "source": "github"
+    },
+    {
+      "title": "aiming-lab/MetaClaw",
+      "url": "https://github.com/aiming-lab/MetaClaw",
+      "description": "🦞 Just talk to your agent — it learns and EVOLVES 🧬.",
+      "stars": 3003,
+      "source": "github"
+    },
+    {
+      "title": "Nerogar/OneTrainer",
+      "url": "https://github.com/Nerogar/OneTrainer",
+      "description": "OneTrainer is a one-stop solution for all your Diffusion training needs.",
+      "stars": 2883,
+      "source": "github"
+    },
+    {
+      "title": "ashishpatel26/LLM-Finetuning",
+      "url": "https://github.com/ashishpatel26/LLM-Finetuning",
+      "description": "LLM Finetuning with peft",
+      "stars": 2858,
+      "source": "github"
+    },
+    {
+      "title": "stochasticai/xTuring",
+      "url": "https://github.com/stochasticai/xTuring",
+      "description": "Build, personalize and control your own LLMs. From data pre-processing to fine-tuning, xTuring provides an easy way to personalize open-source LLMs. Join our discord community: https://discord.gg/TgHXuSJEk6",
+      "stars": 2668,
+      "source": "github"
+    },
+    {
+      "title": "FurkanGozukara/Stable-Diffusion",
+      "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
+      "description": "FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod",
+      "stars": 2663,
+      "source": "github"
+    },
+    {
+      "title": "SakanaAI/text-to-lora",
+      "url": "https://github.com/SakanaAI/text-to-lora",
+      "description": "Hypernetworks that adapt LLMs for specific benchmark tasks using only textual task description as the input",
+      "stars": 1238,
+      "source": "github"
+    },
+    {
+      "title": "yeyupiaoling/Whisper-Finetune",
+      "url": "https://github.com/yeyupiaoling/Whisper-Finetune",
+      "description": "Fine-tune the Whisper speech recognition model to support training without timestamp data, training with timestamp data, and training without speech data. Accelerate inference and support Web deployment, Windows desktop deployment, and Android deployment",
+      "stars": 1205,
+      "source": "github"
+    },
+    {
+      "title": "ARahim3/mlx-tune",
+      "url": "https://github.com/ARahim3/mlx-tune",
+      "description": "Fine-tune LLMs on your Mac with Apple Silicon. SFT, DPO, GRPO, and Vision fine-tuning — natively on MLX. Unsloth-compatible API.",
+      "stars": 923,
+      "source": "github"
+    },
+    {
+      "title": "georgian-io/LLM-Finetuning-Toolkit",
+      "url": "https://github.com/georgian-io/LLM-Finetuning-Toolkit",
+      "description": "Toolkit for fine-tuning, ablating and unit-testing open-source LLMs.",
+      "stars": 870,
+      "source": "github"
+    },
+    {
+      "title": "haofanwang/Lora-for-Diffusers",
+      "url": "https://github.com/haofanwang/Lora-for-Diffusers",
+      "description": "The most easy-to-understand tutorial for using LoRA (Low-Rank Adaptation) within diffusers framework for AI Generation Researchers🔥",
+      "stars": 824,
+      "source": "github"
+    },
+    {
+      "title": "dvgodoy/FineTuningLLMs",
+      "url": "https://github.com/dvgodoy/FineTuningLLMs",
+      "description": "Official repository of my book \"A Hands-On Guide to Fine-Tuning LLMs with PyTorch and Hugging Face\"",
+      "stars": 801,
+      "source": "github"
+    },
+    {
+      "title": "arielnlee/Platypus",
+      "url": "https://github.com/arielnlee/Platypus",
+      "description": "Code for fine-tuning Platypus fam LLMs using LoRA",
+      "stars": 628,
+      "source": "github"
+    },
+    {
+      "title": "wpydcr/LLM-Kit",
+      "url": "https://github.com/wpydcr/LLM-Kit",
+      "description": "🚀WebUI integrated platform for latest LLMs | 各大语言模型的全流程工具 WebUI 整合包。支持主流大模型API接口和开源模型。支持知识库，数据库，角色扮演，mj文生图，LoRA和全参数微调，数据集制作，live2d等全流程应用工具",
+      "stars": 549,
+      "source": "github"
+    },
+    {
+      "title": "datawhalechina/base-llm",
+      "url": "https://github.com/datawhalechina/base-llm",
+      "description": "从 NLP 到 LLM 的算法全栈教程，在线阅读地址：https://datawhalechina.github.io/base-llm/",
+      "stars": 534,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.304,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.05,
+      "star_power": 0.096,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

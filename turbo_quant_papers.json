@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Fractal universe and quantum gravity made simple",
+    "abstract": "Quantum field theory (QFT) on fractal spacetimes is a program aiming at quantizing the gravitational interaction consistently at all energy scales thanks to an intrinsically or dynamically induced multiscale or multifractal-like spacetime geometry that regularizes the infinities of standard QFT. We reach the goal of this program and formulate a field theory of quantum gravity which is shown to be super-renormalizable and unitary at all perturbative orders. Viable and unviable ways to test this proposal through black holes and gravitational waves are discussed.",
+    "url": "http://arxiv.org/abs/2603.24593v1",
+    "date": "2026-03-25",
+    "authors": []
+  },
+  {
+    "title": "Vibe Coding XR: Accelerating AI + XR Prototyping with XR Blocks and Gemini",
+    "abstract": "While large language models have accelerated software development through \"vibe coding\", prototyping intelligent Extended Reality (XR) experiences remains inaccessible due to the friction of complex game engines and low-level sensor integration. To bridge this gap, we contribute XR Blocks, an open-source, modular WebXR framework that abstracts spatial computing complexities into high-level, human-centered primitives. Building upon this foundation, we present Vibe Coding XR, an end-to-end rapid prototyping workflow that leverages LLMs to translate natural language intent directly into functional XR software. Using a web-based interface, creators can transform high-level prompts (e.g., \"create a dandelion that reacts to hand\") into interactive WebXR applications in under a minute. We provide",
+    "url": "http://arxiv.org/abs/2603.24591v1",
+    "date": "2026-03-25",
+    "authors": []
+  },
+  {
+    "title": "Comparing Developer and LLM Biases in Code Evaluation",
+    "abstract": "As LLMs are increasingly used as judges in code applications, they should be evaluated in realistic interactive settings that capture partial context and ambiguous intent. We present TRACE (Tool for Rubric Analysis in Code Evaluation), a framework that evaluates LLM judges' ability to predict human preferences and automatically extracts rubric items to reveal systematic biases in how humans and models weigh each item. Across three modalities -- chat-based programming, IDE autocompletion, and instructed code editing -- we use TRACE to measure how well LLM judges align with developer preferences. Among 13 different models, the best judges underperform human annotators by 12-23%. TRACE identifies 35 significant sources of misalignment between humans and judges across interaction modalities, t",
+    "url": "http://arxiv.org/abs/2603.24586v1",
+    "date": "2026-03-25",
+    "authors": []
+  },
+  {
+    "title": "MARCH: Multi-Agent Reinforced Self-Check for LLM Hallucination",
+    "abstract": "Hallucination remains a critical bottleneck for large language models (LLMs), undermining their reliability in real-world applications, especially in Retrieval-Augmented Generation (RAG) systems. While existing hallucination detection methods employ LLM-as-a-judge to verify LLM outputs against retrieved evidence, they suffer from inherent confirmation bias, where the verifier inadvertently reproduces the errors of the original generation. To address this, we introduce Multi-Agent Reinforced Self-Check for Hallucination (MARCH), a framework that enforces rigorous factual alignment by leveraging deliberate information asymmetry. MARCH orchestrates a collaborative pipeline of three specialized agents: a Solver, a Proposer, and a Checker. The Solver generates an initial RAG response, which the",
+    "url": "http://arxiv.org/abs/2603.24579v1",
+    "date": "2026-03-25",
+    "authors": []
+  },
+  {
+    "title": "Boosting LLMs for Mutation Generation",
+    "abstract": "LLM-based mutation testing is a promising testing technology, but existing approaches typically rely on a fixed set of mutations as few-shot examples or none at all. This can result in generic low-quality mutations, missed context-specific mutation patterns, substantial numbers of redundant and uncompilable mutants, and limited semantic similarity to real bugs. To overcome these limitations, we introduce SMART (Semantic Mutation with Adaptive Retrieval and Tuning). SMART integrates retrieval-augmented generation (RAG) on a vectorized dataset of real-world bugs, focused code chunking, and supervised fine-tuning using mutations coupled with real-world bugs. We conducted an extensive empirical study of SMART using 1,991 real-world Java bugs from the Defects4J and ConDefects datasets, comparin",
+    "url": "http://arxiv.org/abs/2603.24560v1",
+    "date": "2026-03-25",
+    "authors": []
+  },
+  {
+    "title": "Polynomial Speedup in Diffusion Models with the Multilevel Euler-Maruyama Method",
+    "abstract": "We introduce the Multilevel Euler-Maruyama (ML-EM) method compute solutions of SDEs and ODEs using a range of approximators $f^1,\\dots,f^k$ to the drift $f$ with increasing accuracy and computational cost, only requiring a few evaluations of the most accurate $f^k$ and many evaluations of the less costly $f^1,\\dots,f^{k-1}$. If the drift lies in the so-called Harder than Monte Carlo (HTMC) regime, i.e. it requires $ε^{-γ}$ compute to be $ε$-approximated for some $γ&gt;2$, then ML-EM $ε$-approximates the solution of the SDE with $ε^{-γ}$ compute, improving over the traditional EM rate of $ε^{-γ-1}$. In other terms it allows us to solve the SDE at the same cost as a single evaluation of the drift. In the context of diffusion models, the different levels $f^{1},\\dots,f^{k}$ are obtained by tr",
+    "url": "http://arxiv.org/abs/2603.24594v1",
+    "date": "2026-03-25",
+    "authors": []
+  },
+  {
+    "title": "Landau and fractionalized theories of periodically driven intertwined orders",
+    "abstract": "We obtain the phase diagrams of field theories of intertwined orders in the presence of periodic driving by an external field which preserves all symmetries. We consider both a conventional Landau theory of competing orders, and a fractionalized theory in which the order parameters are distinct composites of an underlying multi-component Higgs field. We work in the large $N$ limit and couple to a Markovian bath. The long time limits are characterized by non-zero average values, oscillations with the drive period and/or half the drive period, quasi-periodic oscillations, or chaotic behavior.",
+    "url": "http://arxiv.org/abs/2603.24592v1",
+    "date": "2026-03-25",
+    "authors": []
+  },
+  {
+    "title": "Electronic properties of the Radium-monochalcogenides RaX (X = O,S,Se) and RaO+/- ions",
+    "abstract": "We present a theoretical investigation on the electronic structure and properties of radium monochalcogenides, with chalcogens O, S, and Se, as well as the ionic species RaO +/-. Our approach combines fully relativistic and partially relativistic quantum-chemistry methods. Electronic properties are obtained using the exact two-component Hamiltonian-based coupled-cluster approach with single, double, and perturbative triple excitations [CCSD(T)+ X2C], while potential energy curves are computed using an internally contracted multireference configuration interaction method, including relativistic effects through small-core pseudopotentials and Pauli-Breit operator diagonalization (MRCI+Q+ECP+SO). The dimers exhibit very large permanent dipole moments and sizable dipolar polarizabilities, whil",
+    "url": "http://arxiv.org/abs/2603.24590v1",
+    "date": "2026-03-25",
+    "authors": []
+  },
+  {
+    "title": "Unlocking HST's Stellar Treasure Trove: Stellar Activity Minima for HAT-P-11 Offer Prime Windows for Transmission Spectroscopy",
+    "abstract": "HAT-P-11 is a well-studied, active K dwarf hosting an eccentric, misaligned transiting sub-Neptune. As part of the HST Stellar Treasure Trove program (HST-AR-17551), we analyze absolutely calibrated out-of-transit \\HST{} spectra from \\texttt{STIS} and \\texttt{WFC3} across the \\textsc{G430L}, \\textsc{G750L}, \\textsc{G102}, and \\textsc{G141} bandpasses to constrain the surface heterogeneity of HAT-P-11 and its impact on transmission spectroscopy. Grid-based spectral retrievals using NewEra \\texttt{PHOENIX} models robustly favor two-component photospheres in the \\texttt{WFC3} G102 and G141 data, with a ${\\sim}4950$\\,K photospheric component and a cooler ($\\sim$3400\\,K) component covering 26{--}33\\% of the stellar disk. By contrast, retrievals on the \\texttt{STIS} optical spectra do not yield ",
+    "url": "http://arxiv.org/abs/2603.24585v1",
+    "date": "2026-03-25",
+    "authors": []
+  },
+  {
+    "title": "Latent-WAM: Latent World Action Modeling for End-to-End Autonomous Driving",
+    "abstract": "We introduce Latent-WAM, an efficient end-to-end autonomous driving framework that achieves strong trajectory planning through spatially-aware and dynamics-informed latent world representations. Existing world-model-based planners suffer from inadequately compressed representations, limited spatial understanding, and underutilized temporal dynamics, resulting in sub-optimal planning under constrained data and compute budgets. Latent-WAM addresses these limitations with two core modules: a Spatial-Aware Compressive World Encoder (SCWE) that distills geometric knowledge from a foundation model and compresses multi-view images into compact scene tokens via learnable queries, and a Dynamic Latent World Model (DLWM) that employs a causal Transformer to autoregressively predict future world stat",
+    "url": "http://arxiv.org/abs/2603.24581v1",
+    "date": "2026-03-25",
+    "authors": []
+  },
+  {
+    "title": "DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving",
+    "abstract": "We introduce DreamerAD, the first latent world model framework that enables efficient reinforcement learning for autonomous driving by compressing diffusion sampling from 100 steps to 1 - achieving 80x speedup while maintaining visual interpretability. Training RL policies on real-world driving data incurs prohibitive costs and safety risks. While existing pixel-level diffusion world models enable safe imagination-based training, they suffer from multi-step diffusion inference latency (2s/frame) that prevents high-frequency RL interaction. Our approach leverages denoised latent features from video generation models through three key mechanisms: (1) shortcut forcing that reduces sampling complexity via recursive multi-resolution step compression, (2) an autoregressive dense reward model ope",
+    "url": "http://arxiv.org/abs/2603.24587v1",
+    "date": "2026-03-25",
+    "authors": []
+  },
+  {
+    "title": "TAG: Target-Agnostic Guidance for Stable Object-Centric Inference in Vision-Language-Action Models",
+    "abstract": "Vision--Language--Action (VLA) policies have shown strong progress in mapping language instructions and visual observations to robotic actions, yet their reliability degrades in cluttered scenes with distractors. By analyzing failure cases, we find that many errors do not arise from infeasible motions, but from instance-level grounding failures: the policy often produces a plausible grasp trajectory that lands slightly off-target or even on the wrong object instance. To address this issue, we propose TAG (Target-Agnostic Guidance), a simple inference-time guidance mechanism that explicitly reduces distractor- and appearance-induced bias in VLA policies. Inspired by classifier-free guidance (CFG), TAG contrasts policy predictions under the original observation and an object-erased observati",
+    "url": "http://arxiv.org/abs/2603.24584v1",
+    "date": "2026-03-25",
+    "authors": []
+  },
+  {
+    "title": "From friction scaling to an efficient method for estimating bubble wall velocity",
+    "abstract": "We present a unified description of first-order cosmological phase transition dynamics that links the phenomenological friction model employed in hydrodynamic simulations to the microscopic treatment based on Boltzmann equations. We derive an approximate analytical expression for the chemical potential and demonstrate that the resulting friction parameter $\\tildeη$ follows a simple power-law dependence on the transition strength ($\\propto v_n^4/T_n^4$). Incorporating this scaling into a phenomenological framework accurately reproduces the terminal wall velocities obtained from the full microscopic analysis performed using \\texttt{WallGo}. This approach offers an efficient method to quantify out-of-equilibrium contributions to friction and reliably estimate bubble-wall velocities.",
+    "url": "http://arxiv.org/abs/2603.24583v1",
+    "date": "2026-03-25",
+    "authors": []
+  }
+]

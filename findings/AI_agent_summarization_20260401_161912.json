@@ -1,0 +1,174 @@
+{
+  "topic": "AI agent summarization",
+  "timestamp": "2026-04-01T16:19:12.825749",
+  "findings": [
+    {
+      "title": "deepset-ai/haystack",
+      "url": "https://github.com/deepset-ai/haystack",
+      "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
+      "stars": 24672,
+      "source": "github"
+    },
+    {
+      "title": "SylphAI-Inc/AdalFlow",
+      "url": "https://github.com/SylphAI-Inc/AdalFlow",
+      "description": "AdalFlow: The library to build & auto-optimize LLM applications.",
+      "stars": 4084,
+      "source": "github"
+    },
+    {
+      "title": "awslabs/generative-ai-cdk-constructs",
+      "url": "https://github.com/awslabs/generative-ai-cdk-constructs",
+      "description": "AWS Generative AI CDK Constructs are sample implementations of AWS CDK for common generative AI patterns.",
+      "stars": 535,
+      "source": "github"
+    },
+    {
+      "title": "mtwn105/decipher-research-agent",
+      "url": "https://github.com/mtwn105/decipher-research-agent",
+      "description": "Turn topics, links, and files into AI-generated research notebooks — summarize, explore, and ask anything.",
+      "stars": 145,
+      "source": "github"
+    },
+    {
+      "title": "AR-FORUM/hodoscope",
+      "url": "https://github.com/AR-FORUM/hodoscope",
+      "description": "Analyze AI agent trajectories: extract actions, summarize, embed, and visualize.",
+      "stars": 105,
+      "source": "github"
+    },
+    {
+      "title": "destinyfrancis/openclaw-knowledge-distiller",
+      "url": "https://github.com/destinyfrancis/openclaw-knowledge-distiller",
+      "description": "Open CLAW Knowledge Distiller · 龍蝦知識蒸餾器 — Turn YouTube/Bilibili videos into structured knowledge articles. Local Qwen3-ASR MLX + AI summarization. MCP server for Claude Code / Open CLAW agents.",
+      "stars": 59,
+      "source": "github"
+    },
+    {
+      "title": "KonstantinVanov/Article-Assistant--RAG-Telegram-Bot",
+      "url": "https://github.com/KonstantinVanov/Article-Assistant--RAG-Telegram-Bot",
+      "description": "A sophisticated RAG (Retrieval-Augmented Generation) Telegram bot that transforms articles and documents into interactive knowledge bases. Upload PDFs/URLs and get AI-powered answers with source citations.",
+      "stars": 53,
+      "source": "github"
+    },
+    {
+      "title": "dleerdefi/peak-ai-agent-stack",
+      "url": "https://github.com/dleerdefi/peak-ai-agent-stack",
+      "description": "RinAI agentic chat stack. Includes graphRAG memory, parallel tool calling, DeepSeek R1 powered web search, advanced LLM gateway and active context summarization.",
+      "stars": 50,
+      "source": "github"
+    },
+    {
+      "title": "The-Swarm-Corporation/CryptoAgent",
+      "url": "https://github.com/The-Swarm-Corporation/CryptoAgent",
+      "description": "CryptoAgent is a professional, enterprise-grade solution designed to fetch, analyze, and summarize real-time cryptocurrency data.",
+      "stars": 44,
+      "source": "github"
+    },
+    {
+      "title": "Braffolk/mcp-summarization-functions",
+      "url": "https://github.com/Braffolk/mcp-summarization-functions",
+      "description": "Provides summarised output from various actions that could otherwise eat up tokens and cause crashes for AI agents ",
+      "stars": 37,
+      "source": "github"
+    },
+    {
+      "title": "Snap-Mind/snap-mind",
+      "url": "https://github.com/Snap-Mind/snap-mind",
+      "description": "A cross-platform desktop AI assistant that lets you translate, rewrite, summarize, and brainstorm with just a hotkey.",
+      "stars": 37,
+      "source": "github"
+    },
+    {
+      "title": "jafarbekyusupov/yappuccino",
+      "url": "https://github.com/jafarbekyusupov/yappuccino",
+      "description": "Yappuccino is a social blogging platform where you can share posts, comment, vote, and repost. Platform integrates n8n AI agent to automatically summarize posts.",
+      "stars": 33,
+      "source": "github"
+    },
+    {
+      "title": "neuron-core/youtube-ai-agent",
+      "url": "https://github.com/neuron-core/youtube-ai-agent",
+      "description": "AI Agents summarizing YouTube videos - built with Neuron PHP AI framework.",
+      "stars": 29,
+      "source": "github"
+    },
+    {
+      "title": "The-Swarm-Corporation/NewsAgent",
+      "url": "https://github.com/The-Swarm-Corporation/NewsAgent",
+      "description": "NewsAgent is an enterprise-grade news aggregation agent designed to fetch, query, and summarize news from multiple sources at scale. ",
+      "stars": 28,
+      "source": "github"
+    },
+    {
+      "title": "DevanshSrajput/Dataa_Analyst_Agent",
+      "url": "https://github.com/DevanshSrajput/Dataa_Analyst_Agent",
+      "description": "AI-powered Streamlit app for analyzing, summarizing, and chatting with documents (PDF, DOCX, CSV, images, etc.) using LLMs and Together AI.",
+      "stars": 18,
+      "source": "github"
+    },
+    {
+      "title": "vstorm-co/summarization-pydantic-ai",
+      "url": "https://github.com/vstorm-co/summarization-pydantic-ai",
+      "description": "Context Management processor for Pydantic AI agents, providing LLM-powered summarization or zero-cost sliding window trimming to handle infinite/long-running conversations without context overflow. Supports flexible triggers, safe cutoffs, and custom prompts for efficient AI apps.",
+      "stars": 16,
+      "source": "github"
+    },
+    {
+      "title": "caleb-kan/AI-Research-Agent",
+      "url": "https://github.com/caleb-kan/AI-Research-Agent",
+      "description": " The AI Research Agent uses AI and web scraping to source, summarize, and cite information on any topic. It efficiently provides accurate data from various sources, aiding research across multiple fields.",
+      "stars": 16,
+      "source": "github"
+    },
+    {
+      "title": "gyinshen/ghostagent",
+      "url": "https://github.com/gyinshen/ghostagent",
+      "description": "AI Research Agent - Search, Scrape, Summarize, Analysis",
+      "stars": 15,
+      "source": "github"
+    },
+    {
+      "title": "zer0-A1/N8N-Agent",
+      "url": "https://github.com/zer0-A1/N8N-Agent",
+      "description": "Autonomous AI-powered unification and execution company-os Clique is designed handle tasks like managing your calendar, email inbox, updating your CRM, sending emails,manage teams and even scheduling meetings - summarize schedule, update you on emails, and assist with any personal administration tasks, all through simple texts or voice commands.",
+      "stars": 15,
+      "source": "github"
+    },
+    {
+      "title": "yaninsanity/TubeWhale",
+      "url": "https://github.com/yaninsanity/TubeWhale",
+      "description": "TubeWhale is an open-source AI framework that automates YouTube video search, transcript retrieval, and content summarization. Users input a keyword, and TubeWhale's multi-agent system expands the search, processes video data, and provides structured summaries. Ideal for researchers and analysts, it simplifies video content exploration.",
+      "stars": 15,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.379,
+    "grade": "D",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.061,
+      "diversity": 0.0,
+      "usability": 0.1,
+      "applicability": 0.875,
+      "coverage": 1.0,
+      "ndcg": 0.648,
+      "map": 0.947,
+      "mrr": 1.0,
+      "rouge_1": 0.45,
+      "semantic_sim": 0.188,
+      "coherence": 0.164,
+      "task_completion": 0.432,
+      "tool_use": 0.103,
+      "reasoning_depth": 0.027,
+      "autonomy": 0.1,
+      "multi_agent": 0.065
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

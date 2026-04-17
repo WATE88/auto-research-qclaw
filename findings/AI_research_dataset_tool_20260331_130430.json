@@ -1,0 +1,174 @@
+{
+  "topic": "AI research dataset tool",
+  "timestamp": "2026-03-31T13:04:30.660715",
+  "findings": [
+    {
+      "title": "Niraj-Lunavat/Artificial-Intelligence",
+      "url": "https://github.com/Niraj-Lunavat/Artificial-Intelligence",
+      "description": "Awesome AI Learning with +100 AI Cheat-Sheets, Free online Books, Top Courses, Best Videos and Lectures, Papers, Tutorials, +99 Researchers, Premium Websites, +121 Datasets, Conferences, Frameworks, Tools             ",
+      "stars": 1807,
+      "source": "github"
+    },
+    {
+      "title": "CelaDaniel/free-ai-resources-x",
+      "url": "https://github.com/CelaDaniel/free-ai-resources-x",
+      "description": "🌟 A curated collection of free, high quality AI tools 🤖, APIs 🔗, datasets 📊, and learning resources 📚 covering machine learning 🧠, deep learning 🧩, generative AI 🎨, NLP 💬, and data science 📈. Designed to help developers 👩‍💻, researchers 🔬, and creators ✨ explore and build with AI faster ⚡.",
+      "stars": 396,
+      "source": "github"
+    },
+    {
+      "title": "Elvin-Yiming-Du/Survey_Memory_in_AI",
+      "url": "https://github.com/Elvin-Yiming-Du/Survey_Memory_in_AI",
+      "description": "This repository introduce a comprehensive paper list, datasets, methods and tools for memory research.",
+      "stars": 351,
+      "source": "github"
+    },
+    {
+      "title": "medtorch/awesome-healthcare-ai",
+      "url": "https://github.com/medtorch/awesome-healthcare-ai",
+      "description": "A curated list of awesome open source healthcare tools, algorithms, datasets and research papers.",
+      "stars": 316,
+      "source": "github"
+    },
+    {
+      "title": "shrutisaxena51/Artificial-Intelligence-in-Compiler-Optimization",
+      "url": "https://github.com/shrutisaxena51/Artificial-Intelligence-in-Compiler-Optimization",
+      "description": "A curated list of research papers, datasets, and tools for applying machine learning/Deep learning techniques to compilers and program optimization.",
+      "stars": 124,
+      "source": "github"
+    },
+    {
+      "title": "Aryia-Behroziuan/neurons",
+      "url": "https://github.com/Aryia-Behroziuan/neurons",
+      "description": "An ANN is a model based on a collection of connected units or nodes called \"artificial neurons\", which loosely model the neurons in a biological brain. Each connection, like the synapses in a biological brain, can transmit information, a \"signal\", from one artificial neuron to another. An artificial neuron that receives a signal can process it and then signal additional artificial neurons connected to it. In common ANN implementations, the signal at a connection between artificial neurons is a real number, and the output of each artificial neuron is computed by some non-linear function of the sum of its inputs. The connections between artificial neurons are called \"edges\". Artificial neurons and edges typically have a weight that adjusts as learning proceeds. The weight increases or decreases the strength of the signal at a connection. Artificial neurons may have a threshold such that the signal is only sent if the aggregate signal crosses that threshold. Typically, artificial neurons are aggregated into layers. Different layers may perform different kinds of transformations on their inputs. Signals travel from the first layer (the input layer) to the last layer (the output layer), possibly after traversing the layers multiple times.  The original goal of the ANN approach was to solve problems in the same way that a human brain would. However, over time, attention moved to performing specific tasks, leading to deviations from biology. Artificial neural networks have been used on a variety of tasks, including computer vision, speech recognition, machine translation, social network filtering, playing board and video games and medical diagnosis.  Deep learning consists of multiple hidden layers in an artificial neural network. This approach tries to model the way the human brain processes light and sound into vision and hearing. Some successful applications of deep learning are computer vision and speech recognition.[68]  Decision trees Main article: Decision tree learning Decision tree learning uses a decision tree as a predictive model to go from observations about an item (represented in the branches) to conclusions about the item's target value (represented in the leaves). It is one of the predictive modeling approaches used in statistics, data mining, and machine learning. Tree models where the target variable can take a discrete set of values are called classification trees; in these tree structures, leaves represent class labels and branches represent conjunctions of features that lead to those class labels. Decision trees where the target variable can take continuous values (typically real numbers) are called regression trees. In decision analysis, a decision tree can be used to visually and explicitly represent decisions and decision making. In data mining, a decision tree describes data, but the resulting classification tree can be an input for decision making.  Support vector machines Main article: Support vector machines Support vector machines (SVMs), also known as support vector networks, are a set of related supervised learning methods used for classification and regression. Given a set of training examples, each marked as belonging to one of two categories, an SVM training algorithm builds a model that predicts whether a new example falls into one category or the other.[69] An SVM training algorithm is a non-probabilistic, binary, linear classifier, although methods such as Platt scaling exist to use SVM in a probabilistic classification setting. In addition to performing linear classification, SVMs can efficiently perform a non-linear classification using what is called the kernel trick, implicitly mapping their inputs into high-dimensional feature spaces.   Illustration of linear regression on a data set. Regression analysis Main article: Regression analysis Regression analysis encompasses a large variety of statistical methods to estimate the relationship between input variables and their associated features. Its most common form is linear regression, where a single line is drawn to best fit the given data according to a mathematical criterion such as ordinary least squares. The latter is often extended by regularization (mathematics) methods to mitigate overfitting and bias, as in ridge regression. When dealing with non-linear problems, go-to models include polynomial regression (for example, used for trendline fitting in Microsoft Excel[70]), logistic regression (often used in statistical classification) or even kernel regression, which introduces non-linearity by taking advantage of the kernel trick to implicitly map input variables to higher-dimensional space.  Bayesian networks Main article: Bayesian network  A simple Bayesian network. Rain influences whether the sprinkler is activated, and both rain and the sprinkler influence whether the grass is wet. A Bayesian network, belief network, or directed acyclic graphical model is a probabilistic graphical model that represents a set of random variables and their conditional independence with a directed acyclic graph (DAG). For example, a Bayesian network could represent the probabilistic relationships between diseases and symptoms. Given symptoms, the network can be used to compute the probabilities of the presence of various diseases. Efficient algorithms exist that perform inference and learning. Bayesian networks that model sequences of variables, like speech signals or protein sequences, are called dynamic Bayesian networks. Generalizations of Bayesian networks that can represent and solve decision problems under uncertainty are called influence diagrams.  Genetic algorithms Main article: Genetic algorithm A genetic algorithm (GA) is a search algorithm and heuristic technique that mimics the process of natural selection, using methods such as mutation and crossover to generate new genotypes in the hope of finding good solutions to a given problem. In machine learning, genetic algorithms were used in the 1980s and 1990s.[71][72] Conversely, machine learning techniques have been used to improve the performance of genetic and evolutionary algorithms.[73]  Training models Usually, machine learning models require a lot of data in order for them to perform well. Usually, when training a machine learning model, one needs to collect a large, representative sample of data from a training set. Data from the training set can be as varied as a corpus of text, a collection of images, and data collected from individual users of a service. Overfitting is something to watch out for when training a machine learning model.  Federated learning Main article: Federated learning Federated learning is an adapted form of distributed artificial intelligence to training machine learning models that decentralizes the training process, allowing for users' privacy to be maintained by not needing to send their data to a centralized server. This also increases efficiency by decentralizing the training process to many devices. For example, Gboard uses federated machine learning to train search query prediction models on users' mobile phones without having to send individual searches back to Google.[74]  Applications There are many applications for machine learning, including:  Agriculture Anatomy Adaptive websites Affective computing Banking Bioinformatics Brain–machine interfaces Cheminformatics Citizen science Computer networks Computer vision Credit-card fraud detection Data quality DNA sequence classification Economics Financial market analysis[75] General game playing Handwriting recognition Information retrieval Insurance Internet fraud detection Linguistics Machine learning control Machine perception Machine translation Marketing Medical diagnosis Natural language processing Natural language understanding Online advertising Optimization Recommender systems Robot locomotion Search engines Sentiment analysis Sequence mining Software engineering Speech recognition Structural health monitoring Syntactic pattern recognition Telecommunication Theorem proving Time series forecasting User behavior analytics In 2006, the media-services provider Netflix held the first \"Netflix Prize\" competition to find a program to better predict user preferences and improve the accuracy of its existing Cinematch movie recommendation algorithm by at least 10%. A joint team made up of researchers from AT&T Labs-Research in collaboration with the teams Big Chaos and Pragmatic Theory built an ensemble model to win the Grand Prize in 2009 for $1 million.[76] Shortly after the prize was awarded, Netflix realized that viewers' ratings were not the best indicators of their viewing patterns (\"everything is a recommendation\") and they changed their recommendation engine accordingly.[77] In 2010 The Wall Street Journal wrote about the firm Rebellion Research and their use of machine learning to predict the financial crisis.[78] In 2012, co-founder of Sun Microsystems, Vinod Khosla, predicted that 80% of medical doctors' jobs would be lost in the next two decades to automated machine learning medical diagnostic software.[79] In 2014, it was reported that a machine learning algorithm had been applied in the field of art history to study fine art paintings and that it may have revealed previously unrecognized influences among artists.[80] In 2019 Springer Nature published the first research book created using machine learning.[81]  Limitations Although machine learning has been transformative in some fields, machine-learning programs often fail to deliver expected results.[82][83][84] Reasons for this are numerous: lack of (suitable) data, lack of access to the data, data bias, privacy problems, badly chosen tasks and algorithms, wrong tools and people, lack of resources, and evaluation problems.[85]  In 2018, a self-driving car from Uber failed to detect a pedestrian, who was killed after a collision.[86] Attempts to use machine learning in healthcare with the IBM Watson system failed to deliver even after years of time and billions of dollars invested.[87][88]  Bias Main article: Algorithmic bias Machine learning approaches in particular can suffer from different data biases. A machine learning system trained on current customers only may not be able to predict the needs of new customer groups that are not represented in the training data. When trained on man-made data, machine learning is likely to pick up the same constitutional and unconscious biases already present in society.[89] Language models learned from data have been shown to contain human-like biases.[90][91] Machine learning systems used for criminal risk assessment have been found to be biased against black people.[92][93] In 2015, Google photos would often tag black people as gorillas,[94] and in 2018 this still was not well resolved, but Google reportedly was still using the workaround to remove all gorillas from the training data, and thus was not able to recognize real gorillas at all.[95] Similar issues with recognizing non-white people have been found in many other systems.[96] In 2016, Microsoft tested a chatbot that learned from Twitter, and it quickly picked up racist and sexist language.[97] Because of such challenges, the effective use of machine learning may take longer to be adopted in other domains.[98] Concern for fairness in machine learning, that is, reducing bias in machine learning and propelling its use for human good is increasingly expressed by artificial intelligence scientists, including Fei-Fei Li, who reminds engineers that \"There’s nothing artificial about AI...It’s inspired by people, it’s created by people, and—most importantly—it impacts people. It is a powerful tool we are only just beginning to understand, and that is a profound responsibility.”[99]  Model assessments Classification of machine learning models can be validated by accuracy estimation techniques like the holdout method, which splits the data in a training and test set (conventionally 2/3 training set and 1/3 test set designation) and evaluates the performance of the training model on the test set. In comparison, the K-fold-cross-validation method randomly partitions the data into K subsets and then K experiments are performed each respectively considering 1 subset for evaluation and the remaining K-1 subsets for training the model. In addition to the holdout and cross-validation methods, bootstrap, which samples n instances with replacement from the dataset, can be used to assess model accuracy.[100]  In addition to overall accuracy, investigators frequently report sensitivity and specificity meaning True Positive Rate (TPR) and True Negative Rate (TNR) respectively. Similarly, investigators sometimes report the false positive rate (FPR) as well as the false negative rate (FNR). However, these rates are ratios that fail to reveal their numerators and denominators. The total operating characteristic (TOC) is an effective method to express a model's diagnostic ability. TOC shows the numerators and denominators of the previously mentioned rates, thus TOC provides more information than the commonly used receiver operating characteristic (ROC) and ROC's associated area under the curve (AUC).[101]  Ethics Machine learning poses a host of ethical questions. Systems which are trained on datasets collected with biases may exhibit these biases upon use (algorithmic bias), thus digitizing cultural prejudices.[102] For example, using job hiring data from a firm with racist hiring policies may lead to a machine learning system duplicating the bias by scoring job applicants against similarity to previous successful applicants.[103][104] Responsible collection of data and documentation of algorithmic rules used by a system thus is a critical part of machine learning.  Because human languages contain biases, machines trained on language corpora will necessarily also learn these biases.[105][106]  Other forms of ethical challenges, not related to personal biases, are more seen in health care. There are concerns among health care professionals that these systems might not be designed in the public's interest but as income-generating machines. This is especially true in the United States where there is a long-standing ethical dilemma of improving health care, but also increasing profits. For example, the algorithms could be designed to provide patients with unnecessary tests or medication in which the algorithm's proprietary owners hold stakes. There is huge potential for machine learning in health care to provide professionals a great tool to diagnose, medicate, and even plan recovery paths for patients, but this will not happen until the personal biases mentioned previously, and these \"greed\" biases are addressed.[107]  Hardware Since the 2010s, advances in both machine learning algorithms and computer hardware have led to more efficient methods for training deep neural networks (a particular narrow subdomain of machine learning) that contain many layers of non-linear hidden units.[108] By 2019, graphic processing units (GPUs), often with AI-specific enhancements, had displaced CPUs as the dominant method of training large-scale commercial cloud AI.[109] OpenAI estimated the hardware compute used in the largest deep learning projects from AlexNet (2012) to AlphaZero (2017), and found a 300,000-fold increase in the amount of compute required, with a doubling-time trendline of 3.4 months.[110][111]  Software Software suites containing a variety of machine learning algorithms include the following:  Free and open-source so",
+      "stars": 78,
+      "source": "github"
+    },
+    {
+      "title": "chenxingqiang/YouTube-DNN-RecSys",
+      "url": "https://github.com/chenxingqiang/YouTube-DNN-RecSys",
+      "description": "This repository provides a comprehensive implementation of a deep neural network-based recommendation system similar to YouTube's. The repo is organized to incl",
+      "stars": 67,
+      "source": "github"
+    },
+    {
+      "title": "openlifescience-ai/Awesome-AI-LLMs-in-Radiology",
+      "url": "https://github.com/openlifescience-ai/Awesome-AI-LLMs-in-Radiology",
+      "description": "A curated list of awesome resources, papers, datasets, and tools related to AI in radiology. This repository aims to provide a comprehensive collection of materials to facilitate research, learning, and development in the field of AI-powered radiology.",
+      "stars": 44,
+      "source": "github"
+    },
+    {
+      "title": "mhson-kyle/awesome-ai-in-dentistry",
+      "url": "https://github.com/mhson-kyle/awesome-ai-in-dentistry",
+      "description": "Curated list of research papers, datasets, tools, and resources on Artificial Intelligence in Dentistry.",
+      "stars": 25,
+      "source": "github"
+    },
+    {
+      "title": "Responsible-Dataset-Sharing/easy-dataset-share",
+      "url": "https://github.com/Responsible-Dataset-Sharing/easy-dataset-share",
+      "description": "A CLI tool that helps AI researchers share datasets responsibly.",
+      "stars": 21,
+      "source": "github"
+    },
+    {
+      "title": "ayushi-agarwall/everything-ai",
+      "url": "https://github.com/ayushi-agarwall/everything-ai",
+      "description": "everything-ai is your essential resource for delving into AI and Generative AI. This curated collection includes courses 🎓, certifications 📜, books 📚, libraries 🛠, and research papers 🔬, along with tools 🔧, datasets 📊, and networking 🤝 opportunities. ",
+      "stars": 20,
+      "source": "github"
+    },
+    {
+      "title": "StyleX-Research/Awesome-SVG-AIGC",
+      "url": "https://github.com/StyleX-Research/Awesome-SVG-AIGC",
+      "description": "This repository catalogs cutting-edge research papers, practical tools, datasets, and learning materials for AI-powered SVG generation, processing, and manipulation.",
+      "stars": 19,
+      "source": "github"
+    },
+    {
+      "title": "aw-junaid/Neuroscience",
+      "url": "https://github.com/aw-junaid/Neuroscience",
+      "description": "Explore neuroscience concepts: brain modeling, neural networks, and cognitive simulations. Includes datasets, tools, and research examples for computational neuroscience.",
+      "stars": 9,
+      "source": "github"
+    },
+    {
+      "title": "Data-MzL/Awesome-Higher-Order-Interactions-with-AI",
+      "url": "https://github.com/Data-MzL/Awesome-Higher-Order-Interactions-with-AI",
+      "description": "Awesome Higher-Order Interactions(HOI) in complex network. Collections of related research papers for HOI,commomly used datasets and tools.",
+      "stars": 8,
+      "source": "github"
+    },
+    {
+      "title": "Labellerr/deeplearning",
+      "url": "https://github.com/Labellerr/deeplearning",
+      "description": "Labellerr is a One Stop Automated AI training and Data Annotation SAAS platform for Computer Vision, Voice and NLP solutions. Our goal is to provide organizations a tool so that they can focus more on building AI models quickly rather than waiting on any third party services. Specially designed for machine learning researchers, AI software developers, big data engineers & data scientists whose need is to label millions & billions of datasets in a shorter duration with minimal effort. With Labellerr you can annotate data in any form such as image, text, audio files, video, documents, geospatial, MRI etc by first converting it from unstructured or semi-structured to structured format. This repository is a part of our community initiative wherein we bring the implementations of the latest advancements in the field of Deep Learning. ",
+      "stars": 8,
+      "source": "github"
+    },
+    {
+      "title": "formanova-ai/awesome-jewelry-ai",
+      "url": "https://github.com/formanova-ai/awesome-jewelry-ai",
+      "description": "A curated list of AI research, models, datasets, and tools for jewelry imagery and ecommerce.",
+      "stars": 6,
+      "source": "github"
+    },
+    {
+      "title": "CarinaSchoppe/PISMA-Literature-Review-Pipeline-Automation-Tool",
+      "url": "https://github.com/CarinaSchoppe/PISMA-Literature-Review-Pipeline-Automation-Tool",
+      "description": "AI-powered literature review tool that automatically searches academic databases, collects research papers, expands results via citation networks, and analyzes titles and abstracts for relevance. It ranks papers, downloads open-access PDFs, and generates structured datasets and summaries to support efficient systematic research.",
+      "stars": 6,
+      "source": "github"
+    },
+    {
+      "title": "FS-17/SpeechDataBuilder",
+      "url": "https://github.com/FS-17/SpeechDataBuilder",
+      "description": "Browser-based open-source tool for creating high-quality TTS/STT datasets. Features AI transcription, multiple export formats, and audio visualization with no server-side processing. Perfect for ML engineers, developers, and researchers.",
+      "stars": 6,
+      "source": "github"
+    },
+    {
+      "title": "SalmaSalahEldin/Multi-Agent-System-for-AI-Powered-Market-Research-Using-LangGraph-and-LangChain",
+      "url": "https://github.com/SalmaSalahEldin/Multi-Agent-System-for-AI-Powered-Market-Research-Using-LangGraph-and-LangChain",
+      "description": "A multi-agent system for AI-driven market research, use case generation, and resource collection. It utilizes Langchain, Langgraph, Gradio and Tavily API to research industries, generate AI/ML use cases, and gather datasets and tools. This system helps organizations explore AI solutions and implement innovative strategies effectively.",
+      "stars": 5,
+      "source": "github"
+    },
+    {
+      "title": "QinHsiu/Awesome-Resources",
+      "url": "https://github.com/QinHsiu/Awesome-Resources",
+      "description": "This repository contains datasets for deep model training, AI-related competitions, websites for learning AI for free, online brush-ups, outsourcing websites, some tools you can use to do research, build, and some open-source tools.",
+      "stars": 5,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.43,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.092,
+      "diversity": 0.0,
+      "usability": 0.3,
+      "applicability": 0.975,
+      "coverage": 1.0,
+      "ndcg": 0.576,
+      "map": 0.947,
+      "mrr": 1.0,
+      "rouge_1": 0.412,
+      "semantic_sim": 0.171,
+      "coherence": 0.179,
+      "task_completion": 0.571,
+      "tool_use": 0.367,
+      "reasoning_depth": 0.127,
+      "autonomy": 0.125,
+      "multi_agent": 0.085
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

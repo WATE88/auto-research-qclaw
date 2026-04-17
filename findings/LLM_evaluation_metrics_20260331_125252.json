@@ -1,0 +1,174 @@
+{
+  "topic": "LLM evaluation metrics",
+  "timestamp": "2026-03-31T12:52:52.652245",
+  "findings": [
+    {
+      "title": "langfuse/langfuse",
+      "url": "https://github.com/langfuse/langfuse",
+      "description": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 ",
+      "stars": 24080,
+      "source": "github"
+    },
+    {
+      "title": "evidentlyai/evidently",
+      "url": "https://github.com/evidentlyai/evidently",
+      "description": "Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics.",
+      "stars": 7348,
+      "source": "github"
+    },
+    {
+      "title": "openlit/openlit",
+      "url": "https://github.com/openlit/openlit",
+      "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50+ LLM Providers, VectorDBs, Agent Frameworks and GPUs.",
+      "stars": 2330,
+      "source": "github"
+    },
+    {
+      "title": "Scale3-Labs/langtrace",
+      "url": "https://github.com/Scale3-Labs/langtrace",
+      "description": "Langtrace 🔍 is an open-source,  Open Telemetry based end-to-end observability tool for LLM applications, providing real-time tracing, evaluations and metrics for popular LLMs, LLM frameworks, vectorDBs and more.. Integrate using Typescript, Python. 🚀💻📊",
+      "stars": 1187,
+      "source": "github"
+    },
+    {
+      "title": "TonicAI/tonic_validate",
+      "url": "https://github.com/TonicAI/tonic_validate",
+      "description": "Metrics to evaluate the quality of responses of your Retrieval Augmented Generation (RAG) applications.",
+      "stars": 325,
+      "source": "github"
+    },
+    {
+      "title": "dsdanielpark/open-llm-leaderboard-report",
+      "url": "https://github.com/dsdanielpark/open-llm-leaderboard-report",
+      "description": "Weekly visualization report of Open LLM model performance based on 4 metrics.",
+      "stars": 86,
+      "source": "github"
+    },
+    {
+      "title": "ai-evals-course/judgy",
+      "url": "https://github.com/ai-evals-course/judgy",
+      "description": "Python package for estimating a CIs for metrics evaluated by LLM-as-Judges.",
+      "stars": 85,
+      "source": "github"
+    },
+    {
+      "title": "parea-ai/parea-sdk-py",
+      "url": "https://github.com/parea-ai/parea-sdk-py",
+      "description": "Python SDK for experimenting, testing, evaluating & monitoring LLM-powered applications - Parea AI (YC S23)",
+      "stars": 82,
+      "source": "github"
+    },
+    {
+      "title": "RouteWorks/RouterArena",
+      "url": "https://github.com/RouteWorks/RouterArena",
+      "description": "RouterArena: An open framework for evaluating LLM routers with standardized datasets, metrics, an automated framework, and a live leaderboard.",
+      "stars": 74,
+      "source": "github"
+    },
+    {
+      "title": "zli12321/qa_metrics",
+      "url": "https://github.com/zli12321/qa_metrics",
+      "description": "An easy python package to run quick basic QA evaluations. This package includes standardized QA evaluation metrics and semantic evaluation metrics: Black-box and Open-Source large language model prompting and evaluation, exact match, F1 Score, PEDANT semantic match, transformer match. Our package also supports prompting OPENAI and Anthropic API.",
+      "stars": 61,
+      "source": "github"
+    },
+    {
+      "title": "waltonfuture/Diff-eRank",
+      "url": "https://github.com/waltonfuture/Diff-eRank",
+      "description": "[NeurIPS 2024]  A Novel Rank-Based Metric for Evaluating Large Language Models",
+      "stars": 57,
+      "source": "github"
+    },
+    {
+      "title": "TIGER-AI-Lab/VideoScore2",
+      "url": "https://github.com/TIGER-AI-Lab/VideoScore2",
+      "description": "Automatic Metric for Evaluating Generated Videos",
+      "stars": 36,
+      "source": "github"
+    },
+    {
+      "title": "Yunhao-Feng/BackdoorAgent",
+      "url": "https://github.com/Yunhao-Feng/BackdoorAgent",
+      "description": "BackdoorAgent is a stage-aware framework and benchmark that instruments LLM-agent workflows (planning, memory, tools) to systematically inject, track, and evaluate backdoor triggers across multi-step trajectories using unified metrics like ASR and clean accuracy.",
+      "stars": 34,
+      "source": "github"
+    },
+    {
+      "title": "TIGER-AI-Lab/TIGERScore",
+      "url": "https://github.com/TIGER-AI-Lab/TIGERScore",
+      "description": "\"TIGERScore: Towards Building Explainable Metric for All Text Generation Tasks\" [TMLR 2024]",
+      "stars": 32,
+      "source": "github"
+    },
+    {
+      "title": "lechmazur/deception",
+      "url": "https://github.com/lechmazur/deception",
+      "description": "Benchmark evaluating LLMs on their ability to create and resist disinformation. Includes comprehensive testing across major models (Claude, GPT-4, Gemini, Llama, etc.) with standardized evaluation metrics.",
+      "stars": 31,
+      "source": "github"
+    },
+    {
+      "title": "facebookresearch/lss_eval",
+      "url": "https://github.com/facebookresearch/lss_eval",
+      "description": "This is a new metric that can be used to evaluate faithfulness of text generated by LLMs. The work behind this repository can be found here ",
+      "stars": 31,
+      "source": "github"
+    },
+    {
+      "title": "meshkovQA/Eval-ai-library",
+      "url": "https://github.com/meshkovQA/Eval-ai-library",
+      "description": "Comprehensive AI Model Evaluation Framework with advanced techniques including Temperature-Controlled Verdict Aggregation via Generalized Power Mean. Support for multiple LLM providers and 15+ evaluation metrics for RAG systems and AI agents.",
+      "stars": 30,
+      "source": "github"
+    },
+    {
+      "title": "loveholidays/eval-kit",
+      "url": "https://github.com/loveholidays/eval-kit",
+      "description": "TypeScript SDK for evaluating content quality using both traditional metrics and LLM-powered evaluation",
+      "stars": 27,
+      "source": "github"
+    },
+    {
+      "title": "sinanuozdemir/oreilly-evaluating-llms",
+      "url": "https://github.com/sinanuozdemir/oreilly-evaluating-llms",
+      "description": "Metrics, Benchmarks, and Practical Tools for Assessing Large Language Models",
+      "stars": 26,
+      "source": "github"
+    },
+    {
+      "title": "Oncoshot/llm-validation-framework",
+      "url": "https://github.com/Oncoshot/llm-validation-framework",
+      "description": "A comprehensive Python framework for evaluating LLM-extracted structured data against ground truth labels. Supports binary classification, scalar values, and list fields with detailed performance metrics, confidence-based evaluation, and statistical uncertainty quantification via non-parametric bootstrap confidence intervals.",
+      "stars": 20,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.401,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.2,
+      "star_power": 0.075,
+      "diversity": 0.0,
+      "usability": 0.1,
+      "applicability": 1.0,
+      "coverage": 1.0,
+      "ndcg": 0.576,
+      "map": 0.954,
+      "mrr": 1.0,
+      "rouge_1": 0.517,
+      "semantic_sim": 0.208,
+      "coherence": 0.084,
+      "task_completion": 0.486,
+      "tool_use": 0.087,
+      "reasoning_depth": 0.04,
+      "autonomy": 0.1,
+      "multi_agent": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

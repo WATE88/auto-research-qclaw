@@ -1,0 +1,280 @@
+{
+  "topic": "fine-tuning LLMs",
+  "timestamp": "2026-04-14T11:10:56.456187",
+  "findings": [
+    {
+      "title": "hiyouga/LlamaFactory",
+      "url": "https://github.com/hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars": 70055,
+      "source": "github"
+    },
+    {
+      "title": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.",
+      "stars": 61429,
+      "source": "github"
+    },
+    {
+      "title": "xming521/WeClone",
+      "url": "https://github.com/xming521/WeClone",
+      "description": "🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊天记录创造数字分身的一站式解决方案  ",
+      "stars": 17130,
+      "source": "github"
+    },
+    {
+      "title": "kvcache-ai/ktransformers",
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "stars": 16966,
+      "source": "github"
+    },
+    {
+      "title": "ConardLi/easy-dataset",
+      "url": "https://github.com/ConardLi/easy-dataset",
+      "description": "A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval",
+      "stars": 13936,
+      "source": "github"
+    },
+    {
+      "title": "bentoml/OpenLLM",
+      "url": "https://github.com/bentoml/OpenLLM",
+      "description": "Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.",
+      "stars": 12279,
+      "source": "github"
+    },
+    {
+      "title": "ludwig-ai/ludwig",
+      "url": "https://github.com/ludwig-ai/ludwig",
+      "description": "Low-code framework for building custom LLMs, neural networks, and other AI models",
+      "stars": 11669,
+      "source": "github"
+    },
+    {
+      "title": "bigscience-workshop/petals",
+      "url": "https://github.com/bigscience-workshop/petals",
+      "description": "🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading",
+      "stars": 10065,
+      "source": "github"
+    },
+    {
+      "title": "oumi-ai/oumi",
+      "url": "https://github.com/oumi-ai/oumi",
+      "description": "Easily fine-tune, evaluate and deploy gpt-oss, Qwen3, DeepSeek-R1, or any open source LLM / VLM!",
+      "stars": 9181,
+      "source": "github"
+    },
+    {
+      "title": "h2oai/h2o-llmstudio",
+      "url": "https://github.com/h2oai/h2o-llmstudio",
+      "description": "H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/",
+      "stars": 4906,
+      "source": "github"
+    },
+    {
+      "title": "SylphAI-Inc/LLM-engineer-handbook",
+      "url": "https://github.com/SylphAI-Inc/LLM-engineer-handbook",
+      "description": "A curated list of Large Language Model resources, covering model training, serving, fine-tuning, and building LLM applications.",
+      "stars": 4876,
+      "source": "github"
+    },
+    {
+      "title": "predibase/lorax",
+      "url": "https://github.com/predibase/lorax",
+      "description": "Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs",
+      "stars": 3748,
+      "source": "github"
+    },
+    {
+      "title": "iusztinpaul/hands-on-llms",
+      "url": "https://github.com/iusztinpaul/hands-on-llms",
+      "description": "🦖 𝗟𝗲𝗮𝗿𝗻 about 𝗟𝗟𝗠𝘀, 𝗟𝗟𝗠𝗢𝗽𝘀, and 𝘃𝗲𝗰𝘁𝗼𝗿 𝗗𝗕𝘀 for free by designing, training, and deploying a real-time financial advisor LLM system ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 𝘷𝘪𝘥𝘦𝘰 & 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴",
+      "stars": 3405,
+      "source": "github"
+    },
+    {
+      "title": "ashishpatel26/LLM-Finetuning",
+      "url": "https://github.com/ashishpatel26/LLM-Finetuning",
+      "description": "LLM Finetuning with peft",
+      "stars": 2906,
+      "source": "github"
+    },
+    {
+      "title": "stochasticai/xTuring",
+      "url": "https://github.com/stochasticai/xTuring",
+      "description": "Build, personalize and control your own LLMs. From data pre-processing to fine-tuning, xTuring provides an easy way to personalize open-source LLMs. Join our discord community: https://discord.gg/TgHXuSJEk6",
+      "stars": 2663,
+      "source": "github"
+    },
+    {
+      "title": "decodingai-magazine/second-brain-ai-assistant-course",
+      "url": "https://github.com/decodingai-magazine/second-brain-ai-assistant-course",
+      "description": "Learn to build your Second Brain AI assistant with LLMs, agents, RAG, fine-tuning, LLMOps and AI systems techniques.",
+      "stars": 2640,
+      "source": "github"
+    },
+    {
+      "title": "Memento-Teams/Memento",
+      "url": "https://github.com/Memento-Teams/Memento",
+      "description": "Official Code of Memento: Fine-tuning LLM Agents without Fine-tuning LLMs",
+      "stars": 2395,
+      "source": "github"
+    },
+    {
+      "title": "AI-Hypercomputer/maxtext",
+      "url": "https://github.com/AI-Hypercomputer/maxtext",
+      "description": "A simple, performant and scalable Jax LLM!",
+      "stars": 2232,
+      "source": "github"
+    },
+    {
+      "title": "dstackai/dstack",
+      "url": "https://github.com/dstackai/dstack",
+      "description": "Control plane for agents and engineers to provision compute and run training and inference across NVIDIA, AMD, TPU, and Tenstorrent GPUs—on clouds, Kubernetes, and bare-metal clusters.",
+      "stars": 2094,
+      "source": "github"
+    },
+    {
+      "title": "kubeflow/trainer",
+      "url": "https://github.com/kubeflow/trainer",
+      "description": "Distributed AI Model Training and LLM Fine-Tuning on Kubernetes",
+      "stars": 2082,
+      "source": "github"
+    },
+    {
+      "title": "Pair2Scene: Learning Local Object Relations for Procedural Scene Generation",
+      "url": "http://arxiv.org/abs/2604.11808v1",
+      "abstract": "Generating high-fidelity 3D indoor scenes remains a significant challenge due to data scarcity and the complexity of modeling intricate spatial relations. Current methods often struggle to scale beyond training distribution to dense scenes or rely on LLMs/VLMs that lack the ability for precise spati",
+      "source": "arxiv"
+    },
+    {
+      "title": "Solving Physics Olympiad via Reinforcement Learning on Physics Simulators",
+      "url": "http://arxiv.org/abs/2604.11805v1",
+      "abstract": "We have witnessed remarkable advances in LLM reasoning capabilities with the advent of DeepSeek-R1. However, much of this progress has been fueled by the abundance of internet question-answer (QA) pairs, a major bottleneck going forward, since such data is limited in scale and concentrated mainly in",
+      "source": "arxiv"
+    },
+    {
+      "title": "Psychological Concept Neurons: Can Neural Control Bias Probing and Shift Generation in LLMs?",
+      "url": "http://arxiv.org/abs/2604.11802v1",
+      "abstract": "Using psychological constructs such as the Big Five, large language models (LLMs) can imitate specific personality profiles and predict a user's personality. While LLMs can exhibit behaviors consistent with these constructs, it remains unclear where and how they are represented inside the model and ",
+      "source": "arxiv"
+    },
+    {
+      "title": "CLSGen: A Dual-Head Fine-Tuning Framework for Joint Probabilistic Classification and Verbalized Explanation",
+      "url": "http://arxiv.org/abs/2604.11801v1",
+      "abstract": "With the recent progress of Large Language Models (LLMs), there is a growing interest in applying these models to solve complex and challenging problems. Modern LLMs, capable of processing long contexts and generating verbalized explanations, offer significant potential in addressing real-world appl",
+      "source": "arxiv"
+    },
+    {
+      "title": "C-ReD: A Comprehensive Chinese Benchmark for AI-Generated Text Detection Derived from Real-World Prompts",
+      "url": "http://arxiv.org/abs/2604.11796v1",
+      "abstract": "Recently, large language models (LLMs) are capable of generating highly fluent textual content. While they offer significant convenience to humans, they also introduce various risks, like phishing and academic dishonesty. Numerous research efforts have been dedicated to developing algorithms for det",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Mechanistic Analysis of Looped Reasoning Language Models",
+      "url": "http://arxiv.org/abs/2604.11791v1",
+      "abstract": "Reasoning has become a central capability in large language models. Recent research has shown that reasoning performance can be improved by looping an LLM's layers in the latent dimension, resulting in looped reasoning language models. Despite promising results, few works have investigated how their",
+      "source": "arxiv"
+    },
+    {
+      "title": "ClawGuard: A Runtime Security Framework for Tool-Augmented LLM Agents Against Indirect Prompt Injection",
+      "url": "http://arxiv.org/abs/2604.11790v1",
+      "abstract": "Tool-augmented Large Language Model (LLM) agents have demonstrated impressive capabilities in automating complex, multi-step real-world tasks, yet remain vulnerable to indirect prompt injection. Adversaries exploit this weakness by embedding malicious instructions within tool-returned content, which",
+      "source": "arxiv"
+    },
+    {
+      "title": "HDR Video Generation via Latent Alignment with Logarithmic Encoding",
+      "url": "http://arxiv.org/abs/2604.11788v1",
+      "abstract": "High dynamic range (HDR) imagery offers a rich and faithful representation of scene radiance, but remains challenging for generative models due to its mismatch with the bounded, perceptually compressed data on which these models are trained. A natural solution is to learn new representations for HDR",
+      "source": "arxiv"
+    },
+    {
+      "title": "General365: Benchmarking General Reasoning in Large Language Models Across Diverse and Challenging Tasks",
+      "url": "http://arxiv.org/abs/2604.11778v1",
+      "abstract": "Contemporary large language models (LLMs) have demonstrated remarkable reasoning capabilities, particularly in specialized domains like mathematics and physics. However, their ability to generalize these reasoning skills to more general and broader contexts--often termed general reasoning--remains u",
+      "source": "arxiv"
+    },
+    {
+      "title": "Towards Automated Pentesting with Large Language Models",
+      "url": "http://arxiv.org/abs/2604.11772v1",
+      "abstract": "Large Language Models (LLMs) are redefining offensive cybersecurity by allowing the generation of harmful machine code with minimal human intervention. While attackers take advantage of dark LLMs such as XXXGPT and WolfGPT to produce malicious code, ethical hackers can follow similar approaches to a",
+      "source": "arxiv"
+    },
+    {
+      "title": "Enhancing Program Repair with Specification Guidance and Intermediate Behavioral Signals",
+      "url": "http://arxiv.org/abs/2604.11770v1",
+      "abstract": "Automated Program Repair (APR) has recently benefited from large language models (LLMs). However, most LLM-based APR approaches still rely primarily on coarse end-to-end signals from test-suite outcomes to guide repair, providing limited insight into where a program's internal logic deviates from it",
+      "source": "arxiv"
+    },
+    {
+      "title": "$λ_A$: A Typed Lambda Calculus for LLM Agent Composition",
+      "url": "http://arxiv.org/abs/2604.11767v1",
+      "abstract": "Existing LLM agent frameworks lack formal semantics: there is no principled way to determine whether an agent configuration is well-formed or will terminate. We present $λ_A$, a typed lambda calculus for agent composition that extends the simply-typed lambda calculus with oracle calls, bounded fixpo",
+      "source": "arxiv"
+    },
+    {
+      "title": "Discourse Diversity in Multi-Turn Empathic Dialogue",
+      "url": "http://arxiv.org/abs/2604.11742v1",
+      "abstract": "Large language models (LLMs) produce responses rated as highly empathic in single-turn settings (Ayers et al., 2023; Lee et al., 2024), yet they are also known to be formulaic generators that reuse the same lexical patterns, syntactic templates, and discourse structures across tasks (Jiang et al., 2",
+      "source": "arxiv"
+    },
+    {
+      "title": "Collaborative Multi-Agent Scripts Generation for Enhancing Imperfect-Information Reasoning in Murder Mystery Games",
+      "url": "http://arxiv.org/abs/2604.11741v1",
+      "abstract": "Vision-language models (VLMs) have shown impressive capabilities in perceptual tasks, yet they degrade in complex multi-hop reasoning under multiplayer game settings with imperfect and deceptive information. In this paper, we study a representative multiplayer task, Murder Mystery Games, which requi",
+      "source": "arxiv"
+    },
+    {
+      "title": "Multi-ORFT: Stable Online Reinforcement Fine-Tuning for Multi-Agent Diffusion Planning in Cooperative Driving",
+      "url": "http://arxiv.org/abs/2604.11734v1",
+      "abstract": "Closed-loop cooperative driving requires planners that generate realistic multimodal multi-agent trajectories while improving safety and traffic efficiency. Existing diffusion planners can model multimodal behaviors from demonstrations, but they often exhibit weak scene consistency and remain poorly",
+      "source": "arxiv"
+    },
+    {
+      "title": "Ambivalence/Hesitancy Recognition in Videos for Personalized Digital Health Interventions",
+      "url": "http://arxiv.org/abs/2604.11730v1",
+      "abstract": "Using behavioural science, health interventions focus on behaviour change by providing a framework to help patients acquire and maintain healthy habits that improve medical outcomes. In-person interventions are costly and difficult to scale, especially in resource-limited regions. Digital health int",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Devil is in the Details -- From OCR for Old Church Slavonic to Purely Visual Stemma Reconstruction",
+      "url": "http://arxiv.org/abs/2604.11724v1",
+      "abstract": "The age of artificial intelligence has brought many new possibilities and pitfalls in many fields and tasks. The devil is in the details, and those come to the fore when building new pipelines and executing small practical experiments. OCR and stemmatology are no exception. The current investigation",
+      "source": "arxiv"
+    },
+    {
+      "title": "Predicting User Satisfaction in Online Education Platforms: A Large Language Model Based Multi-Modal Review Mining Framework",
+      "url": "http://arxiv.org/abs/2604.11723v1",
+      "abstract": "Online education platforms have experienced explosive growth over the past decade, generating massive volumes of user-generated content in the form of reviews, ratings, and behavioral logs. These heterogeneous signals provide unprecedented opportunities for understanding learner satisfaction, which ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Evaluating Cooperation in LLM Social Groups through Elected Leadership",
+      "url": "http://arxiv.org/abs/2604.11721v1",
+      "abstract": "Governing common-pool resources requires agents to develop enduring strategies through cooperation and self-governance to avoid collective failure. While foundation models have shown potential for cooperation in these settings, existing multi-agent research provides little insight into whether struc",
+      "source": "arxiv"
+    },
+    {
+      "title": "Agentic Driving Coach: Robustness and Determinism of Agentic AI-Powered Human-in-the-Loop Cyber-Physical Systems",
+      "url": "http://arxiv.org/abs/2604.11705v1",
+      "abstract": "Foundation models, including large language models (LLMs), are increasingly used for human-in-the-loop (HITL) cyber-physical systems (CPS) because foundation model-based AI agents can potentially interact with both the physical environments and human users. However, the unpredictable behavior of hum",
+      "source": "arxiv"
+    }
+  ],
+  "quality": {
+    "total": 40,
+    "quality_score": 0.437,
+    "dimensions": {
+      "authority": 0.95,
+      "quality": 0.05,
+      "star_power": 0.183,
+      "diversity": 0.5
+    },
+    "sources_breakdown": {
+      "github": 20,
+      "arxiv": 20
+    }
+  }
+}

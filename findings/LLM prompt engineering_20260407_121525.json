@@ -1,0 +1,166 @@
+{
+  "topic": "LLM prompt engineering",
+  "timestamp": "2026-04-07T12:15:25.279158",
+  "findings": [
+    {
+      "title": "langfuse/langfuse",
+      "url": "https://github.com/langfuse/langfuse",
+      "description": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 ",
+      "stars": 24429,
+      "source": "github"
+    },
+    {
+      "title": "BoundaryML/baml",
+      "url": "https://github.com/BoundaryML/baml",
+      "description": "The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)",
+      "stars": 7923,
+      "source": "github"
+    },
+    {
+      "title": "NirDiamant/Prompt_Engineering",
+      "url": "https://github.com/NirDiamant/Prompt_Engineering",
+      "description": "This repository offers a comprehensive collection of tutorials and implementations for Prompt Engineering techniques, ranging from fundamental concepts to advanced strategies. It serves as an essential resource for mastering the art of effectively communicating with and leveraging large language models in AI applications.",
+      "stars": 7365,
+      "source": "github"
+    },
+    {
+      "title": "trigaten/Learn_Prompting",
+      "url": "https://github.com/trigaten/Learn_Prompting",
+      "description": "Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community",
+      "stars": 4681,
+      "source": "github"
+    },
+    {
+      "title": "promptslab/Promptify",
+      "url": "https://github.com/promptslab/Promptify",
+      "description": "Prompt Engineering | Prompt Versioning | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research",
+      "stars": 4580,
+      "source": "github"
+    },
+    {
+      "title": "CyberAlbSecOP/Awesome_GPT_Super_Prompting",
+      "url": "https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting",
+      "description": "ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.",
+      "stars": 3812,
+      "source": "github"
+    },
+    {
+      "title": "Meirtz/Awesome-Context-Engineering",
+      "url": "https://github.com/Meirtz/Awesome-Context-Engineering",
+      "description": " 🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and  implementation guides for LLMs and AI agents.",
+      "stars": 3032,
+      "source": "github"
+    },
+    {
+      "title": "openlit/openlit",
+      "url": "https://github.com/openlit/openlit",
+      "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50+ LLM Providers, VectorDBs, Agent Frameworks and GPUs.",
+      "stars": 2343,
+      "source": "github"
+    },
+    {
+      "title": "EgoAlpha/prompt-in-context-learning",
+      "url": "https://github.com/EgoAlpha/prompt-in-context-learning",
+      "description": "Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates. ",
+      "stars": 2142,
+      "source": "github"
+    },
+    {
+      "title": "YiVal/YiVal",
+      "url": "https://github.com/YiVal/YiVal",
+      "description": "Your Automatic Prompt Engineering Assistant for GenAI Applications",
+      "stars": 2130,
+      "source": "github"
+    },
+    {
+      "title": "snwfdhmp/awesome-gpt-prompt-engineering",
+      "url": "https://github.com/snwfdhmp/awesome-gpt-prompt-engineering",
+      "description": "A curated list of awesome resources, tools, and other shiny things for LLM prompt engineering.",
+      "stars": 1557,
+      "source": "github"
+    },
+    {
+      "title": "curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain",
+      "url": "https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain",
+      "description": "LangChain & Prompt Engineering tutorials on Large Language Models (LLMs) such as ChatGPT with custom data. Jupyter notebooks on loading and indexing data, creating prompt templates, CSV agents, and using retrieval QA chains to query the custom data. Projects for using a private LLM (Llama 2) for chat with PDF files, tweets sentiment analysis.",
+      "stars": 1237,
+      "source": "github"
+    },
+    {
+      "title": "Tanuki/tanuki.py",
+      "url": "https://github.com/Tanuki/tanuki.py",
+      "description": "Prompt engineering for developers",
+      "stars": 695,
+      "source": "github"
+    },
+    {
+      "title": "Gabriella439/grace",
+      "url": "https://github.com/Gabriella439/grace",
+      "description": "A prompt engineering functional programming language",
+      "stars": 555,
+      "source": "github"
+    },
+    {
+      "title": "TrustAI-laboratory/Learn-Prompt-Hacking",
+      "url": "https://github.com/TrustAI-laboratory/Learn-Prompt-Hacking",
+      "description": "This is The most comprehensive prompt hacking course available, which record our progress on a prompt engineering and prompt hacking course.",
+      "stars": 277,
+      "source": "github"
+    },
+    {
+      "title": "smalltong02/keras-llm-robot",
+      "url": "https://github.com/smalltong02/keras-llm-robot",
+      "description": "A web UI Project In order to learn the large language model. This project includes features such as chat, quantization, fine-tuning, prompt engineering templates, and multimodality.",
+      "stars": 252,
+      "source": "github"
+    },
+    {
+      "title": "RCGAI/SimplyRetrieve",
+      "url": "https://github.com/RCGAI/SimplyRetrieve",
+      "description": "Lightweight chat AI platform featuring custom knowledge, open-source LLMs, prompt-engineering, retrieval analysis. Highly customizable. For Retrieval-Centric & Retrieval-Augmented Generation.",
+      "stars": 218,
+      "source": "github"
+    },
+    {
+      "title": "brandonhimpfen/awesome-prompt-engineering",
+      "url": "https://github.com/brandonhimpfen/awesome-prompt-engineering",
+      "description": "A curated list of resources, tools, papers, and platforms for prompt engineering in large language models (LLMs) and generative AI.",
+      "stars": 214,
+      "source": "github"
+    },
+    {
+      "title": "langfuse/langfuse-docs",
+      "url": "https://github.com/langfuse/langfuse-docs",
+      "description": "🪢 Langfuse documentation -- Langfuse is the open source LLM Engineering Platform. Observability, evals, prompt management, playground and metrics to debug and improve LLM apps",
+      "stars": 183,
+      "source": "github"
+    },
+    {
+      "title": "lamini-ai/prompt-engineering-open-llms",
+      "url": "https://github.com/lamini-ai/prompt-engineering-open-llms",
+      "description": null,
+      "stars": 172,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.65,
+    "grade": "B",
+    "dimensions": {
+      "authority": 0.9,
+      "star_power": 0.139,
+      "diversity": 0.0,
+      "coverage": 1.0,
+      "ndcg": 0.82,
+      "map": 0.992,
+      "mrr": 1.0,
+      "rouge_1": 0.75,
+      "semantic_sim": 0.368,
+      "task_completion": 0.585,
+      "tool_use": 0.1,
+      "reasoning_depth": 0.033,
+      "autonomy": 0.125
+    }
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "topic": "TensorRT",
+  "timestamp": "2026-03-30T13:03:36.270935",
+  "findings": [
+    {
+      "title": "NVIDIA/TensorRT-LLM",
+      "url": "https://github.com/NVIDIA/TensorRT-LLM",
+      "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+      "stars": 13215,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/TensorRT",
+      "url": "https://github.com/NVIDIA/TensorRT",
+      "description": "NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.",
+      "stars": 12837,
+      "source": "github"
+    },
+    {
+      "title": "Megvii-BaseDetection/YOLOX",
+      "url": "https://github.com/Megvii-BaseDetection/YOLOX",
+      "description": "YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/",
+      "stars": 10395,
+      "source": "github"
+    },
+    {
+      "title": "dusty-nv/jetson-inference",
+      "url": "https://github.com/dusty-nv/jetson-inference",
+      "description": "Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.",
+      "stars": 8775,
+      "source": "github"
+    },
+    {
+      "title": "mikel-brostrom/boxmot",
+      "url": "https://github.com/mikel-brostrom/boxmot",
+      "description": "BoxMOT: Pluggable SOTA multi-object tracking modules with support for axis-aligned and oriented bounding boxes",
+      "stars": 8077,
+      "source": "github"
+    },
+    {
+      "title": "wang-xinyu/tensorrtx",
+      "url": "https://github.com/wang-xinyu/tensorrtx",
+      "description": "Implementation of popular deep learning networks with TensorRT network definition API",
+      "stars": 7733,
+      "source": "github"
+    },
+    {
+      "title": "RapidAI/RapidOCR",
+      "url": "https://github.com/RapidAI/RapidOCR",
+      "description": "📄 Awesome OCR multiple programing languages toolkits based on ONNX Runtime, OpenVINO, MNN, PaddlePaddle, TensorRT and PyTorch.",
+      "stars": 6206,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA-AI-IOT/torch2trt",
+      "url": "https://github.com/NVIDIA-AI-IOT/torch2trt",
+      "description": "An easy to use PyTorch to TensorRT converter",
+      "stars": 4857,
+      "source": "github"
+    },
+    {
+      "title": "Tencent/TNN",
+      "url": "https://github.com/Tencent/TNN",
+      "description": "TNN: developed by Tencent Youtu Lab and Guangying Lab, a uniform deep learning inference framework for mobile、desktop and server. TNN is distinguished by several outstanding features, including its cross-platform capability, high performance, model compression and code pruning. Based on ncnn and Rapidnet, TNN further strengthens the support and performance optimization for mobile devices, and also draws on the advantages of good extensibility and high performance from existed open source efforts. TNN has been deployed in multiple Apps from Tencent, such as Mobile QQ, Weishi, Pitu, etc. Contributions are welcome to work in collaborative with us and make TNN a better framework. ",
+      "stars": 4631,
+      "source": "github"
+    },
+    {
+      "title": "Tianxiaomo/pytorch-YOLOv4",
+      "url": "https://github.com/Tianxiaomo/pytorch-YOLOv4",
+      "description": "PyTorch ,ONNX and TensorRT implementation of YOLOv4",
+      "stars": 4529,
+      "source": "github"
+    },
+    {
+      "title": "OAID/Tengine",
+      "url": "https://github.com/OAID/Tengine",
+      "description": "Tengine is a lite, high performance, modular inference engine for embedded device ",
+      "stars": 4512,
+      "source": "github"
+    },
+    {
+      "title": "TingsongYu/PyTorch-Tutorial-2nd",
+      "url": "https://github.com/TingsongYu/PyTorch-Tutorial-2nd",
+      "description": "《Pytorch实用教程》（第二版）无论是零基础入门，还是CV、NLP、LLM项目应用，或是进阶工程化部署落地，在这里都有。相信在本书的帮助下，读者将能够轻松掌握 PyTorch 的使用，成为一名优秀的深度学习工程师。",
+      "stars": 4456,
+      "source": "github"
+    },
+    {
+      "title": "xlite-dev/lite.ai.toolkit",
+      "url": "https://github.com/xlite-dev/lite.ai.toolkit",
+      "description": "🛠A lite C++ AI toolkit: 100+ models with MNN, ORT and TRT, including Det, Seg, Stable-Diffusion, Face-Fusion, etc.🎉",
+      "stars": 4391,
+      "source": "github"
+    },
+    {
+      "title": "collabora/WhisperLive",
+      "url": "https://github.com/collabora/WhisperLive",
+      "description": "A nearly-live implementation of OpenAI's Whisper.",
+      "stars": 3925,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/GenerativeAIExamples",
+      "url": "https://github.com/NVIDIA/GenerativeAIExamples",
+      "description": "Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.",
+      "stars": 3885,
+      "source": "github"
+    },
+    {
+      "title": "onnx/onnx-tensorrt",
+      "url": "https://github.com/onnx/onnx-tensorrt",
+      "description": "ONNX-TensorRT: TensorRT backend for ONNX",
+      "stars": 3197,
+      "source": "github"
+    },
+    {
+      "title": "tinyvision/DAMO-YOLO",
+      "url": "https://github.com/tinyvision/DAMO-YOLO",
+      "description": "DAMO-YOLO: a fast and accurate object detection method with some new techs, including NAS backbones, efficient RepGFPN, ZeroHead, AlignedOTA, and distillation enhancement.",
+      "stars": 3151,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/ChatRTX",
+      "url": "https://github.com/NVIDIA/ChatRTX",
+      "description": "A developer reference project for creating Retrieval Augmented Generation (RAG) chatbots on Windows using TensorRT-LLM",
+      "stars": 3114,
+      "source": "github"
+    },
+    {
+      "title": "lucasjinreal/yolov7_d2",
+      "url": "https://github.com/lucasjinreal/yolov7_d2",
+      "description": "🔥🔥🔥🔥 (Earlier YOLOv7 not official one) YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥",
+      "stars": 3114,
+      "source": "github"
+    },
+    {
+      "title": "open-mmlab/mmdeploy",
+      "url": "https://github.com/open-mmlab/mmdeploy",
+      "description": "OpenMMLab Model Deployment Framework",
+      "stars": 3114,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.359,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.447,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

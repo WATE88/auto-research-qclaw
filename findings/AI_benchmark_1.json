@@ -1,0 +1,271 @@
+{
+  "topic": "AI benchmark",
+  "round": 1,
+  "timestamp": "2026-03-27T16:13:06.360249",
+  "findings": [
+    {
+      "title": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "stars": 13289,
+      "source": "github"
+    },
+    {
+      "title": "jeinlee1991/chinese-llm-benchmark",
+      "url": "https://github.com/jeinlee1991/chinese-llm-benchmark",
+      "description": "ReLE评测：中文AI大模型能力评测（持续更新）：目前已囊括359个大模型，覆盖chatgpt、gpt-5.2、o4-mini、谷歌gemini-3-pro、Claude-4.6、文心ERNIE-X1.1、ERNIE-5.0、qwen3-max、qwen3.5-plus、百川、讯飞星火、商汤senseChat等商用模型， 以及step3.5-flash、kimi-k2.5、ernie4.5、MiniMax-M2.5、deepseek-v3.2、Qwen3.5、llama4、智谱GLM-5、GLM-4.7、LongCat、gemma3、mistral等开源大模型。不仅提供排行榜，也提供规模超200万的大模型缺陷库！方便广大社区研究分析、改进大模型。",
+      "stars": 5755,
+      "source": "github"
+    },
+    {
+      "title": "AgentOps-AI/agentops",
+      "url": "https://github.com/AgentOps-AI/agentops",
+      "description": "Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and CamelAI",
+      "stars": 5405,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/PhiCookBook",
+      "url": "https://github.com/microsoft/PhiCookBook",
+      "description": "This is a Phi Family of SLMs book for getting started with Phi Models. Phi a family of open sourced AI models developed by Microsoft. Phi models are the most capable and cost-effective small language models (SLMs) available, outperforming models of the same size and next size up across a variety of language, reasoning, coding, and math benchmarks",
+      "stars": 3719,
+      "source": "github"
+    },
+    {
+      "title": "Tencent/AI-Infra-Guard",
+      "url": "https://github.com/Tencent/AI-Infra-Guard",
+      "description": "A full-stack AI Red Teaming platform securing AI ecosystems via OpenClaw Security Scan, Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
+      "stars": 3342,
+      "source": "github"
+    },
+    {
+      "title": "FreedomIntelligence/Awesome-AI4Med",
+      "url": "https://github.com/FreedomIntelligence/Awesome-AI4Med",
+      "description": "[Medical_NLP ➟ Awesome-AI4Med] medical-related LLMs, Multimodal systems, Datasets, Benchmarks, and more.",
+      "stars": 2602,
+      "source": "github"
+    },
+    {
+      "title": "zzyfight/genai-compliance-bench",
+      "url": "https://github.com/zzyfight/genai-compliance-bench",
+      "description": "GenAI compliance benchmark is a evaluation benchmarks for generative AI in regulated industries.",
+      "stars": 1553,
+      "source": "github"
+    },
+    {
+      "title": "openai/mle-bench",
+      "url": "https://github.com/openai/mle-bench",
+      "description": "MLE-bench is a benchmark for measuring how well AI agents perform at machine learning engineering",
+      "stars": 1422,
+      "source": "github"
+    },
+    {
+      "title": "StanfordVL/BEHAVIOR-1K",
+      "url": "https://github.com/StanfordVL/BEHAVIOR-1K",
+      "description": "BEHAVIOR-1K: a platform for accelerating Embodied AI research. Join our Discord for support: https://discord.gg/bccR5vGFEx",
+      "stars": 1386,
+      "source": "github"
+    },
+    {
+      "title": "petergpt/bullshit-benchmark",
+      "url": "https://github.com/petergpt/bullshit-benchmark",
+      "description": "BullshitBench measures whether AI models challenge nonsensical prompts instead of confidently answering them, created by Peter Gostev.",
+      "stars": 1297,
+      "source": "github"
+    },
+    {
+      "title": "Barca0412/Introduction-to-Quantitative-Finance",
+      "url": "https://github.com/Barca0412/Introduction-to-Quantitative-Finance",
+      "description": "入门资料整理：1.多因子股票量化框架开源教程 2.学界和业界的经典资料收录 3.AI + 金融的相关工作，包括LLM, Agent, benchmark(evaluation), etc.",
+      "stars": 1285,
+      "source": "github"
+    },
+    {
+      "title": "Tencent/AICGSecEval",
+      "url": "https://github.com/Tencent/AICGSecEval",
+      "description": "A.S.E (AICGSecEval) is a repository-level AI-generated code security evaluation benchmark developed by Tencent Wukong Code Security Team.",
+      "stars": 1147,
+      "source": "github"
+    },
+    {
+      "title": "pdebench/PDEBench",
+      "url": "https://github.com/pdebench/PDEBench",
+      "description": "PDEBench: An Extensive Benchmark for Scientific Machine Learning",
+      "stars": 1092,
+      "source": "github"
+    },
+    {
+      "title": "HumanCompatibleAI/overcooked_ai",
+      "url": "https://github.com/HumanCompatibleAI/overcooked_ai",
+      "description": "A benchmark environment for fully cooperative human-AI performance.",
+      "stars": 948,
+      "source": "github"
+    },
+    {
+      "title": "sierra-research/tau2-bench",
+      "url": "https://github.com/sierra-research/tau2-bench",
+      "description": "τ-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
+      "stars": 908,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/WindowsAgentArena",
+      "url": "https://github.com/microsoft/WindowsAgentArena",
+      "description": "Windows Agent Arena (WAA) 🪟 is a scalable OS platform for testing and benchmarking of multi-modal AI agents.",
+      "stars": 844,
+      "source": "github"
+    },
+    {
+      "title": "The-FinAI/PIXIU",
+      "url": "https://github.com/The-FinAI/PIXIU",
+      "description": "This repository introduces PIXIU, an open-source resource featuring the first financial large language models (LLMs), instruction tuning data, and evaluation benchmarks to holistically assess financial LLMs. Our goal is to continually push forward the open-source development of financial artificial intelligence (AI).",
+      "stars": 839,
+      "source": "github"
+    },
+    {
+      "title": "pinchbench/skill",
+      "url": "https://github.com/pinchbench/skill",
+      "description": "PinchBench is a benchmarking system for evaluating LLM models as OpenClaw coding agents. Made with 🦀 by the humans at https://kilo.ai",
+      "stars": 800,
+      "source": "github"
+    },
+    {
+      "title": "vava-nessa/free-coding-models",
+      "url": "https://github.com/vava-nessa/free-coding-models",
+      "description": "Find, benchmark and install in CLI 174 FREE coding LLM models across 23 providers in real time",
+      "stars": 728,
+      "source": "github"
+    },
+    {
+      "title": "SemiAnalysisAI/InferenceX",
+      "url": "https://github.com/SemiAnalysisAI/InferenceX",
+      "description": "Open Source Continuous Inference Benchmarking Qwen3.5, DeepSeek, GPTOSS - GB200 NVL72 vs MI355X vs B200 vs GB300 NVL72 vs H100 & soon™ TPUv6e/v7/Trainium2/3",
+      "stars": 726,
+      "source": "github"
+    },
+    {
+      "title": "RefAlign: Representation Alignment for Reference-to-Video Generation",
+      "url": "https://arxiv.org/abs/2603.25743v1",
+      "abstract": "Reference-to-video (R2V) generation is a controllable video synthesis paradigm that constrains the generation process using both text prompts and reference images, enabling applications such as person",
+      "source": "arxiv"
+    },
+    {
+      "title": "Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving",
+      "url": "https://arxiv.org/abs/2603.25740v1",
+      "abstract": "Human driving behavior is inherently personal, which is shaped by long-term habits and influenced by short-term intentions. Individuals differ in how they accelerate, brake, merge, yield, and overtake",
+      "source": "arxiv"
+    },
+    {
+      "title": "MegaFlow: Zero-Shot Large Displacement Optical Flow",
+      "url": "https://arxiv.org/abs/2603.25739v1",
+      "abstract": "Accurate estimation of large displacement optical flow remains a critical challenge. Existing methods typically rely on iterative local search or/and domain-specific fine-tuning, which severely limits",
+      "source": "arxiv"
+    },
+    {
+      "title": "Training the Knowledge Base through Evidence Distillation and Write-Back Enrichment",
+      "url": "https://arxiv.org/abs/2603.25737v1",
+      "abstract": "The knowledge base in a retrieval-augmented generation (RAG) system is typically assembled once and never revised, even though the facts a query requires are often fragmented across documents and buri",
+      "source": "arxiv"
+    },
+    {
+      "title": "SlotVTG: Object-Centric Adapter for Generalizable Video Temporal Grounding",
+      "url": "https://arxiv.org/abs/2603.25733v1",
+      "abstract": "Multimodal Large Language Models (MLLMs) have shown strong performance on Video Temporal Grounding (VTG). However, their coarse recognition capabilities are insufficient for fine-grained temporal unde",
+      "source": "arxiv"
+    },
+    {
+      "title": "BizGenEval: A Systematic Benchmark for Commercial Visual Content Generation",
+      "url": "https://arxiv.org/abs/2603.25732v1",
+      "abstract": "Recent advances in image generation models have expanded their applications beyond aesthetic imagery toward practical visual content creation. However, existing benchmarks mainly focus on natural imag",
+      "source": "arxiv"
+    },
+    {
+      "title": "Back to Basics: Revisiting ASR in the Age of Voice Agents",
+      "url": "https://arxiv.org/abs/2603.25727v1",
+      "abstract": "Automatic speech recognition (ASR) systems have achieved near-human accuracy on curated benchmarks, yet still fail in real-world voice agents under conditions that current evaluations do not systemati",
+      "source": "arxiv"
+    },
+    {
+      "title": "AnyHand: A Large-Scale Synthetic Dataset for RGB(-D) Hand Pose Estimation",
+      "url": "https://arxiv.org/abs/2603.25726v1",
+      "abstract": "We present AnyHand, a large-scale synthetic dataset designed to advance the state of the art in 3D hand pose estimation from both RGB-only and RGB-D inputs. While recent works with foundation approach",
+      "source": "arxiv"
+    },
+    {
+      "title": "Natural-Language Agent Harnesses",
+      "url": "https://arxiv.org/abs/2603.25723v1",
+      "abstract": "Agent performance increasingly depends on \\emph{harness engineering}, yet harness design is usually buried in controller code and runtime-specific conventions, making it hard to transfer, compare, and",
+      "source": "arxiv"
+    },
+    {
+      "title": "No Hard Negatives Required: Concept Centric Learning Leads to Compositionality without Degrading Zero-shot Capabilities of Contrastive Models",
+      "url": "https://arxiv.org/abs/2603.25722v1",
+      "abstract": "Contrastive vision-language (V&amp;L) models remain a popular choice for various applications. However, several limitations have emerged, most notably the limited ability of V&amp;L models to learn co",
+      "source": "arxiv"
+    },
+    {
+      "title": "Agent Factories for High Level Synthesis: How Far Can General-Purpose Coding Agents Go in Hardware Optimization?",
+      "url": "https://arxiv.org/abs/2603.25719v1",
+      "abstract": "We present an empirical study of how far general-purpose coding agents -- without hardware-specific training -- can optimize hardware designs from high-level algorithmic specifications. We introduce a",
+      "source": "arxiv"
+    },
+    {
+      "title": "Seeing to Ground: Visual Attention for Hallucination-Resilient MDLLMs",
+      "url": "https://arxiv.org/abs/2603.25711v1",
+      "abstract": "Multimodal Diffusion Large Language Models (MDLLMs) achieve high-concurrency generation through parallel masked decoding, yet the architectures remain prone to multimodal hallucinations. This structur",
+      "source": "arxiv"
+    },
+    {
+      "title": "Wan-Weaver: Interleaved Multi-modal Generation via Decoupled Training",
+      "url": "https://arxiv.org/abs/2603.25706v1",
+      "abstract": "Recent unified models have made unprecedented progress in both understanding and generation. However, while most of them accept multi-modal inputs, they typically produce only single-modality outputs.",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Unified Memory Perspective for Probabilistic Trustworthy AI",
+      "url": "https://arxiv.org/abs/2603.25692v1",
+      "abstract": "Trustworthy artificial intelligence increasingly relies on probabilistic computation to achieve robustness, interpretability, security and privacy. In practical systems, such workloads interleave dete",
+      "source": "arxiv"
+    },
+    {
+      "title": "Just Zoom In: Cross-View Geo-Localization via Autoregressive Zooming",
+      "url": "https://arxiv.org/abs/2603.25686v1",
+      "abstract": "Cross-view geo-localization (CVGL) estimates a camera's location by matching a street-view image to geo-referenced overhead imagery, enabling GPS-denied localization and navigation. Existing methods a",
+      "source": "arxiv"
+    },
+    {
+      "title": "Longitudinal Digital Phenotyping for Early Cognitive-Motor Screening",
+      "url": "https://arxiv.org/abs/2603.25673v1",
+      "abstract": "Early detection of atypical cognitive-motor development is critical for timely intervention, yet traditional assessments rely heavily on subjective, static evaluations. The integration of digital devi",
+      "source": "arxiv"
+    },
+    {
+      "title": "Can Users Specify Driving Speed? Bench2Drive-Speed: Benchmark and Baselines for Desired-Speed Conditioned Autonomous Driving",
+      "url": "https://arxiv.org/abs/2603.25672v1",
+      "abstract": "End-to-end autonomous driving (E2E-AD) has achieved remarkable progress. However, one practical and useful function has been long overlooked: users may wish to customize the desired speed of the polic",
+      "source": "arxiv"
+    },
+    {
+      "title": "Uncertainty-Guided Label Rebalancing for CPS Safety Monitoring",
+      "url": "https://arxiv.org/abs/2603.25670v1",
+      "abstract": "Safety monitoring is essential for Cyber-Physical Systems (CPSs). However, unsafe events are rare in real-world CPS operations, creating an extreme class imbalance that degrades safety predictors. Sta",
+      "source": "arxiv"
+    },
+    {
+      "title": "SHAPR: Operationalising Human-AI Collaborative Research Through Structured Knowledge Generation",
+      "url": "https://arxiv.org/abs/2603.25660v1",
+      "abstract": "SHAPR (Solo Human-Centred and AI-Assisted Practice) is a framework for research software development that integrates human-centred decision-making with AI-assisted capabilities. While prior work intro",
+      "source": "arxiv"
+    },
+    {
+      "title": "Diffusion in interacting two-dimensional systems under a uniform magnetic field",
+      "url": "https://arxiv.org/abs/2603.25659v1",
+      "abstract": "The dynamics of interacting particles in orbital magnetic fields are notoriously difficult to study, as this physics is inherently connected to electronic correlations in two-dimensional systems, for ",
+      "source": "arxiv"
+    }
+  ],
+  "sources": [
+    "github",
+    "arxiv"
+  ]
+}

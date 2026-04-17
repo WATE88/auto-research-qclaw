@@ -1,0 +1,174 @@
+{
+  "topic": "AI agent visualization",
+  "timestamp": "2026-04-01T16:30:23.258822",
+  "findings": [
+    {
+      "title": "qax-os/excelize",
+      "url": "https://github.com/qax-os/excelize",
+      "description": "Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets",
+      "stars": 20434,
+      "source": "github"
+    },
+    {
+      "title": "preset-io/agor",
+      "url": "https://github.com/preset-io/agor",
+      "description": "Orchestrate Claude Code, Codex, and Gemini sessions on a multiplayer canvas. Manage git worktrees, track AI conversations, and visualize your team's agentic work in real-time.",
+      "stars": 1101,
+      "source": "github"
+    },
+    {
+      "title": "victordibia/autogen-ui",
+      "url": "https://github.com/victordibia/autogen-ui",
+      "description": "Web UI for AutoGen (A Framework Multi-Agent LLM Applications)",
+      "stars": 994,
+      "source": "github"
+    },
+    {
+      "title": "sentrux/sentrux",
+      "url": "https://github.com/sentrux/sentrux",
+      "description": "Real-time architectural sensor that helps AI agents close the feedback loop, enabling recursive self-improvement of code quality. Pure Rust.",
+      "stars": 773,
+      "source": "github"
+    },
+    {
+      "title": "zhongyu09/openchatbi",
+      "url": "https://github.com/zhongyu09/openchatbi",
+      "description": "OpenChatBI is an intelligent chat-based BI tool powered by large language models, designed to help users query, analyze, and visualize data through natural language conversations. It uses LangGraph and LangChain to build chat agent and workflows that support natural language to SQL conversion and data analysis.",
+      "stars": 542,
+      "source": "github"
+    },
+    {
+      "title": "Repello-AI/Agent-Wiz",
+      "url": "https://github.com/Repello-AI/Agent-Wiz",
+      "description": "A CLI tool for threat modeling and visualizing AI agents built using popular frameworks like LangGraph, AutoGen, CrewAI, and more.",
+      "stars": 370,
+      "source": "github"
+    },
+    {
+      "title": "evilmartians/agent-prism",
+      "url": "https://github.com/evilmartians/agent-prism",
+      "description": "React components for visualizing traces from AI agents",
+      "stars": 316,
+      "source": "github"
+    },
+    {
+      "title": "OpenSource03/harnss",
+      "url": "https://github.com/OpenSource03/harnss",
+      "description": "Open-source, desktop client/UI build to harness Claude Code, Codex and any other Agent accepting Agent Client Protocol. Run multiple AI coding agents side by side with rich tool visualization, MCP integrations, built-in terminal, git, browser and just about anything else you may need.",
+      "stars": 160,
+      "source": "github"
+    },
+    {
+      "title": "soth-ai/mcp-reticle",
+      "url": "https://github.com/soth-ai/mcp-reticle",
+      "description": "Reticle intercepts, visualizes, and profiles JSON-RPC traffic between your LLM and MCP servers in real-time, with zero latency overhead. Stop debugging blind. Start seeing everything.",
+      "stars": 119,
+      "source": "github"
+    },
+    {
+      "title": "wickedapp/openclaw-office",
+      "url": "https://github.com/wickedapp/openclaw-office",
+      "description": "Virtual AI Office Dashboard for OpenClaw — visualize your multi-agent workflows in real-time",
+      "stars": 115,
+      "source": "github"
+    },
+    {
+      "title": "AR-FORUM/hodoscope",
+      "url": "https://github.com/AR-FORUM/hodoscope",
+      "description": "Analyze AI agent trajectories: extract actions, summarize, embed, and visualize.",
+      "stars": 105,
+      "source": "github"
+    },
+    {
+      "title": "affaan-m/claude-swarm",
+      "url": "https://github.com/affaan-m/claude-swarm",
+      "description": "Multi-agent orchestration for Claude Code — decompose tasks, coordinate agents, visualize everything in a rich terminal UI",
+      "stars": 89,
+      "source": "github"
+    },
+    {
+      "title": "aerroberts/LangFlowTs",
+      "url": "https://github.com/aerroberts/LangFlowTs",
+      "description": "AI Agent Visualization and Runner written in Pure TS",
+      "stars": 79,
+      "source": "github"
+    },
+    {
+      "title": "Pardesco/hypernovum",
+      "url": "https://github.com/Pardesco/hypernovum",
+      "description": "  3D cyberpunk city dashboard for Obsidian — visualize projects as buildings, monitor AI agents in real-time, launch Claude Code with a right-click",
+      "stars": 78,
+      "source": "github"
+    },
+    {
+      "title": "QingHeYang/KELA-Agents",
+      "url": "https://github.com/QingHeYang/KELA-Agents",
+      "description": "AI-powered Excel assistant that lets you query, analyze and visualize data using natural language. No SQL or coding required.",
+      "stars": 77,
+      "source": "github"
+    },
+    {
+      "title": "agentopology/agentopology",
+      "url": "https://github.com/agentopology/agentopology",
+      "description": "The Terraform for AI agents. Define your team once, deploy to Claude Code, OpenClaw, Cursor, Codex, Gemini, Copilot, Kiro. Declarative language (.at files) + Claude Code skill + interactive visualizer.",
+      "stars": 70,
+      "source": "github"
+    },
+    {
+      "title": "openaeon/OpenAEON",
+      "url": "https://github.com/openaeon/OpenAEON",
+      "description": " Open-source implementation of the AEON Protocol for advanced AI cognitive observability, featuring real-time dialectic flow tracking, automated memory distillation (Auto-Seal), and knowledge aging visualization.",
+      "stars": 61,
+      "source": "github"
+    },
+    {
+      "title": "benjiyaya/Muse-Studio",
+      "url": "https://github.com/benjiyaya/Muse-Studio",
+      "description": "Muse Studio is an Agentic AI workspace for planning, visualizing, and iterating on stories and video creation.",
+      "stars": 59,
+      "source": "github"
+    },
+    {
+      "title": "Yuchen20/Memory-Plus",
+      "url": "https://github.com/Yuchen20/Memory-Plus",
+      "description": "🧠 𝑴𝒆𝒎𝒐𝒓𝒚-𝑷𝒍𝒖𝒔 is a lightweight, local RAG memory store for MCP agents. Easily record, retrieve, update, delete, and visualize persistent \"memories\" across sessions—perfect for developers working with multiple AI coders (like Windsurf, Cursor, or Copilot) or anyone who wants their AI to actually remember them.",
+      "stars": 56,
+      "source": "github"
+    },
+    {
+      "title": "visualizevalue/vvriter",
+      "url": "https://github.com/visualizevalue/vvriter",
+      "description": "VV knowledge layer for AI agents — MCP server exposing Visualize Value frameworks, voice, and content",
+      "stars": 44,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.34,
+    "grade": "D",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.063,
+      "diversity": 0.0,
+      "usability": 0.0,
+      "applicability": 0.9,
+      "coverage": 1.0,
+      "ndcg": 0.476,
+      "map": 0.744,
+      "mrr": 0.5,
+      "rouge_1": 0.417,
+      "semantic_sim": 0.176,
+      "coherence": 0.076,
+      "task_completion": 0.432,
+      "tool_use": 0.082,
+      "reasoning_depth": 0.037,
+      "autonomy": 0.113,
+      "multi_agent": 0.14
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

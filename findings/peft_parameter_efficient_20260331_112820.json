@@ -1,0 +1,159 @@
+{
+  "topic": "peft parameter efficient",
+  "timestamp": "2026-03-31T11:28:20.738298",
+  "findings": [
+    {
+      "title": "huggingface/peft",
+      "url": "https://github.com/huggingface/peft",
+      "description": "🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.",
+      "stars": 20864,
+      "source": "github"
+    },
+    {
+      "title": "calpt/awesome-adapter-resources",
+      "url": "https://github.com/calpt/awesome-adapter-resources",
+      "description": "Collection of Tools and Papers related to Adapters / Parameter-Efficient Transfer Learning/ Fine-Tuning",
+      "stars": 202,
+      "source": "github"
+    },
+    {
+      "title": "ShiZhengyan/DePT",
+      "url": "https://github.com/ShiZhengyan/DePT",
+      "description": "[ICLR 2024] This is the repository for the paper titled \"DePT: Decomposed Prompt Tuning for Parameter-Efficient Fine-tuning\"",
+      "stars": 102,
+      "source": "github"
+    },
+    {
+      "title": "ziplab/SPT",
+      "url": "https://github.com/ziplab/SPT",
+      "description": "[ICCV 2023 oral] This is the official repository for our paper: ''Sensitivity-Aware Visual Parameter-Efficient Fine-Tuning''.",
+      "stars": 75,
+      "source": "github"
+    },
+    {
+      "title": "usc-sail/peft-ser",
+      "url": "https://github.com/usc-sail/peft-ser",
+      "description": "[ACII 2023] PEFT-SER: On the Use of Parameter Efficient Transfer Learning Approaches For Speech Emotion Recognition Using Pre-trained Speech Models",
+      "stars": 60,
+      "source": "github"
+    },
+    {
+      "title": "Ivan-Tang-3D/Point-PEFT",
+      "url": "https://github.com/Ivan-Tang-3D/Point-PEFT",
+      "description": "(AAAI2024) Point-PEFT: Parameter-Efficient Fine-Tuning for 3D Pre-trained Models",
+      "stars": 57,
+      "source": "github"
+    },
+    {
+      "title": "OSU-MLB/ViT_PEFT_Vision",
+      "url": "https://github.com/OSU-MLB/ViT_PEFT_Vision",
+      "description": "[CVPR'25 (Highlight)] Lessons and Insights from a Unifying Study of Parameter-Efficient Fine-Tuning (PEFT) in Visual Recognition",
+      "stars": 47,
+      "source": "github"
+    },
+    {
+      "title": "TamSiuhin/OPPU",
+      "url": "https://github.com/TamSiuhin/OPPU",
+      "description": "Official Implementation of \"Democratizing Large Language Models via Personalized Parameter-Efficient Fine-tuning\" at EMNLP 2024 Main Conference",
+      "stars": 44,
+      "source": "github"
+    },
+    {
+      "title": "computational-cell-analytics/peft-sam",
+      "url": "https://github.com/computational-cell-analytics/peft-sam",
+      "description": "Parameter Efficient Fine-Tuning of Segment Anything Model",
+      "stars": 34,
+      "source": "github"
+    },
+    {
+      "title": "BaohaoLiao/mefts",
+      "url": "https://github.com/BaohaoLiao/mefts",
+      "description": "[NeurIPS 2023] Make Your Pre-trained Model Reversible: From Parameter to Memory Efficient Fine-Tuning",
+      "stars": 33,
+      "source": "github"
+    },
+    {
+      "title": "kossisoroyce/train_grpo.py",
+      "url": "https://github.com/kossisoroyce/train_grpo.py",
+      "description": "GRPO Training Script for Qwen Model on GSM8K Dataset. This script trains a Qwen model using the GRPO (Generalized Reinforcement Policy Optimization) method on the GSM8K (Generalized Math 8K) dataset. The script leverages transformers, PEFT (Parameter-Efficient Fine-Tuning), and TRL (Transformers Reinforcement Learning) libraries.",
+      "stars": 30,
+      "source": "github"
+    },
+    {
+      "title": "amazon-science/peft-design-spaces",
+      "url": "https://github.com/amazon-science/peft-design-spaces",
+      "description": "Official implementation for \"Parameter-Efficient Fine-Tuning Design Spaces\"",
+      "stars": 27,
+      "source": "github"
+    },
+    {
+      "title": "fengxueguiren/CoPEFT",
+      "url": "https://github.com/fengxueguiren/CoPEFT",
+      "description": "[AAAI 2025] CoPEFT: Fast Adaptation Framework for Multi-Agent Collaborative Perception with Parameter-Efficient Fine-Tuning",
+      "stars": 26,
+      "source": "github"
+    },
+    {
+      "title": "furiosa-ai/ssm-peft",
+      "url": "https://github.com/furiosa-ai/ssm-peft",
+      "description": "[ICML 2025] Parameter-Efficient Fine-Tuning of State Space Models",
+      "stars": 25,
+      "source": "github"
+    },
+    {
+      "title": "martin-wey/peft-llm-code",
+      "url": "https://github.com/martin-wey/peft-llm-code",
+      "description": "Replication package of the paper \"Exploring Parameter-Efficient Fine-Tuning Techniques for Code Generation with Large Language Models\" (TOSEM 2025)",
+      "stars": 25,
+      "source": "github"
+    },
+    {
+      "title": "alenai97/PEFT-MLLM",
+      "url": "https://github.com/alenai97/PEFT-MLLM",
+      "description": "Official Code and data for ACL 2024 finding, \"An Empirical Study on Parameter-Efficient Fine-Tuning for MultiModal Large Language Models\"",
+      "stars": 25,
+      "source": "github"
+    },
+    {
+      "title": "IBM/peft-geofm",
+      "url": "https://github.com/IBM/peft-geofm",
+      "description": "Parameter-Efficient Fine-Tuning for Geospatial Foundation Models",
+      "stars": 25,
+      "source": "github"
+    },
+    {
+      "title": "dyzy41/PeftCD",
+      "url": "https://github.com/dyzy41/PeftCD",
+      "description": "Code for \"PeftCD: Leveraging Vision Foundation Models with Parameter-Efficient Fine-Tuning for Remote Sensing Change Detection\"",
+      "stars": 20,
+      "source": "github"
+    },
+    {
+      "title": "Abonia1/LLM-finetuning",
+      "url": "https://github.com/Abonia1/LLM-finetuning",
+      "description": "This repository provides code and resources for Parameter Efficient Fine-Tuning (PEFT), a technique for improving fine-tuning efficiency in natural language processing tasks.",
+      "stars": 18,
+      "source": "github"
+    },
+    {
+      "title": "MaxwellYaoNi/PACE",
+      "url": "https://github.com/MaxwellYaoNi/PACE",
+      "description": "[NeurIPS 2024 Spotlight] Official implementation for \"PACE: marrying generalization in PArameter-efficient fine-tuning with Consistency rEgularization\"",
+      "stars": 18,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.28,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.052,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

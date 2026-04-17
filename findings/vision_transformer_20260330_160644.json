@@ -1,0 +1,159 @@
+{
+  "topic": "vision transformer",
+  "timestamp": "2026-03-30T16:06:44.650713",
+  "findings": [
+    {
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "stars": 158539,
+      "source": "github"
+    },
+    {
+      "title": "huggingface/pytorch-image-models",
+      "url": "https://github.com/huggingface/pytorch-image-models",
+      "description": "The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNetV4, MobileNet-V3 & V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, and more",
+      "stars": 36567,
+      "source": "github"
+    },
+    {
+      "title": "lucidrains/vit-pytorch",
+      "url": "https://github.com/lucidrains/vit-pytorch",
+      "description": "Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch",
+      "stars": 24996,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/Swin-Transformer",
+      "url": "https://github.com/microsoft/Swin-Transformer",
+      "description": "This is an official implementation for \"Swin Transformer: Hierarchical Vision Transformer using Shifted Windows\".",
+      "stars": 15812,
+      "source": "github"
+    },
+    {
+      "title": "jacobgil/pytorch-grad-cam",
+      "url": "https://github.com/jacobgil/pytorch-grad-cam",
+      "description": "Advanced AI Explainability for computer vision.  Support for CNNs, Vision Transformers, Classification, Object detection, Segmentation, Image similarity and more.",
+      "stars": 12718,
+      "source": "github"
+    },
+    {
+      "title": "google-research/vision_transformer",
+      "url": "https://github.com/google-research/vision_transformer",
+      "description": null,
+      "stars": 12401,
+      "source": "github"
+    },
+    {
+      "title": "facebookresearch/dino",
+      "url": "https://github.com/facebookresearch/dino",
+      "description": "PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO",
+      "stars": 7500,
+      "source": "github"
+    },
+    {
+      "title": "cmhungsteve/Awesome-Transformer-Attention",
+      "url": "https://github.com/cmhungsteve/Awesome-Transformer-Attention",
+      "description": "An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites",
+      "stars": 5025,
+      "source": "github"
+    },
+    {
+      "title": "dk-liang/Awesome-Visual-Transformer",
+      "url": "https://github.com/dk-liang/Awesome-Visual-Transformer",
+      "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
+      "stars": 3572,
+      "source": "github"
+    },
+    {
+      "title": "google-research/big_vision",
+      "url": "https://github.com/google-research/big_vision",
+      "description": "Official codebase used to develop Vision Transformer, SigLIP, MLP-Mixer, LiT and more.",
+      "stars": 3396,
+      "source": "github"
+    },
+    {
+      "title": "Charmve/computer-vision-in-action",
+      "url": "https://github.com/Charmve/computer-vision-in-action",
+      "description": "A computer vision closed-loop learning platform where code can be run interactively online. 学习闭环《计算机视觉实战演练：算法与应用》中文电子书、源码、读者交流社区（持续更新中 ...） 📘 在线电子书 https://charmve.github.io/computer-vision-in-action/   👇项目主页",
+      "stars": 2840,
+      "source": "github"
+    },
+    {
+      "title": "jeonsworld/ViT-pytorch",
+      "url": "https://github.com/jeonsworld/ViT-pytorch",
+      "description": "Pytorch reimplementation of the Vision Transformer (An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale)",
+      "stars": 2147,
+      "source": "github"
+    },
+    {
+      "title": "NVlabs/MambaVision",
+      "url": "https://github.com/NVlabs/MambaVision",
+      "description": "[CVPR 2025] Official PyTorch Implementation of MambaVision: A Hybrid Mamba-Transformer Vision Backbone",
+      "stars": 2091,
+      "source": "github"
+    },
+    {
+      "title": "apple/ml-fastvit",
+      "url": "https://github.com/apple/ml-fastvit",
+      "description": "This repository contains the official implementation of the research paper, \"FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization\" ICCV 2023",
+      "stars": 1992,
+      "source": "github"
+    },
+    {
+      "title": "ViTAE-Transformer/ViTPose",
+      "url": "https://github.com/ViTAE-Transformer/ViTPose",
+      "description": "The official repo for [NeurIPS'22] \"ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation\" and [TPAMI'23] \"ViTPose++: Vision Transformer for Generic Body Pose Estimation\"",
+      "stars": 1982,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/Cream",
+      "url": "https://github.com/microsoft/Cream",
+      "description": "This is a collection of our NAS and Vision Transformer work.",
+      "stars": 1830,
+      "source": "github"
+    },
+    {
+      "title": "dandelin/ViLT",
+      "url": "https://github.com/dandelin/ViLT",
+      "description": "Code for the ICML 2021 (long talk) paper: \"ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision\"",
+      "stars": 1530,
+      "source": "github"
+    },
+    {
+      "title": "czczup/ViT-Adapter",
+      "url": "https://github.com/czczup/ViT-Adapter",
+      "description": "[ICLR 2023 Spotlight] Vision Transformer Adapter for Dense Predictions",
+      "stars": 1480,
+      "source": "github"
+    },
+    {
+      "title": "Yangzhangcst/Transformer-in-Computer-Vision",
+      "url": "https://github.com/Yangzhangcst/Transformer-in-Computer-Vision",
+      "description": "A paper list of some recent Transformer-based CV works.",
+      "stars": 1438,
+      "source": "github"
+    },
+    {
+      "title": "IDEA-Research/awesome-detection-transformer",
+      "url": "https://github.com/IDEA-Research/awesome-detection-transformer",
+      "description": "Collect some papers about transformer for detection and segmentation. Awesome Detection Transformer for Computer Vision (CV)",
+      "stars": 1395,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.289,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.094,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

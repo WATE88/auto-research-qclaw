@@ -1,0 +1,174 @@
+{
+  "topic": "AI agent orchestration",
+  "timestamp": "2026-04-01T16:11:54.081731",
+  "findings": [
+    {
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "description": "Production-ready platform for agentic workflow development.",
+      "stars": 135294,
+      "source": "github"
+    },
+    {
+      "title": "crewAIInc/crewAI",
+      "url": "https://github.com/crewAIInc/crewAI",
+      "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+      "stars": 47745,
+      "source": "github"
+    },
+    {
+      "title": "code-yeongyu/oh-my-openagent",
+      "url": "https://github.com/code-yeongyu/oh-my-openagent",
+      "description": "omo; the best agent harness - previously oh-my-opencode",
+      "stars": 45585,
+      "source": "github"
+    },
+    {
+      "title": "conductor-oss/conductor",
+      "url": "https://github.com/conductor-oss/conductor",
+      "description": "Conductor is an event driven agentic orchestration platform providing durable and highly resilient execution engine for applications and AI Agents",
+      "stars": 31600,
+      "source": "github"
+    },
+    {
+      "title": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "stars": 29042,
+      "source": "github"
+    },
+    {
+      "title": "labring/FastGPT",
+      "url": "https://github.com/labring/FastGPT",
+      "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+      "stars": 27584,
+      "source": "github"
+    },
+    {
+      "title": "simstudioai/sim",
+      "url": "https://github.com/simstudioai/sim",
+      "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+      "stars": 27313,
+      "source": "github"
+    },
+    {
+      "title": "deepset-ai/haystack",
+      "url": "https://github.com/deepset-ai/haystack",
+      "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
+      "stars": 24672,
+      "source": "github"
+    },
+    {
+      "title": "humanlayer/12-factor-agents",
+      "url": "https://github.com/humanlayer/12-factor-agents",
+      "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+      "stars": 19027,
+      "source": "github"
+    },
+    {
+      "title": "triggerdotdev/trigger.dev",
+      "url": "https://github.com/triggerdotdev/trigger.dev",
+      "description": "Trigger.dev – build and deploy fully‑managed AI agents and workflows",
+      "stars": 14312,
+      "source": "github"
+    },
+    {
+      "title": "cft0808/edict",
+      "url": "https://github.com/cft0808/edict",
+      "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails",
+      "stars": 13843,
+      "source": "github"
+    },
+    {
+      "title": "dataelement/bisheng",
+      "url": "https://github.com/dataelement/bisheng",
+      "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Management, Observability and more.",
+      "stars": 11273,
+      "source": "github"
+    },
+    {
+      "title": "iflytek/astron-agent",
+      "url": "https://github.com/iflytek/astron-agent",
+      "description": "Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.",
+      "stars": 10704,
+      "source": "github"
+    },
+    {
+      "title": "superset-sh/superset",
+      "url": "https://github.com/superset-sh/superset",
+      "description": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+      "stars": 8396,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/agent-framework",
+      "url": "https://github.com/microsoft/agent-framework",
+      "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
+      "stars": 8342,
+      "source": "github"
+    },
+    {
+      "title": "kyegomez/swarms",
+      "url": "https://github.com/kyegomez/swarms",
+      "description": "The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+      "stars": 6166,
+      "source": "github"
+    },
+    {
+      "title": "katanemo/plano",
+      "url": "https://github.com/katanemo/plano",
+      "description": "Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, observability, and smart LLM routing so you stay focused on your agents core logic.",
+      "stars": 6129,
+      "source": "github"
+    },
+    {
+      "title": "ValueCell-ai/ClawX",
+      "url": "https://github.com/ValueCell-ai/ClawX",
+      "description": "ClawX is a desktop app that provides a graphical interface for OpenClaw AI agents. It turns CLI-based AI orchestration into a desktop experience without using the terminal. China website is https://clawx.com.cn.",
+      "stars": 5943,
+      "source": "github"
+    },
+    {
+      "title": "superradcompany/microsandbox",
+      "url": "https://github.com/superradcompany/microsandbox",
+      "description": "secure, local-first and programmable sandboxes for AI agents",
+      "stars": 5211,
+      "source": "github"
+    },
+    {
+      "title": "ModelEngine-Group/nexent",
+      "url": "https://github.com/ModelEngine-Group/nexent",
+      "description": "Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestration with built-in constraints, feedback loops, and control planes.",
+      "stars": 4369,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.407,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.178,
+      "diversity": 0.0,
+      "usability": 0.0,
+      "applicability": 0.975,
+      "coverage": 1.0,
+      "ndcg": 0.648,
+      "map": 1.0,
+      "mrr": 1.0,
+      "rouge_1": 0.533,
+      "semantic_sim": 0.198,
+      "coherence": 0.118,
+      "task_completion": 0.502,
+      "tool_use": 0.107,
+      "reasoning_depth": 0.057,
+      "autonomy": 0.113,
+      "multi_agent": 0.275
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

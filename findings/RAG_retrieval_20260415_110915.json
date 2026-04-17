@@ -1,0 +1,280 @@
+{
+  "topic": "RAG retrieval",
+  "timestamp": "2026-04-15T11:09:15.243450",
+  "findings": [
+    {
+      "title": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stars": 78062,
+      "source": "github"
+    },
+    {
+      "title": "HKUDS/LightRAG",
+      "url": "https://github.com/HKUDS/LightRAG",
+      "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+      "stars": 33248,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/graphrag",
+      "url": "https://github.com/microsoft/graphrag",
+      "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+      "stars": 32230,
+      "source": "github"
+    },
+    {
+      "title": "labring/FastGPT",
+      "url": "https://github.com/labring/FastGPT",
+      "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+      "stars": 27721,
+      "source": "github"
+    },
+    {
+      "title": "NirDiamant/RAG_Techniques",
+      "url": "https://github.com/NirDiamant/RAG_Techniques",
+      "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.",
+      "stars": 26768,
+      "source": "github"
+    },
+    {
+      "title": "VectifyAI/PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "stars": 25229,
+      "source": "github"
+    },
+    {
+      "title": "deepset-ai/haystack",
+      "url": "https://github.com/deepset-ai/haystack",
+      "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
+      "stars": 24833,
+      "source": "github"
+    },
+    {
+      "title": "vanna-ai/vanna",
+      "url": "https://github.com/vanna-ai/vanna",
+      "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.",
+      "stars": 23271,
+      "source": "github"
+    },
+    {
+      "title": "memvid/memvid",
+      "url": "https://github.com/memvid/memvid",
+      "description": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
+      "stars": 14917,
+      "source": "github"
+    },
+    {
+      "title": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+      "stars": 13863,
+      "source": "github"
+    },
+    {
+      "title": "activeloopai/deeplake",
+      "url": "https://github.com/activeloopai/deeplake",
+      "description": "Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.",
+      "stars": 9083,
+      "source": "github"
+    },
+    {
+      "title": "OpenSPG/KAG",
+      "url": "https://github.com/OpenSPG/KAG",
+      "description": "KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs.  It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.",
+      "stars": 8673,
+      "source": "github"
+    },
+    {
+      "title": "SciPhi-AI/R2R",
+      "url": "https://github.com/SciPhi-AI/R2R",
+      "description": "SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.",
+      "stars": 7767,
+      "source": "github"
+    },
+    {
+      "title": "weaviate/Verba",
+      "url": "https://github.com/weaviate/Verba",
+      "description": "Retrieval Augmented Generation (RAG) chatbot powered by Weaviate",
+      "stars": 7649,
+      "source": "github"
+    },
+    {
+      "title": "airweave-ai/airweave",
+      "url": "https://github.com/airweave-ai/airweave",
+      "description": "Open-source context retrieval layer for AI agents",
+      "stars": 6234,
+      "source": "github"
+    },
+    {
+      "title": "Marker-Inc-Korea/AutoRAG",
+      "url": "https://github.com/Marker-Inc-Korea/AutoRAG",
+      "description": "AutoRAG: An Open-Source Framework for Retrieval-Augmented Generation (RAG) Evaluation & Optimization with AutoML-Style Automation",
+      "stars": 4701,
+      "source": "github"
+    },
+    {
+      "title": "truefoundry/cognita",
+      "url": "https://github.com/truefoundry/cognita",
+      "description": "RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry ",
+      "stars": 4419,
+      "source": "github"
+    },
+    {
+      "title": "CortexReach/memory-lancedb-pro",
+      "url": "https://github.com/CortexReach/memory-lancedb-pro",
+      "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI",
+      "stars": 4187,
+      "source": "github"
+    },
+    {
+      "title": "AnswerDotAI/RAGatouille",
+      "url": "https://github.com/AnswerDotAI/RAGatouille",
+      "description": "Easily use and train state of the art late-interaction retrieval methods (ColBERT) in any RAG pipeline. Designed for modularity and ease-of-use, backed by research.",
+      "stars": 3903,
+      "source": "github"
+    },
+    {
+      "title": "aiming-lab/SimpleMem",
+      "url": "https://github.com/aiming-lab/SimpleMem",
+      "description": "SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal",
+      "stars": 3209,
+      "source": "github"
+    },
+    {
+      "title": "Lyra 2.0: Explorable Generative 3D Worlds",
+      "url": "http://arxiv.org/abs/2604.13036v1",
+      "abstract": "Recent advances in video generation enable a new paradigm for 3D scene creation: generating camera-controlled videos that simulate scene walkthroughs, then lifting them to 3D via feed-forward reconstruction techniques. This generative reconstruction approach combines the visual fidelity and creative",
+      "source": "arxiv"
+    },
+    {
+      "title": "Representation geometry shapes task performance in vision-language modeling for CT enterography",
+      "url": "http://arxiv.org/abs/2604.13021v1",
+      "abstract": "Computed tomography (CT) enterography is a primary imaging modality for assessing inflammatory bowel disease (IBD), yet the representational choices that best support automated analysis of this modality are unknown. We present the first study of vision-language transfer learning on abdominal CT ente",
+      "source": "arxiv"
+    },
+    {
+      "title": "Sparse Contrastive Learning for Content-Based Cold Item Recommendation",
+      "url": "http://arxiv.org/abs/2604.12990v1",
+      "abstract": "Item cold-start is a pervasive challenge for collaborative filtering (CF) recommender systems. Existing methods often train cold-start models by mapping auxiliary item content, such as images or text descriptions, into the embedding space of a CF model. However, such approaches can be limited by the",
+      "source": "arxiv"
+    },
+    {
+      "title": "Cycle-Consistent Search: Question Reconstructability as a Proxy Reward for Search Agent Training",
+      "url": "http://arxiv.org/abs/2604.12967v1",
+      "abstract": "Reinforcement Learning (RL) has shown strong potential for optimizing search agents in complex information retrieval tasks. However, existing approaches predominantly rely on gold supervision, such as ground-truth answers, which is difficult to scale. To address this limitation, we propose Cycle-Con",
+      "source": "arxiv"
+    },
+    {
+      "title": "Efficient Retrieval Scaling with Hierarchical Indexing for Large Scale Recommendation",
+      "url": "http://arxiv.org/abs/2604.12965v1",
+      "abstract": "The increase in data volume, computational resources, and model parameters during training has led to the development of numerous large-scale industrial retrieval models for recommendation tasks. However, effectively and efficiently deploying these large-scale foundational retrieval models remains a",
+      "source": "arxiv"
+    },
+    {
+      "title": "Drawing on Memory: Dual-Trace Encoding Improves Cross-Session Recall in LLM Agents",
+      "url": "http://arxiv.org/abs/2604.12948v1",
+      "abstract": "LLM agents with persistent memory store information as flat factual records, providing little context for temporal reasoning, change tracking, or cross-session aggregation. Inspired by the drawing effect [3], we introduce dual-trace memory encoding. In this method, each stored fact is paired with a ",
+      "source": "arxiv"
+    },
+    {
+      "title": "MoshiRAG: Asynchronous Knowledge Retrieval for Full-Duplex Speech Language Models",
+      "url": "http://arxiv.org/abs/2604.12928v1",
+      "abstract": "Speech-to-speech language models have recently emerged to enhance the naturalness of conversational AI. In particular, full-duplex models are distinguished by their real-time interactivity, including handling of pauses, interruptions, and backchannels. However, improving their factuality remains an ",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Sanity Check on Composed Image Retrieval",
+      "url": "http://arxiv.org/abs/2604.12904v1",
+      "abstract": "Composed Image Retrieval (CIR) aims to retrieve a target image based on a query composed of a reference image, and a relative caption that specifies the desired modification. Despite the rapid development of CIR models, their performance is not well characterized by existing benchmarks, which inhere",
+      "source": "arxiv"
+    },
+    {
+      "title": "DocSeeker: Structured Visual Reasoning with Evidence Grounding for Long Document Understanding",
+      "url": "http://arxiv.org/abs/2604.12812v1",
+      "abstract": "Existing Multimodal Large Language Models (MLLMs) suffer from significant performance degradation on the long document understanding task as document length increases. This stems from two fundamental challenges: 1) a low Signal-to-Noise Ratio (SNR), with crucial evidence buried in irrelevant pages; ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Algorithmic Analysis of Dense Associative Memory: Finite-Size Guarantees and Adversarial Robustness",
+      "url": "http://arxiv.org/abs/2604.12811v1",
+      "abstract": "Dense Associative Memory (DAM) generalizes Hopfield networks through higher-order interactions and achieves storage capacity that scales as $O(N^{n-1})$ under suitable pattern separation conditions. Existing dynamical analyses primarily study the thermodynamic limit $N\\to\\infty$ with randomly sample",
+      "source": "arxiv"
+    },
+    {
+      "title": "NaviRAG: Towards Active Knowledge Navigation for Retrieval-Augmented Generation",
+      "url": "http://arxiv.org/abs/2604.12766v1",
+      "abstract": "Retrieval-augmented generation (RAG) typically relies on a flat retrieval paradigm that maps queries directly to static, isolated text segments. This approach struggles with more complex tasks that require the conditional retrieval and dynamic synthesis of information across different levels of gran",
+      "source": "arxiv"
+    },
+    {
+      "title": "AffectAgent: Collaborative Multi-Agent Reasoning for Retrieval-Augmented Multimodal Emotion Recognition",
+      "url": "http://arxiv.org/abs/2604.12735v1",
+      "abstract": "LLM-based multimodal emotion recognition relies on static parametric memory and often hallucinates when interpreting nuanced affective states. In this paper, given that single-round retrieval-augmented generation is highly susceptible to modal ambiguity and therefore struggles to capture complex aff",
+      "source": "arxiv"
+    },
+    {
+      "title": "MISID: A Multimodal Multi-turn Dataset for Complex Intent Recognition in Strategic Deception Games",
+      "url": "http://arxiv.org/abs/2604.12700v1",
+      "abstract": "Understanding human intent in complex multi-turn interactions remains a fundamental challenge in human-computer interaction and behavioral analysis. While existing intent recognition datasets focus mainly on single utterances or simple dialogues, real-world scenarios often involve sophisticated stra",
+      "source": "arxiv"
+    },
+    {
+      "title": "Learning Chain Of Thoughts Prompts for Predicting Entities, Relations, and even Literals on Knowledge Graphs",
+      "url": "http://arxiv.org/abs/2604.12651v1",
+      "abstract": "Knowledge graph embedding (KGE) models perform well on link prediction but struggle with unseen entities, relations, and especially literals, limiting their use in dynamic, heterogeneous graphs. In contrast, pretrained large language models (LLMs) generalize effectively through prompting. We reformu",
+      "source": "arxiv"
+    },
+    {
+      "title": "Adaptive Test-Time Scaling for Zero-Shot Respiratory Audio Classification",
+      "url": "http://arxiv.org/abs/2604.12647v1",
+      "abstract": "Automated respiratory audio analysis promises scalable, non-invasive disease screening, yet progress is limited by scarce labeled data and costly expert annotation. Zero-shot inference eliminates task-specific supervision, but existing methods apply uniform computation to every input regardless of d",
+      "source": "arxiv"
+    },
+    {
+      "title": "DeepTest Tool Competition 2026: Benchmarking an LLM-Based Automotive Assistant",
+      "url": "http://arxiv.org/abs/2604.12615v1",
+      "abstract": "This report summarizes the results of the first edition of the Large Language Model (LLM) Testing competition, held as part of the DeepTest workshop at ICSE 2026. Four tools competed in benchmarking an LLM-based car manual information retrieval application, with the objective of identifying user inp",
+      "source": "arxiv"
+    },
+    {
+      "title": "Transforming External Knowledge into Triplets for Enhanced Retrieval in RAG of LLMs",
+      "url": "http://arxiv.org/abs/2604.12610v1",
+      "abstract": "Retrieval-Augmented Generation (RAG) mitigates hallucination in large language models (LLMs) by incorporating external knowledge during generation. However, the effectiveness of RAG depends not only on the design of the retriever and the capacity of the underlying model, but also on how retrieved ev",
+      "source": "arxiv"
+    },
+    {
+      "title": "Lit2Vec: A Reproducible Workflow for Building a Legally Screened Chemistry Corpus from S2ORC for Downstream Retrieval and Text Mining",
+      "url": "http://arxiv.org/abs/2604.12498v1",
+      "abstract": "We present Lit2Vec, a reproducible workflow for constructing and validating a chemistry corpus from the Semantic Scholar Open Research Corpus using conservative, metadata-based license screening. Using this workflow, we assembled an internal study corpus of 582,683 chemistry-specific full-text resea",
+      "source": "arxiv"
+    },
+    {
+      "title": "Beyond Single-Dimension Novelty: How Combinations of Theory, Method, and Results-based Novelty Shape Scientific Impact",
+      "url": "http://arxiv.org/abs/2604.12471v1",
+      "abstract": "Scientific novelty drives advances at the research frontier, yet it is also associated with heightened uncertainty and potential resistance from incumbent paradigms, leading to complex patterns of scientific impact. Prior studies have primarily ex-amined the relationship between a single dimension o",
+      "source": "arxiv"
+    },
+    {
+      "title": "Heuristic Classification of Thoughts Prompting (HCoT): Integrating Expert System Heuristics for Structured Reasoning into Large Language Models",
+      "url": "http://arxiv.org/abs/2604.12390v1",
+      "abstract": "This paper addresses two limitations of large language models (LLMs) in solving complex problems: (1) their reasoning processes exhibit Bayesian-like stochastic generation, where each token is sampled from a context-dependent probability distribution, leading to inherently random decision trajectori",
+      "source": "arxiv"
+    }
+  ],
+  "quality": {
+    "total": 40,
+    "quality_score": 0.439,
+    "dimensions": {
+      "authority": 0.95,
+      "quality": 0.025,
+      "star_power": 0.231,
+      "diversity": 0.5
+    },
+    "sources_breakdown": {
+      "github": 20,
+      "arxiv": 20
+    }
+  }
+}

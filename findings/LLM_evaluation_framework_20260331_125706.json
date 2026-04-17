@@ -1,0 +1,174 @@
+{
+  "topic": "LLM evaluation framework",
+  "timestamp": "2026-03-31T12:57:06.680375",
+  "findings": [
+    {
+      "title": "openai/evals",
+      "url": "https://github.com/openai/evals",
+      "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
+      "stars": 18102,
+      "source": "github"
+    },
+    {
+      "title": "raga-ai-hub/RagaAI-Catalyst",
+      "url": "https://github.com/raga-ai-hub/RagaAI-Catalyst",
+      "description": "Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced analytics with timeline and execution graph view ",
+      "stars": 16128,
+      "source": "github"
+    },
+    {
+      "title": "confident-ai/deepeval",
+      "url": "https://github.com/confident-ai/deepeval",
+      "description": "The LLM Evaluation Framework",
+      "stars": 14348,
+      "source": "github"
+    },
+    {
+      "title": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+      "stars": 13664,
+      "source": "github"
+    },
+    {
+      "title": "evidentlyai/evidently",
+      "url": "https://github.com/evidentlyai/evidently",
+      "description": "Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics.",
+      "stars": 7348,
+      "source": "github"
+    },
+    {
+      "title": "lm-sys/RouteLLM",
+      "url": "https://github.com/lm-sys/RouteLLM",
+      "description": "A framework for serving and evaluating LLM routers - save LLM costs without compromising quality",
+      "stars": 4740,
+      "source": "github"
+    },
+    {
+      "title": "Marker-Inc-Korea/AutoRAG",
+      "url": "https://github.com/Marker-Inc-Korea/AutoRAG",
+      "description": "AutoRAG: An Open-Source Framework for Retrieval-Augmented Generation (RAG) Evaluation & Optimization with AutoML-Style Automation",
+      "stars": 4652,
+      "source": "github"
+    },
+    {
+      "title": "stanford-crfm/helm",
+      "url": "https://github.com/stanford-crfm/helm",
+      "description": "Holistic Evaluation of Language Models (HELM) is an open source Python framework created by the Center for Research on Foundation Models (CRFM) at Stanford for holistic, reproducible and transparent evaluation of foundation models, including large language models (LLMs) and multimodal models.",
+      "stars": 2725,
+      "source": "github"
+    },
+    {
+      "title": "modelscope/evalscope",
+      "url": "https://github.com/modelscope/evalscope",
+      "description": "A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking.",
+      "stars": 2577,
+      "source": "github"
+    },
+    {
+      "title": "openlit/openlit",
+      "url": "https://github.com/openlit/openlit",
+      "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50+ LLM Providers, VectorDBs, Agent Frameworks and GPUs.",
+      "stars": 2330,
+      "source": "github"
+    },
+    {
+      "title": "1517005260/graph-rag-agent",
+      "url": "https://github.com/1517005260/graph-rag-agent",
+      "description": "拼好RAG：手搓并融合了GraphRAG、LightRAG、Neo4j-llm-graph-builder进行知识图谱构建以及搜索；整合DeepSearch技术实现私域RAG的推理；自制针对GraphRAG的评估框架| Integrate GraphRAG, LightRAG, and Neo4j-llm-graph-builder for knowledge graph construction and search. Combine DeepSearch for private RAG reasoning. Create a custom evaluation framework for GraphRAG.",
+      "stars": 2043,
+      "source": "github"
+    },
+    {
+      "title": "Scale3-Labs/langtrace",
+      "url": "https://github.com/Scale3-Labs/langtrace",
+      "description": "Langtrace 🔍 is an open-source,  Open Telemetry based end-to-end observability tool for LLM applications, providing real-time tracing, evaluations and metrics for popular LLMs, LLM frameworks, vectorDBs and more.. Integrate using Typescript, Python. 🚀💻📊",
+      "stars": 1187,
+      "source": "github"
+    },
+    {
+      "title": "NousResearch/atropos",
+      "url": "https://github.com/NousResearch/atropos",
+      "description": "Atropos is a Language Model Reinforcement Learning Environments framework for collecting and evaluating LLM trajectories through diverse environments",
+      "stars": 960,
+      "source": "github"
+    },
+    {
+      "title": "IntelLabs/RAG-FiT",
+      "url": "https://github.com/IntelLabs/RAG-FiT",
+      "description": "Framework for enhancing LLMs for RAG tasks using fine-tuning.",
+      "stars": 770,
+      "source": "github"
+    },
+    {
+      "title": "RobustNLP/CipherChat",
+      "url": "https://github.com/RobustNLP/CipherChat",
+      "description": "A framework to evaluate the generalization capability of safety alignment for LLMs",
+      "stars": 627,
+      "source": "github"
+    },
+    {
+      "title": "agentscope-ai/OpenJudge",
+      "url": "https://github.com/agentscope-ai/OpenJudge",
+      "description": "OpenJudge: A Unified Framework for Holistic Evaluation and Quality Rewards",
+      "stars": 506,
+      "source": "github"
+    },
+    {
+      "title": "wgryc/phasellm",
+      "url": "https://github.com/wgryc/phasellm",
+      "description": "Large language model evaluation and workflow framework from Phase AI.",
+      "stars": 460,
+      "source": "github"
+    },
+    {
+      "title": "aielte-research/HackSynth",
+      "url": "https://github.com/aielte-research/HackSynth",
+      "description": "LLM Agent and Evaluation Framework for Autonomous Penetration Testing ",
+      "stars": 302,
+      "source": "github"
+    },
+    {
+      "title": "stalkermustang/llm-bulls-and-cows-benchmark",
+      "url": "https://github.com/stalkermustang/llm-bulls-and-cows-benchmark",
+      "description": "A mini-framework for evaluating LLM performance on the Bulls and Cows number guessing game, supporting multiple LLM providers.",
+      "stars": 236,
+      "source": "github"
+    },
+    {
+      "title": "Ayanami0730/arag",
+      "url": "https://github.com/Ayanami0730/arag",
+      "description": "A-RAG: Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfaces. State-of-the-art RAG framework with keyword, semantic, and chunk read tools for multi-hop QA.",
+      "stars": 235,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.449,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.15,
+      "star_power": 0.259,
+      "diversity": 0.0,
+      "usability": 0.0,
+      "applicability": 0.875,
+      "coverage": 1.0,
+      "ndcg": 0.759,
+      "map": 1.0,
+      "mrr": 1.0,
+      "rouge_1": 0.667,
+      "semantic_sim": 0.313,
+      "coherence": 0.099,
+      "task_completion": 0.698,
+      "tool_use": 0.078,
+      "reasoning_depth": 0.023,
+      "autonomy": 0.087,
+      "multi_agent": 0.015
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

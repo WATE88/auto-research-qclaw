@@ -1,0 +1,271 @@
+{
+  "topic": "AI agents",
+  "round": 1,
+  "timestamp": "2026-03-27T16:11:37.412478",
+  "findings": [
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "stars": 182863,
+      "source": "github"
+    },
+    {
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "stars": 146291,
+      "source": "github"
+    },
+    {
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "description": "Production-ready platform for agentic workflow development.",
+      "stars": 134683,
+      "source": "github"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "stars": 133408,
+      "source": "github"
+    },
+    {
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "description": "The agent engineering platform",
+      "stars": 131282,
+      "source": "github"
+    },
+    {
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "stars": 103717,
+      "source": "github"
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "stars": 99247,
+      "source": "github"
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "stars": 84678,
+      "source": "github"
+    },
+    {
+      "title": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stars": 76344,
+      "source": "github"
+    },
+    {
+      "title": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+      "stars": 74378,
+      "source": "github"
+    },
+    {
+      "title": "dair-ai/Prompt-Engineering-Guide",
+      "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+      "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+      "stars": 72312,
+      "source": "github"
+    },
+    {
+      "title": "FoundationAgents/MetaGPT",
+      "url": "https://github.com/FoundationAgents/MetaGPT",
+      "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+      "stars": 66293,
+      "source": "github"
+    },
+    {
+      "title": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "stars": 63765,
+      "source": "github"
+    },
+    {
+      "title": "OpenBB-finance/OpenBB",
+      "url": "https://github.com/OpenBB-finance/OpenBB",
+      "description": "Financial data platform for analysts, quants and AI agents.",
+      "stars": 63619,
+      "source": "github"
+    },
+    {
+      "title": "karpathy/autoresearch",
+      "url": "https://github.com/karpathy/autoresearch",
+      "description": "AI agents running research on single-GPU nanochat training automatically",
+      "stars": 57787,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/autogen",
+      "url": "https://github.com/microsoft/autogen",
+      "description": "A programming framework for agentic AI",
+      "stars": 56286,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "description": "12 Lessons to Get Started Building AI Agents",
+      "stars": 55111,
+      "source": "github"
+    },
+    {
+      "title": "mem0ai/mem0",
+      "url": "https://github.com/mem0ai/mem0",
+      "description": "Universal memory layer for AI Agents",
+      "stars": 51207,
+      "source": "github"
+    },
+    {
+      "title": "FlowiseAI/Flowise",
+      "url": "https://github.com/FlowiseAI/Flowise",
+      "description": "Build AI Agents, Visually",
+      "stars": 51137,
+      "source": "github"
+    },
+    {
+      "title": "crewAIInc/crewAI",
+      "url": "https://github.com/crewAIInc/crewAI",
+      "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+      "stars": 47327,
+      "source": "github"
+    },
+    {
+      "title": "Back to Basics: Revisiting ASR in the Age of Voice Agents",
+      "url": "https://arxiv.org/abs/2603.25727v1",
+      "abstract": "Automatic speech recognition (ASR) systems have achieved near-human accuracy on curated benchmarks, yet still fail in real-world voice agents under conditions that current evaluations do not systemati",
+      "source": "arxiv"
+    },
+    {
+      "title": "AnyHand: A Large-Scale Synthetic Dataset for RGB(-D) Hand Pose Estimation",
+      "url": "https://arxiv.org/abs/2603.25726v1",
+      "abstract": "We present AnyHand, a large-scale synthetic dataset designed to advance the state of the art in 3D hand pose estimation from both RGB-only and RGB-D inputs. While recent works with foundation approach",
+      "source": "arxiv"
+    },
+    {
+      "title": "Natural-Language Agent Harnesses",
+      "url": "https://arxiv.org/abs/2603.25723v1",
+      "abstract": "Agent performance increasingly depends on \\emph{harness engineering}, yet harness design is usually buried in controller code and runtime-specific conventions, making it hard to transfer, compare, and",
+      "source": "arxiv"
+    },
+    {
+      "title": "Agent Factories for High Level Synthesis: How Far Can General-Purpose Coding Agents Go in Hardware Optimization?",
+      "url": "https://arxiv.org/abs/2603.25719v1",
+      "abstract": "We present an empirical study of how far general-purpose coding agents -- without hardware-specific training -- can optimize hardware designs from high-level algorithmic specifications. We introduce a",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Kitchen Loop: User-Spec-Driven Development for a Self-Evolving Codebase",
+      "url": "https://arxiv.org/abs/2603.25697v1",
+      "abstract": "Code production is now a commodity; the bottleneck is knowing what to build and proving it works. We present the Kitchen Loop, a framework for autonomous, self-evolving software built on a unified tru",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Unified Memory Perspective for Probabilistic Trustworthy AI",
+      "url": "https://arxiv.org/abs/2603.25692v1",
+      "abstract": "Trustworthy artificial intelligence increasingly relies on probabilistic computation to achieve robustness, interpretability, security and privacy. In practical systems, such workloads interleave dete",
+      "source": "arxiv"
+    },
+    {
+      "title": "Longitudinal Digital Phenotyping for Early Cognitive-Motor Screening",
+      "url": "https://arxiv.org/abs/2603.25673v1",
+      "abstract": "Early detection of atypical cognitive-motor development is critical for timely intervention, yet traditional assessments rely heavily on subjective, static evaluations. The integration of digital devi",
+      "source": "arxiv"
+    },
+    {
+      "title": "SHAPR: Operationalising Human-AI Collaborative Research Through Structured Knowledge Generation",
+      "url": "https://arxiv.org/abs/2603.25660v1",
+      "abstract": "SHAPR (Solo Human-Centred and AI-Assisted Practice) is a framework for research software development that integrates human-centred decision-making with AI-assisted capabilities. While prior work intro",
+      "source": "arxiv"
+    },
+    {
+      "title": "Colon-Bench: An Agentic Workflow for Scalable Dense Lesion Annotation in Full-Procedure Colonoscopy Videos",
+      "url": "https://arxiv.org/abs/2603.25645v1",
+      "abstract": "Early screening via colonoscopy is critical for colon cancer prevention, yet developing robust AI systems for this domain is hindered by the lack of densely annotated, long-sequence video datasets. Ex",
+      "source": "arxiv"
+    },
+    {
+      "title": "Conchordal: Emergent Harmony via Direct Cognitive Coupling in a Psychoacoustic Landscape",
+      "url": "https://arxiv.org/abs/2603.25637v1",
+      "abstract": "This paper introduces Conchordal, a bio-acoustic instrument for generative composition whose sonic agents are governed by artificial life dynamics within a psychoacoustic fitness landscape. The system",
+      "source": "arxiv"
+    },
+    {
+      "title": "Designing Any Imaging System from Natural Language: Agent-Constrained Composition over a Finite Primitive Basis",
+      "url": "https://arxiv.org/abs/2603.25636v1",
+      "abstract": "Designing a computational imaging system -- selecting operators, setting parameters, validating consistency -- requires weeks of specialist effort per modality, creating an expertise bottleneck that e",
+      "source": "arxiv"
+    },
+    {
+      "title": "Is Mathematical Problem-Solving Expertise in Large Language Models Associated with Assessment Performance?",
+      "url": "https://arxiv.org/abs/2603.25633v1",
+      "abstract": "Large Language Models (LLMs) are increasingly used in math education not only as problem solvers but also as assessors of learners' reasoning. However, it remains unclear whether stronger math problem",
+      "source": "arxiv"
+    },
+    {
+      "title": "PICon: A Multi-Turn Interrogation Framework for Evaluating Persona Agent Consistency",
+      "url": "https://arxiv.org/abs/2603.25620v1",
+      "abstract": "Large language model (LLM)-based persona agents are rapidly being adopted as scalable proxies for human participants across diverse domains. Yet there is no systematic method for verifying whether a p",
+      "source": "arxiv"
+    },
+    {
+      "title": "Social Hippocampus Memory Learning",
+      "url": "https://arxiv.org/abs/2603.25614v1",
+      "abstract": "Social learning highlights that learning agents improve not in isolation, but through interaction and structured knowledge exchange with others. When introduced into machine learning, this principle g",
+      "source": "arxiv"
+    },
+    {
+      "title": "Cooperative Deep Reinforcement Learning for Fair RIS Allocation",
+      "url": "https://arxiv.org/abs/2603.25572v1",
+      "abstract": "The deployment of reconfigurable intelligent surfaces (RISs) introduces new challenges for resource allocation in multi-cell wireless networks, particularly when user loads are uneven across base stat",
+      "source": "arxiv"
+    },
+    {
+      "title": "TAAC: A gate into Trustable Audio Affective Computing",
+      "url": "https://arxiv.org/abs/2603.25570v1",
+      "abstract": "With the emergence of AI techniques for depression diagnosis, the conflict between high demand and limited supply for depression screening has been significantly alleviated. Among various modal data, ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Revisiting On-Policy Distillation: Empirical Failure Modes and Simple Fixes",
+      "url": "https://arxiv.org/abs/2603.25562v1",
+      "abstract": "On-policy distillation (OPD) is appealing for large language model (LLM) post-training because it evaluates teacher feedback on student-generated rollouts rather than fixed teacher traces. In long-hor",
+      "source": "arxiv"
+    },
+    {
+      "title": "Towards Embodied AI with MuscleMimic: Unlocking full-body musculoskeletal motor learning at scale",
+      "url": "https://arxiv.org/abs/2603.25544v1",
+      "abstract": "Learning motor control for muscle-driven musculoskeletal models is hindered by the computational cost of biomechanically accurate simulation and the scarcity of validated, open full-body models. Here ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Missing-Aware Multimodal Fusion for Unified Microservice Incident Management",
+      "url": "https://arxiv.org/abs/2603.25538v1",
+      "abstract": "Automated incident management is critical for microservice reliability. While recent unified frameworks leverage multimodal data for joint optimization, they unrealistically assume perfect data comple",
+      "source": "arxiv"
+    },
+    {
+      "title": "Automating Computational Chemistry Workflows via OpenClaw and Domain-Specific Skills",
+      "url": "https://arxiv.org/abs/2603.25522v1",
+      "abstract": "Automating multistep computational chemistry tasks remains challenging because reasoning, workflow specification, software execution, and high-performance computing (HPC) execution are often tightly c",
+      "source": "arxiv"
+    }
+  ],
+  "sources": [
+    "github",
+    "arxiv"
+  ]
+}

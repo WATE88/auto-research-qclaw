@@ -1,0 +1,280 @@
+{
+  "topic": "AI agents",
+  "timestamp": "2026-03-31T11:18:29.673767",
+  "findings": [
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "stars": 182960,
+      "source": "github"
+    },
+    {
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "stars": 146426,
+      "source": "github"
+    },
+    {
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "description": "Production-ready platform for agentic workflow development.",
+      "stars": 135073,
+      "source": "github"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "stars": 133750,
+      "source": "github"
+    },
+    {
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "description": "The agent engineering platform",
+      "stars": 131690,
+      "source": "github"
+    },
+    {
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "stars": 104053,
+      "source": "github"
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "stars": 99588,
+      "source": "github"
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "stars": 85125,
+      "source": "github"
+    },
+    {
+      "title": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stars": 76650,
+      "source": "github"
+    },
+    {
+      "title": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+      "stars": 74524,
+      "source": "github"
+    },
+    {
+      "title": "dair-ai/Prompt-Engineering-Guide",
+      "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+      "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+      "stars": 72492,
+      "source": "github"
+    },
+    {
+      "title": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "stars": 66625,
+      "source": "github"
+    },
+    {
+      "title": "FoundationAgents/MetaGPT",
+      "url": "https://github.com/FoundationAgents/MetaGPT",
+      "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+      "stars": 66471,
+      "source": "github"
+    },
+    {
+      "title": "OpenBB-finance/OpenBB",
+      "url": "https://github.com/OpenBB-finance/OpenBB",
+      "description": "Financial data platform for analysts, quants and AI agents.",
+      "stars": 64592,
+      "source": "github"
+    },
+    {
+      "title": "karpathy/autoresearch",
+      "url": "https://github.com/karpathy/autoresearch",
+      "description": "AI agents running research on single-GPU nanochat training automatically",
+      "stars": 61897,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/autogen",
+      "url": "https://github.com/microsoft/autogen",
+      "description": "A programming framework for agentic AI",
+      "stars": 56467,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "description": "12 Lessons to Get Started Building AI Agents",
+      "stars": 55485,
+      "source": "github"
+    },
+    {
+      "title": "mem0ai/mem0",
+      "url": "https://github.com/mem0ai/mem0",
+      "description": "Universal memory layer for AI Agents",
+      "stars": 51522,
+      "source": "github"
+    },
+    {
+      "title": "FlowiseAI/Flowise",
+      "url": "https://github.com/FlowiseAI/Flowise",
+      "description": "Build AI Agents, Visually",
+      "stars": 51266,
+      "source": "github"
+    },
+    {
+      "title": "crewAIInc/crewAI",
+      "url": "https://github.com/crewAIInc/crewAI",
+      "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+      "stars": 47633,
+      "source": "github"
+    },
+    {
+      "title": "Gen-Searcher: Reinforcing Agentic Search for Image Generation",
+      "url": "http://arxiv.org/abs/2603.28767v1",
+      "abstract": "Recent image generation models have shown strong capabilities in generating high-fidelity and photorealistic images. However, they are fundamentally constrained by frozen internal knowledge, thus often failing on real-world scenarios that are knowledge-intensive or require up-to-date information. In",
+      "source": "arxiv"
+    },
+    {
+      "title": "Graphilosophy: Graph-Based Digital Humanities Computing with The Four Books",
+      "url": "http://arxiv.org/abs/2603.28755v1",
+      "abstract": "The Four Books have shaped East Asian intellectual traditions, yet their multi-layered interpretive complexity limits their accessibility in the digital age. While traditional bilingual commentaries provide a vital pedagogical bridge, computational frameworks are needed to preserve and explore this ",
+      "source": "arxiv"
+    },
+    {
+      "title": "RAD-AI: Rethinking Architecture Documentation for AI-Augmented Ecosystems",
+      "url": "http://arxiv.org/abs/2603.28735v1",
+      "abstract": "AI-augmented ecosystems (interconnected systems where multiple AI components interact through shared data and infrastructure) are becoming the architectural norm for smart cities, autonomous fleets, and intelligent platforms. Yet the architecture documentation frameworks practitioners rely on, arc42",
+      "source": "arxiv"
+    },
+    {
+      "title": "SAGAI-MID: A Generative AI-Driven Middleware for Dynamic Runtime Interoperability",
+      "url": "http://arxiv.org/abs/2603.28731v1",
+      "abstract": "Modern distributed systems integrate heterogeneous services, REST APIs with different schema versions, GraphQL endpoints, and IoT devices with proprietary payloads that suffer from persistent schema mismatches. Traditional static adapters require manual coding for every schema pair and cannot handle",
+      "source": "arxiv"
+    },
+    {
+      "title": "Can Hierarchical Cross-Modal Fusion Predict Human Perception of AI Dubbed Content?",
+      "url": "http://arxiv.org/abs/2603.28717v1",
+      "abstract": "Evaluating AI generated dubbed content is inherently multi-dimensional, shaped by synchronization, intelligibility, speaker consistency, emotional alignment, and semantic context. Human Mean Opinion Scores (MOS) remain the gold standard but are costly and impractical at scale. We present a hierarchi",
+      "source": "arxiv"
+    },
+    {
+      "title": "Dynamic Dual-Granularity Skill Bank for Agentic RL",
+      "url": "http://arxiv.org/abs/2603.28716v1",
+      "abstract": "Agentic reinforcement learning (RL) can benefit substantially from reusable experience, yet existing skill-based methods mainly extract trajectory-level guidance and often lack principled mechanisms for maintaining an evolving skill memory. We propose D2Skill, a dynamic dual-granularity skill bank f",
+      "source": "arxiv"
+    },
+    {
+      "title": "EpiScreen: Early Epilepsy Detection from Electronic Health Records with Large Language Models",
+      "url": "http://arxiv.org/abs/2603.28698v1",
+      "abstract": "Epilepsy and psychogenic non-epileptic seizures often present with similar seizure-like manifestations but require fundamentally different management strategies. Misdiagnosis is common and can lead to prolonged diagnostic delays, unnecessary treatments, and substantial patient morbidity. Although pr",
+      "source": "arxiv"
+    },
+    {
+      "title": "DRIVE-Nav: Directional Reasoning, Inspection, and Verification for Efficient Open-Vocabulary Navigation",
+      "url": "http://arxiv.org/abs/2603.28691v1",
+      "abstract": "Open-Vocabulary Object Navigation (OVON) requires an embodied agent to locate a language-specified target in unknown environments. Existing zero-shot methods often reason over dense frontier points under incomplete observations, causing unstable route selection, repeated revisits, and unnecessary ac",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Techno-Economic Framework for Cost Modeling and Revenue Opportunities in Open and Programmable AI-RAN",
+      "url": "http://arxiv.org/abs/2603.28680v1",
+      "abstract": "The large-scale deployment of 5G networks has not delivered the expected return on investment for mobile network operators, raising concerns about the economic viability of future 6G rollouts. At the same time, surging demand for Artificial Intelligence (AI) inference and training workloads is strai",
+      "source": "arxiv"
+    },
+    {
+      "title": "Teaching AI Interactively: A Case Study in Higher Education",
+      "url": "http://arxiv.org/abs/2603.28679v1",
+      "abstract": "Introductory artificial intelligence (AI) courses present significant learning challenges due to abstract concepts, mathematical complexity, and students' diverse technical backgrounds. While active and collaborative pedagogies are often recommended, implementation can be difficult at scale due to l",
+      "source": "arxiv"
+    },
+    {
+      "title": "Why Aggregate Accuracy is Inadequate for Evaluating Fairness in Law Enforcement Facial Recognition Systems",
+      "url": "http://arxiv.org/abs/2603.28675v1",
+      "abstract": "Facial recognition systems are increasingly deployed in law enforcement and security contexts, where algorithmic decisions can carry significant societal consequences. Despite high reported accuracy, growing evidence demonstrates that such systems often exhibit uneven performance across demographic ",
+      "source": "arxiv"
+    },
+    {
+      "title": "FL-PBM: Pre-Training Backdoor Mitigation for Federated Learning",
+      "url": "http://arxiv.org/abs/2603.28673v1",
+      "abstract": "Backdoor attacks pose a significant threat to the integrity and reliability of Artificial Intelligence (AI) models, enabling adversaries to manipulate model behavior by injecting poisoned data with hidden triggers. These attacks can lead to severe consequences, especially in critical applications su",
+      "source": "arxiv"
+    },
+    {
+      "title": "Superintelligence and Law",
+      "url": "http://arxiv.org/abs/2603.28669v1",
+      "abstract": "The prospect of artificial superintelligence -- AI agents that can generally outperform humans in cognitive tasks and economically valuable activities -- will transform the legal order as we know it. Operating autonomously or under only limited human oversight, AI agents will assume a growing range ",
+      "source": "arxiv"
+    },
+    {
+      "title": "AMIGO: Agentic Multi-Image Grounding Oracle Benchmark",
+      "url": "http://arxiv.org/abs/2603.28662v1",
+      "abstract": "Agentic vision-language models increasingly act through extended interactions, but most evaluations still focus on single-image, single-turn correctness. We introduce AMIGO (Agentic Multi-Image Grounding Oracle Benchmark), a long-horizon benchmark for hidden-target identification over galleries of v",
+      "source": "arxiv"
+    },
+    {
+      "title": "Safeguarding LLMs Against Misuse and AI-Driven Malware Using Steganographic Canaries",
+      "url": "http://arxiv.org/abs/2603.28655v1",
+      "abstract": "AI-powered malware increasingly exploits cloud-hosted generative-AI services and large language models (LLMs) as analysis engines for reconnaissance and code generation. Simultaneously, enterprise uploads expose sensitive documents to third-party AI vendors. Both threats converge at the AI service i",
+      "source": "arxiv"
+    },
+    {
+      "title": "Interpretable Ensemble Learning for Network Traffic Anomaly Detection: A SHAP-based Explainable AI Framework for Embedded Systems Security",
+      "url": "http://arxiv.org/abs/2603.28654v1",
+      "abstract": "Network security threats in embedded systems pose significant challenges to critical infrastructure protection. This paper presents a comprehensive framework combining ensemble learning methods with explainable artificial intelligence (XAI) techniques for robust anomaly detection in network traffic.",
+      "source": "arxiv"
+    },
+    {
+      "title": "BACE: LLM-based Code Generation through Bayesian Anchored Co-Evolution of Code and Test Populations",
+      "url": "http://arxiv.org/abs/2603.28653v1",
+      "abstract": "Large Language Models (LLMs) have demonstrated impressive capabilities in code generation. While an interactive feedback loop can improve performance, writing effective tests is a non-trivial task. Early multi-agent frameworks, such as AgentCoder, automated this process but relied on generated tests",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Ultimate Tutorial for AI-driven Scale Development in Generative Psychometrics: Releasing AIGENIE from its Bottle",
+      "url": "http://arxiv.org/abs/2603.28643v1",
+      "abstract": "Psychological scale development has traditionally required extensive expert involvement, iterative revision, and large-scale pilot testing before psychometric evaluation can begin. The `AIGENIE` R package implements the AI-GENIE framework (Automatic Item Generation with Network-Integrated Evaluation",
+      "source": "arxiv"
+    },
+    {
+      "title": "Optimal bounds for an Erdős problem on matching integers to distinct multiples",
+      "url": "http://arxiv.org/abs/2603.28636v1",
+      "abstract": "Let $f(m)$ be the largest integer such that for every set $A = \\{a_1 &lt; \\cdots &lt; a_m\\}$ of $m$ positive integers and every open interval $I$ of length $2a_m$, there exist at least $f(m)$ disjoint pairs $(a, b)$ with $a \\in A$ dividing $b \\in I$. Solving a problem of Erdős, we determine $f(m)$ e",
+      "source": "arxiv"
+    },
+    {
+      "title": "Dynamic Lookahead Distance via Reinforcement Learning-Based Pure Pursuit for Autonomous Racing",
+      "url": "http://arxiv.org/abs/2603.28625v1",
+      "abstract": "Pure Pursuit (PP) is a widely used path-tracking algorithm in autonomous vehicles due to its simplicity and real-time performance. However, its effectiveness is sensitive to the choice of lookahead distance: shorter values improve cornering but can cause instability on straights, while longer values",
+      "source": "arxiv"
+    }
+  ],
+  "quality": {
+    "total": 40,
+    "quality_score": 0.489,
+    "dimensions": {
+      "authority": 0.95,
+      "quality": 0.025,
+      "star_power": 0.482,
+      "diversity": 0.5
+    },
+    "sources_breakdown": {
+      "github": 20,
+      "arxiv": 20
+    }
+  }
+}

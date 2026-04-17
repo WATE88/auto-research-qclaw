@@ -1,0 +1,174 @@
+{
+  "topic": "RAG evaluation",
+  "timestamp": "2026-04-07T11:22:02.525848",
+  "findings": [
+    {
+      "title": "promptfoo/promptfoo",
+      "url": "https://github.com/promptfoo/promptfoo",
+      "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.",
+      "stars": 19640,
+      "source": "github"
+    },
+    {
+      "title": "comet-ml/opik",
+      "url": "https://github.com/comet-ml/opik",
+      "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.",
+      "stars": 18682,
+      "source": "github"
+    },
+    {
+      "title": "raga-ai-hub/RagaAI-Catalyst",
+      "url": "https://github.com/raga-ai-hub/RagaAI-Catalyst",
+      "description": "Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced analytics with timeline and execution graph view ",
+      "stars": 16126,
+      "source": "github"
+    },
+    {
+      "title": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+      "stars": 13757,
+      "source": "github"
+    },
+    {
+      "title": "vibrantlabsai/ragas",
+      "url": "https://github.com/vibrantlabsai/ragas",
+      "description": "Supercharge Your LLM Application Evaluations 🚀",
+      "stars": 13253,
+      "source": "github"
+    },
+    {
+      "title": "dataelement/bisheng",
+      "url": "https://github.com/dataelement/bisheng",
+      "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Management, Observability and more.",
+      "stars": 11289,
+      "source": "github"
+    },
+    {
+      "title": "Kiln-AI/Kiln",
+      "url": "https://github.com/Kiln-AI/Kiln",
+      "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more.",
+      "stars": 4739,
+      "source": "github"
+    },
+    {
+      "title": "Marker-Inc-Korea/AutoRAG",
+      "url": "https://github.com/Marker-Inc-Korea/AutoRAG",
+      "description": "AutoRAG: An Open-Source Framework for Retrieval-Augmented Generation (RAG) Evaluation & Optimization with AutoML-Style Automation",
+      "stars": 4685,
+      "source": "github"
+    },
+    {
+      "title": "modelscope/evalscope",
+      "url": "https://github.com/modelscope/evalscope",
+      "description": "A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking.",
+      "stars": 2616,
+      "source": "github"
+    },
+    {
+      "title": "beir-cellar/beir",
+      "url": "https://github.com/beir-cellar/beir",
+      "description": "A Heterogeneous Benchmark for Information Retrieval. Easy to use, evaluate your models across 15+ diverse IR datasets.",
+      "stars": 2135,
+      "source": "github"
+    },
+    {
+      "title": "1517005260/graph-rag-agent",
+      "url": "https://github.com/1517005260/graph-rag-agent",
+      "description": "拼好RAG：手搓并融合了GraphRAG、LightRAG、Neo4j-llm-graph-builder进行知识图谱构建以及搜索；整合DeepSearch技术实现私域RAG的推理；自制针对GraphRAG的评估框架| Integrate GraphRAG, LightRAG, and Neo4j-llm-graph-builder for knowledge graph construction and search. Combine DeepSearch for private RAG reasoning. Create a custom evaluation framework for GraphRAG.",
+      "stars": 2066,
+      "source": "github"
+    },
+    {
+      "title": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling",
+      "url": "https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling",
+      "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
+      "stars": 1958,
+      "source": "github"
+    },
+    {
+      "title": "SmartFlowAI/EmoLLM",
+      "url": "https://github.com/SmartFlowAI/EmoLLM",
+      "description": "心理健康大模型 (LLM x Mental Health), Pre & Post-training & Dataset & Evaluation & Depoly & RAG,  with InternLM / Qwen / Baichuan / DeepSeek / Mixtral / LLama / GLM series models",
+      "stars": 1725,
+      "source": "github"
+    },
+    {
+      "title": "onestardao/WFGY",
+      "url": "https://github.com/onestardao/WFGY",
+      "description": "WFGY is an open-source AI Troubleshooting Atlas for RAG, agents, and real-world AI workflows. Includes the 16-problem map, Global Debug Card, and WFGY 4.0. ⭐ Star to help more builders find this repo.",
+      "stars": 1700,
+      "source": "github"
+    },
+    {
+      "title": "deepsense-ai/ragbits",
+      "url": "https://github.com/deepsense-ai/ragbits",
+      "description": "Building blocks for rapid development of GenAI applications ",
+      "stars": 1636,
+      "source": "github"
+    },
+    {
+      "title": "EmbeddedLLM/JamAIBase",
+      "url": "https://github.com/EmbeddedLLM/JamAIBase",
+      "description": "The collaborative spreadsheet for AI. Chain cells into powerful pipelines, experiment with prompts and models, and evaluate LLM responses in real-time. Work together seamlessly to build and iterate on AI applications.",
+      "stars": 1091,
+      "source": "github"
+    },
+    {
+      "title": "Raudaschl/rag-fusion",
+      "url": "https://github.com/Raudaschl/rag-fusion",
+      "description": "RAG-Fusion: multi-query generation + Reciprocal Rank Fusion for better retrieval-augmented generation. Includes evaluation harness with NFCorpus/BEIR.",
+      "stars": 910,
+      "source": "github"
+    },
+    {
+      "title": "IntelLabs/RAG-FiT",
+      "url": "https://github.com/IntelLabs/RAG-FiT",
+      "description": "Framework for enhancing LLMs for RAG tasks using fine-tuning.",
+      "stars": 769,
+      "source": "github"
+    },
+    {
+      "title": "Azure-Samples/contoso-chat",
+      "url": "https://github.com/Azure-Samples/contoso-chat",
+      "description": "This sample has the full End2End process of creating RAG application with Prompty and Azure AI Foundry. It includes GPT-4 LLM application code, evaluations, deployment automation with AZD CLI, GitHub actions for evaluation and deployment and intent mapping for multiple LLM task mapping.",
+      "stars": 757,
+      "source": "github"
+    },
+    {
+      "title": "stanford-futuredata/ARES",
+      "url": "https://github.com/stanford-futuredata/ARES",
+      "description": "Automated Evaluation of RAG Systems",
+      "stars": 699,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.37,
+    "grade": "D",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.1,
+      "star_power": 0.306,
+      "diversity": 0.0,
+      "usability": 0.2,
+      "applicability": 0.95,
+      "coverage": 1.0,
+      "ndcg": 0.384,
+      "map": 0.678,
+      "mrr": 0.5,
+      "rouge_1": 0.525,
+      "semantic_sim": 0.16,
+      "coherence": 0.098,
+      "task_completion": 0.473,
+      "tool_use": 0.072,
+      "reasoning_depth": 0.013,
+      "autonomy": 0.138,
+      "multi_agent": 0.045
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

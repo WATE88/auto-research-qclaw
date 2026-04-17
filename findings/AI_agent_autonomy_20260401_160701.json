@@ -1,0 +1,174 @@
+{
+  "topic": "AI agent autonomy",
+  "timestamp": "2026-04-01T16:07:01.678483",
+  "findings": [
+    {
+      "title": "vercel-labs/ralph-loop-agent",
+      "url": "https://github.com/vercel-labs/ralph-loop-agent",
+      "description": "Continuous Autonomy for the AI SDK",
+      "stars": 740,
+      "source": "github"
+    },
+    {
+      "title": "liliMozi/openhanako",
+      "url": "https://github.com/liliMozi/openhanako",
+      "description": "A personal AI agent with memory, personality, and autonomy — built on Electron.",
+      "stars": 648,
+      "source": "github"
+    },
+    {
+      "title": "Haervwe/open-webui-tools",
+      "url": "https://github.com/Haervwe/open-webui-tools",
+      "description": "Open‑WebUI Tools is a modular toolkit designed to extend and enrich your Open WebUI instance, turning it into a powerful AI workstation. With a suite of over 15 specialized tools, function pipelines, and filters, this project supports academic research, agentic autonomy, multimodal creativity, workflows, and more",
+      "stars": 637,
+      "source": "github"
+    },
+    {
+      "title": "winstonkoh87/Athena-Public",
+      "url": "https://github.com/winstonkoh87/Athena-Public",
+      "description": "The Linux OS for AI Agents — Persistent memory, autonomy, and time-awareness for any LLM. Own the state. Rent the intelligence.",
+      "stars": 443,
+      "source": "github"
+    },
+    {
+      "title": "valory-xyz/open-autonomy",
+      "url": "https://github.com/valory-xyz/open-autonomy",
+      "description": "A framework for the creation of autonomous agent services.",
+      "stars": 119,
+      "source": "github"
+    },
+    {
+      "title": "xt765/FinchBot",
+      "url": "https://github.com/xt765/FinchBot",
+      "description": "FinchBot is an AI Agent framework that empowers agents with true autonomy, built on LangChain v1.2 and LangGraph v1.0. With fully async architecture, agents gain the ability to self-decide, self-extend, and self-evolve",
+      "stars": 66,
+      "source": "github"
+    },
+    {
+      "title": "jeffweisbein/openclaw-starter-kit",
+      "url": "https://github.com/jeffweisbein/openclaw-starter-kit",
+      "description": "Give your AI agent personality, memory, and autonomy. Ready-to-use workspace template for OpenClaw.",
+      "stars": 60,
+      "source": "github"
+    },
+    {
+      "title": "AutoVerse-ai/Verse-library",
+      "url": "https://github.com/AutoVerse-ai/Verse-library",
+      "description": "Library for modeling, simulation, and verification of interacting autonomous agents",
+      "stars": 38,
+      "source": "github"
+    },
+    {
+      "title": "junhoyeo/CryptoGPT",
+      "url": "https://github.com/junhoyeo/CryptoGPT",
+      "description": "✸ CryptoGPT — An experiment for LLMs achieving Financial Autonomy.",
+      "stars": 38,
+      "source": "github"
+    },
+    {
+      "title": "autonomys/autonomys-agents",
+      "url": "https://github.com/autonomys/autonomys-agents",
+      "description": "Autonomys Agents is an experimental framework for building fully autonomous AI agents on the Autonomys Network and beyond.",
+      "stars": 30,
+      "source": "github"
+    },
+    {
+      "title": "HwangTaehyun/oh-my-agentic-score",
+      "url": "https://github.com/HwangTaehyun/oh-my-agentic-score",
+      "description": "Oh My Agentic Score (OMAS) — Measure and visualize AI agent thread-based engineering capabilities. 4-dimension scoring: More (Parallelism), Longer (Autonomy), Thicker (Density), Fewer (Trust).",
+      "stars": 26,
+      "source": "github"
+    },
+    {
+      "title": "Epiphanyi/HAE-Agent-Security",
+      "url": "https://github.com/Epiphanyi/HAE-Agent-Security",
+      "description": "A survey on security in hierarchical autonomy evolution of AI agents",
+      "stars": 21,
+      "source": "github"
+    },
+    {
+      "title": "TruthIntel/TruthAutonomy",
+      "url": "https://github.com/TruthIntel/TruthAutonomy",
+      "description": "An Open-Source Framework To Deploy AI Agents on Truth Social",
+      "stars": 15,
+      "source": "github"
+    },
+    {
+      "title": "MikeeBuilds/Squadron",
+      "url": "https://github.com/MikeeBuilds/Squadron",
+      "description": "The Agentic Operating System for your desktop. Squadron is a native command center that lets you manage swarms of local AI agents (Gemini, Claude, Codex) as if they were employees. Features a 6-terminal parallel workbench, Kanban task management, and deep integration with Jira/Linear to turn AI autonomy into real engineering work.",
+      "stars": 13,
+      "source": "github"
+    },
+    {
+      "title": "cabincrew-dev/ai-agent-manifesto",
+      "url": "https://github.com/cabincrew-dev/ai-agent-manifesto",
+      "description": "Open Manifesto for AI Agents Touching Production Systems",
+      "stars": 12,
+      "source": "github"
+    },
+    {
+      "title": "RayP11/QuestChain",
+      "url": "https://github.com/RayP11/QuestChain",
+      "description": "Truly local AI agent running entirely on your hardware. Autonomous tasks, file & shell access, Telegram updates, cron jobs, and RPG progression.",
+      "stars": 9,
+      "source": "github"
+    },
+    {
+      "title": "cmmchsvc-dev/Galactic-AI",
+      "url": "https://github.com/cmmchsvc-dev/Galactic-AI",
+      "description": "Galactic AI v1.6.9  Sub-Agent Update 🚀 Sovereign, local-first agentic system built for absolute autonomy. Boasting 190+ native tools, browser extension, seamless desktop control, and true persistent memory that learns with you. Driven by a blazing ReAct agent loop to deliver elite, unchained automation with zero forced cloud overhead.",
+      "stars": 7,
+      "source": "github"
+    },
+    {
+      "title": "kompassdev/kompass",
+      "url": "https://github.com/kompassdev/kompass",
+      "description": "Navigate your way - manual steering, steered autonomy, or autonomously. Kompass keeps AI coding agents on course with token-efficient, composable workflows.",
+      "stars": 6,
+      "source": "github"
+    },
+    {
+      "title": "vegedon/open-computer-use",
+      "url": "https://github.com/vegedon/open-computer-use",
+      "description": "💻 Control AI agents to automate tasks on computers, enabling true autonomy with browser, terminal, and desktop interaction. Perfect for developers.",
+      "stars": 5,
+      "source": "github"
+    },
+    {
+      "title": "rdunie/venutian-antfarm",
+      "url": "https://github.com/rdunie/venutian-antfarm",
+      "description": "Framework for orchestrating AI agent fleets in structured software delivery. Compliance enforcement, progressive autonomy, DORA metrics, and agent inheritance. Turn multi-agent chaos into disciplined, auditable collaboration.",
+      "stars": 5,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.421,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.199,
+      "diversity": 0.0,
+      "usability": 0.0,
+      "applicability": 0.95,
+      "coverage": 1.0,
+      "ndcg": 0.69,
+      "map": 0.96,
+      "mrr": 1.0,
+      "rouge_1": 0.65,
+      "semantic_sim": 0.271,
+      "coherence": 0.139,
+      "task_completion": 0.565,
+      "tool_use": 0.083,
+      "reasoning_depth": 0.03,
+      "autonomy": 0.287,
+      "multi_agent": 0.03
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "topic": "model compression",
+  "timestamp": "2026-03-30T15:44:38.623677",
+  "findings": [
+    {
+      "title": "microsoft/nni",
+      "url": "https://github.com/microsoft/nni",
+      "description": "An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.",
+      "stars": 14345,
+      "source": "github"
+    },
+    {
+      "title": "PaddlePaddle/PaddleNLP",
+      "url": "https://github.com/PaddlePaddle/PaddleNLP",
+      "description": "Easy-to-use and powerful LLM and SLM library with awesome model zoo.",
+      "stars": 12932,
+      "source": "github"
+    },
+    {
+      "title": "Tencent/TNN",
+      "url": "https://github.com/Tencent/TNN",
+      "description": "TNN: developed by Tencent Youtu Lab and Guangying Lab, a uniform deep learning inference framework for mobile、desktop and server. TNN is distinguished by several outstanding features, including its cross-platform capability, high performance, model compression and code pruning. Based on ncnn and Rapidnet, TNN further strengthens the support and performance optimization for mobile devices, and also draws on the advantages of good extensibility and high performance from existed open source efforts. TNN has been deployed in multiple Apps from Tencent, such as Mobile QQ, Weishi, Pitu, etc. Contributions are welcome to work in collaborative with us and make TNN a better framework. ",
+      "stars": 4631,
+      "source": "github"
+    },
+    {
+      "title": "Tencent/PocketFlow",
+      "url": "https://github.com/Tencent/PocketFlow",
+      "description": "An Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications.",
+      "stars": 2911,
+      "source": "github"
+    },
+    {
+      "title": "intel/neural-compressor",
+      "url": "https://github.com/intel/neural-compressor",
+      "description": "SOTA low-bit LLM quantization (INT8/FP8/MXFP8/INT4/MXFP4/NVFP4) & sparsity; leading model compression techniques on PyTorch, TensorFlow, and ONNX Runtime",
+      "stars": 2608,
+      "source": "github"
+    },
+    {
+      "title": "quic/aimet",
+      "url": "https://github.com/quic/aimet",
+      "description": "AIMET is a library that provides advanced quantization and compression techniques for trained neural network models.",
+      "stars": 2580,
+      "source": "github"
+    },
+    {
+      "title": "666DZY666/micronet",
+      "url": "https://github.com/666DZY666/micronet",
+      "description": "micronet, a model compression and deploy lib. compression: 1、quantization: quantization-aware-training(QAT), High-Bit(>2b)(DoReFa/Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference)、Low-Bit(≤2b)/Ternary and Binary(TWN/BNN/XNOR-Net); post-training-quantization(PTQ), 8-bit(tensorrt); 2、 pruning: normal、regular and group convolutional channel pruning; 3、 group convolution structure; 4、batch-normalization fuse for quantization. deploy: tensorrt, fp32/fp16/int8(ptq-calibration)、op-adapt(upsample)、dynamic_shape",
+      "stars": 2270,
+      "source": "github"
+    },
+    {
+      "title": "horseee/Awesome-Efficient-LLM",
+      "url": "https://github.com/horseee/Awesome-Efficient-LLM",
+      "description": "A curated list for Efficient Large Language Models",
+      "stars": 1972,
+      "source": "github"
+    },
+    {
+      "title": "open-mmlab/mmrazor",
+      "url": "https://github.com/open-mmlab/mmrazor",
+      "description": "OpenMMLab Model Compression Toolbox and Benchmark.",
+      "stars": 1668,
+      "source": "github"
+    },
+    {
+      "title": "PaddlePaddle/PaddleSlim",
+      "url": "https://github.com/PaddlePaddle/PaddleSlim",
+      "description": "PaddleSlim is an open-source library for deep model compression and architecture search.",
+      "stars": 1613,
+      "source": "github"
+    },
+    {
+      "title": "tensorflow/model-optimization",
+      "url": "https://github.com/tensorflow/model-optimization",
+      "description": "A toolkit to optimize ML models for deployment for Keras and TensorFlow, including quantization and pruning.",
+      "stars": 1565,
+      "source": "github"
+    },
+    {
+      "title": "GPUOpen-Tools/compressonator",
+      "url": "https://github.com/GPUOpen-Tools/compressonator",
+      "description": "Tool suite for Texture and 3D Model Compression, Optimization and Analysis using CPUs, GPUs and APUs",
+      "stars": 1405,
+      "source": "github"
+    },
+    {
+      "title": "Zefan-Cai/KVCache-Factory",
+      "url": "https://github.com/Zefan-Cai/KVCache-Factory",
+      "description": "Unified KV Cache Compression Methods for Auto-Regressive Models",
+      "stars": 1314,
+      "source": "github"
+    },
+    {
+      "title": "Vahe1994/AQLM",
+      "url": "https://github.com/Vahe1994/AQLM",
+      "description": "Official Pytorch repository for Extreme Compression of Large Language Models via Additive Quantization https://arxiv.org/pdf/2401.06118.pdf and PV-Tuning: Beyond Straight-Through Estimation for Extreme LLM Compression https://arxiv.org/abs/2405.14852",
+      "stars": 1313,
+      "source": "github"
+    },
+    {
+      "title": "Tebmer/Awesome-Knowledge-Distillation-of-LLMs",
+      "url": "https://github.com/Tebmer/Awesome-Knowledge-Distillation-of-LLMs",
+      "description": "This repository collects papers for \"A Survey on Knowledge Distillation of Large Language Models\". We break down KD into Knowledge Elicitation and Distillation Algorithms, and explore the Skill & Vertical Distillation of LLMs.",
+      "stars": 1268,
+      "source": "github"
+    },
+    {
+      "title": "Zefan-Cai/R-KV",
+      "url": "https://github.com/Zefan-Cai/R-KV",
+      "description": "[Neurips 2025] R-KV: Redundancy-aware KV Cache Compression for Reasoning Models",
+      "stars": 1189,
+      "source": "github"
+    },
+    {
+      "title": "horseee/LLM-Pruner",
+      "url": "https://github.com/horseee/LLM-Pruner",
+      "description": "[NeurIPS 2023] LLM-Pruner: On the Structural Pruning of Large Language Models. Support Llama-3/3.1, Llama-2, LLaMA,  BLOOM, Vicuna, Baichuan, TinyLlama, etc.",
+      "stars": 1113,
+      "source": "github"
+    },
+    {
+      "title": "ModelCloud/GPTQModel",
+      "url": "https://github.com/ModelCloud/GPTQModel",
+      "description": "LLM model quantization (compression) toolkit with hw acceleration support for Nvidia CUDA, AMD ROCm, Intel XPU and Intel/AMD/Apple CPU via HF, vLLM, and SGLang.",
+      "stars": 1077,
+      "source": "github"
+    },
+    {
+      "title": "alibaba/TinyNeuralNetwork",
+      "url": "https://github.com/alibaba/TinyNeuralNetwork",
+      "description": "TinyNeuralNetwork is an efficient and easy-to-use deep learning model compression framework.",
+      "stars": 874,
+      "source": "github"
+    },
+    {
+      "title": "guan-yuan/Awesome-AutoML-and-Lightweight-Models",
+      "url": "https://github.com/guan-yuan/Awesome-AutoML-and-Lightweight-Models",
+      "description": "A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.",
+      "stars": 856,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.311,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.207,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

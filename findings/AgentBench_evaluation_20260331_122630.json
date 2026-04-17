@@ -1,0 +1,132 @@
+{
+  "topic": "AgentBench evaluation",
+  "timestamp": "2026-03-31T12:26:30.087054",
+  "findings": [
+    {
+      "title": "THUDM/AgentBench",
+      "url": "https://github.com/THUDM/AgentBench",
+      "description": "A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24)",
+      "stars": 3277,
+      "source": "github"
+    },
+    {
+      "title": "chu2bard/agentbench",
+      "url": "https://github.com/chu2bard/agentbench",
+      "description": "Evaluation framework for AI coding agents",
+      "stars": 13,
+      "source": "github"
+    },
+    {
+      "title": "jackjin1997/AgentBench-Live",
+      "url": "https://github.com/jackjin1997/AgentBench-Live",
+      "description": "The open benchmark for AI agent task execution. Claude Code vs Gemini CLI — who wins? Live leaderboard inside.",
+      "stars": 4,
+      "source": "github"
+    },
+    {
+      "title": "sauremilk/agentbench-rw",
+      "url": "https://github.com/sauremilk/agentbench-rw",
+      "description": "Real-world evaluation framework for AI coding agents — measures safety, containment, cost, and autonomy beyond just correctness.",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "Shreyas-Yadav/AgentBench",
+      "url": "https://github.com/Shreyas-Yadav/AgentBench",
+      "description": "A comprehensive evaluation framework for GitHub agents, built using LlamaIndex and Arize Phoenix telemetry. It supports both single-agent and multi-agent architectures, enabling automated assessment of agent reasoning, tool selection, and execution efficiency. Ideal for developers aiming to benchmark and enhance AI-driven GitHub automation tools.",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "to-real/agentbench",
+      "url": "https://github.com/to-real/agentbench",
+      "description": "AI Agent评测平台 - Complete evaluation platform for AI Agents",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "JakeB-5/agentbench",
+      "url": "https://github.com/JakeB-5/agentbench",
+      "description": "AI Agent Evaluation, Testing & Monitoring Platform - Ship reliable AI agents with confidence",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "MukundaKatta/AgentBench",
+      "url": "https://github.com/MukundaKatta/AgentBench",
+      "description": "Agent evaluation and benchmarking suite — accuracy, efficiency, and tool usage scoring for AI agents",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "nirmalpratheep/SWE-AgentBench",
+      "url": "https://github.com/nirmalpratheep/SWE-AgentBench",
+      "description": "Software Evaluation Benchmark for checking the efficiency/quality of the Coding Agents",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "agentglass/agentbench-claude",
+      "url": "https://github.com/agentglass/agentbench-claude",
+      "description": "Compositional evaluation framework for Claude agents — judge agent, 4-dimension scoring, pytest @baseline",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "OmnionixAI/AgentBench",
+      "url": "https://github.com/OmnionixAI/AgentBench",
+      "description": "A comprehensive evaluation framework and benchmark suite designed to rigorously assess the performance, reliability, and reasoning capabilities of autonomous AI agents.",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "Sajal2702/agentbench",
+      "url": "https://github.com/Sajal2702/agentbench",
+      "description": null,
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "ipsissima/esm-agentbench",
+      "url": "https://github.com/ipsissima/esm-agentbench",
+      "description": "ESM-AgentBench — Spectral/eigenspace certificate-based evaluator for agentic AI. SWE-bench Lite port + EigenSpace certificate pipeline.",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "james-rosen/asr-noise-bench",
+      "url": "https://github.com/james-rosen/asr-noise-bench",
+      "description": "Benchmark for evaluating LLM agent robustness under ASR transcription noise. Includes a phoneme-confusion-based noise generator and evaluation harness for testing tool-using agents (tau-bench, GAIA, AgentBench) across controlled WER levels.",
+      "stars": 0,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 14,
+    "quality_score": 0.435,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.5,
+      "star_power": 0.201,
+      "diversity": 0.0,
+      "usability": 0.0,
+      "applicability": 0.964,
+      "coverage": 0.7,
+      "ndcg": 0.847,
+      "map": 1.0,
+      "mrr": 1.0,
+      "rouge_1": 0.429,
+      "semantic_sim": 0.147,
+      "coherence": 0.06,
+      "task_completion": 0.47,
+      "tool_use": 0.029,
+      "reasoning_depth": 0.019,
+      "autonomy": 0.107,
+      "multi_agent": 0.021
+    },
+    "sources_breakdown": {
+      "github": 14
+    }
+  }
+}

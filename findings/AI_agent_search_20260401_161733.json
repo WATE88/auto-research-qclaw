@@ -1,0 +1,174 @@
+{
+  "topic": "AI agent search",
+  "timestamp": "2026-04-01T16:17:33.591339",
+  "findings": [
+    {
+      "title": "danny-avila/LibreChat",
+      "url": "https://github.com/danny-avila/LibreChat",
+      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active.",
+      "stars": 35109,
+      "source": "github"
+    },
+    {
+      "title": "ComposioHQ/composio",
+      "url": "https://github.com/ComposioHQ/composio",
+      "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.",
+      "stars": 27602,
+      "source": "github"
+    },
+    {
+      "title": "assafelovic/gpt-researcher",
+      "url": "https://github.com/assafelovic/gpt-researcher",
+      "description": "An autonomous agent that conducts deep research on any data using any LLM providers",
+      "stars": 26158,
+      "source": "github"
+    },
+    {
+      "title": "deepset-ai/haystack",
+      "url": "https://github.com/deepset-ai/haystack",
+      "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
+      "stars": 24672,
+      "source": "github"
+    },
+    {
+      "title": "dzhng/deep-research",
+      "url": "https://github.com/dzhng/deep-research",
+      "description": "An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic.",
+      "stars": 18661,
+      "source": "github"
+    },
+    {
+      "title": "arc53/DocsGPT",
+      "url": "https://github.com/arc53/DocsGPT",
+      "description": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.",
+      "stars": 17794,
+      "source": "github"
+    },
+    {
+      "title": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars": 14248,
+      "source": "github"
+    },
+    {
+      "title": "databendlabs/databend",
+      "url": "https://github.com/databendlabs/databend",
+      "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3.",
+      "stars": 9220,
+      "source": "github"
+    },
+    {
+      "title": "SciPhi-AI/R2R",
+      "url": "https://github.com/SciPhi-AI/R2R",
+      "description": "SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.",
+      "stars": 7749,
+      "source": "github"
+    },
+    {
+      "title": "InternLM/MindSearch",
+      "url": "https://github.com/InternLM/MindSearch",
+      "description": "🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)",
+      "stars": 6824,
+      "source": "github"
+    },
+    {
+      "title": "airweave-ai/airweave",
+      "url": "https://github.com/airweave-ai/airweave",
+      "description": "Open-source context retrieval layer for AI agents",
+      "stars": 6176,
+      "source": "github"
+    },
+    {
+      "title": "wonderwhy-er/DesktopCommanderMCP",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "stars": 5821,
+      "source": "github"
+    },
+    {
+      "title": "SakanaAI/AI-Scientist-v2",
+      "url": "https://github.com/SakanaAI/AI-Scientist-v2",
+      "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
+      "stars": 4274,
+      "source": "github"
+    },
+    {
+      "title": "spiceai/spiceai",
+      "url": "https://github.com/spiceai/spiceai",
+      "description": "A portable accelerated SQL query, search, and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.",
+      "stars": 2858,
+      "source": "github"
+    },
+    {
+      "title": "pipeshub-ai/pipeshub-ai",
+      "url": "https://github.com/pipeshub-ai/pipeshub-ai",
+      "description": "PipesHub is a fully extensible and explainable workplace AI platform for enterprise search and workflow automation",
+      "stars": 2766,
+      "source": "github"
+    },
+    {
+      "title": "aingdesk/AingDesk",
+      "url": "https://github.com/aingdesk/AingDesk",
+      "description": "AingDesk是一款简单好用的AI助手，支持知识库、模型API、分享、联网搜索、智能体，它还在飞快成长中。 AingDesk is a simple and easy-to-use AI assistant that supports knowledge bases, model APIs, sharing, internet search, and intelligent agents. It is still growing rapidly.",
+      "stars": 2479,
+      "source": "github"
+    },
+    {
+      "title": "AnotiaWang/deep-research-web-ui",
+      "url": "https://github.com/AnotiaWang/deep-research-web-ui",
+      "description": "(Supports DeepSeek R1) An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.",
+      "stars": 2173,
+      "source": "github"
+    },
+    {
+      "title": "dmtrKovalenko/fff.nvim",
+      "url": "https://github.com/dmtrKovalenko/fff.nvim",
+      "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+      "stars": 2125,
+      "source": "github"
+    },
+    {
+      "title": "matrixorigin/matrixone",
+      "url": "https://github.com/matrixorigin/matrixone",
+      "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intelligent agents and applications.",
+      "stars": 1865,
+      "source": "github"
+    },
+    {
+      "title": "Dicklesworthstone/mcp_agent_mail",
+      "url": "https://github.com/Dicklesworthstone/mcp_agent_mail",
+      "description": "Asynchronous coordination layer for AI coding agents: identities, inboxes, searchable threads, and advisory file leases over FastMCP + Git + SQLite",
+      "stars": 1857,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.458,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.05,
+      "star_power": 0.314,
+      "diversity": 0.0,
+      "usability": 0.2,
+      "applicability": 1.0,
+      "coverage": 1.0,
+      "ndcg": 0.659,
+      "map": 0.997,
+      "mrr": 1.0,
+      "rouge_1": 0.683,
+      "semantic_sim": 0.245,
+      "coherence": 0.116,
+      "task_completion": 0.56,
+      "tool_use": 0.382,
+      "reasoning_depth": 0.013,
+      "autonomy": 0.062,
+      "multi_agent": 0.07
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "topic": "AI coding assistant",
+  "timestamp": "2026-03-30T13:53:22.157793",
+  "findings": [
+    {
+      "title": "Fission-AI/OpenSpec",
+      "url": "https://github.com/Fission-AI/OpenSpec",
+      "description": "Spec-driven development (SDD) for AI coding assistants.",
+      "stars": 35406,
+      "source": "github"
+    },
+    {
+      "title": "TabbyML/tabby",
+      "url": "https://github.com/TabbyML/tabby",
+      "description": "Self-hosted AI coding assistant",
+      "stars": 33228,
+      "source": "github"
+    },
+    {
+      "title": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+      "stars": 32273,
+      "source": "github"
+    },
+    {
+      "title": "coleam00/Archon",
+      "url": "https://github.com/coleam00/Archon",
+      "description": "Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.",
+      "stars": 13838,
+      "source": "github"
+    },
+    {
+      "title": "coleam00/context-engineering-intro",
+      "url": "https://github.com/coleam00/context-engineering-intro",
+      "description": "Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!",
+      "stars": 12994,
+      "source": "github"
+    },
+    {
+      "title": "sweepai/sweep",
+      "url": "https://github.com/sweepai/sweep",
+      "description": "Sweep: AI coding assistant for JetBrains",
+      "stars": 7695,
+      "source": "github"
+    },
+    {
+      "title": "github/CopilotForXcode",
+      "url": "https://github.com/github/CopilotForXcode",
+      "description": "AI coding assistant for Xcode",
+      "stars": 5891,
+      "source": "github"
+    },
+    {
+      "title": "sourcegraph/cody-public-snapshot",
+      "url": "https://github.com/sourcegraph/cody-public-snapshot",
+      "description": "Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code.",
+      "stars": 3794,
+      "source": "github"
+    },
+    {
+      "title": "chenhg5/cc-connect",
+      "url": "https://github.com/chenhg5/cc-connect",
+      "description": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.",
+      "stars": 3549,
+      "source": "github"
+    },
+    {
+      "title": "CodeGraphContext/CodeGraphContext",
+      "url": "https://github.com/CodeGraphContext/CodeGraphContext",
+      "description": "An MCP server plus a CLI tool that indexes local code into a graph database to provide context to AI assistants.",
+      "stars": 2679,
+      "source": "github"
+    },
+    {
+      "title": "approximatelabs/sketch",
+      "url": "https://github.com/approximatelabs/sketch",
+      "description": "AI code-writing assistant that understands data content",
+      "stars": 2285,
+      "source": "github"
+    },
+    {
+      "title": "TommyLemon/APIAuto",
+      "url": "https://github.com/TommyLemon/APIAuto",
+      "description": "☔ 敏捷开发最强大易用的接口工具，机器学习零代码测试与 AI 问答、生成代码与静态检查、生成文档与光标悬浮注释，腾讯、华为、SHEIN、传音、工行等使用 ☔ The most advanced tool for HTTP API. Machine learning no-code testing and AI assistant, generating codes and static analysis, generating comments and floating hints. Used by Tencent, Huawei, SHEIN, TRANSSION, ICBC, etc.",
+      "stars": 2191,
+      "source": "github"
+    },
+    {
+      "title": "coleam00/mcp-crawl4ai-rag",
+      "url": "https://github.com/coleam00/mcp-crawl4ai-rag",
+      "description": "Web Crawling and RAG Capabilities for AI Agents and AI Coding Assistants",
+      "stars": 2106,
+      "source": "github"
+    },
+    {
+      "title": "tnm/zclaw",
+      "url": "https://github.com/tnm/zclaw",
+      "description": "Your personal AI assistant at all-in 888KiB (~35KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more.",
+      "stars": 2027,
+      "source": "github"
+    },
+    {
+      "title": "greggh/claude-code.nvim",
+      "url": "https://github.com/greggh/claude-code.nvim",
+      "description": "Seamless integration between Claude Code AI assistant and Neovim",
+      "stars": 1964,
+      "source": "github"
+    },
+    {
+      "title": "sourcegraph/awesome-code-ai",
+      "url": "https://github.com/sourcegraph/awesome-code-ai",
+      "description": "A list of AI coding tools (assistants, completions, refactoring, etc.)",
+      "stars": 1629,
+      "source": "github"
+    },
+    {
+      "title": "kimsungwhee/apple-docs-mcp",
+      "url": "https://github.com/kimsungwhee/apple-docs-mcp",
+      "description": "MCP server for Apple Developer Documentation - Search iOS/macOS/SwiftUI/UIKit docs, WWDC videos, Swift/Objective-C APIs & code examples in Claude, Cursor & AI assistants",
+      "stars": 1183,
+      "source": "github"
+    },
+    {
+      "title": "madox2/vim-ai",
+      "url": "https://github.com/madox2/vim-ai",
+      "description": "AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim.",
+      "stars": 1155,
+      "source": "github"
+    },
+    {
+      "title": "callstackincubator/agent-skills",
+      "url": "https://github.com/callstackincubator/agent-skills",
+      "description": "A collection of agent-optimized React Native skills for AI coding assistants.",
+      "stars": 1149,
+      "source": "github"
+    },
+    {
+      "title": "GreatScottyMac/RooFlow",
+      "url": "https://github.com/GreatScottyMac/RooFlow",
+      "description": "RooFlow - Enhanced Memory Bank System with ☢️Footgun Power☢️  Next-gen Memory Bank system with five integrated modes and system-level customization. Uses Roo Code's experimental \"Footgun\" feature for deep AI assistant customization while maintaining efficient token usage! ",
+      "stars": 1116,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.317,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.237,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

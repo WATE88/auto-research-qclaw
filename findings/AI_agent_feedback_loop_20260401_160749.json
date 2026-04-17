@@ -1,0 +1,174 @@
+{
+  "topic": "AI agent feedback loop",
+  "timestamp": "2026-04-01T16:07:49.794394",
+  "findings": [
+    {
+      "title": "ModelEngine-Group/nexent",
+      "url": "https://github.com/ModelEngine-Group/nexent",
+      "description": "Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestration with built-in constraints, feedback loops, and control planes.",
+      "stars": 4369,
+      "source": "github"
+    },
+    {
+      "title": "sentrux/sentrux",
+      "url": "https://github.com/sentrux/sentrux",
+      "description": "Real-time architectural sensor that helps AI agents close the feedback loop, enabling recursive self-improvement of code quality. Pure Rust.",
+      "stars": 773,
+      "source": "github"
+    },
+    {
+      "title": "kweaver-ai/kweaver",
+      "url": "https://github.com/kweaver-ai/kweaver",
+      "description": "KWeaver Core is a harness-first foundation for enterprise decision agents. It turns fragmented data, knowledge, tools, and policies into governed context, safe execution, and verifiable feedback loops. With semantic modeling, real-time access, runtime control, and TraceAI, it helps AI systems reason, adapt, and act reliable in complex enterprises.",
+      "stars": 368,
+      "source": "github"
+    },
+    {
+      "title": "hackafterdark/context-sherpa",
+      "url": "https://github.com/hackafterdark/context-sherpa",
+      "description": "Context Sherpa MCP server provides code mapping, deterministic feedback loops, and tiered inference for AI coding agents to increase accuracy and optimize token usage.",
+      "stars": 25,
+      "source": "github"
+    },
+    {
+      "title": "dexmac221/C64AIToolChain",
+      "url": "https://github.com/dexmac221/C64AIToolChain",
+      "description": "Commodore 64 toolchain using agents and Google Gemini 3 to develop assembler code for the Commodore 64.  This project demonstrates a workflow where AI models can write, debug, and even playtest 6510 assembly games by providing them with a structured feedback loop involving the VICE emulator and Python-based visual verification.",
+      "stars": 19,
+      "source": "github"
+    },
+    {
+      "title": "HimanshuMohanty-Git24/RakshaQuant",
+      "url": "https://github.com/HimanshuMohanty-Git24/RakshaQuant",
+      "description": "🛡️ RakshaQuant - AI-powered paper trading for NSE using LangGraph multi-agent orchestration. Features 4 LLM agents, learning feedback loop, LangSmith observability & risk guardrails. Built with Groq, DhanHQ sandbox & PostgreSQL. Paper-first design.",
+      "stars": 15,
+      "source": "github"
+    },
+    {
+      "title": "AIAnytime/Self-Evolving-Agents",
+      "url": "https://github.com/AIAnytime/Self-Evolving-Agents",
+      "description": "A complete implementation of self-evolving AI Agents that improve through feedback loops.",
+      "stars": 14,
+      "source": "github"
+    },
+    {
+      "title": "Milimo-Quantum/novel-forge",
+      "url": "https://github.com/Milimo-Quantum/novel-forge",
+      "description": "Novel Forge is a multi-agent, graph-driven AI authorship platform that orchestrates a fleet of specialized LLM agents to generate, refine, and export full-length novels with iterative feedback loops. Built on pydantic-ai and pydantic-graph.",
+      "stars": 12,
+      "source": "github"
+    },
+    {
+      "title": "Md-Emon-Hasan/All-About-Agentic-AI",
+      "url": "https://github.com/Md-Emon-Hasan/All-About-Agentic-AI",
+      "description": "Agentic AI refers to AI systems capable of autonomous decision-making, planning, and executing tasks based on goals—acting like intelligent agents. These systems combine LLMs with tools, memory, and feedback loops to complete complex workflows with minimal human input.",
+      "stars": 7,
+      "source": "github"
+    },
+    {
+      "title": "aidancorrell/arcana",
+      "url": "https://github.com/aidancorrell/arcana",
+      "description": "Agent-first data catalog. MCP server that gives AI agents the context to write correct SQL — semantic search, auto-documentation, lineage-aware retrieval, and a self-improving feedback loop.",
+      "stars": 7,
+      "source": "github"
+    },
+    {
+      "title": "srinidhis05/agentura",
+      "url": "https://github.com/srinidhis05/agentura",
+      "description": "  Open-source platform for building, deploying, and improving AI agent skills. Correction-driven feedback loop — every user correction becomes a test, a guardrail, and a reflexion rule that improves future executions.",
+      "stars": 4,
+      "source": "github"
+    },
+    {
+      "title": "AskKumptenchen/body-emotion-sensor",
+      "url": "https://github.com/AskKumptenchen/body-emotion-sensor",
+      "description": "Give AI Agents a \"body\" with TCM Five Elements logic. Simulates biological feedback loops, organ interactions, and persistent emotional states for LLMs. 基于中医五行理论的智能体持久化情感系统。",
+      "stars": 4,
+      "source": "github"
+    },
+    {
+      "title": "SudeshRPatil20/MCP-MathMind-Intelligent-math-solver-powered-by-MCP",
+      "url": "https://github.com/SudeshRPatil20/MCP-MathMind-Intelligent-math-solver-powered-by-MCP",
+      "description": "MCP-MathMind – An AI-powered, human-in-the-loop math tutor built with MCP (Model Context Protocol) for tool integration, DSPy for feedback-driven prompt optimization, LangChain for agent orchestration, Groq and Gemini for fast and accurate reasoning, and FAISS for knowledge retrieval. Supports input/output guardrails, web search, and adaptive learn",
+      "stars": 4,
+      "source": "github"
+    },
+    {
+      "title": "LeadBroaf/mcp-agent-server",
+      "url": "https://github.com/LeadBroaf/mcp-agent-server",
+      "description": "Open-source, modular “brain” for AI employees. Integrates with n8n and workflow engines, features persistent agent memory, natural language interface, and feedback loops. SaaS-ready, extensible, and easy to deploy with Docker.",
+      "stars": 3,
+      "source": "github"
+    },
+    {
+      "title": "antlss/gitlab-review-agent",
+      "url": "https://github.com/antlss/gitlab-review-agent",
+      "description": "An autonomous, context-aware AI Code Review Agent for GitLab. Powered by multi-LLMs (OpenAI, Anthropic, Gemini) with a self-learning feedback loop to enforce repository best practices.",
+      "stars": 3,
+      "source": "github"
+    },
+    {
+      "title": "MrTsepa/autoevolve",
+      "url": "https://github.com/MrTsepa/autoevolve",
+      "description": "AI agent evolving strategies through automated self-play overnight. Generic framework with GEPA-inspired feedback loop and Elo tracking.",
+      "stars": 3,
+      "source": "github"
+    },
+    {
+      "title": "SecludedCorner/openstarry_doc",
+      "url": "https://github.com/SecludedCorner/openstarry_doc",
+      "description": "An AI agent operating system inspired by Buddhist Five Aggregates. Headless microkernel where agents are persistent digital organisms — not scripts. Pain-driven self-correction, control-theory feedback loops, fractal MCP composition, pluggable everything.",
+      "stars": 3,
+      "source": "github"
+    },
+    {
+      "title": "isWittHere/my-last-feedback-python",
+      "url": "https://github.com/isWittHere/my-last-feedback-python",
+      "description": "A Model Context Protocol (MCP) server that enables a human-in-the-loop workflow for AI-assisted development tools such as Cursor, Cline, and Windsurf.  Based on the original work by Fábio Ferreira (@fabiomlferreira). ",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "lonexreb/tentalis",
+      "url": "https://github.com/lonexreb/tentalis",
+      "description": "Managers managing AI agents with appraisal-style feedback loops using RLHF/GRPO",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "BoxiYu/harness-kit",
+      "url": "https://github.com/BoxiYu/harness-kit",
+      "description": "Constraints, feedback loops, and lifecycle systems that make AI coding agents reliable at scale.",
+      "stars": 2,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.447,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.065,
+      "diversity": 0.0,
+      "usability": 0.3,
+      "applicability": 1.0,
+      "coverage": 1.0,
+      "ndcg": 0.605,
+      "map": 1.0,
+      "mrr": 1.0,
+      "rouge_1": 0.713,
+      "semantic_sim": 0.264,
+      "coherence": 0.1,
+      "task_completion": 0.59,
+      "tool_use": 0.103,
+      "reasoning_depth": 0.28,
+      "autonomy": 0.175,
+      "multi_agent": 0.09
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

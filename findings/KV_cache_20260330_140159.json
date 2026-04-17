@@ -1,0 +1,159 @@
+{
+  "topic": "KV cache",
+  "timestamp": "2026-03-30T14:01:59.682040",
+  "findings": [
+    {
+      "title": "BlinkDL/RWKV-LM",
+      "url": "https://github.com/BlinkDL/RWKV-LM",
+      "description": "RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 \"Goose\". So it's combining the best of RNN and transformer - great performance, linear time, constant space (no kv-cache), fast training, infinite ctx_len, and free sentence embedding.",
+      "stars": 14446,
+      "source": "github"
+    },
+    {
+      "title": "LMCache/LMCache",
+      "url": "https://github.com/LMCache/LMCache",
+      "description": "Supercharge Your LLM with the Fastest KV Cache Layer",
+      "stars": 7777,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/LLMLingua",
+      "url": "https://github.com/microsoft/LLMLingua",
+      "description": "[EMNLP'23, ACL'24] To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss. ",
+      "stars": 5971,
+      "source": "github"
+    },
+    {
+      "title": "HeyPuter/kv.js",
+      "url": "https://github.com/HeyPuter/kv.js",
+      "description": "⚡️ Advanced in-memory caching for JavaScript",
+      "stars": 1518,
+      "source": "github"
+    },
+    {
+      "title": "Zefan-Cai/KVCache-Factory",
+      "url": "https://github.com/Zefan-Cai/KVCache-Factory",
+      "description": "Unified KV Cache Compression Methods for Auto-Regressive Models",
+      "stars": 1314,
+      "source": "github"
+    },
+    {
+      "title": "uccl-project/uccl",
+      "url": "https://github.com/uccl-project/uccl",
+      "description": "UCCL is an efficient communication library for GPUs, covering collectives, P2P (e.g., KV cache transfer, RL weight transfer), and EP (e.g., GPU-driven)",
+      "stars": 1262,
+      "source": "github"
+    },
+    {
+      "title": "Zefan-Cai/R-KV",
+      "url": "https://github.com/Zefan-Cai/R-KV",
+      "description": "[Neurips 2025] R-KV: Redundancy-aware KV Cache Compression for Reasoning Models",
+      "stars": 1189,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/kvpress",
+      "url": "https://github.com/NVIDIA/kvpress",
+      "description": "LLM KV cache compression made easy",
+      "stars": 998,
+      "source": "github"
+    },
+    {
+      "title": "NVlabs/Fast-dLLM",
+      "url": "https://github.com/NVlabs/Fast-dLLM",
+      "description": "Official implementation of \"Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding\"",
+      "stars": 902,
+      "source": "github"
+    },
+    {
+      "title": "hans0809/MiniMind-in-Depth",
+      "url": "https://github.com/hans0809/MiniMind-in-Depth",
+      "description": "轻量级大语言模型MiniMind的源码解读，包含tokenizer、RoPE、MoE、KV Cache、pretraining、SFT、LoRA、DPO等完整流程",
+      "stars": 866,
+      "source": "github"
+    },
+    {
+      "title": "ovg-project/kvcached",
+      "url": "https://github.com/ovg-project/kvcached",
+      "description": "Virtualized Elastic KV Cache for Dynamic GPU Sharing and Beyond",
+      "stars": 826,
+      "source": "github"
+    },
+    {
+      "title": "October2001/Awesome-KV-Cache-Compression",
+      "url": "https://github.com/October2001/Awesome-KV-Cache-Compression",
+      "description": "📰 Must-read papers on KV Cache Compression (constantly updating 🤗).",
+      "stars": 678,
+      "source": "github"
+    },
+    {
+      "title": "Tencent/WeDLM",
+      "url": "https://github.com/Tencent/WeDLM",
+      "description": "WeDLM: The fastest diffusion language model with standard causal attention and native KV cache compatibility, delivering real speedups over vLLM-optimized baselines.",
+      "stars": 637,
+      "source": "github"
+    },
+    {
+      "title": "tonbistudio/turboquant-pytorch",
+      "url": "https://github.com/tonbistudio/turboquant-pytorch",
+      "description": "From-scratch PyTorch implementation of Google's TurboQuant (ICLR 2026) for LLM KV cache compression. 5x compression at 3-bit with 99.5% attention fidelity.",
+      "stars": 584,
+      "source": "github"
+    },
+    {
+      "title": "TangSY/edge-next-starter",
+      "url": "https://github.com/TangSY/edge-next-starter",
+      "description": "An out‑of‑the‑box Next.js + Cloudflare full‑stack starter integrating Edge Runtime, D1 database, R2 storage, KV cache, Analytics Engine hooks, and a complete CI/CD pipeline.一个开箱即用的 Next.js + Cloudflare 全栈项目模板，集成 Edge Runtime、D1 数据库、R2 存储和完整的 CI/CD 流程。",
+      "stars": 464,
+      "source": "github"
+    },
+    {
+      "title": "Zefan-Cai/Awesome-LLM-KV-Cache",
+      "url": "https://github.com/Zefan-Cai/Awesome-LLM-KV-Cache",
+      "description": "Awesome-LLM-KV-Cache: A curated list of 📙Awesome LLM KV Cache Papers with Codes. ",
+      "stars": 420,
+      "source": "github"
+    },
+    {
+      "title": "SqueezeAILab/KVQuant",
+      "url": "https://github.com/SqueezeAILab/KVQuant",
+      "description": "[NeurIPS 2024] KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization",
+      "stars": 419,
+      "source": "github"
+    },
+    {
+      "title": "bytedance/InfiniStore",
+      "url": "https://github.com/bytedance/InfiniStore",
+      "description": "KV cache store for distributed LLM inference",
+      "stars": 401,
+      "source": "github"
+    },
+    {
+      "title": "jy-yuan/KIVI",
+      "url": "https://github.com/jy-yuan/KIVI",
+      "description": "[ICML 2024] KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache",
+      "stars": 378,
+      "source": "github"
+    },
+    {
+      "title": "dipampaul17/KVSplit",
+      "url": "https://github.com/dipampaul17/KVSplit",
+      "description": "Run larger LLMs with longer contexts on Apple Silicon by using differentiated precision for KV cache quantization. KVSplit enables 8-bit keys & 4-bit values, reducing memory by 59% with <1% quality loss. Includes benchmarking, visualization, and one-command setup. Optimized for M1/M2/M3 Macs with Metal support.",
+      "stars": 362,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.299,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.143,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

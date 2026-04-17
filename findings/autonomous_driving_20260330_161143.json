@@ -1,0 +1,159 @@
+{
+  "topic": "autonomous driving",
+  "timestamp": "2026-03-30T16:11:43.570132",
+  "findings": [
+    {
+      "title": "ApolloAuto/apollo",
+      "url": "https://github.com/ApolloAuto/apollo",
+      "description": "An open autonomous driving platform",
+      "stars": 26516,
+      "source": "github"
+    },
+    {
+      "title": "carla-simulator/carla",
+      "url": "https://github.com/carla-simulator/carla",
+      "description": "Open-source simulator for autonomous driving research.",
+      "stars": 13764,
+      "source": "github"
+    },
+    {
+      "title": "autowarefoundation/autoware",
+      "url": "https://github.com/autowarefoundation/autoware",
+      "description": "Autoware - the world's leading open-source software project for autonomous driving",
+      "stars": 11309,
+      "source": "github"
+    },
+    {
+      "title": "OpenDriveLab/UniAD",
+      "url": "https://github.com/OpenDriveLab/UniAD",
+      "description": "[CVPR 2023 Best Paper Award] Planning-oriented Autonomous Driving",
+      "stars": 4542,
+      "source": "github"
+    },
+    {
+      "title": "fundamentalvision/BEVFormer",
+      "url": "https://github.com/fundamentalvision/BEVFormer",
+      "description": "[ECCV 2022] This is the official implementation of BEVFormer, a camera-only framework for autonomous driving perception, e.g., 3D object detection and semantic map segmentation.",
+      "stars": 4392,
+      "source": "github"
+    },
+    {
+      "title": "Ly0n/awesome-robotic-tooling",
+      "url": "https://github.com/Ly0n/awesome-robotic-tooling",
+      "description": "Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace.",
+      "stars": 3776,
+      "source": "github"
+    },
+    {
+      "title": "OpenDriveLab/End-to-end-Autonomous-Driving",
+      "url": "https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving",
+      "description": "[IEEE T-PAMI 2024] All you need for End-to-end Autonomous Driving",
+      "stars": 3562,
+      "source": "github"
+    },
+    {
+      "title": "Farama-Foundation/HighwayEnv",
+      "url": "https://github.com/Farama-Foundation/HighwayEnv",
+      "description": "A minimalist environment for decision-making in autonomous driving ",
+      "stars": 3208,
+      "source": "github"
+    },
+    {
+      "title": "PJLab-ADG/SensorsCalibration",
+      "url": "https://github.com/PJLab-ADG/SensorsCalibration",
+      "description": "OpenCalib: A Multi-sensor Calibration Toolbox for Autonomous Driving",
+      "stars": 3074,
+      "source": "github"
+    },
+    {
+      "title": "gaoxiang12/slam_in_autonomous_driving",
+      "url": "https://github.com/gaoxiang12/slam_in_autonomous_driving",
+      "description": "《自动驾驶中的SLAM技术》对应开源代码",
+      "stars": 2470,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/AutonomousDrivingCookbook",
+      "url": "https://github.com/microsoft/AutonomousDrivingCookbook",
+      "description": "Scenarios, tutorials and demos for Autonomous Driving",
+      "stars": 2423,
+      "source": "github"
+    },
+    {
+      "title": "manfreddiaz/awesome-autonomous-vehicles",
+      "url": "https://github.com/manfreddiaz/awesome-autonomous-vehicles",
+      "description": "Curated List of Self-Driving Cars and Autonomous Vehicles Resources",
+      "stars": 2354,
+      "source": "github"
+    },
+    {
+      "title": "LMD0311/Awesome-World-Model",
+      "url": "https://github.com/LMD0311/Awesome-World-Model",
+      "description": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. ",
+      "stars": 1933,
+      "source": "github"
+    },
+    {
+      "title": "Thinklab-SJTU/Awesome-LLM4AD",
+      "url": "https://github.com/Thinklab-SJTU/Awesome-LLM4AD",
+      "description": "A curated list of awesome LLM/VLM/VLA/World Model for Autonomous Driving(LLM4AD) resources (continually updated)",
+      "stars": 1757,
+      "source": "github"
+    },
+    {
+      "title": "autonomousvision/transfuser",
+      "url": "https://github.com/autonomousvision/transfuser",
+      "description": "[PAMI'23] TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving; [CVPR'21] Multi-Modal Fusion Transformer for End-to-End Autonomous Driving",
+      "stars": 1528,
+      "source": "github"
+    },
+    {
+      "title": "leofan90/Awesome-World-Models",
+      "url": "https://github.com/leofan90/Awesome-World-Models",
+      "description": "A comprehensive list of papers for the definition of World Models and using World Models for General Video Generation, Embodied AI, and Autonomous Driving, including papers, codes, and related websites.",
+      "stars": 1417,
+      "source": "github"
+    },
+    {
+      "title": "wzzheng/TPVFormer",
+      "url": "https://github.com/wzzheng/TPVFormer",
+      "description": "[CVPR 2023] An academic alternative to Tesla's occupancy network for autonomous driving.",
+      "stars": 1337,
+      "source": "github"
+    },
+    {
+      "title": "hustvl/DiffusionDrive",
+      "url": "https://github.com/hustvl/DiffusionDrive",
+      "description": "[CVPR 2025 Highlight] Truncated Diffusion Model for Real-Time End-to-End Autonomous Driving",
+      "stars": 1332,
+      "source": "github"
+    },
+    {
+      "title": "hustvl/VAD",
+      "url": "https://github.com/hustvl/VAD",
+      "description": "[ICCV 2023 & ICLR 2026] VAD: Vectorized Scene Representation for Efficient Autonomous Driving",
+      "stars": 1265,
+      "source": "github"
+    },
+    {
+      "title": "huawei-noah/SMARTS",
+      "url": "https://github.com/huawei-noah/SMARTS",
+      "description": "Scalable Multi-Agent RL Training School for Autonomous Driving",
+      "stars": 1116,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.305,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.176,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

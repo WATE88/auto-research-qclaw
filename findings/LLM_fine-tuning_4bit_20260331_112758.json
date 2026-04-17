@@ -1,0 +1,68 @@
+{
+  "topic": "LLM fine-tuning 4bit",
+  "timestamp": "2026-03-31T11:27:58.979079",
+  "findings": [
+    {
+      "title": "Cre4T3Tiv3/unsloth-llama3-alpaca-lora",
+      "url": "https://github.com/Cre4T3Tiv3/unsloth-llama3-alpaca-lora",
+      "description": "Custom model training using modern architectures. 4-bit QLoRA fine-tuning pipeline for LLaMA 3 8B with production-grade optimization. Memory-efficient training on consumer GPUs. Published adapter on HuggingFace. From training pipeline to deployed model.",
+      "stars": 31,
+      "source": "github"
+    },
+    {
+      "title": "codewithdark-git/QuantLLM",
+      "url": "https://github.com/codewithdark-git/QuantLLM",
+      "description": "QuantLLM is a Python library designed for developers, researchers, and teams who want to fine-tune and deploy large language models (LLMs) efficiently using 4-bit and 8-bit quantization techniques.",
+      "stars": 13,
+      "source": "github"
+    },
+    {
+      "title": "wyieborn/LLM_FineTuning_4BitQuant",
+      "url": "https://github.com/wyieborn/LLM_FineTuning_4BitQuant",
+      "description": null,
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "rafia9005/Fine-TuningLLM",
+      "url": "https://github.com/rafia9005/Fine-TuningLLM",
+      "description": "This model is a fine-tuned version of the unsloth/llama-3-8b-bnb-4bit model, specifically adapted for SQL-related tasks using the b-mc2/sql-create-context dataset. It leverages the PEFT (Parameter-Efficient Fine-Tuning) library for efficient training and is optimized for graph-ml tasks.",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "hamdiaya/chat_model_fine_tuning",
+      "url": "https://github.com/hamdiaya/chat_model_fine_tuning",
+      "description": "Fine-tuning unsloth/Meta-Llama-3.1-8B-Instruct-bnb-4bit using QLoRA on the pookie3000/pg_chat dataset as part of my LLM fine-tuning journey",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "Mignar99/LLMFineTuningExperiments",
+      "url": "https://github.com/Mignar99/LLMFineTuningExperiments",
+      "description": "A small collection of personal experiments on fine-tuning 4-bit LLMs (gpt-oss-20b MXFP4 and Phi-3-mini-4k-instruct-4bit) using also GRPO on a Mac Pro M1.",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "riphunter7001x/fine-tunig-LLama3-on-Imdb-dataset-using-unsloth",
+      "url": "https://github.com/riphunter7001x/fine-tunig-LLama3-on-Imdb-dataset-using-unsloth",
+      "description": "I fine-tune a LLama-3 7B LLM (4bit) on the IMDB dataset for text generation, all within Google Colab using Unsloth.",
+      "stars": 0,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 7,
+    "quality_score": 0.412,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.71,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 7
+    }
+  }
+}

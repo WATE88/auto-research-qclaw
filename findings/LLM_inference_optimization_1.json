@@ -1,0 +1,271 @@
+{
+  "topic": "LLM inference optimization",
+  "round": 1,
+  "timestamp": "2026-03-27T16:11:45.011480",
+  "findings": [
+    {
+      "title": "kvcache-ai/ktransformers",
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "stars": 16846,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/TensorRT-LLM",
+      "url": "https://github.com/NVIDIA/TensorRT-LLM",
+      "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+      "stars": 13200,
+      "source": "github"
+    },
+    {
+      "title": "algorithmicsuperintelligence/optillm",
+      "url": "https://github.com/algorithmicsuperintelligence/optillm",
+      "description": "Optimizing inference proxy for LLMs",
+      "stars": 3396,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "stars": 2248,
+      "source": "github"
+    },
+    {
+      "title": "jd-opensource/xllm",
+      "url": "https://github.com/jd-opensource/xllm",
+      "description": "A high-performance inference engine for LLMs, optimized for diverse AI accelerators.",
+      "stars": 1159,
+      "source": "github"
+    },
+    {
+      "title": "intel/auto-round",
+      "url": "https://github.com/intel/auto-round",
+      "description": "SOTA rounding-based quantization for high-accuracy low-bit LLM inference, seamlessly optimized for CPU, Intel GPU, and CUDA, with multi-datatype support and full compatibility with vLLM, SGLang, and Transformers.",
+      "stars": 923,
+      "source": "github"
+    },
+    {
+      "title": "zhihu/ZhiLight",
+      "url": "https://github.com/zhihu/ZhiLight",
+      "description": "A highly optimized LLM inference acceleration engine for Llama and its variants.",
+      "stars": 905,
+      "source": "github"
+    },
+    {
+      "title": "turboderp-org/exllamav3",
+      "url": "https://github.com/turboderp-org/exllamav3",
+      "description": "An optimized quantization and inference library for running LLMs locally on modern consumer-class GPUs ",
+      "stars": 712,
+      "source": "github"
+    },
+    {
+      "title": "NLPOptimize/flash-tokenizer",
+      "url": "https://github.com/NLPOptimize/flash-tokenizer",
+      "description": "EFFICIENT AND OPTIMIZED TOKENIZER ENGINE FOR LLM INFERENCE SERVING",
+      "stars": 512,
+      "source": "github"
+    },
+    {
+      "title": "toverainc/willow-inference-server",
+      "url": "https://github.com/toverainc/willow-inference-server",
+      "description": "Open source, local, and self-hosted highly optimized language inference server supporting ASR/STT, TTS, and LLM across WebRTC, REST, and WS",
+      "stars": 497,
+      "source": "github"
+    },
+    {
+      "title": "AI-Hypercomputer/JetStream",
+      "url": "https://github.com/AI-Hypercomputer/JetStream",
+      "description": "JetStream is a throughput and memory optimized engine for LLM inference on XLA devices, starting with TPUs (and GPUs in future -- PRs welcome).",
+      "stars": 418,
+      "source": "github"
+    },
+    {
+      "title": "facebookresearch/LayerSkip",
+      "url": "https://github.com/facebookresearch/LayerSkip",
+      "description": "Code for \"LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding\", ACL 2024",
+      "stars": 362,
+      "source": "github"
+    },
+    {
+      "title": "dusty-nv/NanoLLM",
+      "url": "https://github.com/dusty-nv/NanoLLM",
+      "description": "Optimized local inference for LLMs with HuggingFace-like APIs for quantization, vision/language models, multimodal agents, speech, vector DB, and RAG.",
+      "stars": 361,
+      "source": "github"
+    },
+    {
+      "title": "RayFernando1337/LLM-Calc",
+      "url": "https://github.com/RayFernando1337/LLM-Calc",
+      "description": "Instantly calculate the maximum size of quantized language models that can fit in your available RAM, helping you optimize your models for inference.",
+      "stars": 257,
+      "source": "github"
+    },
+    {
+      "title": "OpenBMB/CPM.cu",
+      "url": "https://github.com/OpenBMB/CPM.cu",
+      "description": "CPM.cu is a lightweight, high-performance CUDA implementation for LLMs, optimized for end-device inference and featuring cutting-edge techniques in sparse architecture, speculative sampling and quantization.",
+      "stars": 236,
+      "source": "github"
+    },
+    {
+      "title": "chenhongyu2048/LLM-inference-optimization-paper",
+      "url": "https://github.com/chenhongyu2048/LLM-inference-optimization-paper",
+      "description": "Summary of some awesome work for optimizing  LLM inference",
+      "stars": 226,
+      "source": "github"
+    },
+    {
+      "title": "SandAI-org/MagiCompiler",
+      "url": "https://github.com/SandAI-org/MagiCompiler",
+      "description": "A plug-and-play compiler that delivers free-lunch optimizations for both inference and training.",
+      "stars": 224,
+      "source": "github"
+    },
+    {
+      "title": "bentoml/llm-optimizer",
+      "url": "https://github.com/bentoml/llm-optimizer",
+      "description": "Benchmark and optimize LLM inference across frameworks with ease",
+      "stars": 175,
+      "source": "github"
+    },
+    {
+      "title": "codefuse-ai/FasterTransformer4CodeFuse",
+      "url": "https://github.com/codefuse-ai/FasterTransformer4CodeFuse",
+      "description": "High-performance LLM inference based on our optimized version of FastTransfomer",
+      "stars": 122,
+      "source": "github"
+    },
+    {
+      "title": "jkanalakis/deep-recall",
+      "url": "https://github.com/jkanalakis/deep-recall",
+      "description": "Enterprise-grade memory framework for LLMs featuring GPU-optimized inference, vector storage, and automated scaling. Enables hyper-personalized responses through efficient context retrieval and integration.",
+      "stars": 91,
+      "source": "github"
+    },
+    {
+      "title": "ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling",
+      "url": "https://arxiv.org/abs/2603.25746v1",
+      "abstract": "Multi-shot video generation is crucial for long narrative storytelling, yet current bidirectional architectures suffer from limited interactivity and high latency. We propose ShotStream, a novel causa",
+      "source": "arxiv"
+    },
+    {
+      "title": "Less Gaussians, Texture More: 4K Feed-Forward Textured Splatting",
+      "url": "https://arxiv.org/abs/2603.25745v1",
+      "abstract": "Existing feed-forward 3D Gaussian Splatting methods predict pixel-aligned primitives, leading to a quadratic growth in primitive count as resolution increases. This fundamentally limits their scalabil",
+      "source": "arxiv"
+    },
+    {
+      "title": "MuRF: Unlocking the Multi-Scale Potential of Vision Foundation Models",
+      "url": "https://arxiv.org/abs/2603.25744v1",
+      "abstract": "Vision Foundation Models (VFMs) have become the cornerstone of modern computer vision, offering robust representations across a wide array of tasks. While recent advances allow these models to handle ",
+      "source": "arxiv"
+    },
+    {
+      "title": "RefAlign: Representation Alignment for Reference-to-Video Generation",
+      "url": "https://arxiv.org/abs/2603.25743v1",
+      "abstract": "Reference-to-video (R2V) generation is a controllable video synthesis paradigm that constrains the generation process using both text prompts and reference images, enabling applications such as person",
+      "source": "arxiv"
+    },
+    {
+      "title": "Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving",
+      "url": "https://arxiv.org/abs/2603.25740v1",
+      "abstract": "Human driving behavior is inherently personal, which is shaped by long-term habits and influenced by short-term intentions. Individuals differ in how they accelerate, brake, merge, yield, and overtake",
+      "source": "arxiv"
+    },
+    {
+      "title": "PSDesigner: Automated Graphic Design with a Human-Like Creative Workflow",
+      "url": "https://arxiv.org/abs/2603.25738v1",
+      "abstract": "Graphic design is a creative and innovative process that plays a crucial role in applications such as e-commerce and advertising. However, developing an automated design system that can faithfully tra",
+      "source": "arxiv"
+    },
+    {
+      "title": "Training the Knowledge Base through Evidence Distillation and Write-Back Enrichment",
+      "url": "https://arxiv.org/abs/2603.25737v1",
+      "abstract": "The knowledge base in a retrieval-augmented generation (RAG) system is typically assembled once and never revised, even though the facts a query requires are often fragmented across documents and buri",
+      "source": "arxiv"
+    },
+    {
+      "title": "PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference",
+      "url": "https://arxiv.org/abs/2603.25730v1",
+      "abstract": "Autoregressive video diffusion models have demonstrated remarkable progress, yet they remain bottlenecked by intractable linear KV-cache growth, temporal repetition, and compounding errors during long",
+      "source": "arxiv"
+    },
+    {
+      "title": "Bayesian analysis of $α$-Starobinsky model with Planck, ACT and DESI data",
+      "url": "https://arxiv.org/abs/2603.25721v1",
+      "abstract": "We present a joint Bayesian analysis to impose constraints on the generalized $α$-Starobinsky inflationary model using the high-precision cosmological datasets: Planck, CMB lensing from ACT DR6, and B",
+      "source": "arxiv"
+    },
+    {
+      "title": "No Hard Negatives Required: Concept Centric Learning Leads to Compositionality without Degrading Zero-shot Capabilities of Contrastive Models",
+      "url": "https://arxiv.org/abs/2603.25722v1",
+      "abstract": "Contrastive vision-language (V&amp;L) models remain a popular choice for various applications. However, several limitations have emerged, most notably the limited ability of V&amp;L models to learn co",
+      "source": "arxiv"
+    },
+    {
+      "title": "R-C2: Cycle-Consistent Reinforcement Learning Improves Multimodal Reasoning",
+      "url": "https://arxiv.org/abs/2603.25720v1",
+      "abstract": "Robust perception and reasoning require consistency across sensory modalities. Yet current multimodal models often violate this principle, yielding contradictory predictions for visual and textual rep",
+      "source": "arxiv"
+    },
+    {
+      "title": "Agent Factories for High Level Synthesis: How Far Can General-Purpose Coding Agents Go in Hardware Optimization?",
+      "url": "https://arxiv.org/abs/2603.25719v1",
+      "abstract": "We present an empirical study of how far general-purpose coding agents -- without hardware-specific training -- can optimize hardware designs from high-level algorithmic specifications. We introduce a",
+      "source": "arxiv"
+    },
+    {
+      "title": "Seeing to Ground: Visual Attention for Hallucination-Resilient MDLLMs",
+      "url": "https://arxiv.org/abs/2603.25711v1",
+      "abstract": "Multimodal Diffusion Large Language Models (MDLLMs) achieve high-concurrency generation through parallel masked decoding, yet the architectures remain prone to multimodal hallucinations. This structur",
+      "source": "arxiv"
+    },
+    {
+      "title": "TRACE: Object Motion Editing in Videos with First-Frame Trajectory Guidance",
+      "url": "https://arxiv.org/abs/2603.25707v1",
+      "abstract": "We study object motion path editing in videos, where the goal is to alter a target object's trajectory while preserving the original scene content. Unlike prior video editing methods that primarily ma",
+      "source": "arxiv"
+    },
+    {
+      "title": "S2D2: Fast Decoding for Diffusion LLMs via Training-Free Self-Speculation",
+      "url": "https://arxiv.org/abs/2603.25702v1",
+      "abstract": "Block-diffusion language models offer a promising path toward faster-than-autoregressive generation by combining block-wise autoregressive decoding with within-block parallel denoising. However, in th",
+      "source": "arxiv"
+    },
+    {
+      "title": "Neural Network Conversion of Machine Learning Pipelines",
+      "url": "https://arxiv.org/abs/2603.25699v1",
+      "abstract": "Transfer learning and knowledge distillation has recently gained a lot of attention in the deep learning community. One transfer approach, the student-teacher learning, has been shown to successfully ",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Kitchen Loop: User-Spec-Driven Development for a Self-Evolving Codebase",
+      "url": "https://arxiv.org/abs/2603.25697v1",
+      "abstract": "Code production is now a commodity; the bottleneck is knowing what to build and proving it works. We present the Kitchen Loop, a framework for autonomous, self-evolving software built on a unified tru",
+      "source": "arxiv"
+    },
+    {
+      "title": "Assessing Age Assurance Technologies: Effectiveness, Side-Effects, and Acceptance",
+      "url": "https://arxiv.org/abs/2603.25695v1",
+      "abstract": "In this paper, we provide an overview and evaluation of different types of age assurance technologies (AAT). We describe and analyse 1) different approaches to age assurance online (age verification, ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Approximate Bayesian Inference for Structural Equation Models using Integrated Nested Laplace Approximations",
+      "url": "https://arxiv.org/abs/2603.25690v1",
+      "abstract": "Markov chain Monte Carlo (MCMC) methods remain the mainstay of Bayesian estimation of structural equation models (SEM); however they often incur a high computational cost. We present a bespoke approxi",
+      "source": "arxiv"
+    },
+    {
+      "title": "LEMMA: Laplacian pyramids for Efficient Marine SeMAntic Segmentation",
+      "url": "https://arxiv.org/abs/2603.25689v1",
+      "abstract": "Semantic segmentation in marine environments is crucial for the autonomous navigation of unmanned surface vessels (USVs) and coastal Earth Observation events such as oil spills. However, existing meth",
+      "source": "arxiv"
+    }
+  ],
+  "sources": [
+    "github",
+    "arxiv"
+  ]
+}

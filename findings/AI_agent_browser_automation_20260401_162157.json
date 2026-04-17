@@ -1,0 +1,174 @@
+{
+  "topic": "AI agent browser automation",
+  "timestamp": "2026-04-01T16:21:57.412233",
+  "findings": [
+    {
+      "title": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "stars": 26056,
+      "source": "github"
+    },
+    {
+      "title": "nanobrowser/nanobrowser",
+      "url": "https://github.com/nanobrowser/nanobrowser",
+      "description": "Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.",
+      "stars": 12585,
+      "source": "github"
+    },
+    {
+      "title": "ntegrals/openbrowser",
+      "url": "https://github.com/ntegrals/openbrowser",
+      "description": "Let AI agents browse the web. An autonomous toolkit for browser-based AI agents.",
+      "stars": 9346,
+      "source": "github"
+    },
+    {
+      "title": "magnitudedev/browser-agent",
+      "url": "https://github.com/magnitudedev/browser-agent",
+      "description": "Open-source, vision-first browser agent",
+      "stars": 4008,
+      "source": "github"
+    },
+    {
+      "title": "VibiumDev/vibium",
+      "url": "https://github.com/VibiumDev/vibium",
+      "description": "Browser automation for AI agents and humans",
+      "stars": 2737,
+      "source": "github"
+    },
+    {
+      "title": "oxylabs/oxylabs-ai-studio-py",
+      "url": "https://github.com/oxylabs/oxylabs-ai-studio-py",
+      "description": "Structured data gathering from any website using AI-powered scraper, crawler, and browser automation. Scraping and crawling with natural language prompts. Equip your LLM agents with fresh data. AI Studio python SDK for intelligent web data gathering. ",
+      "stars": 2655,
+      "source": "github"
+    },
+    {
+      "title": "nottelabs/notte",
+      "url": "https://github.com/nottelabs/notte",
+      "description": "🌸 Best framework to build web agents, and deploy serverless web automation functions on reliable browser infra.",
+      "stars": 1929,
+      "source": "github"
+    },
+    {
+      "title": "tinyfish-io/agentql",
+      "url": "https://github.com/tinyfish-io/agentql",
+      "description": "AgentQL is a suite of tools for connecting your AI to the web. Featuring a query language and Playwright integrations for interacting with elements and extracting data quickly, precisely, and at scale. Includes REST API, Python and JavaScript SDKs, browser debugger.",
+      "stars": 1307,
+      "source": "github"
+    },
+    {
+      "title": "hyperbrowserai/HyperAgent",
+      "url": "https://github.com/hyperbrowserai/HyperAgent",
+      "description": "AI Browser Automation",
+      "stars": 1248,
+      "source": "github"
+    },
+    {
+      "title": "browserwing/browserwing",
+      "url": "https://github.com/browserwing/browserwing",
+      "description": "BrowserWing turns your browser actions into MCP commands Or Claude Skill, allowing AI agents to control browsers efficiently and reliably. Say goodbye to slow, token-heavy LLM interactions — let agents call commands directly for faster automation. Perfect for AI-driven tasks, browser automation, and boosting productivity.",
+      "stars": 1179,
+      "source": "github"
+    },
+    {
+      "title": "browserable/browserable",
+      "url": "https://github.com/browserable/browserable",
+      "description": "Open source and self-hostable browser automation library for AI agents",
+      "stars": 1176,
+      "source": "github"
+    },
+    {
+      "title": "jo-inc/camofox-browser",
+      "url": "https://github.com/jo-inc/camofox-browser",
+      "description": "Headless browser automation server for AI agents to visit sites that are usually blocked",
+      "stars": 1140,
+      "source": "github"
+    },
+    {
+      "title": "AIPexStudio/AIPex",
+      "url": "https://github.com/AIPexStudio/AIPex",
+      "description": "AIPex: AI browser automation assistant, no migration and privacy first. Alternative to Manus Browser Operator、 Claude Chrome and Agent Browser",
+      "stars": 1127,
+      "source": "github"
+    },
+    {
+      "title": "Planetary-Computers/autotab-starter",
+      "url": "https://github.com/Planetary-Computers/autotab-starter",
+      "description": "Build browser agents for real world tasks",
+      "stars": 1016,
+      "source": "github"
+    },
+    {
+      "title": "test-zeus-ai/testzeus-hercules",
+      "url": "https://github.com/test-zeus-ai/testzeus-hercules",
+      "description": "Hercules is the world’s first open-source testing agent, enabling UI, API, Security, Accessibility, and Visual validations – all without code or maintenance. Automate testing effortlessly and let Hercules handle the heavy lifting! ⚡",
+      "stars": 965,
+      "source": "github"
+    },
+    {
+      "title": "kernel/kernel-images",
+      "url": "https://github.com/kernel/kernel-images",
+      "description": "Browsers-as-a-service for automations and web agents",
+      "stars": 736,
+      "source": "github"
+    },
+    {
+      "title": "TheAgenticAI/TheAgenticBrowser",
+      "url": "https://github.com/TheAgenticAI/TheAgenticBrowser",
+      "description": "Open-source AI agent for web automation and scraping.",
+      "stars": 394,
+      "source": "github"
+    },
+    {
+      "title": "RunanywhereAI/on-device-browser-agent",
+      "url": "https://github.com/RunanywhereAI/on-device-browser-agent",
+      "description": "On-device AI browser automation using WebLLM. No cloud, no API keys, fully private.",
+      "stars": 290,
+      "source": "github"
+    },
+    {
+      "title": "mediastormDev/dream-to-video-skill",
+      "url": "https://github.com/mediastormDev/dream-to-video-skill",
+      "description": "AI agent skill that transforms dream descriptions into cinematic videos — auto-generates prompts, submits to Jimeng via browser automation, and downloads finished videos with post-processing effects.",
+      "stars": 215,
+      "source": "github"
+    },
+    {
+      "title": "EDEAI/OpenFlux",
+      "url": "https://github.com/EDEAI/OpenFlux",
+      "description": "⚡ Open-source AI Agent desktop client — multi-LLM, long-term memory, browser automation & tool orchestration | Tauri v2",
+      "stars": 206,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.442,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.135,
+      "diversity": 0.0,
+      "usability": 0.0,
+      "applicability": 1.0,
+      "coverage": 1.0,
+      "ndcg": 0.681,
+      "map": 0.989,
+      "mrr": 1.0,
+      "rouge_1": 0.65,
+      "semantic_sim": 0.378,
+      "coherence": 0.101,
+      "task_completion": 0.58,
+      "tool_use": 0.347,
+      "reasoning_depth": 0.02,
+      "autonomy": 0.225,
+      "multi_agent": 0.03
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

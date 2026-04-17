@@ -1,0 +1,118 @@
+{
+  "topic": "LLM leaderboard ranking",
+  "timestamp": "2026-03-31T12:50:16.897914",
+  "findings": [
+    {
+      "title": "rungalileo/agent-leaderboard",
+      "url": "https://github.com/rungalileo/agent-leaderboard",
+      "description": "Ranking LLMs on agentic tasks",
+      "stars": 219,
+      "source": "github"
+    },
+    {
+      "title": "dustalov/evalica",
+      "url": "https://github.com/dustalov/evalica",
+      "description": "Evalica, your favourite evaluation toolkit",
+      "stars": 62,
+      "source": "github"
+    },
+    {
+      "title": "verseles/showdown",
+      "url": "https://github.com/verseles/showdown",
+      "description": "Comprehensive LLM leaderboard aggregating multiple benchmarks into transparent rankings. Open data, community-driven, built with Svelte.",
+      "stars": 11,
+      "source": "github"
+    },
+    {
+      "title": "JiaQiSJTU/UserCentricLeaderboard",
+      "url": "https://github.com/JiaQiSJTU/UserCentricLeaderboard",
+      "description": "This project introduces a novel, user-centric leaderboard for Large Language Models (LLMs) that moves beyond one-size-fits-all evaluations. Our framework empowers users to create personalized rankings on subjective topics.",
+      "stars": 4,
+      "source": "github"
+    },
+    {
+      "title": "wassname/llm_ethics_leaderboard",
+      "url": "https://github.com/wassname/llm_ethics_leaderboard",
+      "description": "Evaluate the moral and ethical values of language models. Using choice ranking in text based games.",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "g4ix/advLab1-HITS",
+      "url": "https://github.com/g4ix/advLab1-HITS",
+      "description": "Project for an advanced lab investigating LLM benchmarks from an IR perspective. Instead of focusing on model performance, we evaluated benchmark robustness, identifying which questions truly differentiate models and whether leaderboard rankings reflect real differences or are dominated by easy, high-hubness items.",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "acehoumaine/ai-leaderboard",
+      "url": "https://github.com/acehoumaine/ai-leaderboard",
+      "description": "AI Models Leaderboard, ranking LLMs.",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "dickren123/llm-leaderboard",
+      "url": "https://github.com/dickren123/llm-leaderboard",
+      "description": "Weekly updated ranking of the best large language models (LLMs)",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "Venomn/llm-leaderboard-backend",
+      "url": "https://github.com/Venomn/llm-leaderboard-backend",
+      "description": "LLM leaderboard, ranking based on user reported issues",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "Venomn/llm-leaderboard-frontend",
+      "url": "https://github.com/Venomn/llm-leaderboard-frontend",
+      "description": "LLM leaderboard, ranking based on user reported issues",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "ShadowPlayz1121/leaderboard-summarizer",
+      "url": "https://github.com/ShadowPlayz1121/leaderboard-summarizer",
+      "description": "📝 Summarize and analyze leaderboard data with ease using leaderboard-summarizer, a simple Python package for reliable, structured output.",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "Hkshoonya/AI-Market-Place",
+      "url": "https://github.com/Hkshoonya/AI-Market-Place",
+      "description": "The public market graph for AI models — rankings, benchmarks, pricing, launches, provider momentum, and agent-native commerce",
+      "stars": 0,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 12,
+    "quality_score": 0.384,
+    "grade": "D",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.25,
+      "star_power": 0.228,
+      "diversity": 0.0,
+      "usability": 0.333,
+      "applicability": 0.25,
+      "coverage": 0.6,
+      "ndcg": 0.785,
+      "map": 0.848,
+      "mrr": 1.0,
+      "rouge_1": 0.472,
+      "semantic_sim": 0.262,
+      "coherence": 0.181,
+      "task_completion": 0.436,
+      "tool_use": 0.011,
+      "reasoning_depth": 0.017,
+      "autonomy": 0.0,
+      "multi_agent": 0.0
+    },
+    "sources_breakdown": {
+      "github": 12
+    }
+  }
+}

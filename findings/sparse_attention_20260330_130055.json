@@ -1,0 +1,159 @@
+{
+  "topic": "sparse attention",
+  "timestamp": "2026-03-30T13:00:55.576376",
+  "findings": [
+    {
+      "title": "EverMind-AI/MSA",
+      "url": "https://github.com/EverMind-AI/MSA",
+      "description": "Memory Sparse Attention -  亿级（100M）token 上下文的端到端可训练记忆框架",
+      "stars": 2345,
+      "source": "github"
+    },
+    {
+      "title": "openai/sparse_attention",
+      "url": "https://github.com/openai/sparse_attention",
+      "description": "Examples of using sparse attention, as in \"Generating Long Sequences with Sparse Transformers\"",
+      "stars": 1612,
+      "source": "github"
+    },
+    {
+      "title": "OpenImagingLab/FlashVSR",
+      "url": "https://github.com/OpenImagingLab/FlashVSR",
+      "description": "[CVPR 2026] Towards Real-Time Diffusion-Based Streaming Video Super-Resolution — An efficient one-step diffusion framework for streaming VSR with locality-constrained sparse attention and a tiny conditional decoder.",
+      "stars": 1477,
+      "source": "github"
+    },
+    {
+      "title": "DreamTechAI/Direct3D-S2",
+      "url": "https://github.com/DreamTechAI/Direct3D-S2",
+      "description": "[NeurIPS 2025] Direct3D‑S2: Gigascale 3D Generation Made Easy with Spatial Sparse Attention",
+      "stars": 1211,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/MInference",
+      "url": "https://github.com/microsoft/MInference",
+      "description": "[NeurIPS'24 Spotlight, ICLR'25, ICML'25] To speed up Long-context LLMs' inference, approximate and dynamic sparse calculate the attention, which reduces inference latency by up to 10x for pre-filling on an A100 while maintaining accuracy.",
+      "stars": 1203,
+      "source": "github"
+    },
+    {
+      "title": "Relaxed-System-Lab/Flash-Sparse-Attention",
+      "url": "https://github.com/Relaxed-System-Lab/Flash-Sparse-Attention",
+      "description": "🚀🚀 Efficient implementations of Native Sparse Attention",
+      "stars": 983,
+      "source": "github"
+    },
+    {
+      "title": "fla-org/native-sparse-attention",
+      "url": "https://github.com/fla-org/native-sparse-attention",
+      "description": "🐳 Efficient Triton implementations for \"Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention\"",
+      "stars": 980,
+      "source": "github"
+    },
+    {
+      "title": "thu-ml/SpargeAttn",
+      "url": "https://github.com/thu-ml/SpargeAttn",
+      "description": "[ICML2025] SpargeAttention: A training-free sparse attention that accelerates any model inference.",
+      "stars": 969,
+      "source": "github"
+    },
+    {
+      "title": "qiuzh20/gated_attention",
+      "url": "https://github.com/qiuzh20/gated_attention",
+      "description": "The official implementation for [NeurIPS2025 Oral] Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free",
+      "stars": 914,
+      "source": "github"
+    },
+    {
+      "title": "mit-han-lab/omniserve",
+      "url": "https://github.com/mit-han-lab/omniserve",
+      "description": "[MLSys'25] QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving; [MLSys'25] LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention",
+      "stars": 821,
+      "source": "github"
+    },
+    {
+      "title": "lucidrains/native-sparse-attention-pytorch",
+      "url": "https://github.com/lucidrains/native-sparse-attention-pytorch",
+      "description": "Implementation of the sparse attention pattern proposed by the Deepseek team in their \"Native Sparse Attention\" paper",
+      "stars": 798,
+      "source": "github"
+    },
+    {
+      "title": "SHI-Labs/NATTEN",
+      "url": "https://github.com/SHI-Labs/NATTEN",
+      "description": "Fast Multi-dimensional Sparse Attention",
+      "stars": 730,
+      "source": "github"
+    },
+    {
+      "title": "svg-project/Sparse-VideoGen",
+      "url": "https://github.com/svg-project/Sparse-VideoGen",
+      "description": "[ICML2025, NeurIPS2025 Spotlight] Sparse VideoGen 1 & 2: Accelerating Video Diffusion Transformers with Sparse Attention",
+      "stars": 652,
+      "source": "github"
+    },
+    {
+      "title": "HKUSTDial/flash-sparse-attention",
+      "url": "https://github.com/HKUSTDial/flash-sparse-attention",
+      "description": "Trainable fast and memory-efficient sparse attention",
+      "stars": 592,
+      "source": "github"
+    },
+    {
+      "title": "mit-han-lab/radial-attention",
+      "url": "https://github.com/mit-han-lab/radial-attention",
+      "description": "[NeurIPS 2025] Radial Attention: O(nlogn) Sparse Attention with Energy Decay for Long Video Generation",
+      "stars": 588,
+      "source": "github"
+    },
+    {
+      "title": "mit-han-lab/Block-Sparse-Attention",
+      "url": "https://github.com/mit-han-lab/Block-Sparse-Attention",
+      "description": "A sparse attention kernel supporting mix sparse patterns",
+      "stars": 487,
+      "source": "github"
+    },
+    {
+      "title": "thu-ml/SLA",
+      "url": "https://github.com/thu-ml/SLA",
+      "description": "SLA: Beyond Sparsity in Diffusion Transformers via Fine-Tunable Sparse–Linear Attention",
+      "stars": 292,
+      "source": "github"
+    },
+    {
+      "title": "attention-survey/Efficient_Attention_Survey",
+      "url": "https://github.com/attention-survey/Efficient_Attention_Survey",
+      "description": "A Survey of Efficient Attention Methods: Hardware-efficient, Sparse, Compact, and Linear Attention",
+      "stars": 290,
+      "source": "github"
+    },
+    {
+      "title": "mit-han-lab/x-attention",
+      "url": "https://github.com/mit-han-lab/x-attention",
+      "description": "[ICML 2025] XAttention: Block Sparse Attention with Antidiagonal Scoring",
+      "stars": 275,
+      "source": "github"
+    },
+    {
+      "title": "XunhaoLai/native-sparse-attention-triton",
+      "url": "https://github.com/XunhaoLai/native-sparse-attention-triton",
+      "description": "Efficient triton implementation of Native Sparse Attention.",
+      "stars": 273,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.345,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.373,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "topic": "AI agent memory system",
+  "timestamp": "2026-04-07T12:15:18.954542",
+  "findings": [
+    {
+      "title": "deepset-ai/haystack",
+      "url": "https://github.com/deepset-ai/haystack",
+      "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
+      "stars": 24745,
+      "source": "github"
+    },
+    {
+      "title": "volcengine/OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+      "stars": 21358,
+      "source": "github"
+    },
+    {
+      "title": "MemoriLabs/Memori",
+      "url": "https://github.com/MemoriLabs/Memori",
+      "description": "Memori is agent-native memory infrastructure. A SQL-native, LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems.",
+      "stars": 13183,
+      "source": "github"
+    },
+    {
+      "title": "MemTensor/MemOS",
+      "url": "https://github.com/MemTensor/MemOS",
+      "description": "AI memory OS for LLM and Agent systems(moltbot,clawdbot,openclaw), enabling persistent Skill memory for cross-task skill reuse and evolution.",
+      "stars": 8169,
+      "source": "github"
+    },
+    {
+      "title": "MemMachine/MemMachine",
+      "url": "https://github.com/MemMachine/MemMachine",
+      "description": "Universal memory layer for AI Agents. It provides scalable, extensible, and interoperable memory storage and retrieval to streamline AI agent state management for next-generation autonomous systems.",
+      "stars": 5356,
+      "source": "github"
+    },
+    {
+      "title": "Josh-XT/AGiXT",
+      "url": "https://github.com/Josh-XT/AGiXT",
+      "description": "AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, and a versatile plugin system, AGiXT delivers efficient and comprehensive AI solutions.",
+      "stars": 3168,
+      "source": "github"
+    },
+    {
+      "title": "Gentleman-Programming/engram",
+      "url": "https://github.com/Gentleman-Programming/engram",
+      "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
+      "stars": 2303,
+      "source": "github"
+    },
+    {
+      "title": "KsanaDock/Microverse",
+      "url": "https://github.com/KsanaDock/Microverse",
+      "description": "A god-simulation sandbox game built on Godot 4 as a multi-agent AI social simulation system. In this virtual world, AI characters possess independent thinking and memory, capable of autonomous social interactions, task completion, and developing complex social relationships through continuous communication.",
+      "stars": 2211,
+      "source": "github"
+    },
+    {
+      "title": "parruda/swarm",
+      "url": "https://github.com/parruda/swarm",
+      "description": "Ruby gems for general-purpose AI agent systems: automation, research, data processing, customer support, content creation. SwarmSDK provides single-process orchestration, persistent memory with semantic   search, node workflows, and hooks. SwarmMemory/SwarmCLI included. Claude Swarm v1 for dev teams.",
+      "stars": 1691,
+      "source": "github"
+    },
+    {
+      "title": "BAI-LAB/MemoryOS",
+      "url": "https://github.com/BAI-LAB/MemoryOS",
+      "description": "[EMNLP 2025 Oral] MemoryOS is designed to provide a memory operating system for personalized AI agents.",
+      "stars": 1308,
+      "source": "github"
+    },
+    {
+      "title": "wangziqi06/724-office",
+      "url": "https://github.com/wangziqi06/724-office",
+      "description": "7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
+      "stars": 1156,
+      "source": "github"
+    },
+    {
+      "title": "zilliztech/memsearch",
+      "url": "https://github.com/zilliztech/memsearch",
+      "description": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.",
+      "stars": 1135,
+      "source": "github"
+    },
+    {
+      "title": "metaskills/experts",
+      "url": "https://github.com/metaskills/experts",
+      "description": "Experts.js is the easiest way to create and deploy OpenAI's Assistants and link them together as Tools to create advanced Multi AI Agent Systems with expanded memory and attention to detail.",
+      "stars": 1065,
+      "source": "github"
+    },
+    {
+      "title": "iwe-org/iwe",
+      "url": "https://github.com/iwe-org/iwe",
+      "description": "Markdown memory system for you and your AI agent",
+      "stars": 871,
+      "source": "github"
+    },
+    {
+      "title": "repowise-dev/claude-code-prompts",
+      "url": "https://github.com/repowise-dev/claude-code-prompts",
+      "description": "Independently authored prompt templates for AI coding agents — system prompts, tool prompts, agent delegation, memory management, and multi-agent coordination. Informed by studying Claude Code.",
+      "stars": 811,
+      "source": "github"
+    },
+    {
+      "title": "IAAR-Shanghai/Awesome-AI-Memory",
+      "url": "https://github.com/IAAR-Shanghai/Awesome-AI-Memory",
+      "description": "Awesome AI Memory | LLM Memory | A curated knowledge base on AI memory for LLMs and agents, covering long-term memory, reasoning, retrieval, and memory-native system design.  Awesome-AI-Memory 是一个 集中式、持续更新的 AI 记忆知识库，系统性整理了与 大模型记忆（LLM Memory）与智能体记忆（Agent Memory） 相关的前沿研究、工程框架、系统设计、评测基准与真实应用实践。",
+      "stars": 667,
+      "source": "github"
+    },
+    {
+      "title": "Versatly/clawvault",
+      "url": "https://github.com/Versatly/clawvault",
+      "description": "🐘 An elephant never forgets. Structured memory system for AI agents.",
+      "stars": 639,
+      "source": "github"
+    },
+    {
+      "title": "23blocks-OS/ai-maestro",
+      "url": "https://github.com/23blocks-OS/ai-maestro",
+      "description": "AI Agent Orchestrator with Skills System - Give AI Agents superpowers: memory search, code graph queries, agent-to-agent messaging. Manage Claude, Codex or any AI Agent from one dashboard. Move Agents between computers and locations",
+      "stars": 594,
+      "source": "github"
+    },
+    {
+      "title": "VoltAgent/awesome-ai-agent-papers",
+      "url": "https://github.com/VoltAgent/awesome-ai-agent-papers",
+      "description": "A curated collection of AI agent research papers released in 2026, covering agent engineering, memory, evaluation, workflows, and autonomous systems.",
+      "stars": 486,
+      "source": "github"
+    },
+    {
+      "title": "24kchengYe/MemoMind",
+      "url": "https://github.com/24kchengYe/MemoMind",
+      "description": "Give your AI agent a brain that remembers. Local memory system for Claude Code — 100% private, GPU-accelerated, zero cloud dependency.",
+      "stars": 419,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.638,
+    "grade": "B",
+    "dimensions": {
+      "authority": 0.9,
+      "star_power": 0.185,
+      "diversity": 0.0,
+      "coverage": 1.0,
+      "ndcg": 0.658,
+      "map": 1.0,
+      "mrr": 1.0,
+      "rouge_1": 0.863,
+      "semantic_sim": 0.402,
+      "task_completion": 0.569,
+      "tool_use": 0.2,
+      "reasoning_depth": 0.033,
+      "autonomy": 0.225
+    }
+  }
+}

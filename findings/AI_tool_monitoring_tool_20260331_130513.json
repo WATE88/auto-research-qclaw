@@ -1,0 +1,174 @@
+{
+  "topic": "AI tool monitoring tool",
+  "timestamp": "2026-03-31T13:05:13.575703",
+  "findings": [
+    {
+      "title": "raga-ai-hub/RagaAI-Catalyst",
+      "url": "https://github.com/raga-ai-hub/RagaAI-Catalyst",
+      "description": "Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced analytics with timeline and execution graph view ",
+      "stars": 16128,
+      "source": "github"
+    },
+    {
+      "title": "coroot/coroot",
+      "url": "https://github.com/coroot/coroot",
+      "description": "Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and inspections.",
+      "stars": 7534,
+      "source": "github"
+    },
+    {
+      "title": "AgentDeskAI/browser-tools-mcp",
+      "url": "https://github.com/AgentDeskAI/browser-tools-mcp",
+      "description": "Monitor browser logs directly from Cursor and other MCP compatible IDEs.",
+      "stars": 7157,
+      "source": "github"
+    },
+    {
+      "title": "Pimzino/spec-workflow-mcp",
+      "url": "https://github.com/Pimzino/spec-workflow-mcp",
+      "description": "A Model Context Protocol (MCP) server that provides structured spec-driven development workflow tools for AI-assisted software development, featuring a real-time web dashboard and VSCode extension for monitoring and managing your project's progress directly in your development environment.",
+      "stars": 4073,
+      "source": "github"
+    },
+    {
+      "title": "jlcodes99/cockpit-tools",
+      "url": "https://github.com/jlcodes99/cockpit-tools",
+      "description": " 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta",
+      "stars": 3075,
+      "source": "github"
+    },
+    {
+      "title": "kite-org/kite",
+      "url": "https://github.com/kite-org/kite",
+      "description": "🪁 A lightweight, modern Kubernetes dashboard that unifies multi-cluster and resource management, enterprise-grade user governance (OAuth, RBAC, and audit logs), and AI agents in one workspace. Not just a tool, but more like a platform.",
+      "stars": 2458,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/responsible-ai-toolbox",
+      "url": "https://github.com/microsoft/responsible-ai-toolbox",
+      "description": "Responsible AI Toolbox is a suite of tools providing model and data exploration and assessment user interfaces and libraries that enable a better understanding of AI systems. These interfaces and libraries empower developers and stakeholders of AI systems to develop and monitor AI more responsibly, and take better data-driven actions.",
+      "stars": 1746,
+      "source": "github"
+    },
+    {
+      "title": "jzyong/game-server",
+      "url": "https://github.com/jzyong/game-server",
+      "description": "Distributed Java game server, including cluster management server, gateway server, hall server, game logic server, background monitoring server and a running web version of fishing. State machine, behavior tree, A* pathfinding, navigation mesh and other AI tools",
+      "stars": 1221,
+      "source": "github"
+    },
+    {
+      "title": "e2b-dev/awesome-ai-sdks",
+      "url": "https://github.com/e2b-dev/awesome-ai-sdks",
+      "description": "A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI agents",
+      "stars": 1157,
+      "source": "github"
+    },
+    {
+      "title": "caiovicentino/polymarket-mcp-server",
+      "url": "https://github.com/caiovicentino/polymarket-mcp-server",
+      "description": "🤖 AI-Powered MCP Server for Polymarket - Enable Claude to trade prediction markets with 45 tools, real-time monitoring, and enterprise-grade safety features",
+      "stars": 290,
+      "source": "github"
+    },
+    {
+      "title": "Shlomob/ocmonitor-share",
+      "url": "https://github.com/Shlomob/ocmonitor-share",
+      "description": "OpenCode Monitor is a CLI tool for monitoring and analyzing OpenCode AI coding usage",
+      "stars": 232,
+      "source": "github"
+    },
+    {
+      "title": "salacoste/mcp-n8n-workflow-builder",
+      "url": "https://github.com/salacoste/mcp-n8n-workflow-builder",
+      "description": "AI-powered n8n workflow automation through natural language. MCP server enabling Claude AI & Cursor IDE to create, manage, and monitor workflows via Model Context Protocol. Multi-instance support, 17 tools, comprehensive docs. Build workflows conversationally without manual JSON editing.",
+      "stars": 220,
+      "source": "github"
+    },
+    {
+      "title": "Armur-Ai/Pentest-Swarm-AI",
+      "url": "https://github.com/Armur-Ai/Pentest-Swarm-AI",
+      "description": "Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go, Claude API, and 7+ native security tools.",
+      "stars": 216,
+      "source": "github"
+    },
+    {
+      "title": "mpeirone/zabbix-mcp-server",
+      "url": "https://github.com/mpeirone/zabbix-mcp-server",
+      "description": "🔌 Complete MCP server for Zabbix integration - Connect AI assistants to Zabbix monitoring with 40+ tools for hosts, items, triggers, templates, problems, and more. Features read-only mode and comprehensive API coverage.",
+      "stars": 187,
+      "source": "github"
+    },
+    {
+      "title": "AgentSeal/agentseal",
+      "url": "https://github.com/AgentSeal/agentseal",
+      "description": "Security toolkit for AI agents. Scan your machine for dangerous skills and MCP configs, monitor for supply chain attacks, test prompt injection resistance, and audit live MCP servers for tool poisoning.",
+      "stars": 152,
+      "source": "github"
+    },
+    {
+      "title": "call518/MCP-PostgreSQL-Ops",
+      "url": "https://github.com/call518/MCP-PostgreSQL-Ops",
+      "description": "🔍Professional MCP server for PostgreSQL operations & monitoring: 30+ extension-independent tools for performance analysis, table bloat detection, autovacuum monitoring, schema introspection, and database management. Supports PostgreSQL 12+.",
+      "stars": 143,
+      "source": "github"
+    },
+    {
+      "title": "aira-security/mcp-armor",
+      "url": "https://github.com/aira-security/mcp-armor",
+      "description": "MCP Armor continuously secures and monitors Model Context Protocol operations through static and dynamic scans, revealing hidden risks in agent-to-tool communications.",
+      "stars": 112,
+      "source": "github"
+    },
+    {
+      "title": "MrQianjinsi/agentic-metric",
+      "url": "https://github.com/MrQianjinsi/agentic-metric",
+      "description": "A local-only monitoring tool for AI coding agents.",
+      "stars": 101,
+      "source": "github"
+    },
+    {
+      "title": "Adversis/mcp-snitch",
+      "url": "https://github.com/Adversis/mcp-snitch",
+      "description": "MCP Snitch is a macOS application that intercepts and monitors MCP server communications, providing security analysis, access control, and audit logging for AI tool usage.",
+      "stars": 93,
+      "source": "github"
+    },
+    {
+      "title": "Aryia-Behroziuan/neurons",
+      "url": "https://github.com/Aryia-Behroziuan/neurons",
+      "description": "An ANN is a model based on a collection of connected units or nodes called \"artificial neurons\", which loosely model the neurons in a biological brain. Each connection, like the synapses in a biological brain, can transmit information, a \"signal\", from one artificial neuron to another. An artificial neuron that receives a signal can process it and then signal additional artificial neurons connected to it. In common ANN implementations, the signal at a connection between artificial neurons is a real number, and the output of each artificial neuron is computed by some non-linear function of the sum of its inputs. The connections between artificial neurons are called \"edges\". Artificial neurons and edges typically have a weight that adjusts as learning proceeds. The weight increases or decreases the strength of the signal at a connection. Artificial neurons may have a threshold such that the signal is only sent if the aggregate signal crosses that threshold. Typically, artificial neurons are aggregated into layers. Different layers may perform different kinds of transformations on their inputs. Signals travel from the first layer (the input layer) to the last layer (the output layer), possibly after traversing the layers multiple times.  The original goal of the ANN approach was to solve problems in the same way that a human brain would. However, over time, attention moved to performing specific tasks, leading to deviations from biology. Artificial neural networks have been used on a variety of tasks, including computer vision, speech recognition, machine translation, social network filtering, playing board and video games and medical diagnosis.  Deep learning consists of multiple hidden layers in an artificial neural network. This approach tries to model the way the human brain processes light and sound into vision and hearing. Some successful applications of deep learning are computer vision and speech recognition.[68]  Decision trees Main article: Decision tree learning Decision tree learning uses a decision tree as a predictive model to go from observations about an item (represented in the branches) to conclusions about the item's target value (represented in the leaves). It is one of the predictive modeling approaches used in statistics, data mining, and machine learning. Tree models where the target variable can take a discrete set of values are called classification trees; in these tree structures, leaves represent class labels and branches represent conjunctions of features that lead to those class labels. Decision trees where the target variable can take continuous values (typically real numbers) are called regression trees. In decision analysis, a decision tree can be used to visually and explicitly represent decisions and decision making. In data mining, a decision tree describes data, but the resulting classification tree can be an input for decision making.  Support vector machines Main article: Support vector machines Support vector machines (SVMs), also known as support vector networks, are a set of related supervised learning methods used for classification and regression. Given a set of training examples, each marked as belonging to one of two categories, an SVM training algorithm builds a model that predicts whether a new example falls into one category or the other.[69] An SVM training algorithm is a non-probabilistic, binary, linear classifier, although methods such as Platt scaling exist to use SVM in a probabilistic classification setting. In addition to performing linear classification, SVMs can efficiently perform a non-linear classification using what is called the kernel trick, implicitly mapping their inputs into high-dimensional feature spaces.   Illustration of linear regression on a data set. Regression analysis Main article: Regression analysis Regression analysis encompasses a large variety of statistical methods to estimate the relationship between input variables and their associated features. Its most common form is linear regression, where a single line is drawn to best fit the given data according to a mathematical criterion such as ordinary least squares. The latter is often extended by regularization (mathematics) methods to mitigate overfitting and bias, as in ridge regression. When dealing with non-linear problems, go-to models include polynomial regression (for example, used for trendline fitting in Microsoft Excel[70]), logistic regression (often used in statistical classification) or even kernel regression, which introduces non-linearity by taking advantage of the kernel trick to implicitly map input variables to higher-dimensional space.  Bayesian networks Main article: Bayesian network  A simple Bayesian network. Rain influences whether the sprinkler is activated, and both rain and the sprinkler influence whether the grass is wet. A Bayesian network, belief network, or directed acyclic graphical model is a probabilistic graphical model that represents a set of random variables and their conditional independence with a directed acyclic graph (DAG). For example, a Bayesian network could represent the probabilistic relationships between diseases and symptoms. Given symptoms, the network can be used to compute the probabilities of the presence of various diseases. Efficient algorithms exist that perform inference and learning. Bayesian networks that model sequences of variables, like speech signals or protein sequences, are called dynamic Bayesian networks. Generalizations of Bayesian networks that can represent and solve decision problems under uncertainty are called influence diagrams.  Genetic algorithms Main article: Genetic algorithm A genetic algorithm (GA) is a search algorithm and heuristic technique that mimics the process of natural selection, using methods such as mutation and crossover to generate new genotypes in the hope of finding good solutions to a given problem. In machine learning, genetic algorithms were used in the 1980s and 1990s.[71][72] Conversely, machine learning techniques have been used to improve the performance of genetic and evolutionary algorithms.[73]  Training models Usually, machine learning models require a lot of data in order for them to perform well. Usually, when training a machine learning model, one needs to collect a large, representative sample of data from a training set. Data from the training set can be as varied as a corpus of text, a collection of images, and data collected from individual users of a service. Overfitting is something to watch out for when training a machine learning model.  Federated learning Main article: Federated learning Federated learning is an adapted form of distributed artificial intelligence to training machine learning models that decentralizes the training process, allowing for users' privacy to be maintained by not needing to send their data to a centralized server. This also increases efficiency by decentralizing the training process to many devices. For example, Gboard uses federated machine learning to train search query prediction models on users' mobile phones without having to send individual searches back to Google.[74]  Applications There are many applications for machine learning, including:  Agriculture Anatomy Adaptive websites Affective computing Banking Bioinformatics Brain–machine interfaces Cheminformatics Citizen science Computer networks Computer vision Credit-card fraud detection Data quality DNA sequence classification Economics Financial market analysis[75] General game playing Handwriting recognition Information retrieval Insurance Internet fraud detection Linguistics Machine learning control Machine perception Machine translation Marketing Medical diagnosis Natural language processing Natural language understanding Online advertising Optimization Recommender systems Robot locomotion Search engines Sentiment analysis Sequence mining Software engineering Speech recognition Structural health monitoring Syntactic pattern recognition Telecommunication Theorem proving Time series forecasting User behavior analytics In 2006, the media-services provider Netflix held the first \"Netflix Prize\" competition to find a program to better predict user preferences and improve the accuracy of its existing Cinematch movie recommendation algorithm by at least 10%. A joint team made up of researchers from AT&T Labs-Research in collaboration with the teams Big Chaos and Pragmatic Theory built an ensemble model to win the Grand Prize in 2009 for $1 million.[76] Shortly after the prize was awarded, Netflix realized that viewers' ratings were not the best indicators of their viewing patterns (\"everything is a recommendation\") and they changed their recommendation engine accordingly.[77] In 2010 The Wall Street Journal wrote about the firm Rebellion Research and their use of machine learning to predict the financial crisis.[78] In 2012, co-founder of Sun Microsystems, Vinod Khosla, predicted that 80% of medical doctors' jobs would be lost in the next two decades to automated machine learning medical diagnostic software.[79] In 2014, it was reported that a machine learning algorithm had been applied in the field of art history to study fine art paintings and that it may have revealed previously unrecognized influences among artists.[80] In 2019 Springer Nature published the first research book created using machine learning.[81]  Limitations Although machine learning has been transformative in some fields, machine-learning programs often fail to deliver expected results.[82][83][84] Reasons for this are numerous: lack of (suitable) data, lack of access to the data, data bias, privacy problems, badly chosen tasks and algorithms, wrong tools and people, lack of resources, and evaluation problems.[85]  In 2018, a self-driving car from Uber failed to detect a pedestrian, who was killed after a collision.[86] Attempts to use machine learning in healthcare with the IBM Watson system failed to deliver even after years of time and billions of dollars invested.[87][88]  Bias Main article: Algorithmic bias Machine learning approaches in particular can suffer from different data biases. A machine learning system trained on current customers only may not be able to predict the needs of new customer groups that are not represented in the training data. When trained on man-made data, machine learning is likely to pick up the same constitutional and unconscious biases already present in society.[89] Language models learned from data have been shown to contain human-like biases.[90][91] Machine learning systems used for criminal risk assessment have been found to be biased against black people.[92][93] In 2015, Google photos would often tag black people as gorillas,[94] and in 2018 this still was not well resolved, but Google reportedly was still using the workaround to remove all gorillas from the training data, and thus was not able to recognize real gorillas at all.[95] Similar issues with recognizing non-white people have been found in many other systems.[96] In 2016, Microsoft tested a chatbot that learned from Twitter, and it quickly picked up racist and sexist language.[97] Because of such challenges, the effective use of machine learning may take longer to be adopted in other domains.[98] Concern for fairness in machine learning, that is, reducing bias in machine learning and propelling its use for human good is increasingly expressed by artificial intelligence scientists, including Fei-Fei Li, who reminds engineers that \"There’s nothing artificial about AI...It’s inspired by people, it’s created by people, and—most importantly—it impacts people. It is a powerful tool we are only just beginning to understand, and that is a profound responsibility.”[99]  Model assessments Classification of machine learning models can be validated by accuracy estimation techniques like the holdout method, which splits the data in a training and test set (conventionally 2/3 training set and 1/3 test set designation) and evaluates the performance of the training model on the test set. In comparison, the K-fold-cross-validation method randomly partitions the data into K subsets and then K experiments are performed each respectively considering 1 subset for evaluation and the remaining K-1 subsets for training the model. In addition to the holdout and cross-validation methods, bootstrap, which samples n instances with replacement from the dataset, can be used to assess model accuracy.[100]  In addition to overall accuracy, investigators frequently report sensitivity and specificity meaning True Positive Rate (TPR) and True Negative Rate (TNR) respectively. Similarly, investigators sometimes report the false positive rate (FPR) as well as the false negative rate (FNR). However, these rates are ratios that fail to reveal their numerators and denominators. The total operating characteristic (TOC) is an effective method to express a model's diagnostic ability. TOC shows the numerators and denominators of the previously mentioned rates, thus TOC provides more information than the commonly used receiver operating characteristic (ROC) and ROC's associated area under the curve (AUC).[101]  Ethics Machine learning poses a host of ethical questions. Systems which are trained on datasets collected with biases may exhibit these biases upon use (algorithmic bias), thus digitizing cultural prejudices.[102] For example, using job hiring data from a firm with racist hiring policies may lead to a machine learning system duplicating the bias by scoring job applicants against similarity to previous successful applicants.[103][104] Responsible collection of data and documentation of algorithmic rules used by a system thus is a critical part of machine learning.  Because human languages contain biases, machines trained on language corpora will necessarily also learn these biases.[105][106]  Other forms of ethical challenges, not related to personal biases, are more seen in health care. There are concerns among health care professionals that these systems might not be designed in the public's interest but as income-generating machines. This is especially true in the United States where there is a long-standing ethical dilemma of improving health care, but also increasing profits. For example, the algorithms could be designed to provide patients with unnecessary tests or medication in which the algorithm's proprietary owners hold stakes. There is huge potential for machine learning in health care to provide professionals a great tool to diagnose, medicate, and even plan recovery paths for patients, but this will not happen until the personal biases mentioned previously, and these \"greed\" biases are addressed.[107]  Hardware Since the 2010s, advances in both machine learning algorithms and computer hardware have led to more efficient methods for training deep neural networks (a particular narrow subdomain of machine learning) that contain many layers of non-linear hidden units.[108] By 2019, graphic processing units (GPUs), often with AI-specific enhancements, had displaced CPUs as the dominant method of training large-scale commercial cloud AI.[109] OpenAI estimated the hardware compute used in the largest deep learning projects from AlexNet (2012) to AlphaZero (2017), and found a 300,000-fold increase in the amount of compute required, with a doubling-time trendline of 3.4 months.[110][111]  Software Software suites containing a variety of machine learning algorithms include the following:  Free and open-source so",
+      "stars": 78,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.456,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.144,
+      "diversity": 0.0,
+      "usability": 0.1,
+      "applicability": 1.0,
+      "coverage": 1.0,
+      "ndcg": 0.702,
+      "map": 0.989,
+      "mrr": 1.0,
+      "rouge_1": 0.617,
+      "semantic_sim": 0.17,
+      "coherence": 0.178,
+      "task_completion": 0.637,
+      "tool_use": 0.298,
+      "reasoning_depth": 0.07,
+      "autonomy": 0.388,
+      "multi_agent": 0.12
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

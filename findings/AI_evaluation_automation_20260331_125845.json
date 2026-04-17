@@ -1,0 +1,174 @@
+{
+  "topic": "AI evaluation automation",
+  "timestamp": "2026-03-31T12:58:45.071308",
+  "findings": [
+    {
+      "title": "Azure-Samples/contoso-chat",
+      "url": "https://github.com/Azure-Samples/contoso-chat",
+      "description": "This sample has the full End2End process of creating RAG application with Prompty and Azure AI Foundry. It includes GPT-4 LLM application code, evaluations, deployment automation with AZD CLI, GitHub actions for evaluation and deployment and intent mapping for multiple LLM task mapping.",
+      "stars": 758,
+      "source": "github"
+    },
+    {
+      "title": "future-agi/agent-opt",
+      "url": "https://github.com/future-agi/agent-opt",
+      "description": "Open Source Library for Automated Optimization of AI Agent Workflows ",
+      "stars": 52,
+      "source": "github"
+    },
+    {
+      "title": "Elysian01/Codify",
+      "url": "https://github.com/Elysian01/Codify",
+      "description": "Codify enables data scientists to perform all the tedious and time-consuming tasks such as EDA (exploratory data analysis), data cleaning, data pre-processing, data visualization, modeling, and evaluation in the data-science life cycle, by only conveying the logic of the task in natural language (English) and the system will automatically give out all the relevant python code snippets.",
+      "stars": 43,
+      "source": "github"
+    },
+    {
+      "title": "ibm-self-serve-assets/JudgeIt-LLM-as-a-Judge",
+      "url": "https://github.com/ibm-self-serve-assets/JudgeIt-LLM-as-a-Judge",
+      "description": "Automation Framework using LLM-as-a-judge to evaluate of Agentic AI, RAG, Text2SQL at scale; that is a good proxy for human judgement.",
+      "stars": 34,
+      "source": "github"
+    },
+    {
+      "title": "groovy-web/ai-testing-mcp",
+      "url": "https://github.com/groovy-web/ai-testing-mcp",
+      "description": "MCP server for comprehensive AI testing, evaluation, and quality assurance",
+      "stars": 18,
+      "source": "github"
+    },
+    {
+      "title": "summerscope/summerchildpy",
+      "url": "https://github.com/summerscope/summerchildpy",
+      "description": "Sweet Summer Child Score: A risk assessment quiz for automation and ML",
+      "stars": 17,
+      "source": "github"
+    },
+    {
+      "title": "hint-lab/deeptrans-studio",
+      "url": "https://github.com/hint-lab/deeptrans-studio",
+      "description": "DeepTrans Studio is a multi-agent intelligent translation platform for professional localization teams. It unifies a translation IDE, terminology and translation memory, AI‑assisted quality evaluation, and workflow automation, delivering end‑to‑end project management from document parsing and segment editing to collaboration and final delivery. ",
+      "stars": 14,
+      "source": "github"
+    },
+    {
+      "title": "aimaster-dev/default_loan_prediction",
+      "url": "https://github.com/aimaster-dev/default_loan_prediction",
+      "description": "This project automates bank credit risk assessment using AI and machine learning models to predict loan defaults. It streamlines the credit process with predictive analytics, model evaluation, explainability (SHAP), and deployment readiness.",
+      "stars": 12,
+      "source": "github"
+    },
+    {
+      "title": "agentic-community/openapi-to-mcp",
+      "url": "https://github.com/agentic-community/openapi-to-mcp",
+      "description": "Transform OpenAPI specifications into production-ready MCP servers   with AI-powered evaluation and enhancement. Leverages LLMs to   analyze, improve, and generate Model Context Protocol   implementations from your existing API documentation.",
+      "stars": 10,
+      "source": "github"
+    },
+    {
+      "title": "nolancacheux/AI-Chess-Assistant",
+      "url": "https://github.com/nolancacheux/AI-Chess-Assistant",
+      "description": "A Chrome extension that integrates Stockfish chess engine with chess.com to provide real-time move analysis, position evaluation, and educational insights into chess engine behavior. Features automated play capabilities, advantage tracking, and move highlighting for learning purposes.",
+      "stars": 9,
+      "source": "github"
+    },
+    {
+      "title": "GodModeAI2025/skill-forge",
+      "url": "https://github.com/GodModeAI2025/skill-forge",
+      "description": "Autonomous AI skill improvement through iterative experimentation — inspired by Karpathy's autoresearch. An agent mutates skill instructions, evaluates against objective metrics, keeps improvements, reverts regressions. No human in the loop.",
+      "stars": 8,
+      "source": "github"
+    },
+    {
+      "title": "sahasourav17/ResuMate",
+      "url": "https://github.com/sahasourav17/ResuMate",
+      "description": "ResuMate: AI-powered resume screening app using Streamlit, OpenAI, and LlamaIndex. Automate candidate evaluation and boost hiring efficiency.",
+      "stars": 6,
+      "source": "github"
+    },
+    {
+      "title": "mocharil/KYC-KYB-Automation",
+      "url": "https://github.com/mocharil/KYC-KYB-Automation",
+      "description": "This repository contains a FastAPI-based app for KYC (Know Your Customer) and KYB (Know Your Business) processes, utilizing OCR for ID card evaluation and face comparison for identity verification. It also analyzes business documents to determine types and validate contents using Google's Vertex AI. Includes detailed results and analysis.",
+      "stars": 6,
+      "source": "github"
+    },
+    {
+      "title": "JuanMarchetto/agent-skills",
+      "url": "https://github.com/JuanMarchetto/agent-skills",
+      "description": "25+ skills for AI coding assistants — multi-agent panels, evaluation pipelines, testing, browser automation, and more",
+      "stars": 5,
+      "source": "github"
+    },
+    {
+      "title": "ImBIOS/thiqah-ops",
+      "url": "https://github.com/ImBIOS/thiqah-ops",
+      "description": "AI SysAdmin Trust Benchmark - Comprehensive testing suite for evaluating LLM competence in system administration. Real-world scenarios covering setup, security, networking, monitoring, and troubleshooting.",
+      "stars": 5,
+      "source": "github"
+    },
+    {
+      "title": "krishnapriya-nynaru/Resume-Screening-automation-n8n",
+      "url": "https://github.com/krishnapriya-nynaru/Resume-Screening-automation-n8n",
+      "description": "Automated resume screening workflow built using n8n. This project integrates resume parsing, candidate evaluation, and AI-powered scoring to streamline the recruitment pipeline.",
+      "stars": 4,
+      "source": "github"
+    },
+    {
+      "title": "owadev777/EgoVLA_Release",
+      "url": "https://github.com/owadev777/EgoVLA_Release",
+      "description": "🎥 Train vision-language-action models using egocentric videos for advanced human-centric interactions and evaluations in AI applications.",
+      "stars": 4,
+      "source": "github"
+    },
+    {
+      "title": "TaiE64/GripperGraspSimulation-And-DataCollection",
+      "url": "https://github.com/TaiE64/GripperGraspSimulation-And-DataCollection",
+      "description": "A PyBullet-based simulation framework for robotic gripper grasping and data collection. It enables grasp evaluation, dataset generation, and object manipulation for AI training and automation research. The system supports custom grippers, various object models, and flexible environments.",
+      "stars": 4,
+      "source": "github"
+    },
+    {
+      "title": "langwatch/n8n-nodes",
+      "url": "https://github.com/langwatch/n8n-nodes",
+      "description": "Combine the power of n8n and the LangWatch platform to supercharge your workflows. Unlock LangWatch’s Prompt Management, Evaluations, Datasets, and full Observability to build, monitor, and optimise AI-driven automations.",
+      "stars": 4,
+      "source": "github"
+    },
+    {
+      "title": "ParthKapoor-dev/zenith.ai",
+      "url": "https://github.com/ParthKapoor-dev/zenith.ai",
+      "description": "AI-driven hiring automation platform for streamlined candidate evaluation and recruitment. ",
+      "stars": 3,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.411,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.05,
+      "star_power": 0.067,
+      "diversity": 0.0,
+      "usability": 0.1,
+      "applicability": 1.0,
+      "coverage": 1.0,
+      "ndcg": 0.649,
+      "map": 0.944,
+      "mrr": 1.0,
+      "rouge_1": 0.617,
+      "semantic_sim": 0.208,
+      "coherence": 0.169,
+      "task_completion": 0.453,
+      "tool_use": 0.1,
+      "reasoning_depth": 0.047,
+      "autonomy": 0.325,
+      "multi_agent": 0.045
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

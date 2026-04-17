@@ -1,0 +1,174 @@
+{
+  "topic": "AI agent task decomposition",
+  "timestamp": "2026-04-01T16:10:29.932986",
+  "findings": [
+    {
+      "title": "Taoidle/plan-cascade",
+      "url": "https://github.com/Taoidle/plan-cascade",
+      "description": "AI-powered cascading development framework. Decompose complex projects into parallel executable tasks with auto-generated PRDs, design docs, and multi-agent collaboration (Claude Code, Codex, Aider).",
+      "stars": 149,
+      "source": "github"
+    },
+    {
+      "title": "affaan-m/claude-swarm",
+      "url": "https://github.com/affaan-m/claude-swarm",
+      "description": "Multi-agent orchestration for Claude Code — decompose tasks, coordinate agents, visualize everything in a rich terminal UI",
+      "stars": 89,
+      "source": "github"
+    },
+    {
+      "title": "sfw/loom",
+      "url": "https://github.com/sfw/loom",
+      "description": "Loom is an AI harness, that can be used with local or cloud LLMs, for complex tasks. It decomposes work, drives execution through a verification harness, and keeps models on track with structured state instead of history. It can route between thinking and acting models, verifies outputs, and exposes an APP/TUI/API/CLI/MCP for both humans & agents.",
+      "stars": 49,
+      "source": "github"
+    },
+    {
+      "title": "The-Swarm-Corporation/PARL",
+      "url": "https://github.com/The-Swarm-Corporation/PARL",
+      "description": "PARL (Parallel-Agent Reinforcement Learning) is a training paradigm that teaches models to decompose complex tasks into parallel subtasks and coordinate multiple agents simultaneously. ",
+      "stars": 35,
+      "source": "github"
+    },
+    {
+      "title": "ronnycoding/.claude",
+      "url": "https://github.com/ronnycoding/.claude",
+      "description": "Claude Code configuration featuring specialized AI agents, custom skills, automated GitHub workflows with Epic/Task decomposition, and multi-agent orchestration patterns for complex software development",
+      "stars": 16,
+      "source": "github"
+    },
+    {
+      "title": "xuzeyu91/ai-agent-toolkit",
+      "url": "https://github.com/xuzeyu91/ai-agent-toolkit",
+      "description": "A powerful agent skill for orchestrating complex, multi-step tasks through distributed sub-agent execution. This skill decomposes complex user requests into atomic tasks and manages parallel execution through virtual agents, with optional integration with Claude CLI for true distributed processing.",
+      "stars": 13,
+      "source": "github"
+    },
+    {
+      "title": "aniket-work/How-To-Build-AI-Agents-To-Decompose-Tasks-Execute-Parallel-via-Map-Reduce",
+      "url": "https://github.com/aniket-work/How-To-Build-AI-Agents-To-Decompose-Tasks-Execute-Parallel-via-Map-Reduce",
+      "description": "How To Build AI Agents To Decompose Tasks & Execute Parallel via Map Reduce",
+      "stars": 10,
+      "source": "github"
+    },
+    {
+      "title": "nick-pape/grackle",
+      "url": "https://github.com/nick-pape/grackle",
+      "description": "Manage and orchestrate AI coding agents (Claude Code, Copilot, Goose, etc.) on remote machines — task decomposition, multi-agent coordination, and real-time visibility across environments.",
+      "stars": 8,
+      "source": "github"
+    },
+    {
+      "title": "Aryia-Behroziuan/History",
+      "url": "https://github.com/Aryia-Behroziuan/History",
+      "description": "The earliest work in computerized knowledge representation was focused on general problem solvers such as the General Problem Solver (GPS) system developed by Allen Newell and Herbert A. Simon in 1959. These systems featured data structures for planning and decomposition. The system would begin with a goal. It would then decompose that goal into sub-goals and then set out to construct strategies that could accomplish each subgoal.  In these early days of AI, general search algorithms such as A* were also developed. However, the amorphous problem definitions for systems such as GPS meant that they worked only for very constrained toy domains (e.g. the \"blocks world\"). In order to tackle non-toy problems, AI researchers such as Ed Feigenbaum and Frederick Hayes-Roth realized that it was necessary to focus systems on more constrained problems.  These efforts led to the cognitive revolution in psychology and to the phase of AI focused on knowledge representation that resulted in expert systems in the 1970s and 80s, production systems, frame languages, etc. Rather than general problem solvers, AI changed its focus to expert systems that could match human competence on a specific task, such as medical diagnosis.  Expert systems gave us the terminology still in use today where AI systems are divided into a Knowledge Base with facts about the world and rules and an inference engine that applies the rules to the knowledge base in order to answer questions and solve problems. In these early systems the knowledge base tended to be a fairly flat structure, essentially assertions about the values of variables used by the rules.[2]  In addition to expert systems, other researchers developed the concept of frame-based languages in the mid-1980s. A frame is similar to an object class: It is an abstract description of a category describing things in the world, problems, and potential solutions. Frames were originally used on systems geared toward human interaction, e.g. understanding natural language and the social settings in which various default expectations such as ordering food in a restaurant narrow the search space and allow the system to choose appropriate responses to dynamic situations.  It was not long before the frame communities and the rule-based researchers realized that there was synergy between their approaches. Frames were good for representing the real world, described as classes, subclasses, slots (data values) with various constraints on possible values. Rules were good for representing and utilizing complex logic such as the process to make a medical diagnosis. Integrated systems were developed that combined Frames and Rules. One of the most powerful and well known was the 1983 Knowledge Engineering Environment (KEE) from Intellicorp. KEE had a complete rule engine with forward and backward chaining. It also had a complete frame based knowledge base with triggers, slots (data values), inheritance, and message passing. Although message passing originated in the object-oriented community rather than AI it was quickly embraced by AI researchers as well in environments such as KEE and in the operating systems for Lisp machines from Symbolics, Xerox, and Texas Instruments.[3]  The integration of Frames, rules, and object-oriented programming was significantly driven by commercial ventures such as KEE and Symbolics spun off from various research projects. At the same time as this was occurring, there was another strain of research that was less commercially focused and was driven by mathematical logic and automated theorem proving. One of the most influential languages in this research was the KL-ONE language of the mid-'80s. KL-ONE was a frame language that had a rigorous semantics, formal definitions for concepts such as an Is-A relation.[4] KL-ONE and languages that were influenced by it such as Loom had an automated reasoning engine that was based on formal logic rather than on IF-THEN rules. This reasoner is called the classifier. A classifier can analyze a set of declarations and infer new assertions, for example, redefine a class to be a subclass or superclass of some other class that wasn't formally specified. In this way the classifier can function as an inference engine, deducing new facts from an existing knowledge base. The classifier can also provide consistency checking on a knowledge base (which in the case of KL-ONE languages is also referred to as an Ontology).[5]  Another area of knowledge representation research was the problem of common sense reasoning. One of the first realizations learned from trying to make software that can function with human natural language was that humans regularly draw on an extensive foundation of knowledge about the real world that we simply take for granted but that is not at all obvious to an artificial agent. Basic principles of common sense physics, causality, intentions, etc. An example is the frame problem, that in an event driven logic there need to be axioms that state things maintain position from one moment to the next unless they are moved by some external force. In order to make a true artificial intelligence agent that can converse with humans using natural language and can process basic statements and questions about the world, it is essential to represent this kind of knowledge. One of the most ambitious programs to tackle this problem was Doug Lenat's Cyc project. Cyc established its own Frame language and had large numbers of analysts document various areas of common sense reasoning in that language. The knowledge recorded in Cyc included common sense models of time, causality, physics, intentions, and many others.[6]  The starting point for knowledge representation is the knowledge representation hypothesis first formalized by Brian C. Smith in 1985:[7]  Any mechanically embodied intelligent process will be comprised of structural ingredients that a) we as external observers naturally take to represent a propositional account of the knowledge that the overall process exhibits, and b) independent of such external semantic attribution, play a formal but causal and essential role in engendering the behavior that manifests that knowledge.  Currently one of the most active areas of knowledge representation research are projects associated with the Semantic Web. The Semantic Web seeks to add a layer of semantics (meaning) on top of the current Internet. Rather than indexing web sites and pages via keywords, the Semantic Web creates large ontologies of concepts. Searching for a concept will be more effective than traditional text only searches. Frame languages and automatic classification play a big part in the vision for the future Semantic Web. The automatic classification gives developers technology to provide order on a constantly evolving network of knowledge. Defining ontologies that are static and incapable of evolving on the fly would be very limiting for Internet-based systems. The classifier technology provides the ability to deal with the dynamic environment of the Internet.  Recent projects funded primarily by the Defense Advanced Research Projects Agency (DARPA) have integrated frame languages and classifiers with markup languages based on XML. The Resource Description Framework (RDF) provides the basic capability to define classes, subclasses, and properties of objects. The Web Ontology Language (OWL) provides additional levels of semantics and enables integration with classification engines.[8][9]",
+      "stars": 7,
+      "source": "github"
+    },
+    {
+      "title": "lwcsrf/netflux",
+      "url": "https://github.com/lwcsrf/netflux",
+      "description": "Minimalist framework for authoring custom agentic applications in python; emphasizes task decomposition and agents-as-functions",
+      "stars": 6,
+      "source": "github"
+    },
+    {
+      "title": "Succoney/Simple-AI-Agent",
+      "url": "https://github.com/Succoney/Simple-AI-Agent",
+      "description": "A simple AI agent that can solve complex problems through task decomposition, web search, and document generation.",
+      "stars": 4,
+      "source": "github"
+    },
+    {
+      "title": "bodanLabs/deepagents-showcase",
+      "url": "https://github.com/bodanLabs/deepagents-showcase",
+      "description": "deepagents-showcase is a hands-on project demonstrating how to build hierarchical, multi-step AI systems using LangChain’s Deep Agents. It showcases task decomposition, planning, sub-agent delegation, and long-running workflows in a practical, real-world setup.",
+      "stars": 3,
+      "source": "github"
+    },
+    {
+      "title": "sunjiawe/task-cli",
+      "url": "https://github.com/sunjiawe/task-cli",
+      "description": "An open-source AI Agent that automatically decomposes tasks, generates Gantt charts, and provides project Q&A within your terminal.",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "hyper-swe/mtix",
+      "url": "https://github.com/hyper-swe/mtix",
+      "description": "AI-native micro issue manager for multi-agent LLM development. Hierarchical task decomposition with context chains, safety-critical standards, and zero-infrastructure deployment.",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "dedalo95/smart-code-planner",
+      "url": "https://github.com/dedalo95/smart-code-planner",
+      "description": "AI-powered code agent using LangGraph for intelligent task decomposition and software architecture guidance. Features Streamlit UI, multi-model support (OpenAI GPT, Google Gemini), and Docker deployment.",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "cgcardona/agent-orchestrator",
+      "url": "https://github.com/cgcardona/agent-orchestrator",
+      "description": "Maestro is an intelligent task orchestration system designed to manage and execute complex projects by leveraging a team of specialized AI agents. It parses daily standup notes in Markdown format, decomposes goals into atomic tasks, and intelligently routes these tasks to the most suitable specialist agent for execution.",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "Draichi/fusion-center",
+      "url": "https://github.com/Draichi/fusion-center",
+      "description": "MCP-based OSINT intelligence platform with LangGraph AI agent. Implements multi-step reasoning (task decomposition, hypothesis testing, self-reflection, verification) for autonomous geopolitical research. Supports Gemini, Grok, Ollama, and Docker Model Runner",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "itsGovi/ATOS",
+      "url": "https://github.com/itsGovi/ATOS",
+      "description": "ATOS: Asynchronous Multi-Agent Orchestration System for complex goals. Decomposes goals into tasks, routes them to specialized AI agents (1-7B parameters), executes in parallel/sequence, and self-debugs. Innovation: Dynamic loading of small models allows it to run on consumer hardware (4GB VRAM).",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "kelapure/prd-as-a-service",
+      "url": "https://github.com/kelapure/prd-as-a-service",
+      "description": "AI-powered PRD evaluation service with binary scoring, fix plans, and agent task decomposition",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "RyanShu555/openclaw-psam",
+      "url": "https://github.com/RyanShu555/openclaw-psam",
+      "description": "OpenClaw PSAM - Parallel Sub-Agent Orchestrator with intelligent task decomposition, model selection, and real-time progress tracking",
+      "stars": 1,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.388,
+    "grade": "D",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.135,
+      "diversity": 0.0,
+      "usability": 0.3,
+      "applicability": 1.0,
+      "coverage": 1.0,
+      "ndcg": 0.294,
+      "map": 0.694,
+      "mrr": 0.333,
+      "rouge_1": 0.688,
+      "semantic_sim": 0.261,
+      "coherence": 0.142,
+      "task_completion": 0.488,
+      "tool_use": 0.12,
+      "reasoning_depth": 0.197,
+      "autonomy": 0.163,
+      "multi_agent": 0.32
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "topic": "llama cpp",
+  "timestamp": "2026-03-30T13:03:09.354914",
+  "findings": [
+    {
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "stars": 99921,
+      "source": "github"
+    },
+    {
+      "title": "h2oai/h2ogpt",
+      "url": "https://github.com/h2oai/h2ogpt",
+      "description": "Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/",
+      "stars": 11998,
+      "source": "github"
+    },
+    {
+      "title": "abetlen/llama-cpp-python",
+      "url": "https://github.com/abetlen/llama-cpp-python",
+      "description": "Python bindings for llama.cpp",
+      "stars": 10110,
+      "source": "github"
+    },
+    {
+      "title": "intel/ipex-llm",
+      "url": "https://github.com/intel/ipex-llm",
+      "description": "Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, DeepSeek, Mixtral, Gemma, Phi, MiniCPM, Qwen-VL, MiniCPM-V, etc.) on Intel XPU (e.g., local PC with iGPU and NPU, discrete GPU such as Arc, Flex and Max); seamlessly integrate with llama.cpp, Ollama, HuggingFace, LangChain, LlamaIndex, vLLM, DeepSpeed, Axolotl, etc.",
+      "stars": 8737,
+      "source": "github"
+    },
+    {
+      "title": "serge-chat/serge",
+      "url": "https://github.com/serge-chat/serge",
+      "description": "A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.",
+      "stars": 5737,
+      "source": "github"
+    },
+    {
+      "title": "ngxson/smolvlm-realtime-webcam",
+      "url": "https://github.com/ngxson/smolvlm-realtime-webcam",
+      "description": "Real-time webcam demo with SmolVLM and llama.cpp server",
+      "stars": 5543,
+      "source": "github"
+    },
+    {
+      "title": "johnbean393/Sidekick",
+      "url": "https://github.com/johnbean393/Sidekick",
+      "description": "A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp.",
+      "stars": 3199,
+      "source": "github"
+    },
+    {
+      "title": "mostlygeek/llama-swap",
+      "url": "https://github.com/mostlygeek/llama-swap",
+      "description": "Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc",
+      "stars": 2960,
+      "source": "github"
+    },
+    {
+      "title": "Mobile-Artificial-Intelligence/maid",
+      "url": "https://github.com/Mobile-Artificial-Intelligence/maid",
+      "description": "Maid is a free and open source application for interfacing with llama.cpp models locally, and with Anthropic, DeepSeek, Ollama, Mistral and OpenAI models remotely.",
+      "stars": 2428,
+      "source": "github"
+    },
+    {
+      "title": "withcatai/node-llama-cpp",
+      "url": "https://github.com/withcatai/node-llama-cpp",
+      "description": "Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level",
+      "stars": 1976,
+      "source": "github"
+    },
+    {
+      "title": "ikawrakow/ik_llama.cpp",
+      "url": "https://github.com/ikawrakow/ik_llama.cpp",
+      "description": "llama.cpp fork with additional SOTA quants and improved performance",
+      "stars": 1916,
+      "source": "github"
+    },
+    {
+      "title": "gotzmann/llama.go",
+      "url": "https://github.com/gotzmann/llama.go",
+      "description": "llama.go is like llama.cpp in pure Golang!",
+      "stars": 1397,
+      "source": "github"
+    },
+    {
+      "title": "RahulSChand/gpu_poor",
+      "url": "https://github.com/RahulSChand/gpu_poor",
+      "description": "Calculate token/s & GPU memory requirement for any LLM.  Supports llama.cpp/ggml/bnb/QLoRA quantization",
+      "stars": 1396,
+      "source": "github"
+    },
+    {
+      "title": "milanglacier/minuet-ai.nvim",
+      "url": "https://github.com/milanglacier/minuet-ai.nvim",
+      "description": "💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.",
+      "stars": 1072,
+      "source": "github"
+    },
+    {
+      "title": "ngxson/wllama",
+      "url": "https://github.com/ngxson/wllama",
+      "description": "WebAssembly binding for llama.cpp - Enabling on-browser LLM inference",
+      "stars": 1024,
+      "source": "github"
+    },
+    {
+      "title": "nomic-ai/pygpt4all",
+      "url": "https://github.com/nomic-ai/pygpt4all",
+      "description": "Official supported Python bindings for llama.cpp + gpt4all",
+      "stars": 1016,
+      "source": "github"
+    },
+    {
+      "title": "mybigday/llama.rn",
+      "url": "https://github.com/mybigday/llama.rn",
+      "description": "React Native binding of llama.cpp",
+      "stars": 880,
+      "source": "github"
+    },
+    {
+      "title": "go-skynet/go-llama.cpp",
+      "url": "https://github.com/go-skynet/go-llama.cpp",
+      "description": "LLama.cpp golang bindings",
+      "stars": 878,
+      "source": "github"
+    },
+    {
+      "title": "Atome-FE/llama-node",
+      "url": "https://github.com/Atome-FE/llama-node",
+      "description": "Believe in AI democratization. llama for nodejs backed by llama-rs, llama.cpp and rwkv.cpp, work locally on your laptop CPU. support llama/alpaca/gpt4all/vicuna/rwkv model.",
+      "stars": 867,
+      "source": "github"
+    },
+    {
+      "title": "devoxx/DevoxxGenieIDEAPlugin",
+      "url": "https://github.com/devoxx/DevoxxGenieIDEAPlugin",
+      "description": "DevoxxGenie is a plugin for IntelliJ IDEA that uses local LLM's (Ollama, LMStudio, GPT4All, Jan and Llama.cpp) and Cloud based LLMs to help review, test, explain your project code. Latest version now also supports Spec Driven Development with CLI Runners.",
+      "stars": 635,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.286,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.082,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

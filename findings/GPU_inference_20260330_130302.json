@@ -1,0 +1,159 @@
+{
+  "topic": "GPU inference",
+  "timestamp": "2026-03-30T13:03:02.024197",
+  "findings": [
+    {
+      "title": "deepspeedai/DeepSpeed",
+      "url": "https://github.com/deepspeedai/DeepSpeed",
+      "description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+      "stars": 41942,
+      "source": "github"
+    },
+    {
+      "title": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "stars": 14508,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/TensorRT-LLM",
+      "url": "https://github.com/NVIDIA/TensorRT-LLM",
+      "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+      "stars": 13215,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/TensorRT",
+      "url": "https://github.com/NVIDIA/TensorRT",
+      "description": "NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.",
+      "stars": 12837,
+      "source": "github"
+    },
+    {
+      "title": "triton-inference-server/server",
+      "url": "https://github.com/triton-inference-server/server",
+      "description": "The Triton Inference Server provides an optimized cloud and edge inferencing solution. ",
+      "stars": 10488,
+      "source": "github"
+    },
+    {
+      "title": "intel/ipex-llm",
+      "url": "https://github.com/intel/ipex-llm",
+      "description": "Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, DeepSeek, Mixtral, Gemma, Phi, MiniCPM, Qwen-VL, MiniCPM-V, etc.) on Intel XPU (e.g., local PC with iGPU and NPU, discrete GPU such as Arc, Flex and Max); seamlessly integrate with llama.cpp, Ollama, HuggingFace, LangChain, LlamaIndex, vLLM, DeepSpeed, Axolotl, etc.",
+      "stars": 8737,
+      "source": "github"
+    },
+    {
+      "title": "aidlearning/AidLearning-FrameWork",
+      "url": "https://github.com/aidlearning/AidLearning-FrameWork",
+      "description": "🔥🔥🔥AidLearning is a powerful AIOT development platform, AidLearning builds a linux env supporting GUI, deep learning and visual IDE on Android...Now Aid supports CPU+GPU+NPU for inference with high performance acceleration...Linux on Android or HarmonyOS ",
+      "stars": 5754,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/DALI",
+      "url": "https://github.com/NVIDIA/DALI",
+      "description": "A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.",
+      "stars": 5655,
+      "source": "github"
+    },
+    {
+      "title": "tencentmusic/cube-studio",
+      "url": "https://github.com/tencentmusic/cube-studio",
+      "description": "cube studio开源云原生一站式机器学习/深度学习/大模型AI平台，mlops算法链路全流程，算力租赁平台，notebook在线开发，拖拉拽任务流pipeline编排，多机多卡分布式训练，超参搜索，推理服务VGPU虚拟化，边缘计算，标注平台自动化标注，deepseek等大模型sft微调/奖励模型/强化学习训练，vllm/ollama/mindie大模型多机推理，私有知识库，AI模型市场，支持国产cpu/gpu/npu 昇腾生态，支持RDMA，支持pytorch/tf/mxnet/deepspeed/paddle/colossalai/horovod/ray/volcano等分布式",
+      "stars": 4915,
+      "source": "github"
+    },
+    {
+      "title": "gpustack/gpustack",
+      "url": "https://github.com/gpustack/gpustack",
+      "description": "A GPU cluster manager that configures and orchestrates inference engines like vLLM and SGLang for high-performance AI model deployment.",
+      "stars": 4749,
+      "source": "github"
+    },
+    {
+      "title": "facebookincubator/AITemplate",
+      "url": "https://github.com/facebookincubator/AITemplate",
+      "description": "AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.",
+      "stars": 4713,
+      "source": "github"
+    },
+    {
+      "title": "turboderp-org/exllamav2",
+      "url": "https://github.com/turboderp-org/exllamav2",
+      "description": "A fast inference library for running LLMs locally on modern consumer-class GPUs",
+      "stars": 4477,
+      "source": "github"
+    },
+    {
+      "title": "thu-pacman/chitu",
+      "url": "https://github.com/thu-pacman/chitu",
+      "description": "High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability.",
+      "stars": 4261,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/TransformerEngine",
+      "url": "https://github.com/NVIDIA/TransformerEngine",
+      "description": "A library for accelerating Transformer models on NVIDIA GPUs, including using 8-bit and 4-bit floating point (FP8 and FP4) precision on Hopper, Ada and Blackwell GPUs, to provide better performance with lower memory utilization in both training and inference.",
+      "stars": 3247,
+      "source": "github"
+    },
+    {
+      "title": "software-mansion/TypeGPU",
+      "url": "https://github.com/software-mansion/TypeGPU",
+      "description": "A modular and open-ended toolkit for WebGPU, with advanced type inference and the ability to write shaders in TypeScript",
+      "stars": 2278,
+      "source": "github"
+    },
+    {
+      "title": "dstackai/dstack",
+      "url": "https://github.com/dstackai/dstack",
+      "description": "Control plane for agents and engineers to provision compute and run training and inference across NVIDIA, AMD, TPU, and Tenstorrent GPUs—on clouds, Kubernetes, and bare-metal clusters.",
+      "stars": 2075,
+      "source": "github"
+    },
+    {
+      "title": "xororz/local-dream",
+      "url": "https://github.com/xororz/local-dream",
+      "description": "Run Stable Diffusion on Android Devices with Snapdragon NPU acceleration. Also supports CPU/GPU inference.",
+      "stars": 1919,
+      "source": "github"
+    },
+    {
+      "title": "XiongjieDai/GPU-Benchmarks-on-LLM-Inference",
+      "url": "https://github.com/XiongjieDai/GPU-Benchmarks-on-LLM-Inference",
+      "description": "Multiple NVIDIA GPUs or Apple Silicon for Large Language Model Inference?",
+      "stars": 1905,
+      "source": "github"
+    },
+    {
+      "title": "ELS-RD/transformer-deploy",
+      "url": "https://github.com/ELS-RD/transformer-deploy",
+      "description": "Efficient, scalable and enterprise-grade CPU/GPU inference server for 🤗 Hugging Face transformer models 🚀",
+      "stars": 1687,
+      "source": "github"
+    },
+    {
+      "title": "beam-cloud/beta9",
+      "url": "https://github.com/beam-cloud/beta9",
+      "description": "Ultrafast serverless GPU inference, sandboxes, and background jobs",
+      "stars": 1609,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.321,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.05,
+      "star_power": 0.18,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

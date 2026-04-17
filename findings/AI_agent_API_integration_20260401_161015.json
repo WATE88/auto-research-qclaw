@@ -1,0 +1,174 @@
+{
+  "topic": "AI agent API integration",
+  "timestamp": "2026-04-01T16:10:15.342370",
+  "findings": [
+    {
+      "title": "airweave-ai/airweave",
+      "url": "https://github.com/airweave-ai/airweave",
+      "description": "Open-source context retrieval layer for AI agents",
+      "stars": 6176,
+      "source": "github"
+    },
+    {
+      "title": "Klavis-AI/klavis",
+      "url": "https://github.com/Klavis-AI/klavis",
+      "description": "Klavis AI:  MCP integration platforms that let AI agents use tools reliably at any scale",
+      "stars": 5698,
+      "source": "github"
+    },
+    {
+      "title": "aipotheosis-labs/aci",
+      "url": "https://github.com/aipotheosis-labs/aci",
+      "description": "ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps.",
+      "stars": 4753,
+      "source": "github"
+    },
+    {
+      "title": "Integuru-AI/Integuru",
+      "url": "https://github.com/Integuru-AI/Integuru",
+      "description": "The first AI agent that builds permissionless integrations through reverse engineering platforms' internal APIs.",
+      "stars": 4561,
+      "source": "github"
+    },
+    {
+      "title": "crmne/ruby_llm",
+      "url": "https://github.com/crmne/ruby_llm",
+      "description": "One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, Azure, OpenRouter, DeepSeek, Ollama, VertexAI, Perplexity, Mistral, xAI, GPUStack & OpenAI compatible APIs. Agents, Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming & Rails integration.",
+      "stars": 3797,
+      "source": "github"
+    },
+    {
+      "title": "gcui-art/suno-api",
+      "url": "https://github.com/gcui-art/suno-api",
+      "description": "Use API to call the music generation AI of suno.ai, and easily integrate it into agents like GPTs.",
+      "stars": 2795,
+      "source": "github"
+    },
+    {
+      "title": "tinyfish-io/agentql",
+      "url": "https://github.com/tinyfish-io/agentql",
+      "description": "AgentQL is a suite of tools for connecting your AI to the web. Featuring a query language and Playwright integrations for interacting with elements and extracting data quickly, precisely, and at scale. Includes REST API, Python and JavaScript SDKs, browser debugger.",
+      "stars": 1307,
+      "source": "github"
+    },
+    {
+      "title": "AI-QL/tuui",
+      "url": "https://github.com/AI-QL/tuui",
+      "description": "A desktop MCP client designed as a tool unitary utility integration, accelerating AI adoption through the Model Context Protocol (MCP) and enabling cross-vendor LLM API orchestration.",
+      "stars": 1137,
+      "source": "github"
+    },
+    {
+      "title": "bytechefhq/bytechef",
+      "url": "https://github.com/bytechefhq/bytechef",
+      "description": "Open-source, AI-native, low-code platform for API orchestration, workflow automation, and AI agent integration across internal systems and SaaS products.",
+      "stars": 742,
+      "source": "github"
+    },
+    {
+      "title": "teddynote-lab/langgraph-mcp-agents",
+      "url": "https://github.com/teddynote-lab/langgraph-mcp-agents",
+      "description": "LangGraph-powered ReAct agent with Model Context Protocol (MCP) integration. A Streamlit web interface for dynamically configuring, deploying, and interacting with AI agents capable of accessing various data sources and APIs through MCP tools.",
+      "stars": 693,
+      "source": "github"
+    },
+    {
+      "title": "line/line-bot-mcp-server",
+      "url": "https://github.com/line/line-bot-mcp-server",
+      "description": "MCP server that integrates the LINE Messaging API to connect an AI Agent to the LINE Official Account.",
+      "stars": 552,
+      "source": "github"
+    },
+    {
+      "title": "MLT-OSS/open-assistant-api",
+      "url": "https://github.com/MLT-OSS/open-assistant-api",
+      "description": "The Open Assistant API is a ready-to-use, open-source, self-hosted agent/gpts orchestration creation framework, supporting customized extensions for LLM, RAG, function call, and tools capabilities. It also supports seamless integration with the openai/langchain sdk.",
+      "stars": 359,
+      "source": "github"
+    },
+    {
+      "title": "connery-io/connery-sdk",
+      "url": "https://github.com/connery-io/connery-sdk",
+      "description": "The open-source SDK for creating AI plugins and actions",
+      "stars": 296,
+      "source": "github"
+    },
+    {
+      "title": "ganeshnikhil/J.A.R.V.I.S.2.0",
+      "url": "https://github.com/ganeshnikhil/J.A.R.V.I.S.2.0",
+      "description": " open source assistant  hybrid using small models (2b - 5b) and gemini  , with image and agentic tool capabilities and integration of RAG with effiecient memory. android  support using adb ",
+      "stars": 227,
+      "source": "github"
+    },
+    {
+      "title": "jgravelle/pocketgroq",
+      "url": "https://github.com/jgravelle/pocketgroq",
+      "description": "PocketGroq is a powerful Python library that simplifies integration with the Groq API, offering advanced features for natural language processing, web scraping, and autonomous agent capabilities. Key Features  Seamless integration with Groq API for text generation and completion Chain of Thought (CoT) reasoning for complex problem-solving and more.",
+      "stars": 218,
+      "source": "github"
+    },
+    {
+      "title": "okx/onchainos-skills",
+      "url": "https://github.com/okx/onchainos-skills",
+      "description": "Skills for AI agents to integrate with the OKX OnchainOS API — Wallet, token discovery, market data, DEX swap, and transaction broadcasting.",
+      "stars": 186,
+      "source": "github"
+    },
+    {
+      "title": "vishalmysore/Tools4AI",
+      "url": "https://github.com/vishalmysore/Tools4AI",
+      "description": "Agentic Framework for Java, written in 100% Java using  Gemini, OpenAI, LocalAI, Anthropic. Build Autonomous Agents in Java with Multi AI voting mechanism. Convert Prompt to HTTP REST Calls, Java Method calls, Shell script calls or swagger rest api calls. Selenium AI Integration, Image processing with AI, Actions on Images with AI",
+      "stars": 182,
+      "source": "github"
+    },
+    {
+      "title": "Azure-Samples/mcp-agent-langchainjs",
+      "url": "https://github.com/Azure-Samples/mcp-agent-langchainjs",
+      "description": "Serverless AI agent using LangChain.js and Model Context Protocol (MCP) integration to order burgers from a burger restaurant",
+      "stars": 176,
+      "source": "github"
+    },
+    {
+      "title": "HydroXai/pii-masker",
+      "url": "https://github.com/HydroXai/pii-masker",
+      "description": "PII Masker is an open-source tool for protecting sensitive data by automatically detecting and masking PII using advanced AI, powered by DeBERTa-v3. It provides high-precision detection, scalable performance, and a simple Python API for seamless integration into workflows, ensuring privacy compliance in various industries.",
+      "stars": 160,
+      "source": "github"
+    },
+    {
+      "title": "xpaysh/awesome-x402",
+      "url": "https://github.com/xpaysh/awesome-x402",
+      "description": "🚀 Curated list of x402 resources: HTTP 402 Payment Required protocol for blockchain payments, crypto micropayments, AI agents, API monetization. Includes SDKs (TypeScript, Python, Rust), examples, facilitators (Coinbase, Cloudflare), MCP integration, tutorials. Accept USDC payments with one line of code. Perfect for AI agent economy.",
+      "stars": 159,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.498,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.277,
+      "diversity": 0.0,
+      "usability": 0.2,
+      "applicability": 0.975,
+      "coverage": 1.0,
+      "ndcg": 0.747,
+      "map": 1.0,
+      "mrr": 1.0,
+      "rouge_1": 0.613,
+      "semantic_sim": 0.254,
+      "coherence": 0.166,
+      "task_completion": 0.65,
+      "tool_use": 0.775,
+      "reasoning_depth": 0.04,
+      "autonomy": 0.113,
+      "multi_agent": 0.045
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "topic": "multimodal AI",
+  "timestamp": "2026-03-30T12:55:23.244753",
+  "findings": [
+    {
+      "title": "Mintplex-Labs/anything-llm",
+      "url": "https://github.com/Mintplex-Labs/anything-llm",
+      "description": "The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.",
+      "stars": 56825,
+      "source": "github"
+    },
+    {
+      "title": "bytedance/UI-TARS-desktop",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "stars": 29124,
+      "source": "github"
+    },
+    {
+      "title": "deepset-ai/haystack",
+      "url": "https://github.com/deepset-ai/haystack",
+      "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
+      "stars": 24631,
+      "source": "github"
+    },
+    {
+      "title": "jina-ai/serve",
+      "url": "https://github.com/jina-ai/serve",
+      "description": "☁️ Build multimodal AI applications with cloud-native stack",
+      "stars": 21853,
+      "source": "github"
+    },
+    {
+      "title": "screenpipe/screenpipe",
+      "url": "https://github.com/screenpipe/screenpipe",
+      "description": "run agents that work for you in the background based on what you do",
+      "stars": 17591,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA-NeMo/NeMo",
+      "url": "https://github.com/NVIDIA-NeMo/NeMo",
+      "description": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)",
+      "stars": 16992,
+      "source": "github"
+    },
+    {
+      "title": "pipecat-ai/pipecat",
+      "url": "https://github.com/pipecat-ai/pipecat",
+      "description": "Open Source framework for voice and multimodal conversational AI",
+      "stars": 10882,
+      "source": "github"
+    },
+    {
+      "title": "RunanywhereAI/runanywhere-sdks",
+      "url": "https://github.com/RunanywhereAI/runanywhere-sdks",
+      "description": "Production ready toolkit to run AI locally",
+      "stars": 10382,
+      "source": "github"
+    },
+    {
+      "title": "lancedb/lancedb",
+      "url": "https://github.com/lancedb/lancedb",
+      "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+      "stars": 9679,
+      "source": "github"
+    },
+    {
+      "title": "gorse-io/gorse",
+      "url": "https://github.com/gorse-io/gorse",
+      "description": "AI powered open source recommender system engine supports classical/LLM rankers and multimodal content via embedding",
+      "stars": 9574,
+      "source": "github"
+    },
+    {
+      "title": "activeloopai/deeplake",
+      "url": "https://github.com/activeloopai/deeplake",
+      "description": "Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.",
+      "stars": 9050,
+      "source": "github"
+    },
+    {
+      "title": "bentoml/BentoML",
+      "url": "https://github.com/bentoml/BentoML",
+      "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!",
+      "stars": 8543,
+      "source": "github"
+    },
+    {
+      "title": "open-mmlab/mmagic",
+      "url": "https://github.com/open-mmlab/mmagic",
+      "description": "OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generation, image/video restoration/enhancement, etc.",
+      "stars": 7408,
+      "source": "github"
+    },
+    {
+      "title": "SkalskiP/courses",
+      "url": "https://github.com/SkalskiP/courses",
+      "description": "This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI)",
+      "stars": 6427,
+      "source": "github"
+    },
+    {
+      "title": "lance-format/lance",
+      "url": "https://github.com/lance-format/lance",
+      "description": "Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
+      "stars": 6218,
+      "source": "github"
+    },
+    {
+      "title": "swyxio/ai-notes",
+      "url": "https://github.com/swyxio/ai-notes",
+      "description": "notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under the /Resources folder.",
+      "stars": 6193,
+      "source": "github"
+    },
+    {
+      "title": "11cafe/jaaz",
+      "url": "https://github.com/11cafe/jaaz",
+      "description": "The world's first open-source multimodal creative assistant  This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.",
+      "stars": 6034,
+      "source": "github"
+    },
+    {
+      "title": "PySpur-Dev/pyspur",
+      "url": "https://github.com/PySpur-Dev/pyspur",
+      "description": "A visual playground for agentic workflows: Iterate over your agents 10x faster",
+      "stars": 5707,
+      "source": "github"
+    },
+    {
+      "title": "genkit-ai/genkit",
+      "url": "https://github.com/genkit-ai/genkit",
+      "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+      "stars": 5705,
+      "source": "github"
+    },
+    {
+      "title": "facebookresearch/mmf",
+      "url": "https://github.com/facebookresearch/mmf",
+      "description": "A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)",
+      "stars": 5626,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.318,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.241,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

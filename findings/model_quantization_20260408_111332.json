@@ -1,0 +1,280 @@
+{
+  "topic": "model quantization",
+  "timestamp": "2026-04-08T11:13:32.404892",
+  "findings": [
+    {
+      "title": "bitsandbytes-foundation/bitsandbytes",
+      "url": "https://github.com/bitsandbytes-foundation/bitsandbytes",
+      "description": "Accessible large language models via k-bit quantization for PyTorch.",
+      "stars": 8102,
+      "source": "github"
+    },
+    {
+      "title": "Lightning-AI/lit-llama",
+      "url": "https://github.com/Lightning-AI/lit-llama",
+      "description": "Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.",
+      "stars": 6082,
+      "source": "github"
+    },
+    {
+      "title": "OpenNMT/CTranslate2",
+      "url": "https://github.com/OpenNMT/CTranslate2",
+      "description": "Fast inference engine for Transformer models",
+      "stars": 4415,
+      "source": "github"
+    },
+    {
+      "title": "nunchaku-ai/nunchaku",
+      "url": "https://github.com/nunchaku-ai/nunchaku",
+      "description": "[ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models",
+      "stars": 3773,
+      "source": "github"
+    },
+    {
+      "title": "city96/ComfyUI-GGUF",
+      "url": "https://github.com/city96/ComfyUI-GGUF",
+      "description": "GGUF Quantization support for native ComfyUI models",
+      "stars": 3466,
+      "source": "github"
+    },
+    {
+      "title": "thu-ml/SageAttention",
+      "url": "https://github.com/thu-ml/SageAttention",
+      "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
+      "stars": 3280,
+      "source": "github"
+    },
+    {
+      "title": "huawei-noah/Pretrained-Language-Model",
+      "url": "https://github.com/huawei-noah/Pretrained-Language-Model",
+      "description": "Pretrained language model and its related optimization techniques developed by Huawei Noah's Ark Lab.",
+      "stars": 3156,
+      "source": "github"
+    },
+    {
+      "title": "IntelLabs/nlp-architect",
+      "url": "https://github.com/IntelLabs/nlp-architect",
+      "description": "A model library for exploring state-of-the-art deep learning topologies and techniques for optimizing Natural Language Processing neural networks",
+      "stars": 2935,
+      "source": "github"
+    },
+    {
+      "title": "aaron-xichen/pytorch-playground",
+      "url": "https://github.com/aaron-xichen/pytorch-playground",
+      "description": "Base pretrained models and datasets in pytorch (MNIST, SVHN, CIFAR10, CIFAR100, STL10, AlexNet, VGG16, VGG19, ResNet, Inception, SqueezeNet)",
+      "stars": 2714,
+      "source": "github"
+    },
+    {
+      "title": "intel/neural-compressor",
+      "url": "https://github.com/intel/neural-compressor",
+      "description": "SOTA low-bit LLM quantization (INT8/FP8/MXFP8/INT4/MXFP4/NVFP4) & sparsity; leading model compression techniques on PyTorch, TensorFlow, and ONNX Runtime",
+      "stars": 2612,
+      "source": "github"
+    },
+    {
+      "title": "quic/aimet",
+      "url": "https://github.com/quic/aimet",
+      "description": "AIMET is a library that provides advanced quantization and compression techniques for trained neural network models.",
+      "stars": 2587,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "stars": 2397,
+      "source": "github"
+    },
+    {
+      "title": "Efficient-ML/Awesome-Model-Quantization",
+      "url": "https://github.com/Efficient-ML/Awesome-Model-Quantization",
+      "description": "A list of papers, docs, codes about model quantization. This repo is aimed to provide the info for model quantization research, we are continuously improving the project. Welcome to PR the works (papers, repositories) that are missed by the repo.",
+      "stars": 2342,
+      "source": "github"
+    },
+    {
+      "title": "dvmazur/mixtral-offloading",
+      "url": "https://github.com/dvmazur/mixtral-offloading",
+      "description": "Run Mixtral-8x7B models in Colab or consumer desktops",
+      "stars": 2329,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/Olive",
+      "url": "https://github.com/microsoft/Olive",
+      "description": "Olive: Simplify ML Model Finetuning, Conversion, Quantization, and Optimization for CPUs, GPUs and NPUs.",
+      "stars": 2288,
+      "source": "github"
+    },
+    {
+      "title": "666DZY666/micronet",
+      "url": "https://github.com/666DZY666/micronet",
+      "description": "micronet, a model compression and deploy lib. compression: 1、quantization: quantization-aware-training(QAT), High-Bit(>2b)(DoReFa/Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference)、Low-Bit(≤2b)/Ternary and Binary(TWN/BNN/XNOR-Net); post-training-quantization(PTQ), 8-bit(tensorrt); 2、 pruning: normal、regular and group convolutional channel pruning; 3、 group convolution structure; 4、batch-normalization fuse for quantization. deploy: tensorrt, fp32/fp16/int8(ptq-calibration)、op-adapt(upsample)、dynamic_shape",
+      "stars": 2269,
+      "source": "github"
+    },
+    {
+      "title": "open-mmlab/mmrazor",
+      "url": "https://github.com/open-mmlab/mmrazor",
+      "description": "OpenMMLab Model Compression Toolbox and Benchmark.",
+      "stars": 1667,
+      "source": "github"
+    },
+    {
+      "title": "mit-han-lab/smoothquant",
+      "url": "https://github.com/mit-han-lab/smoothquant",
+      "description": "[ICML 2023] SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models",
+      "stars": 1632,
+      "source": "github"
+    },
+    {
+      "title": "PaddlePaddle/PaddleSlim",
+      "url": "https://github.com/PaddlePaddle/PaddleSlim",
+      "description": "PaddleSlim is an open-source library for deep model compression and architecture search.",
+      "stars": 1612,
+      "source": "github"
+    },
+    {
+      "title": "RWKV/rwkv.cpp",
+      "url": "https://github.com/RWKV/rwkv.cpp",
+      "description": "INT4/INT5/INT8 and FP16 inference on CPU for RWKV language model",
+      "stars": 1567,
+      "source": "github"
+    },
+    {
+      "title": "Paper Circle: An Open-source Multi-agent Research Discovery and Analysis Framework",
+      "url": "http://arxiv.org/abs/2604.06170v1",
+      "abstract": "The rapid growth of scientific literature has made it increasingly difficult for researchers to efficiently discover, evaluate, and synthesize relevant work. Recent advances in multi-agent large language models (LLMs) have demonstrated strong potential for understanding user intent and are being tra",
+      "source": "arxiv"
+    },
+    {
+      "title": "In-Place Test-Time Training",
+      "url": "http://arxiv.org/abs/2604.06169v1",
+      "abstract": "The static ``train then deploy\" paradigm fundamentally limits Large Language Models (LLMs) from dynamically adapting their weights in response to continuous streams of new information inherent in real-world tasks. Test-Time Training (TTT) offers a compelling alternative by updating a subset of model",
+      "source": "arxiv"
+    },
+    {
+      "title": "Action Images: End-to-End Policy Learning via Multiview Video Generation",
+      "url": "http://arxiv.org/abs/2604.06168v1",
+      "abstract": "World action models (WAMs) have emerged as a promising direction for robot policy learning, as they can leverage powerful video backbones to model the future states. However, existing approaches often rely on separate action modules, or use action representations that are not pixel-grounded, making ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Topological Characterization of Churn Flow and Unsupervised Correction to the Wu Flow-Regime Map in Small-Diameter Vertical Pipes",
+      "url": "http://arxiv.org/abs/2604.06167v1",
+      "abstract": "Churn flow-the chaotic, oscillatory regime in vertical two-phase flow-has lacked a quantitative mathematical definition for over $40$ years. We introduce the first topology-based characterization using Euler Characteristic Surfaces (ECS). We formulate unsupervised regime discovery as Multiple Kernel",
+      "source": "arxiv"
+    },
+    {
+      "title": "HaloProbe: Bayesian Detection and Mitigation of Object Hallucinations in Vision-Language Models",
+      "url": "http://arxiv.org/abs/2604.06165v1",
+      "abstract": "Large vision-language models can produce object hallucinations in image descriptions, highlighting the need for effective detection and mitigation strategies. Prior work commonly relies on the model's attention weights on visual tokens as a detection signal. We reveal that coarse-grained attention-b",
+      "source": "arxiv"
+    },
+    {
+      "title": "Data, Not Model: Explaining Bias toward LLM Texts in Neural Retrievers",
+      "url": "http://arxiv.org/abs/2604.06163v1",
+      "abstract": "Recent studies show that neural retrievers often display source bias, favoring passages generated by LLMs over human-written ones, even when both are semantically similar. This bias has been considered an inherent flaw of retrievers, raising concerns about the fairness and reliability of modern info",
+      "source": "arxiv"
+    },
+    {
+      "title": "DiffHDR: Re-Exposing LDR Videos with Video Diffusion Models",
+      "url": "http://arxiv.org/abs/2604.06161v1",
+      "abstract": "Most digital videos are stored in 8-bit low dynamic range (LDR) formats, where much of the original high dynamic range (HDR) scene radiance is lost due to saturation and quantization. This loss of highlight and shadow detail precludes mapping accurate luminance to HDR displays and limits meaningful ",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Character Error Vector: Decomposable errors for page-level OCR evaluation",
+      "url": "http://arxiv.org/abs/2604.06160v1",
+      "abstract": "The Character Error Rate (CER) is a key metric for evaluating the quality of Optical Character Recognition (OCR). However, this metric assumes that text has been perfectly parsed, which is often not the case. Under page-parsing errors, CER becomes undefined, limiting its use as a metric and making e",
+      "source": "arxiv"
+    },
+    {
+      "title": "Target Policy Optimization",
+      "url": "http://arxiv.org/abs/2604.06159v1",
+      "abstract": "In RL, given a prompt, we sample a group of completions from a model and score them. Two questions follow: which completions should gain probability mass, and how should the parameters move to realize that change? Standard policy-gradient methods answer both at once, so the update can overshoot or u",
+      "source": "arxiv"
+    },
+    {
+      "title": "Tractable model for a fractionalized Fermi liquid (FL$^*$) on a square lattice",
+      "url": "http://arxiv.org/abs/2604.06157v1",
+      "abstract": "Motivated by the continued interest in Fermi-surface reconstruction without symmetry breaking, we present an analytically tractable microscopic model of a fractionalized Fermi liquid (FL$^*$) on a square lattice and discuss its potential relevance to the cuprates. As in ancilla-qubit constructions, ",
+      "source": "arxiv"
+    },
+    {
+      "title": "MMEmb-R1: Reasoning-Enhanced Multimodal Embedding with Pair-Aware Selection and Adaptive Control",
+      "url": "http://arxiv.org/abs/2604.06156v1",
+      "abstract": "MLLMs have been successfully applied to multimodal embedding tasks, yet their generative reasoning capabilities remain underutilized. Directly incorporating chain-of-thought reasoning into embedding learning introduces two fundamental challenges. First, structural misalignment between instance-level",
+      "source": "arxiv"
+    },
+    {
+      "title": "Toward Consistent World Models with Multi-Token Prediction and Latent Semantic Enhancement",
+      "url": "http://arxiv.org/abs/2604.06155v1",
+      "abstract": "Whether Large Language Models (LLMs) develop coherent internal world models remains a core debate. While conventional Next-Token Prediction (NTP) focuses on one-step-ahead supervision, Multi-Token Prediction (MTP) has shown promise in learning more structured representations. In this work, we provid",
+      "source": "arxiv"
+    },
+    {
+      "title": "Exclusive Unlearning",
+      "url": "http://arxiv.org/abs/2604.06154v1",
+      "abstract": "When introducing Large Language Models (LLMs) into industrial applications, such as healthcare and education, the risk of generating harmful content becomes a significant challenge. While existing machine unlearning methods can erase specific harmful knowledge and expressions, diverse harmful conten",
+      "source": "arxiv"
+    },
+    {
+      "title": "Delta6: A Low-Cost, 6-DOF Force-Sensing Flexible End-Effector",
+      "url": "http://arxiv.org/abs/2604.06150v1",
+      "abstract": "This paper presents Delta6, a low-cost, six-degree-of-freedom (6-DOF) force/torque end-effector that combines antagonistic springs with magnetic encoders to deliver accurate wrench sensing while remaining as simple to assemble as flat-pack furniture. A fully 3D-printed prototype, assembled entirely ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Testing the 3-equation Kuhfuss Convection Model using the Sun",
+      "url": "http://arxiv.org/abs/2604.06151v1",
+      "abstract": "Simplified, one-dimensional models are necessary to model convection in the context of stellar evolution. By including the non-local effects of convection, turbulent convection models describe convection in a more physical way compared to mixing length theory, which is typically used in one-dimensio",
+      "source": "arxiv"
+    },
+    {
+      "title": "Who Governs the Machine? A Machine Identity Governance Taxonomy (MIGT) for AI Systems Operating Across Enterprise and Geopolitical Boundaries",
+      "url": "http://arxiv.org/abs/2604.06148v1",
+      "abstract": "The governance of artificial intelligence has a blind spot: the machine identities that AI systems use to act. AI agents, service accounts, API tokens, and automated workflows now outnumber human identities in enterprise environments by ratios exceeding 80 to 1, yet no integrated framework exists to",
+      "source": "arxiv"
+    },
+    {
+      "title": "From generating functions to the geometric Binder cumulant",
+      "url": "http://arxiv.org/abs/2604.06147v1",
+      "abstract": "We present an overview of the role of generating functions in quantum mechanical contexts, mainly in the modern theory of polarization and in the study of quantum phase transitions. Generating functions enable the derivation of moments and cumulants, quantities which characterize the fluctuations of",
+      "source": "arxiv"
+    },
+    {
+      "title": "Sufficient conditions for proper posteriors in fully-Bayesian Functional PCA",
+      "url": "http://arxiv.org/abs/2604.06146v1",
+      "abstract": "In a fully-Bayesian Functional Principal Components Analysis (FPCA) the principal components are treated as unknown infinite-dimensional parameters. By projecting the functional principal components on a rich orthonormal spline basis, we show that orthonormality of the principal components is equiva",
+      "source": "arxiv"
+    },
+    {
+      "title": "Light-Induced Quantum Self-Trapping of Vibrational Excitons in an Optical Cavity",
+      "url": "http://arxiv.org/abs/2604.06142v1",
+      "abstract": "In an optical cavity, strong light--matter coupling between excitons and photons has been widely reported as a way to enhance energy delocalization through spatially extended polaritonic states. In contrast, leveraging cavity-mediated light--matter effects to promote the reciprocal phenomenon, namel",
+      "source": "arxiv"
+    },
+    {
+      "title": "On the Convergence of an Opinion-Action Coevolution Model with Bounded Confidence",
+      "url": "http://arxiv.org/abs/2604.06140v1",
+      "abstract": "This paper presents a theoretical convergence analysis for an opinion-action coevolution model that integrates the opinion updating rule of the Hegselmann-Krause model with a utility-based decision-making mechanism. The model is reformulated into an augmented state-space representation, where the st",
+      "source": "arxiv"
+    }
+  ],
+  "quality": {
+    "total": 40,
+    "quality_score": 0.461,
+    "dimensions": {
+      "authority": 0.95,
+      "quality": 0.0,
+      "star_power": 0.378,
+      "diversity": 0.5
+    },
+    "sources_breakdown": {
+      "github": 20,
+      "arxiv": 20
+    }
+  }
+}

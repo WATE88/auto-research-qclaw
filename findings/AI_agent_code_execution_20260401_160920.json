@@ -1,0 +1,174 @@
+{
+  "topic": "AI agent code execution",
+  "timestamp": "2026-04-01T16:09:20.834357",
+  "findings": [
+    {
+      "title": "darrenhinde/OpenAgentsControl",
+      "url": "https://github.com/darrenhinde/OpenAgentsControl",
+      "description": "AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built for OpenCode",
+      "stars": 3167,
+      "source": "github"
+    },
+    {
+      "title": "abshkbh/arrakis",
+      "url": "https://github.com/abshkbh/arrakis",
+      "description": "A fully customizable and self-hosted sandboxing solution for AI agent code execution and computer use. It features out-of-the-box support for backtracking, a simple REST API and Python SDK, automatic port forwarding, and secure MicroVM isolation. Perfect for safely running, testing, and backtracking multi-step agent workflows.",
+      "stars": 792,
+      "source": "github"
+    },
+    {
+      "title": "langtalks/swe-agent",
+      "url": "https://github.com/langtalks/swe-agent",
+      "description": "🤖 AI-powered software engineering multi-agent system with researcher and developer agents that automate code implementation through intelligent planning and execution. Built with LangGraph multi-agent workflows",
+      "stars": 623,
+      "source": "github"
+    },
+    {
+      "title": "SixHq/Overture",
+      "url": "https://github.com/SixHq/Overture",
+      "description": "Overture is an open-source, locally running web interface delivered as an MCP (Model Context Protocol) server that visually maps out the execution plan of any AI coding agent as an interactive flowchart/graph before the agent begins writing code. ",
+      "stars": 605,
+      "source": "github"
+    },
+    {
+      "title": "GCWing/BitFun",
+      "url": "https://github.com/GCWing/BitFun",
+      "description": "BitFun is a next-generation AI assistant with built-in Code Agent and Cowork Agent. It has memory, personality, and the ability to evolve over time. You can remotely control the desktop through mobile QR pairing or Telegram / Feishu bots, send instructions, and watch each execution step in real time while the Agent keeps working in the background.",
+      "stars": 543,
+      "source": "github"
+    },
+    {
+      "title": "SWE-agent/SWE-ReX",
+      "url": "https://github.com/SWE-agent/SWE-ReX",
+      "description": "Sandboxed code execution for AI agents, locally or on the cloud. Massively parallel, easy to extend. Powering SWE-agent and more. ",
+      "stars": 468,
+      "source": "github"
+    },
+    {
+      "title": "alirezarezvani/claude-code-aso-skill",
+      "url": "https://github.com/alirezarezvani/claude-code-aso-skill",
+      "description": "AEO Automation Framework for Claude Code One-click, beginner friendly automation for GitHub. Includes a dedicated fleet of AEO sub-agents handling planning, execution, reports, actionable items, and executive summaries. Trigger work instantly with AEO slash-commands. Fully integrated as a Claude Code Skill and usable across Claude AI App",
+      "stars": 288,
+      "source": "github"
+    },
+    {
+      "title": "CelestoAI/SmolVM",
+      "url": "https://github.com/CelestoAI/SmolVM",
+      "description": "Open-source sandboxes for code execution, browser use, and AI agents.",
+      "stars": 197,
+      "source": "github"
+    },
+    {
+      "title": "datalayer/jupyter-ai-agents",
+      "url": "https://github.com/datalayer/jupyter-ai-agents",
+      "description": "🪐 🤖 AI Agents for JupyterLab with 🔧 MCP tools - Chat interface for optimized notebook interaction and code execution.",
+      "stars": 145,
+      "source": "github"
+    },
+    {
+      "title": "systempromptio/systemprompt-code-orchestrator",
+      "url": "https://github.com/systempromptio/systemprompt-code-orchestrator",
+      "description": "  MCP server for orchestrating AI coding agents (Claude Code CLI & Gemini CLI). Features task management, process execution, Git integration, and dynamic resource discovery. Full TypeScript implementation with Docker support and Cloudflare Tunnel integration. ",
+      "stars": 139,
+      "source": "github"
+    },
+    {
+      "title": "gradion-ai/freeact",
+      "url": "https://github.com/gradion-ai/freeact",
+      "description": "General-purpose AI agent that acts via code actions through a unified execution interface.",
+      "stars": 129,
+      "source": "github"
+    },
+    {
+      "title": "answerlink/MCP-Workspace-Server",
+      "url": "https://github.com/answerlink/MCP-Workspace-Server",
+      "description": "🚀 Beyond Filesystem - Complete AI Development Environment - One MCP Server provides full Agent capability stack: web development, code execution, data processing, image generation. No need for multiple tools, configure once. Perfect support for Dify, FastGPT, Cherry Studio.       文件操作、Python/Node.js 代码执行、Web 应用一键部署（支持泛域名）、Excel 处理、图像生成。开箱即用",
+      "stars": 125,
+      "source": "github"
+    },
+    {
+      "title": "pavel-molyanov/molyanov-ai-dev",
+      "url": "https://github.com/pavel-molyanov/molyanov-ai-dev",
+      "description": "AI-First Development Methodology for Claude Code CLI — spec-driven pipeline, 20+ skills, 20+ agents, team execution",
+      "stars": 99,
+      "source": "github"
+    },
+    {
+      "title": "spring-ai-community/agent-client",
+      "url": "https://github.com/spring-ai-community/agent-client",
+      "description": "Autonomous CLI agent integrations for the Spring AI ecosystem with Claude Code, Gemini CLI, and secure sandbox execution",
+      "stars": 88,
+      "source": "github"
+    },
+    {
+      "title": "youware-labs/figma-pilot",
+      "url": "https://github.com/youware-labs/figma-pilot",
+      "description": "MCP that let AI agents control Figma through code execution",
+      "stars": 86,
+      "source": "github"
+    },
+    {
+      "title": "l3yx/intentlang",
+      "url": "https://github.com/l3yx/intentlang",
+      "description": "The next-generation AI Agent framework driven by Intent Engineering. Move beyond turn-based Function Calling to embrace code-level intent expression and embedded execution.                         An AI-Native, Intent-Oriented Programming Language built on Python.",
+      "stars": 79,
+      "source": "github"
+    },
+    {
+      "title": "lunal-dev/home",
+      "url": "https://github.com/lunal-dev/home",
+      "description": "Lunal is the AI confidential compute platform. We run your AI workloads (inference, training, agents) inside hardware-encrypted environments called Trusted Execution Environments (TEEs). Your data and code stay private while being processed. Your code can't be tampered with. You can cryptographically verify both claims without trusting us.",
+      "stars": 76,
+      "source": "github"
+    },
+    {
+      "title": "alexdevassy/AI-Powered-Vulnerability-Impact-Analyzer",
+      "url": "https://github.com/alexdevassy/AI-Powered-Vulnerability-Impact-Analyzer",
+      "description": "Vulnerability impact analyzer that reduces false positives in SCA tools by performing intelligent code analysis. Uses agentic AI with open source models to understand CVEs and verify actual vulnerability impact in your codebase. Keeps your code secure with on-premises execution and human-in-the-loop verification.",
+      "stars": 66,
+      "source": "github"
+    },
+    {
+      "title": "roboticforce/sugar",
+      "url": "https://github.com/roboticforce/sugar",
+      "description": "Persistent memory for AI coding agents. Cross-session context, global knowledge, and autonomous task execution.",
+      "stars": 62,
+      "source": "github"
+    },
+    {
+      "title": "mastra-ai/template-coding-agent",
+      "url": "https://github.com/mastra-ai/template-coding-agent",
+      "description": "Advanced Mastra AI coding agent with secure sandbox execution, comprehensive file management, and multi-language support for Python, JavaScript, and TypeScript development workflows",
+      "stars": 42,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.479,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.123,
+      "diversity": 0.0,
+      "usability": 0.2,
+      "applicability": 1.0,
+      "coverage": 1.0,
+      "ndcg": 0.823,
+      "map": 1.0,
+      "mrr": 1.0,
+      "rouge_1": 0.863,
+      "semantic_sim": 0.35,
+      "coherence": 0.142,
+      "task_completion": 0.654,
+      "tool_use": 0.147,
+      "reasoning_depth": 0.1,
+      "autonomy": 0.175,
+      "multi_agent": 0.045
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

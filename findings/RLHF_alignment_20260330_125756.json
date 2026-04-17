@@ -1,0 +1,159 @@
+{
+  "topic": "RLHF alignment",
+  "timestamp": "2026-03-30T12:57:56.246676",
+  "findings": [
+    {
+      "title": "huggingface/alignment-handbook",
+      "url": "https://github.com/huggingface/alignment-handbook",
+      "description": "Robust recipes to align language models with human and AI preferences",
+      "stars": 5544,
+      "source": "github"
+    },
+    {
+      "title": "natolambert/rlhf-book",
+      "url": "https://github.com/natolambert/rlhf-book",
+      "description": "Textbook on reinforcement learning from human feedback",
+      "stars": 1741,
+      "source": "github"
+    },
+    {
+      "title": "PKU-Alignment/safe-rlhf",
+      "url": "https://github.com/PKU-Alignment/safe-rlhf",
+      "description": "Safe RLHF: Constrained Value Alignment via Safe Reinforcement Learning from Human Feedback",
+      "stars": 1593,
+      "source": "github"
+    },
+    {
+      "title": "OpenLMLab/MOSS-RLHF",
+      "url": "https://github.com/OpenLMLab/MOSS-RLHF",
+      "description": "Secrets of RLHF in Large Language Models Part I: PPO",
+      "stars": 1423,
+      "source": "github"
+    },
+    {
+      "title": "princeton-nlp/SimPO",
+      "url": "https://github.com/princeton-nlp/SimPO",
+      "description": "[NeurIPS 2024] SimPO: Simple Preference Optimization with a Reference-Free Reward",
+      "stars": 949,
+      "source": "github"
+    },
+    {
+      "title": "ContextualAI/HALOs",
+      "url": "https://github.com/ContextualAI/HALOs",
+      "description": "A library with extensible implementations of DPO, KTO, PPO, ORPO, and other human-aware loss functions (HALOs).",
+      "stars": 907,
+      "source": "github"
+    },
+    {
+      "title": "sail-sg/oat",
+      "url": "https://github.com/sail-sg/oat",
+      "description": "🌾 OAT: A research-friendly framework for LLM online alignment, including reinforcement learning, preference learning, etc.",
+      "stars": 642,
+      "source": "github"
+    },
+    {
+      "title": "agentscope-ai/OpenJudge",
+      "url": "https://github.com/agentscope-ai/OpenJudge",
+      "description": "OpenJudge: A Unified Framework for Holistic Evaluation and Quality Rewards",
+      "stars": 498,
+      "source": "github"
+    },
+    {
+      "title": "agi-templar/Stable-Alignment",
+      "url": "https://github.com/agi-templar/Stable-Alignment",
+      "description": "Multi-agent Social Simulation + Efficient, Effective, and Stable alternative of RLHF. Code for the paper \"Training Socially Aligned Language Models in Simulated Human Society\".",
+      "stars": 355,
+      "source": "github"
+    },
+    {
+      "title": "mihirp1998/VADER",
+      "url": "https://github.com/mihirp1998/VADER",
+      "description": "Video Diffusion Alignment via Reward Gradients. We improve a variety of video diffusion models such as VideoCrafter, OpenSora, ModelScope and StableVideoDiffusion by finetuning them using various reward models such as HPS, PickScore, VideoMAE, VJEPA, YOLO, Aesthetics etc. ",
+      "stars": 312,
+      "source": "github"
+    },
+    {
+      "title": "RLHF-V/RLHF-V",
+      "url": "https://github.com/RLHF-V/RLHF-V",
+      "description": "[CVPR'24] RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback",
+      "stars": 306,
+      "source": "github"
+    },
+    {
+      "title": "Kwai-YuanQi/MM-RLHF",
+      "url": "https://github.com/Kwai-YuanQi/MM-RLHF",
+      "description": "The Next Step Forward in Multimodal LLM Alignment",
+      "stars": 200,
+      "source": "github"
+    },
+    {
+      "title": "mengdi-li/awesome-RLAIF",
+      "url": "https://github.com/mengdi-li/awesome-RLAIF",
+      "description": "A continually updated list of literature on Reinforcement Learning from AI Feedback (RLAIF) ",
+      "stars": 198,
+      "source": "github"
+    },
+    {
+      "title": "PKU-Alignment/aligner",
+      "url": "https://github.com/PKU-Alignment/aligner",
+      "description": "[NeurIPS 2024 Oral] Aligner: Efficient Alignment by Learning to Correct",
+      "stars": 191,
+      "source": "github"
+    },
+    {
+      "title": "PKU-Alignment/beavertails",
+      "url": "https://github.com/PKU-Alignment/beavertails",
+      "description": "BeaverTails is a collection of datasets designed to facilitate research on safety alignment in large language models (LLMs).",
+      "stars": 178,
+      "source": "github"
+    },
+    {
+      "title": "NiuTrans/Vision-LLM-Alignment",
+      "url": "https://github.com/NiuTrans/Vision-LLM-Alignment",
+      "description": "This repository contains the code for SFT, RLHF, and DPO, designed for vision-based LLMs, including the LLaVA models and the LLaMA-3.2-vision models.",
+      "stars": 118,
+      "source": "github"
+    },
+    {
+      "title": "gauravchak/two_tower_models",
+      "url": "https://github.com/gauravchak/two_tower_models",
+      "description": "We write sample code for two tower models for retrieval and add RLHF/RLAIF style alignment with a ranking model to make the retrieval more aligned with the ranking model on top",
+      "stars": 109,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/RLHF-APA",
+      "url": "https://github.com/microsoft/RLHF-APA",
+      "description": "RL algorithm: Advantage induced policy alignment ",
+      "stars": 66,
+      "source": "github"
+    },
+    {
+      "title": "sinanuozdemir/oreilly-llm-rl-alignment",
+      "url": "https://github.com/sinanuozdemir/oreilly-llm-rl-alignment",
+      "description": "This training offers an intensive exploration into the frontier of reinforcement learning techniques with large language models (LLMs). We will explore advanced topics such as Reinforcement Learning with Human Feedback (RLHF), Reinforcement Learning from AI Feedback (RLAIF), Reasoning LLMs, and demonstrate practical applications such as fine-tuning",
+      "stars": 59,
+      "source": "github"
+    },
+    {
+      "title": "RLHFlow/Directional-Preference-Alignment",
+      "url": "https://github.com/RLHFlow/Directional-Preference-Alignment",
+      "description": "Directional Preference Alignment",
+      "stars": 59,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.298,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.139,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

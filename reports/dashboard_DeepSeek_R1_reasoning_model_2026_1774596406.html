@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html><head><meta charset="UTF-8"><title>AutoResearch v3.6 - DeepSeek R1 reasoning model 2026</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<style>body{font-family:sans-serif;background:#0f172a;color:#e2e8f0;padding:20px}
+.container{max-width:1400px;margin:0 auto}h1{color:#38bdf8}
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:20px;margin:20px 0}
+.card{background:#1e293b;padding:20px;border-radius:12px}
+.val{font-size:32px;font-weight:bold;color:#38bdf8}
+.chart{background:#1e293b;padding:20px;border-radius:12px;margin:20px 0}
+.tag{display:inline-block;padding:4px 12px;background:#334155;border-radius:20px;margin:4px}</style></head>
+<body><div class="container"><h1>AutoResearch v3.6</h1><p>Topic: DeepSeek R1 reasoning model 2026 | 2026-03-27 15:26</p>
+<div class="stats"><div class="card"><div>Total</div><div class="val">183</div></div>
+<div class="card"><div>Diversity</div><div class="val">0.72</div></div>
+<div class="card"><div>Best</div><div class="val">55.5</div></div>
+<div class="card"><div>Rounds</div><div class="val">5</div></div></div>
+<div class="chart"><canvas id="c"></canvas></div>
+<div class="chart"><h3>Sources</h3><span class="tag">prosearch:5</span><span class="tag">hackernews:5</span><span class="tag">arxiv:5</span><span class="tag">github:3</span></div></div>
+<script>const d=[{"round": 1, "findings": 15, "diversity": 0.67}, {"round": 2, "findings": 24, "diversity": 0.67}, {"round": 3, "findings": 48, "diversity": 0.75}, {"round": 4, "findings": 48, "diversity": 0.75}, {"round": 5, "findings": 48, "diversity": 0.75}];new Chart(document.getElementById('c'),{type:'line',data:{labels:d.map(x=>'R'+x.round),datasets:[{label:'Findings',data:d.map(x=>x.findings),borderColor:'#38bdf8',tension:0.4}]}})</script></body></html>

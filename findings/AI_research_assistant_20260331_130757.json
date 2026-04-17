@@ -1,0 +1,174 @@
+{
+  "topic": "AI research assistant",
+  "timestamp": "2026-03-31T13:07:57.542723",
+  "findings": [
+    {
+      "title": "khoj-ai/khoj",
+      "url": "https://github.com/khoj-ai/khoj",
+      "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+      "stars": 33729,
+      "source": "github"
+    },
+    {
+      "title": "dzhng/deep-research",
+      "url": "https://github.com/dzhng/deep-research",
+      "description": "An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic.",
+      "stars": 18650,
+      "source": "github"
+    },
+    {
+      "title": "arc53/DocsGPT",
+      "url": "https://github.com/arc53/DocsGPT",
+      "description": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.",
+      "stars": 17792,
+      "source": "github"
+    },
+    {
+      "title": "nickjvandyke/opencode.nvim",
+      "url": "https://github.com/nickjvandyke/opencode.nvim",
+      "description": "Integrate the opencode AI assistant with Neovim — streamline editor-aware research, reviews, and requests.",
+      "stars": 3024,
+      "source": "github"
+    },
+    {
+      "title": "AnotiaWang/deep-research-web-ui",
+      "url": "https://github.com/AnotiaWang/deep-research-web-ui",
+      "description": "(Supports DeepSeek R1) An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.",
+      "stars": 2170,
+      "source": "github"
+    },
+    {
+      "title": "54yyyu/zotero-mcp",
+      "url": "https://github.com/54yyyu/zotero-mcp",
+      "description": "Zotero MCP: Connects your Zotero research library with Claude and other AI assistants via the Model Context Protocol to discuss papers, get summaries, analyze citations, and more.",
+      "stars": 2159,
+      "source": "github"
+    },
+    {
+      "title": "lifan0127/ai-research-assistant",
+      "url": "https://github.com/lifan0127/ai-research-assistant",
+      "description": "Aria is Your AI Research Assistant Powered by GPT Large Language Models",
+      "stars": 1681,
+      "source": "github"
+    },
+    {
+      "title": "starpig1129/DATAGEN",
+      "url": "https://github.com/starpig1129/DATAGEN",
+      "description": "DATAGEN: AI-driven multi-agent research assistant automating hypothesis generation, data analysis, and report writing. ",
+      "stars": 1669,
+      "source": "github"
+    },
+    {
+      "title": "HKUDS/Auto-Deep-Research",
+      "url": "https://github.com/HKUDS/Auto-Deep-Research",
+      "description": "\"Your Fully-Automated Personal AI Assistant\"",
+      "stars": 1467,
+      "source": "github"
+    },
+    {
+      "title": "xjtulyc/MedgeClaw",
+      "url": "https://github.com/xjtulyc/MedgeClaw",
+      "description": "Open-source AI research assistant for biomedicine — chat to run RNA-seq, drug discovery, clinical analysis, and more. Built on Claude Code with 140 K-Dense scientific skills, real-time dashboard, and RStudio/JupyterLab integration. | 开源生物医学 AI 研究助手，对话即可驱动转录组、药物发现、临床分析等工作流，集成 140 个科学技能与实时研究看板。",
+      "stars": 929,
+      "source": "github"
+    },
+    {
+      "title": "OpenLAIR/dr-claw",
+      "url": "https://github.com/OpenLAIR/dr-claw",
+      "description": "A Super AI Lab with massive AI Doctors as Assistants. Best IDE for Research via AI Power. ",
+      "stars": 752,
+      "source": "github"
+    },
+    {
+      "title": "Eronred/aso-skills",
+      "url": "https://github.com/Eronred/aso-skills",
+      "description": "AI agent skills for App Store Optimization (ASO) and app marketing. Built for indie developers, app marketers, and growth teams who want Cursor, Claude Code, or any Agent Skills-compatible AI assistant to help with keyword research, metadata optimization, competitor analysis, and app growth.",
+      "stars": 658,
+      "source": "github"
+    },
+    {
+      "title": "firecrawl/open-researcher",
+      "url": "https://github.com/firecrawl/open-researcher",
+      "description": "🔥 Visual AI research assistant that displays real-time thinking, provides split-view analysis, and automatic citations using Claude and Firecrawl",
+      "stars": 627,
+      "source": "github"
+    },
+    {
+      "title": "SPThole/CoexistAI",
+      "url": "https://github.com/SPThole/CoexistAI",
+      "description": "CoexistAI is a modular, developer-friendly research assistant framework . It enables you to build, search, summarize, and automate research workflows using LLMs, web search, Reddit, YouTube, and mapping tools—all with simple MCP tool calls or API calls or Python functions. ",
+      "stars": 456,
+      "source": "github"
+    },
+    {
+      "title": "shuyu-labs/WebCode",
+      "url": "https://github.com/shuyu-labs/WebCode",
+      "description": "WebCode is a browser-based AI coding platform that lets you remotely run CLI assistants like Claude Code and Codex. Code anywhere with just a web browser. We’re also adding an office-assistant mode for planning, research/summaries, meeting notes, and drafting docs/emails—connected to your project context.",
+      "stars": 378,
+      "source": "github"
+    },
+    {
+      "title": "libraryofcelsus/Aetherius_AI_Assistant",
+      "url": "https://github.com/libraryofcelsus/Aetherius_AI_Assistant",
+      "description": "A completely private, locally-operated Ai Assistant/Chatbot/Sub-Agent Framework with realistic Long Term Memory and thought formation using Open Source LLMs. Qdrant is used for the Vector DB.",
+      "stars": 315,
+      "source": "github"
+    },
+    {
+      "title": "OpenRaiser/NanoResearch",
+      "url": "https://github.com/OpenRaiser/NanoResearch",
+      "description": "🦞+🔬: NanoResearch: The Autonomous AI Research Assistant",
+      "stars": 292,
+      "source": "github"
+    },
+    {
+      "title": "Runchuan-BU/BioClaw",
+      "url": "https://github.com/Runchuan-BU/BioClaw",
+      "description": "AI-Powered Bioinformatics Research Assistant. Built on OpenClaw.",
+      "stars": 291,
+      "source": "github"
+    },
+    {
+      "title": "khoj-ai/openpaper",
+      "url": "https://github.com/khoj-ai/openpaper",
+      "description": "Open Paper is a workbench for managing your research library. Read, annotate, and understand your papers all in one place. Use an AI assistant to conduct your literature review.",
+      "stars": 249,
+      "source": "github"
+    },
+    {
+      "title": "ymx10086/ResearchClaw",
+      "url": "https://github.com/ymx10086/ResearchClaw",
+      "description": "ResearchClaw is a personal AI assistant built for research: fast to set up, easy to run locally or in the cloud, and ready to integrate with the chat apps you already use. With extensible skills, it helps you streamline literature review, note-taking, experiment tracking, and paper writing—end to end.",
+      "stars": 230,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.471,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.13,
+      "diversity": 0.0,
+      "usability": 0.3,
+      "applicability": 0.975,
+      "coverage": 1.0,
+      "ndcg": 0.652,
+      "map": 1.0,
+      "mrr": 1.0,
+      "rouge_1": 0.883,
+      "semantic_sim": 0.364,
+      "coherence": 0.147,
+      "task_completion": 0.614,
+      "tool_use": 0.343,
+      "reasoning_depth": 0.047,
+      "autonomy": 0.15,
+      "multi_agent": 0.03
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

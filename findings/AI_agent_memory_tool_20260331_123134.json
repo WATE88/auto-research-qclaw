@@ -1,0 +1,174 @@
+{
+  "topic": "AI agent memory tool",
+  "timestamp": "2026-03-31T12:31:34.552441",
+  "findings": [
+    {
+      "title": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "stars": 54307,
+      "source": "github"
+    },
+    {
+      "title": "ModelEngine-Group/nexent",
+      "url": "https://github.com/ModelEngine-Group/nexent",
+      "description": "Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestration with built-in constraints, feedback loops, and control planes.",
+      "stars": 4353,
+      "source": "github"
+    },
+    {
+      "title": "EvoAgentX/EvoAgentX",
+      "url": "https://github.com/EvoAgentX/EvoAgentX",
+      "description": "🚀 EvoAgentX: Building a Self-Evolving Ecosystem of AI Agents",
+      "stars": 2683,
+      "source": "github"
+    },
+    {
+      "title": "griptape-ai/griptape",
+      "url": "https://github.com/griptape-ai/griptape",
+      "description": "Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory. ",
+      "stars": 2504,
+      "source": "github"
+    },
+    {
+      "title": "szczyglis-dev/py-gpt",
+      "url": "https://github.com/szczyglis-dev/py-gpt",
+      "description": "Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, speech synthesis and recognition, web search, memory, presets, assistants,and more. Linux, Windows, Mac",
+      "stars": 1712,
+      "source": "github"
+    },
+    {
+      "title": "CommandCodeAI/BaseAI",
+      "url": "https://github.com/CommandCodeAI/BaseAI",
+      "description": "BaseAI — The Web AI Framework. The easiest way to build serverless autonomous AI agents with memory. Start building local-first, agentic pipes, tools, and memory. Deploy serverless with one command.",
+      "stars": 1226,
+      "source": "github"
+    },
+    {
+      "title": "wangziqi06/724-office",
+      "url": "https://github.com/wangziqi06/724-office",
+      "description": "7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
+      "stars": 1120,
+      "source": "github"
+    },
+    {
+      "title": "metaskills/experts",
+      "url": "https://github.com/metaskills/experts",
+      "description": "Experts.js is the easiest way to create and deploy OpenAI's Assistants and link them together as Tools to create advanced Multi AI Agent Systems with expanded memory and attention to detail.",
+      "stars": 1064,
+      "source": "github"
+    },
+    {
+      "title": "Dataojitori/nocturne_memory",
+      "url": "https://github.com/Dataojitori/nocturne_memory",
+      "description": "A lightweight, rollbackable, and visual Long-Term Memory Server for MCP Agents. Say goodbye to Vector RAG and amnesia. Empower your AI with persistent, graph-like structured memory across any model, session, or tool. Drop-in replacement for OpenClaw.",
+      "stars": 865,
+      "source": "github"
+    },
+    {
+      "title": "heurist-network/heurist-agent-framework",
+      "url": "https://github.com/heurist-network/heurist-agent-framework",
+      "description": "A flexible multi-interface AI agent framework for building agents with reasoning, tool use, memory, deep research, blockchain interaction, MCP, and agents-as-a-service.",
+      "stars": 789,
+      "source": "github"
+    },
+    {
+      "title": "wanxingai/LightAgent",
+      "url": "https://github.com/wanxingai/LightAgent",
+      "description": "LightAgent: Lightweight AI agent framework with memory, tools & tree-of-thought. Supports multi-agent collaboration, self-learning, and major LLMs (OpenAI/DeepSeek/Qwen). Open-source with MCP/SSE protocol integration.",
+      "stars": 787,
+      "source": "github"
+    },
+    {
+      "title": "aws/bedrock-agentcore-sdk-python",
+      "url": "https://github.com/aws/bedrock-agentcore-sdk-python",
+      "description": "Python SDK for transforming any AI agent into a production-ready application. Framework-agnostic primitives for runtime, memory, authentication, and tools with AWS-managed infrastructure.",
+      "stars": 674,
+      "source": "github"
+    },
+    {
+      "title": "oxbshw/LLM-Agents-Ecosystem-Handbook",
+      "url": "https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook",
+      "description": "One-stop handbook for building, deploying, and understanding LLM agents with 60+ skeletons, tutorials, ecosystem guides, and evaluation tools.",
+      "stars": 502,
+      "source": "github"
+    },
+    {
+      "title": "epiral/agent-clip",
+      "url": "https://github.com/epiral/agent-clip",
+      "description": "AI Agent as a Pinix Clip — agentic loop with memory, tools, and vision",
+      "stars": 379,
+      "source": "github"
+    },
+    {
+      "title": "zmedelis/bosquet",
+      "url": "https://github.com/zmedelis/bosquet",
+      "description": "Tooling to build LLM applications: prompt templating and composition, agents, LLM memory, and other instruments for builders of AI applications.",
+      "stars": 366,
+      "source": "github"
+    },
+    {
+      "title": "mnemox-ai/tradememory-protocol",
+      "url": "https://github.com/mnemox-ai/tradememory-protocol",
+      "description": "Decision audit trail + persistent memory for AI trading agents. Outcome-weighted recall, SHA-256 tamper detection, 17 MCP tools.",
+      "stars": 361,
+      "source": "github"
+    },
+    {
+      "title": "omnirexflora-labs/omnicoreagent",
+      "url": "https://github.com/omnirexflora-labs/omnicoreagent",
+      "description": "OmniCoreAgent is a powerful Python framework for building autonomous AI agents that think, reason, and execute complex tasks. Production-ready agents that use tools, manage memory, coordinate workflows, and handle real-world business logic.",
+      "stars": 232,
+      "source": "github"
+    },
+    {
+      "title": "ganeshnikhil/J.A.R.V.I.S.2.0",
+      "url": "https://github.com/ganeshnikhil/J.A.R.V.I.S.2.0",
+      "description": " open source assistant  hybrid using small models (2b - 5b) and gemini  , with image and agentic tool capabilities and integration of RAG with effiecient memory. android  support using adb ",
+      "stars": 227,
+      "source": "github"
+    },
+    {
+      "title": "zavora-ai/adk-rust",
+      "url": "https://github.com/zavora-ai/adk-rust",
+      "description": "Rust Agent Development Kit (ADK-Rust): Build AI agents in Rust with modular components for models, tools, memory, realtime voice, and more. ADK-Rust is a flexible framework for developing AI agents with simplicity and power. Model-agnostic, deployment-agnostic, optimized for frontier AI models. Includes support for real-time voice agents.",
+      "stars": 222,
+      "source": "github"
+    },
+    {
+      "title": "krohling/bondai",
+      "url": "https://github.com/krohling/bondai",
+      "description": "BondAI is an open-source tool for developing AI Agent Systems. BondAI handles the implementation complexities including memory/context management, error handling, vector/semantic search and includes a powerful set of out of the box tools and integrations. ",
+      "stars": 219,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.403,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.069,
+      "diversity": 0.0,
+      "usability": 0.1,
+      "applicability": 1.0,
+      "coverage": 1.0,
+      "ndcg": 0.491,
+      "map": 0.863,
+      "mrr": 0.5,
+      "rouge_1": 0.575,
+      "semantic_sim": 0.226,
+      "coherence": 0.155,
+      "task_completion": 0.608,
+      "tool_use": 0.268,
+      "reasoning_depth": 0.087,
+      "autonomy": 0.1,
+      "multi_agent": 0.085
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

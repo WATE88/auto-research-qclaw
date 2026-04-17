@@ -1,0 +1,174 @@
+{
+  "topic": "multi-agent collaboration",
+  "timestamp": "2026-03-31T12:30:21.587652",
+  "findings": [
+    {
+      "title": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+      "stars": 74530,
+      "source": "github"
+    },
+    {
+      "title": "OpenBMB/ChatDev",
+      "url": "https://github.com/OpenBMB/ChatDev",
+      "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+      "stars": 32257,
+      "source": "github"
+    },
+    {
+      "title": "abhi1693/openclaw-mission-control",
+      "url": "https://github.com/abhi1693/openclaw-mission-control",
+      "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
+      "stars": 3292,
+      "source": "github"
+    },
+    {
+      "title": "jd-opensource/OxyGent",
+      "url": "https://github.com/jd-opensource/OxyGent",
+      "description": "Multi-agent collaboration framework",
+      "stars": 1902,
+      "source": "github"
+    },
+    {
+      "title": "Farama-Foundation/chatarena",
+      "url": "https://github.com/Farama-Foundation/chatarena",
+      "description": "ChatArena (or Chat Arena) is a Multi-Agent Language Game Environments for LLMs. The goal is to develop communication and collaboration capabilities of AIs.",
+      "stars": 1540,
+      "source": "github"
+    },
+    {
+      "title": "RTGS2017/NagaAgent",
+      "url": "https://github.com/RTGS2017/NagaAgent",
+      "description": "A simple yet powerful agent framework for personal assistants, designed to enable intelligent interaction, multi-agent collaboration, and seamless tool integration.",
+      "stars": 1506,
+      "source": "github"
+    },
+    {
+      "title": "rinadelph/Agent-MCP",
+      "url": "https://github.com/rinadelph/Agent-MCP",
+      "description": "Agent-MCP is a framework for creating multi-agent systems that enables coordinated, efficient AI collaboration through the Model Context Protocol (MCP). The system is designed for developers building AI applications that benefit from multiple specialized agents working in parallel on different aspects of a project.",
+      "stars": 1208,
+      "source": "github"
+    },
+    {
+      "title": "uluckyXH/OpenMOSS",
+      "url": "https://github.com/uluckyXH/OpenMOSS",
+      "description": "A self-organizing multi-agent collaboration platform for OpenClaw. Multiple AI agents work as an autonomous team — planning, executing, reviewing, and patrolling tasks with zero human intervention.",
+      "stars": 1051,
+      "source": "github"
+    },
+    {
+      "title": "Gen-Verse/LatentMAS",
+      "url": "https://github.com/Gen-Verse/LatentMAS",
+      "description": "Latent Collaboration in Multi-Agent Systems",
+      "stars": 832,
+      "source": "github"
+    },
+    {
+      "title": "wanxingai/LightAgent",
+      "url": "https://github.com/wanxingai/LightAgent",
+      "description": "LightAgent: Lightweight AI agent framework with memory, tools & tree-of-thought. Supports multi-agent collaboration, self-learning, and major LLMs (OpenAI/DeepSeek/Qwen). Open-source with MCP/SSE protocol integration.",
+      "stars": 787,
+      "source": "github"
+    },
+    {
+      "title": "minghao-wu/transagents",
+      "url": "https://github.com/minghao-wu/transagents",
+      "description": "The official repository of the paper \"(Perhaps) Beyond Human Translation: Harnessing Multi-Agent Collaboration for Translating Ultra-Long Literary Texts\"",
+      "stars": 593,
+      "source": "github"
+    },
+    {
+      "title": "marswei/seaseed-clawerse",
+      "url": "https://github.com/marswei/seaseed-clawerse",
+      "description": "Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration.",
+      "stars": 569,
+      "source": "github"
+    },
+    {
+      "title": "WW-AI-Lab/openclaw-office",
+      "url": "https://github.com/WW-AI-Lab/openclaw-office",
+      "description": "OpenClaw Office is the visual monitoring and management frontend for the  OpenClaw Multi-Agent system. It connects to the OpenClaw Gateway via WebSocket to visualize Agent collaboration as a \"digital office\" and provides a full console management interface.",
+      "stars": 476,
+      "source": "github"
+    },
+    {
+      "title": "Westlake-AGI-Lab/Auto-Slides",
+      "url": "https://github.com/Westlake-AGI-Lab/Auto-Slides",
+      "description": "[ICME 2026] Official implementation of Auto-Slides: Automatic Academic Presentation Generation with Multi-Agent Collaboration",
+      "stars": 466,
+      "source": "github"
+    },
+    {
+      "title": "SCTY-Inc/agency-cli-tools",
+      "url": "https://github.com/SCTY-Inc/agency-cli-tools",
+      "description": "Multi-Agent Creative Collaboration with AutoGen",
+      "stars": 379,
+      "source": "github"
+    },
+    {
+      "title": "Chorus-AIDLC/Chorus",
+      "url": "https://github.com/Chorus-AIDLC/Chorus",
+      "description": "The Agent Harness for AI-Human Collaboration, inspired by the AI-DLC (AI-Driven Development Lifecycle)",
+      "stars": 351,
+      "source": "github"
+    },
+    {
+      "title": "Peiiii/AgentVerse",
+      "url": "https://github.com/Peiiii/AgentVerse",
+      "description": "Multi-Agent Collaboration  Platform✨",
+      "stars": 285,
+      "source": "github"
+    },
+    {
+      "title": "rosewang2008/gym-cooking",
+      "url": "https://github.com/rosewang2008/gym-cooking",
+      "description": "🏆 gym-cooking: Code for \"Too many cooks: Bayesian inference for coordinating multi-agent collaboration\", Winner of the CogSci 2020 Computational Modeling Prize in High Cognition, and a NeurIPS 2020 CoopAI Workshop Best Paper.",
+      "stars": 221,
+      "source": "github"
+    },
+    {
+      "title": "Claw-AI-Lab/Claw-AI-Lab",
+      "url": "https://github.com/Claw-AI-Lab/Claw-AI-Lab",
+      "description": "Multi-agent AI research system with lab-style collaboration.",
+      "stars": 218,
+      "source": "github"
+    },
+    {
+      "title": "aws-samples/bedrock-multi-agents-collaboration-workshop",
+      "url": "https://github.com/aws-samples/bedrock-multi-agents-collaboration-workshop",
+      "description": null,
+      "stars": 164,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.485,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.05,
+      "star_power": 0.082,
+      "diversity": 0.0,
+      "usability": 0.1,
+      "applicability": 0.975,
+      "coverage": 1.0,
+      "ndcg": 0.819,
+      "map": 0.989,
+      "mrr": 1.0,
+      "rouge_1": 0.933,
+      "semantic_sim": 0.449,
+      "coherence": 0.109,
+      "task_completion": 0.648,
+      "tool_use": 0.085,
+      "reasoning_depth": 0.037,
+      "autonomy": 0.087,
+      "multi_agent": 0.615
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

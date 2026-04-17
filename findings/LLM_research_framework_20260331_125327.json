@@ -1,0 +1,174 @@
+{
+  "topic": "LLM research framework",
+  "timestamp": "2026-03-31T12:53:27.886811",
+  "findings": [
+    {
+      "title": "MervinPraison/PraisonAI",
+      "url": "https://github.com/MervinPraison/PraisonAI",
+      "description": "PraisonAI 🦞 - Your 24/7 AI employee team. Automate and solve complex challenges with low-code multi-agent AI that plans, researches, codes, and delivers to Telegram, Discord, and WhatsApp. Handoffs, guardrails, memory, RAG, 100+ LLMs.",
+      "stars": 5828,
+      "source": "github"
+    },
+    {
+      "title": "wanshuiyin/Auto-claude-code-research-in-sleep",
+      "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+      "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.",
+      "stars": 4892,
+      "source": "github"
+    },
+    {
+      "title": "stanford-crfm/helm",
+      "url": "https://github.com/stanford-crfm/helm",
+      "description": "Holistic Evaluation of Language Models (HELM) is an open source Python framework created by the Center for Research on Foundation Models (CRFM) at Stanford for holistic, reproducible and transparent evaluation of foundation models, including large language models (LLMs) and multimodal models.",
+      "stars": 2725,
+      "source": "github"
+    },
+    {
+      "title": "sail-sg/oat",
+      "url": "https://github.com/sail-sg/oat",
+      "description": "🌾 OAT: A research-friendly framework for LLM online alignment, including reinforcement learning, preference learning, etc.",
+      "stars": 642,
+      "source": "github"
+    },
+    {
+      "title": "AQ-MedAI/MedResearcher-R1",
+      "url": "https://github.com/AQ-MedAI/MedResearcher-R1",
+      "description": "MedResearcher-R1 is a deep research agent for medical scenarios, built on a knowledge-informed trajectory synthesis framework.",
+      "stars": 494,
+      "source": "github"
+    },
+    {
+      "title": "SPThole/CoexistAI",
+      "url": "https://github.com/SPThole/CoexistAI",
+      "description": "CoexistAI is a modular, developer-friendly research assistant framework . It enables you to build, search, summarize, and automate research workflows using LLMs, web search, Reddit, YouTube, and mapping tools—all with simple MCP tool calls or API calls or Python functions. ",
+      "stars": 456,
+      "source": "github"
+    },
+    {
+      "title": "libraryofcelsus/Aetherius_AI_Assistant",
+      "url": "https://github.com/libraryofcelsus/Aetherius_AI_Assistant",
+      "description": "A completely private, locally-operated Ai Assistant/Chatbot/Sub-Agent Framework with realistic Long Term Memory and thought formation using Open Source LLMs. Qdrant is used for the Vector DB.",
+      "stars": 315,
+      "source": "github"
+    },
+    {
+      "title": "fate-ubw/RAGLAB",
+      "url": "https://github.com/fate-ubw/RAGLAB",
+      "description": "[EMNLP 2024: Demo Oral] RAGLAB: A Modular and Research-Oriented Unified Framework for Retrieval-Augmented Generation",
+      "stars": 310,
+      "source": "github"
+    },
+    {
+      "title": "DVampire/FinWorld",
+      "url": "https://github.com/DVampire/FinWorld",
+      "description": "FinWorld: An All-in-One Open-Source Platform for End-to-End Financial AI Research and Deployment",
+      "stars": 114,
+      "source": "github"
+    },
+    {
+      "title": "Productive-Superintelligence/lllm",
+      "url": "https://github.com/Productive-Superintelligence/lllm",
+      "description": "A light-weight framework for building llm agentic systems with additional supports for program synthesis and neural-symbolic research.",
+      "stars": 95,
+      "source": "github"
+    },
+    {
+      "title": "ecnu-sea/SEA",
+      "url": "https://github.com/ecnu-sea/SEA",
+      "description": "[EMNLP 2024 Findings] SEA is an automated paper review framework capable of generating comprehensive and high-quality review feedback with high consistency for papers, thereby assisting researchers in improving the quality of their work.",
+      "stars": 89,
+      "source": "github"
+    },
+    {
+      "title": "context-machine-lab/ContextAgent",
+      "url": "https://github.com/context-machine-lab/ContextAgent",
+      "description": "Context-central multi-agent framework with PyTorch-like API. Build intelligent agent systems with minimal code.",
+      "stars": 74,
+      "source": "github"
+    },
+    {
+      "title": "syntropix-ai/synthora",
+      "url": "https://github.com/syntropix-ai/synthora",
+      "description": "Synthora is a lightweight, extensible framework for LLM-driven agents and ALM research. It provides the essential components to build, test, and evaluate agents, enabling you to assemble an agent with a single configuration file. Our goal is to minimize effort while delivering robust functionality.",
+      "stars": 71,
+      "source": "github"
+    },
+    {
+      "title": "JiangZhihao123/llmalpha",
+      "url": "https://github.com/JiangZhihao123/llmalpha",
+      "description": "LLM-driven autonomous cryptocurrency trading strategy research framework",
+      "stars": 64,
+      "source": "github"
+    },
+    {
+      "title": "user1342/Oversight",
+      "url": "https://github.com/user1342/Oversight",
+      "description": "A Completely Modular LLM Reverse Engineering, Red Teaming, and Vulnerability Research Framework.",
+      "stars": 54,
+      "source": "github"
+    },
+    {
+      "title": "iflytek/DeepResearch",
+      "url": "https://github.com/iflytek/DeepResearch",
+      "description": "A deep research framework based on progressive search and cross-evaluation.",
+      "stars": 53,
+      "source": "github"
+    },
+    {
+      "title": "TradeMaster-NTU/FinWorld",
+      "url": "https://github.com/TradeMaster-NTU/FinWorld",
+      "description": "FinWorld: An All-in-One Open-Source Platform for End-to-End Financial AI Research and Deployment",
+      "stars": 48,
+      "source": "github"
+    },
+    {
+      "title": "yubol-bobo/MT-Consistency",
+      "url": "https://github.com/yubol-bobo/MT-Consistency",
+      "description": "This repo investigates LLMs' tendency to exhibit acquiescence bias in sequential QA interactions. Includes evaluation methods, datasets, benchmarks, and experiment code to assess and mitigate vulnerabilities in conversational consistency and robustness, offering a reproducible framework for future research.",
+      "stars": 39,
+      "source": "github"
+    },
+    {
+      "title": "alanrbtx/simple_deep_research",
+      "url": "https://github.com/alanrbtx/simple_deep_research",
+      "description": "Simple Deep Research is an open-source, easy-to-run framework for building autonomous deep research systems. It works seamlessly with both open-source (via vLLM/llama.cpp) and proprietary LLM providers.",
+      "stars": 38,
+      "source": "github"
+    },
+    {
+      "title": "pkargupta/cognitive_foundations",
+      "url": "https://github.com/pkargupta/cognitive_foundations",
+      "description": "A framework bridging cognitive science and LLM reasoning research to diagnose and improve how large language models reason, based on analysis of 192K model traces and 54 human think-aloud traces.",
+      "stars": 37,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.429,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.05,
+      "star_power": 0.141,
+      "diversity": 0.0,
+      "usability": 0.3,
+      "applicability": 1.0,
+      "coverage": 1.0,
+      "ndcg": 0.493,
+      "map": 0.863,
+      "mrr": 0.5,
+      "rouge_1": 0.683,
+      "semantic_sim": 0.258,
+      "coherence": 0.103,
+      "task_completion": 0.648,
+      "tool_use": 0.198,
+      "reasoning_depth": 0.083,
+      "autonomy": 0.138,
+      "multi_agent": 0.06
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

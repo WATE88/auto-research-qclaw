@@ -1,0 +1,159 @@
+{
+  "topic": "code completion",
+  "timestamp": "2026-03-30T13:53:13.253706",
+  "findings": [
+    {
+      "title": "ycm-core/YouCompleteMe",
+      "url": "https://github.com/ycm-core/YouCompleteMe",
+      "description": "A code-completion engine for Vim",
+      "stars": 26276,
+      "source": "github"
+    },
+    {
+      "title": "codota/TabNine",
+      "url": "https://github.com/codota/TabNine",
+      "description": "AI Code Completions",
+      "stars": 10801,
+      "source": "github"
+    },
+    {
+      "title": "hrsh7th/nvim-cmp",
+      "url": "https://github.com/hrsh7th/nvim-cmp",
+      "description": "A completion plugin for neovim coded in Lua.",
+      "stars": 9374,
+      "source": "github"
+    },
+    {
+      "title": "x-motemen/gore",
+      "url": "https://github.com/x-motemen/gore",
+      "description": "  Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.",
+      "stars": 5459,
+      "source": "github"
+    },
+    {
+      "title": "zufuliu/notepad4",
+      "url": "https://github.com/zufuliu/notepad4",
+      "description": "Notepad4 (Notepad2⨯2, Notepad2++) is a light-weight Scintilla based text editor for Windows with syntax highlighting, code folding, auto-completion and API list for many programming languages and documents, bundled with file browser plugin matepath.",
+      "stars": 4508,
+      "source": "github"
+    },
+    {
+      "title": "HJLebbink/asm-dude",
+      "url": "https://github.com/HJLebbink/asm-dude",
+      "description": "Visual Studio extension for assembly syntax highlighting and code completion in assembly files and the disassembly window",
+      "stars": 4186,
+      "source": "github"
+    },
+    {
+      "title": "zgsm-ai/costrict",
+      "url": "https://github.com/zgsm-ai/costrict",
+      "description": "Costrict - strict AI coder for enterprises, quality first, including AI Agent, AI CodeReview, AI Completion. ",
+      "stars": 3836,
+      "source": "github"
+    },
+    {
+      "title": "ravenscroftj/turbopilot",
+      "url": "https://github.com/ravenscroftj/turbopilot",
+      "description": "Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU",
+      "stars": 3800,
+      "source": "github"
+    },
+    {
+      "title": "twinnydotdev/twinny",
+      "url": "https://github.com/twinnydotdev/twinny",
+      "description": "The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code - like GitHub Copilot but 100% free.",
+      "stars": 3620,
+      "source": "github"
+    },
+    {
+      "title": "DisposaBoy/GoSublime",
+      "url": "https://github.com/DisposaBoy/GoSublime",
+      "description": "A Golang plugin collection for SublimeText 3, providing code completion and other IDE-like features.",
+      "stars": 3410,
+      "source": "github"
+    },
+    {
+      "title": "racer-rust/racer",
+      "url": "https://github.com/racer-rust/racer",
+      "description": "Rust Code Completion utility",
+      "stars": 3356,
+      "source": "github"
+    },
+    {
+      "title": "pkulchenko/ZeroBraneStudio",
+      "url": "https://github.com/pkulchenko/ZeroBraneStudio",
+      "description": "Lightweight Lua-based IDE for Lua with code completion, syntax highlighting, live coding, remote debugger, and code analyzer; supports Lua 5.1, 5.2, 5.3, 5.4, LuaJIT and other Lua interpreters on Windows, macOS, and Linux",
+      "stars": 2749,
+      "source": "github"
+    },
+    {
+      "title": "zai-org/CodeGeeX4",
+      "url": "https://github.com/zai-org/CodeGeeX4",
+      "description": "CodeGeeX4-ALL-9B, a versatile model for all AI software development scenarios, including code completion, code interpreter, web search, function calling, repository-level Q&A and much more.",
+      "stars": 2459,
+      "source": "github"
+    },
+    {
+      "title": "jacobdufault/cquery",
+      "url": "https://github.com/jacobdufault/cquery",
+      "description": "C/C++ language server supporting multi-million line code base, powered by libclang. Emacs, Vim, VSCode, and others with language server protocol support. Cross references, completion, diagnostics, semantic highlighting and more",
+      "stars": 2360,
+      "source": "github"
+    },
+    {
+      "title": "fwcd/kotlin-language-server",
+      "url": "https://github.com/fwcd/kotlin-language-server",
+      "description": "Kotlin code completion, diagnostics and more for any editor/IDE using the Language Server Protocol",
+      "stars": 2015,
+      "source": "github"
+    },
+    {
+      "title": "ggml-org/llama.vim",
+      "url": "https://github.com/ggml-org/llama.vim",
+      "description": "Vim plugin for LLM-assisted code/text completion",
+      "stars": 1930,
+      "source": "github"
+    },
+    {
+      "title": "tuchg/ChinesePinyin-CodeCompletionHelper",
+      "url": "https://github.com/tuchg/ChinesePinyin-CodeCompletionHelper",
+      "description": "让你的 JetBrains 系 IDE ( IDEA ,PyCharm,PhpStorm,WebStorm,AndroidStudio,GoLand等 )支持中文标识符以拼音/五笔等输入方式完成代码补全，享受和英文环境一致的中文智能编码体验，为代码表达提供更多选择，一种值得考虑的折中解决方案📏",
+      "stars": 1819,
+      "source": "github"
+    },
+    {
+      "title": "ycm-core/ycmd",
+      "url": "https://github.com/ycm-core/ycmd",
+      "description": "A code-completion & code-comprehension server",
+      "stars": 1740,
+      "source": "github"
+    },
+    {
+      "title": "nutti/fake-bpy-module",
+      "url": "https://github.com/nutti/fake-bpy-module",
+      "description": "Fake Blender Python API module collection for the code completion.",
+      "stars": 1737,
+      "source": "github"
+    },
+    {
+      "title": "onsails/lspkind.nvim",
+      "url": "https://github.com/onsails/lspkind.nvim",
+      "description": "VS Code–style pictograms for Neovim completion items",
+      "stars": 1674,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.307,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.185,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

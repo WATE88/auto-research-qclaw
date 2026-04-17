@@ -1,0 +1,174 @@
+{
+  "topic": "AI agent database",
+  "timestamp": "2026-04-01T16:09:55.887100",
+  "findings": [
+    {
+      "title": "vanna-ai/vanna",
+      "url": "https://github.com/vanna-ai/vanna",
+      "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.",
+      "stars": 23177,
+      "source": "github"
+    },
+    {
+      "title": "volcengine/OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+      "stars": 20333,
+      "source": "github"
+    },
+    {
+      "title": "eosphoros-ai/DB-GPT",
+      "url": "https://github.com/eosphoros-ai/DB-GPT",
+      "description": "open-source agentic AI data assistant for the next generation of AI + Data products.",
+      "stars": 18420,
+      "source": "github"
+    },
+    {
+      "title": "apache/doris",
+      "url": "https://github.com/apache/doris",
+      "description": "Apache Doris is an easy-to-use, high performance and unified analytics database.",
+      "stars": 15168,
+      "source": "github"
+    },
+    {
+      "title": "Canner/WrenAI",
+      "url": "https://github.com/Canner/WrenAI",
+      "description": "Open-source text-to-SQL and text-to-chart GenBI agent with a semantic layer. Ask your database questions in natural language — get accurate SQL, charts, and BI insights. Supports 12+ data sources (PostgreSQL, BigQuery, Snowflake, etc.) and any LLM (OpenAI, Claude, Gemini, Ollama).",
+      "stars": 14828,
+      "source": "github"
+    },
+    {
+      "title": "googleapis/genai-toolbox",
+      "url": "https://github.com/googleapis/genai-toolbox",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+      "stars": 13601,
+      "source": "github"
+    },
+    {
+      "title": "databendlabs/databend",
+      "url": "https://github.com/databendlabs/databend",
+      "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3.",
+      "stars": 9220,
+      "source": "github"
+    },
+    {
+      "title": "apache/hertzbeat",
+      "url": "https://github.com/apache/hertzbeat",
+      "description": "An AI-powered next-generation open source real-time observability system.",
+      "stars": 7145,
+      "source": "github"
+    },
+    {
+      "title": "MaterializeInc/materialize",
+      "url": "https://github.com/MaterializeInc/materialize",
+      "description": "The live data layer for apps and AI agents. Create up-to-the-second views into your business, just using SQL",
+      "stars": 6262,
+      "source": "github"
+    },
+    {
+      "title": "superduper-io/superduper",
+      "url": "https://github.com/superduper-io/superduper",
+      "description": "Superduper: End-to-end framework for building custom AI applications and agents.",
+      "stars": 5266,
+      "source": "github"
+    },
+    {
+      "title": "liyupi/mianshiya",
+      "url": "https://github.com/liyupi/mianshiya",
+      "description": "持续维护的企业面试题库网站，帮你拿到满意 offer！⭐️ 2026年最新Java面试题、前端面试题、AI大模型面试题、AI Agent面试题、RAG面试题、C++面试题、Go面试题、Python面试题、测试面试题、运维面试题、后端面试题、操作系统面试题、计算机网络面试题、Redis面试题、MySQL数据库面试题、算法面试题、Spring面试题、JVM面试题、Java并发面试题、Linux面试题、LLM面试题、Prompt工程面试题、系统设计面试题等1万多道高频程序员求职必备八股文。面试刷题就选面试鸭 💎 React 前端 + Node 后端 + 云开发全栈项目 by 程序员鱼皮",
+      "stars": 5257,
+      "source": "github"
+    },
+    {
+      "title": "baserow/baserow",
+      "url": "https://github.com/baserow/baserow",
+      "description": "Build databases, automations, apps & agents with AI — no code.  Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.",
+      "stars": 4522,
+      "source": "github"
+    },
+    {
+      "title": "ruc-datalab/DeepAnalyze",
+      "url": "https://github.com/ruc-datalab/DeepAnalyze",
+      "description": "DeepAnalyze is the first agentic LLM for autonomous data science. 🎈你的AI数据分析师，自动分析大量数据，一键生成专业分析报告！",
+      "stars": 3924,
+      "source": "github"
+    },
+    {
+      "title": "georgia-tech-db/evadb",
+      "url": "https://github.com/georgia-tech-db/evadb",
+      "description": "Database system for AI-powered apps",
+      "stars": 2681,
+      "source": "github"
+    },
+    {
+      "title": "lealone/Lealone",
+      "url": "https://github.com/lealone/Lealone",
+      "description": "一个安全的能够自我进化的 AI 应用开发平台",
+      "stars": 2542,
+      "source": "github"
+    },
+    {
+      "title": "matrixorigin/matrixone",
+      "url": "https://github.com/matrixorigin/matrixone",
+      "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intelligent agents and applications.",
+      "stars": 1865,
+      "source": "github"
+    },
+    {
+      "title": "rocketride-org/rocketride-server",
+      "url": "https://github.com/rocketride-org/rocketride-server",
+      "description": "High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all from your IDE. Includes VS Code extension, TypeScript/Python SDKs, and Docker deployment.",
+      "stars": 1181,
+      "source": "github"
+    },
+    {
+      "title": "e2b-dev/awesome-ai-sdks",
+      "url": "https://github.com/e2b-dev/awesome-ai-sdks",
+      "description": "A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI agents",
+      "stars": 1157,
+      "source": "github"
+    },
+    {
+      "title": "statespace-tech/statespace",
+      "url": "https://github.com/statespace-tech/statespace",
+      "description": "Statespace framework — build self-documenting AI applications.",
+      "stars": 848,
+      "source": "github"
+    },
+    {
+      "title": "llama-farm/llamafarm",
+      "url": "https://github.com/llama-farm/llamafarm",
+      "description": "Deploy any AI model, agent, database, RAG, and pipeline locally or remotely in minutes",
+      "stars": 831,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.395,
+    "grade": "D",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.341,
+      "diversity": 0.0,
+      "usability": 0.1,
+      "applicability": 0.875,
+      "coverage": 1.0,
+      "ndcg": 0.713,
+      "map": 0.843,
+      "mrr": 1.0,
+      "rouge_1": 0.45,
+      "semantic_sim": 0.195,
+      "coherence": 0.095,
+      "task_completion": 0.426,
+      "tool_use": 0.148,
+      "reasoning_depth": 0.0,
+      "autonomy": 0.075,
+      "multi_agent": 0.015
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

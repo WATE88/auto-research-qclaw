@@ -1,0 +1,174 @@
+{
+  "topic": "knowledge graph RAG",
+  "timestamp": "2026-03-31T12:49:42.920533",
+  "findings": [
+    {
+      "title": "getzep/graphiti",
+      "url": "https://github.com/getzep/graphiti",
+      "description": "Build Real-Time Knowledge Graphs for AI Agents",
+      "stars": 24359,
+      "source": "github"
+    },
+    {
+      "title": "abhigyanpatwari/GitNexus",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "stars": 20864,
+      "source": "github"
+    },
+    {
+      "title": "xerrors/Yuxi",
+      "url": "https://github.com/xerrors/Yuxi",
+      "description": "结合知识库管理的 Agent Harness 平台。 An agent harness that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.",
+      "stars": 4739,
+      "source": "github"
+    },
+    {
+      "title": "OSU-NLP-Group/HippoRAG",
+      "url": "https://github.com/OSU-NLP-Group/HippoRAG",
+      "description": "[NeurIPS'24] HippoRAG is a novel RAG framework inspired by human long-term memory that enables LLMs to continuously integrate knowledge across external documents. RAG + Knowledge Graphs + Personalized PageRank.",
+      "stars": 3321,
+      "source": "github"
+    },
+    {
+      "title": "pingcap/autoflow",
+      "url": "https://github.com/pingcap/autoflow",
+      "description": "pingcap/autoflow is a Graph RAG based and conversational knowledge base tool built with TiDB Serverless Vector Storage. Demo: https://tidb.ai",
+      "stars": 2755,
+      "source": "github"
+    },
+    {
+      "title": "Azure-Samples/graphrag-accelerator",
+      "url": "https://github.com/Azure-Samples/graphrag-accelerator",
+      "description": "One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure",
+      "stars": 2413,
+      "source": "github"
+    },
+    {
+      "title": "1517005260/graph-rag-agent",
+      "url": "https://github.com/1517005260/graph-rag-agent",
+      "description": "拼好RAG：手搓并融合了GraphRAG、LightRAG、Neo4j-llm-graph-builder进行知识图谱构建以及搜索；整合DeepSearch技术实现私域RAG的推理；自制针对GraphRAG的评估框架| Integrate GraphRAG, LightRAG, and Neo4j-llm-graph-builder for knowledge graph construction and search. Combine DeepSearch for private RAG reasoning. Create a custom evaluation framework for GraphRAG.",
+      "stars": 2043,
+      "source": "github"
+    },
+    {
+      "title": "doobidoo/mcp-memory-service",
+      "url": "https://github.com/doobidoo/mcp-memory-service",
+      "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.",
+      "stars": 1584,
+      "source": "github"
+    },
+    {
+      "title": "Zleap-AI/SAG",
+      "url": "https://github.com/Zleap-AI/SAG",
+      "description": "SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RAG Engine · Automatically Build Knowledge Graph During Querying",
+      "stars": 1122,
+      "source": "github"
+    },
+    {
+      "title": "BaranziniLab/KG_RAG",
+      "url": "https://github.com/BaranziniLab/KG_RAG",
+      "description": "Empower Large Language Models (LLM) using Knowledge Graph based Retrieval-Augmented Generation (KG-RAG) for knowledge intensive tasks",
+      "stars": 940,
+      "source": "github"
+    },
+    {
+      "title": "GreatScottyMac/context-portal",
+      "url": "https://github.com/GreatScottyMac/context-portal",
+      "description": "Context Portal (ConPort): A memory bank MCP server building a project-specific knowledge graph to supercharge AI assistants. Enables powerful Retrieval Augmented Generation (RAG) for context-aware development in your IDE.",
+      "stars": 760,
+      "source": "github"
+    },
+    {
+      "title": "HKUST-KnowComp/AutoSchemaKG",
+      "url": "https://github.com/HKUST-KnowComp/AutoSchemaKG",
+      "description": "This repository contains the implementation of AutoSchemaKG, a novel framework for automatic knowledge graph construction that combines schema generation via conceptualization.",
+      "stars": 718,
+      "source": "github"
+    },
+    {
+      "title": "VincentGranville/Large-Language-Models",
+      "url": "https://github.com/VincentGranville/Large-Language-Models",
+      "description": "xLLM 1.0, smart crawling, knowledge graph discovery. ",
+      "stars": 472,
+      "source": "github"
+    },
+    {
+      "title": "Warma10032/cyber-doctor",
+      "url": "https://github.com/Warma10032/cyber-doctor",
+      "description": "赛博医生项目——”赛博华佗“，基于多模态大模型的多功能智能体，一键搭建本地多模态大模型。接入医疗健康相关的知识图谱和知识库后可以进行疾病初诊，病历分析，专业知识问答等功能，成为你的私人医生。赛博华佗项目能帮助实现医疗资源的跨地域传播，让更多人借助大模型改善健康水平。\"Cyber ​​Huatuo\" - Easy to build a personal doctor agent based on LLM and Knowledge Graph/Knowledge Database.",
+      "stars": 393,
+      "source": "github"
+    },
+    {
+      "title": "LHRLAB/HyperGraphRAG",
+      "url": "https://github.com/LHRLAB/HyperGraphRAG",
+      "description": "[NeurIPS 2025] Official resources of \"HyperGraphRAG: Retrieval-Augmented Generation via Hypergraph-Structured Knowledge Representation\".",
+      "stars": 358,
+      "source": "github"
+    },
+    {
+      "title": "Ramseygithub/ai-legal-compliance-assistant",
+      "url": "https://github.com/Ramseygithub/ai-legal-compliance-assistant",
+      "description": "AI-powered legal compliance assistant for alcohol beverage pricing laws — extracts, analyzes, and explains New York state-level regulationsusing RAG + knowledge-graph reasoning.",
+      "stars": 318,
+      "source": "github"
+    },
+    {
+      "title": "sribdcn/PersonalExam",
+      "url": "https://github.com/sribdcn/PersonalExam",
+      "description": "🧠 AI-powered Personalized Exam System: Integrating OpenPangu LLM, Knowledge Graph RAG, and BKT algorithm for adaptive question generation and recommendation. 基于LLM与知识图谱的智能个性化出题系统。",
+      "stars": 281,
+      "source": "github"
+    },
+    {
+      "title": "hfhoffman1144/langchain_neo4j_rag_app",
+      "url": "https://github.com/hfhoffman1144/langchain_neo4j_rag_app",
+      "description": "A knowledge graph RAG app using LangChain and Neo4j.",
+      "stars": 244,
+      "source": "github"
+    },
+    {
+      "title": "LeDat98/NexusRAG",
+      "url": "https://github.com/LeDat98/NexusRAG",
+      "description": "Hybrid RAG system combining vector search, knowledge graph (LightRAG), and cross-encoder reranking — with Docling document parsing, visual intelligence (image/table captioning), agentic streaming chat, and inline citations. Powered by Gemini or local Ollama models.",
+      "stars": 233,
+      "source": "github"
+    },
+    {
+      "title": "OriginTrail/dkg-engine",
+      "url": "https://github.com/OriginTrail/dkg-engine",
+      "description": "OriginTrail Decentralized Knowledge Graph network node",
+      "stars": 230,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.424,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.1,
+      "star_power": 0.14,
+      "diversity": 0.0,
+      "usability": 0.2,
+      "applicability": 0.275,
+      "coverage": 1.0,
+      "ndcg": 0.755,
+      "map": 1.0,
+      "mrr": 1.0,
+      "rouge_1": 0.8,
+      "semantic_sim": 0.36,
+      "coherence": 0.14,
+      "task_completion": 0.613,
+      "tool_use": 0.172,
+      "reasoning_depth": 0.037,
+      "autonomy": 0.1,
+      "multi_agent": 0.015
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "topic": "LLM agent tool calling",
+  "timestamp": "2026-04-01T16:05:31.239676",
+  "findings": [
+    {
+      "title": "langchain4j/langchain4j",
+      "url": "https://github.com/langchain4j/langchain4j",
+      "description": "LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks.",
+      "stars": 11411,
+      "source": "github"
+    },
+    {
+      "title": "aipotheosis-labs/aci",
+      "url": "https://github.com/aipotheosis-labs/aci",
+      "description": "ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps.",
+      "stars": 4753,
+      "source": "github"
+    },
+    {
+      "title": "Chen-zexi/open-ptc-agent",
+      "url": "https://github.com/Chen-zexi/open-ptc-agent",
+      "description": "An open source implementation of code execution with MCP (Programatic Tool Calling) ",
+      "stars": 695,
+      "source": "github"
+    },
+    {
+      "title": "Reason-Wang/ToolGen",
+      "url": "https://github.com/Reason-Wang/ToolGen",
+      "description": "[ICLR 2025] The official implementation of paper \"ToolGen: Unified Tool Retrieval and Calling via Generation\"",
+      "stars": 176,
+      "source": "github"
+    },
+    {
+      "title": "OoriData/Toolio",
+      "url": "https://github.com/OoriData/Toolio",
+      "description": "GenAI & agent toolkit for Apple Silicon Mac, implementing JSON schema-steered structured output (3SO) and tool-calling in Python. For more on 3SO: https://huggingface.co/blog/ucheog/llm-power-steering",
+      "stars": 133,
+      "source": "github"
+    },
+    {
+      "title": "j66n/acte",
+      "url": "https://github.com/j66n/acte",
+      "description": "A framework to build GUI-like Agent Tools, enhancement to Function Calling of LLM AI.",
+      "stars": 93,
+      "source": "github"
+    },
+    {
+      "title": "Oct4Pie/toolbridge",
+      "url": "https://github.com/Oct4Pie/toolbridge",
+      "description": "Enable tool/function calling for any LLM, in OpenAI and Ollama API formats, adding universal function calling to models without native support. Use local or cloud models with full agent capabilities.",
+      "stars": 74,
+      "source": "github"
+    },
+    {
+      "title": "TheUncharted/zapcode",
+      "url": "https://github.com/TheUncharted/zapcode",
+      "description": "TypeScript interpreter for AI agents. Written in Rust. 2µs cold start. Sandboxed. Alternative to MCP tool calling.",
+      "stars": 55,
+      "source": "github"
+    },
+    {
+      "title": "dleerdefi/peak-ai-agent-stack",
+      "url": "https://github.com/dleerdefi/peak-ai-agent-stack",
+      "description": "RinAI agentic chat stack. Includes graphRAG memory, parallel tool calling, DeepSeek R1 powered web search, advanced LLM gateway and active context summarization.",
+      "stars": 50,
+      "source": "github"
+    },
+    {
+      "title": "agenticloops-ai/agentic-ai-engineering",
+      "url": "https://github.com/agenticloops-ai/agentic-ai-engineering",
+      "description": "Hands-on tutorials for building AI agents from scratch. Learn LLM APIs, prompt engineering, tool calling, and the agent loop through practical examples.",
+      "stars": 45,
+      "source": "github"
+    },
+    {
+      "title": "Maximilian-Winter/ToolAgents",
+      "url": "https://github.com/Maximilian-Winter/ToolAgents",
+      "description": "ToolAgents is a lightweight and flexible framework for creating function-calling agents with various language models and APIs.",
+      "stars": 30,
+      "source": "github"
+    },
+    {
+      "title": "kennethleungty/Wikipedia-Scraping-with-LLM-Agents",
+      "url": "https://github.com/kennethleungty/Wikipedia-Scraping-with-LLM-Agents",
+      "description": "Scraping Wikipedia by combining LangChain's agents and tools with OpenAI's LLMs and function calling",
+      "stars": 28,
+      "source": "github"
+    },
+    {
+      "title": "MiXaiLL76/n8n-nodes-sgr-tool-calling",
+      "url": "https://github.com/MiXaiLL76/n8n-nodes-sgr-tool-calling",
+      "description": "Hybrid Schema-Guided Reasoning (SGR) has agentic system design created by neuraldeep community ",
+      "stars": 26,
+      "source": "github"
+    },
+    {
+      "title": "neuledge/graph",
+      "url": "https://github.com/neuledge/graph",
+      "description": "⚡️ Real-time Knowledge Graph for AI Agents. Connect LLMs to verified weather, stock, and currency data via instant tool-calling. No API keys, no scrapers, just grounded facts in <100ms.",
+      "stars": 25,
+      "source": "github"
+    },
+    {
+      "title": "HaxxorCialtion/SimpleTool",
+      "url": "https://github.com/HaxxorCialtion/SimpleTool",
+      "description": "A method to use LLM function calling with real-time level speed, empowering latency-sensitive applications like robotics, game AI, and autonomous agents.",
+      "stars": 24,
+      "source": "github"
+    },
+    {
+      "title": "vanvuongngo/ClaraN",
+      "url": "https://github.com/vanvuongngo/ClaraN",
+      "description": "ClaraN — Privacy-first, fully local AI workspace with Ollama LLM chat, tool calling, agent builder, Stable Diffusion, and embedded n8n-style automation. Backend in Rust. Just your stack, your machines.",
+      "stars": 19,
+      "source": "github"
+    },
+    {
+      "title": "Szesnasty/ai-protector",
+      "url": "https://github.com/Szesnasty/ai-protector",
+      "description": "Ship AI agents with guardrails — not prayers. Self-hosted runtime protection for LLMs and tool-calling agents: block prompt injection, enforce tool permissions, redact sensitive data, and control what agents are allowed to do.",
+      "stars": 18,
+      "source": "github"
+    },
+    {
+      "title": "Ryota-Kawamura/Functions-Tools-and-Agents-with-LangChain",
+      "url": "https://github.com/Ryota-Kawamura/Functions-Tools-and-Agents-with-LangChain",
+      "description": "You’ll explore new advancements like ChatGPT’s function calling capability, and build a conversational agent using a new syntax called LangChain Expression Language (LCEL) for tasks like tagging, extraction, tool selection, and routing.",
+      "stars": 17,
+      "source": "github"
+    },
+    {
+      "title": "MiiFlow/miiflow-agent",
+      "url": "https://github.com/MiiFlow/miiflow-agent",
+      "description": "Lightweight Python SDK for LLMs with unified API across 9 providers. Built-in ReAct & Plan-Execute agents, streaming,   native tool calling, context injection, structured outputs, and observability.",
+      "stars": 17,
+      "source": "github"
+    },
+    {
+      "title": "woojubb/robota",
+      "url": "https://github.com/woojubb/robota",
+      "description": "TypeScript framework for building AI agents — multi-provider (Anthropic, OpenAI, Google), tool calling, permissions, hooks, streaming, and CLI coding assistant",
+      "stars": 16,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.463,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.05,
+      "star_power": 0.078,
+      "diversity": 0.0,
+      "usability": 0.3,
+      "applicability": 1.0,
+      "coverage": 1.0,
+      "ndcg": 0.735,
+      "map": 0.982,
+      "mrr": 1.0,
+      "rouge_1": 0.6,
+      "semantic_sim": 0.246,
+      "coherence": 0.103,
+      "task_completion": 0.614,
+      "tool_use": 0.39,
+      "reasoning_depth": 0.063,
+      "autonomy": 0.062,
+      "multi_agent": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

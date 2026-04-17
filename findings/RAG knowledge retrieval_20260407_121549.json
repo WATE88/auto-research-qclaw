@@ -1,0 +1,166 @@
+{
+  "topic": "RAG knowledge retrieval",
+  "timestamp": "2026-04-07T12:15:49.818223",
+  "findings": [
+    {
+      "title": "labring/FastGPT",
+      "url": "https://github.com/labring/FastGPT",
+      "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+      "stars": 27629,
+      "source": "github"
+    },
+    {
+      "title": "OpenSPG/KAG",
+      "url": "https://github.com/OpenSPG/KAG",
+      "description": "KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs.  It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.",
+      "stars": 8656,
+      "source": "github"
+    },
+    {
+      "title": "BaranziniLab/KG_RAG",
+      "url": "https://github.com/BaranziniLab/KG_RAG",
+      "description": "Empower Large Language Models (LLM) using Knowledge Graph based Retrieval-Augmented Generation (KG-RAG) for knowledge intensive tasks",
+      "stars": 941,
+      "source": "github"
+    },
+    {
+      "title": "GreatScottyMac/context-portal",
+      "url": "https://github.com/GreatScottyMac/context-portal",
+      "description": "Context Portal (ConPort): A memory bank MCP server building a project-specific knowledge graph to supercharge AI assistants. Enables powerful Retrieval Augmented Generation (RAG) for context-aware development in your IDE.",
+      "stars": 760,
+      "source": "github"
+    },
+    {
+      "title": "IAAR-Shanghai/Awesome-AI-Memory",
+      "url": "https://github.com/IAAR-Shanghai/Awesome-AI-Memory",
+      "description": "Awesome AI Memory | LLM Memory | A curated knowledge base on AI memory for LLMs and agents, covering long-term memory, reasoning, retrieval, and memory-native system design.  Awesome-AI-Memory 是一个 集中式、持续更新的 AI 记忆知识库，系统性整理了与 大模型记忆（LLM Memory）与智能体记忆（Agent Memory） 相关的前沿研究、工程框架、系统设计、评测基准与真实应用实践。",
+      "stars": 667,
+      "source": "github"
+    },
+    {
+      "title": "hhy-huang/HiRAG",
+      "url": "https://github.com/hhy-huang/HiRAG",
+      "description": "[EMNLP'25 findings] This is the official repo for the paper, HiRAG: Retrieval-Augmented Generation with Hierarchical Knowledge.",
+      "stars": 528,
+      "source": "github"
+    },
+    {
+      "title": "ConardLi/rag-skill",
+      "url": "https://github.com/ConardLi/rag-skill",
+      "description": "A Skill dedicated to local knowledge base retrieval",
+      "stars": 526,
+      "source": "github"
+    },
+    {
+      "title": "gpt-open/rag-gpt",
+      "url": "https://github.com/gpt-open/rag-gpt",
+      "description": "RAG-GPT, leveraging LLM and RAG technology, learns from user-customized knowledge bases to provide contextually relevant answers for a wide range of queries, ensuring rapid and accurate information retrieval.",
+      "stars": 490,
+      "source": "github"
+    },
+    {
+      "title": "henrydaum/second-brain",
+      "url": "https://github.com/henrydaum/second-brain",
+      "description": "Second Brain is a desktop application that acts as a personal knowledge base, using retrieval-augmented generation (RAG), multimodal AI models, and a hybrid lexical/semantic search algorithm to interact with local text files and images.",
+      "stars": 446,
+      "source": "github"
+    },
+    {
+      "title": "LHRLAB/HyperGraphRAG",
+      "url": "https://github.com/LHRLAB/HyperGraphRAG",
+      "description": "[NeurIPS 2025] Official resources of \"HyperGraphRAG: Retrieval-Augmented Generation via Hypergraph-Structured Knowledge Representation\".",
+      "stars": 363,
+      "source": "github"
+    },
+    {
+      "title": "mangopy/direct-rag-learning",
+      "url": "https://github.com/mangopy/direct-rag-learning",
+      "description": "Official code for TOIS2026 \"Direct Retrieval-augmented Optimization: Synergizing Knowledge Selection and Language Models\"",
+      "stars": 274,
+      "source": "github"
+    },
+    {
+      "title": "sleeepeer/PoisonedRAG",
+      "url": "https://github.com/sleeepeer/PoisonedRAG",
+      "description": "[USENIX Security 2025] PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models",
+      "stars": 250,
+      "source": "github"
+    },
+    {
+      "title": "docugami/KG-RAG-datasets",
+      "url": "https://github.com/docugami/KG-RAG-datasets",
+      "description": "Knowledge Graph Retrieval Augmented Generation (KG-RAG) Eval Datasets",
+      "stars": 205,
+      "source": "github"
+    },
+    {
+      "title": "alphapro-club/Launch",
+      "url": "https://github.com/alphapro-club/Launch",
+      "description": "Launching the \"Agent Creation Toolkit\", providing developers with an intuitive and efficient Development Environment, supporting the rapid construction of intelligent agents. The toolkit will integrate RAG (Retrieval-Augmented Generation) Knowledge Base and LLMOps toolchain.",
+      "stars": 202,
+      "source": "github"
+    },
+    {
+      "title": "Trae1ounG/DyPRAG",
+      "url": "https://github.com/Trae1ounG/DyPRAG",
+      "description": "[arxiv: 2503.23895] Dynamic Parametric Retrieval Augmented Generation for Test-time Knowledge Enhancement",
+      "stars": 176,
+      "source": "github"
+    },
+    {
+      "title": "Graph-COM/SubgraphRAG",
+      "url": "https://github.com/Graph-COM/SubgraphRAG",
+      "description": "[ICLR 2025] Simple is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation",
+      "stars": 171,
+      "source": "github"
+    },
+    {
+      "title": "AndrewNgo-ini/agentic_rag",
+      "url": "https://github.com/AndrewNgo-ini/agentic_rag",
+      "description": "A fully custom chatbot built with Agentic RAG (Retrieval-Augmented Generation), combining Gemini models with a local knowledge base for accurate, context-aware, and explainable responses. Features a lightweight, dependency-free frontend and a streamlined FastAPI backend for complete control and simplicity.",
+      "stars": 165,
+      "source": "github"
+    },
+    {
+      "title": "gustavoeenriquez/MakerAi",
+      "url": "https://github.com/gustavoeenriquez/MakerAi",
+      "description": "The AI Operating System for Delphi. 100% native framework with RAG 2.0 for knowledge retrieval, autonomous agents with semantic memory, visual workflow orchestration, and universal LLM connector. Supports OpenAI, Claude, Gemini, Ollama, and more. Enterprise-grade AI for Delphi 10.3+",
+      "stars": 158,
+      "source": "github"
+    },
+    {
+      "title": "KnowledgeXLab/LeanRAG",
+      "url": "https://github.com/KnowledgeXLab/LeanRAG",
+      "description": "Knowledge-Graph-Based Generation with Semantic Aggregation and Hierarchical Retrieval",
+      "stars": 139,
+      "source": "github"
+    },
+    {
+      "title": "YZ-Cai/SimGRAG",
+      "url": "https://github.com/YZ-Cai/SimGRAG",
+      "description": "Official code of the ACL 2025 paper \"SimGRAG: Leveraging Similar Subgraphs for Knowledge Graphs Driven Retrieval-Augmented Generation\"",
+      "stars": 136,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.605,
+    "grade": "B",
+    "dimensions": {
+      "authority": 0.9,
+      "star_power": 0.078,
+      "diversity": 0.0,
+      "coverage": 1.0,
+      "ndcg": 0.672,
+      "map": 1.0,
+      "mrr": 1.0,
+      "rouge_1": 0.833,
+      "semantic_sim": 0.305,
+      "task_completion": 0.468,
+      "tool_use": 0.1,
+      "reasoning_depth": 0.05,
+      "autonomy": 0.075
+    }
+  }
+}

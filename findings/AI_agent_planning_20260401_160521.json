@@ -1,0 +1,174 @@
+{
+  "topic": "AI agent planning",
+  "timestamp": "2026-04-01T16:05:21.333049",
+  "findings": [
+    {
+      "title": "langchain-ai/deepagents",
+      "url": "https://github.com/langchain-ai/deepagents",
+      "description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
+      "stars": 18465,
+      "source": "github"
+    },
+    {
+      "title": "MervinPraison/PraisonAI",
+      "url": "https://github.com/MervinPraison/PraisonAI",
+      "description": "PraisonAI 🦞 - Your 24/7 AI employee team. Automate and solve complex challenges with low-code multi-agent AI that plans, researches, codes, and delivers to Telegram, Discord, and WhatsApp. Handoffs, guardrails, memory, RAG, 100+ LLMs.",
+      "stars": 6140,
+      "source": "github"
+    },
+    {
+      "title": "smallcloudai/refact",
+      "url": "https://github.com/smallcloudai/refact",
+      "description": "AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.",
+      "stars": 3528,
+      "source": "github"
+    },
+    {
+      "title": "darrenhinde/OpenAgentsControl",
+      "url": "https://github.com/darrenhinde/OpenAgentsControl",
+      "description": "AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built for OpenCode",
+      "stars": 3167,
+      "source": "github"
+    },
+    {
+      "title": "MLSysOps/MLE-agent",
+      "url": "https://github.com/MLSysOps/MLE-agent",
+      "description": "🤖 MLE-Agent: Your intelligent companion for seamless AI engineering and research. 🔍 Integrate with arxiv and paper with code to provide better code/research plans 🧰 OpenAI, Anthropic, Gemini, Ollama, etc supported. :fireworks: Code RAG",
+      "stars": 1537,
+      "source": "github"
+    },
+    {
+      "title": "FireRedTeam/FireRed-OpenStoryline",
+      "url": "https://github.com/FireRedTeam/FireRed-OpenStoryline",
+      "description": "FireRed-OpenStoryline is an AI video editing agent that transforms manual editing into intention-driven directing through natural language interaction, LLM-powered planning, and precise tool orchestration. It facilitates transparent, human-in-the-loop creation with reusable Style Skills for consistent, professional storytelling.",
+      "stars": 1482,
+      "source": "github"
+    },
+    {
+      "title": "softaworks/agent-toolkit",
+      "url": "https://github.com/softaworks/agent-toolkit",
+      "description": "A curated collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities across development, documentation, planning, and professional workflows.",
+      "stars": 1314,
+      "source": "github"
+    },
+    {
+      "title": "masamasa59/ai-agent-papers",
+      "url": "https://github.com/masamasa59/ai-agent-papers",
+      "description": "A collection of AI Agents papers (Updated biweekly)",
+      "stars": 1241,
+      "source": "github"
+    },
+    {
+      "title": "uluckyXH/OpenMOSS",
+      "url": "https://github.com/uluckyXH/OpenMOSS",
+      "description": "A self-organizing multi-agent collaboration platform for OpenClaw. Multiple AI agents work as an autonomous team — planning, executing, reviewing, and patrolling tasks with zero human intervention.",
+      "stars": 1070,
+      "source": "github"
+    },
+    {
+      "title": "Agent-Field/SWE-AF",
+      "url": "https://github.com/Agent-Field/SWE-AF",
+      "description": "Autonomous software engineering fleet of AI agents for production-grade PRs on AgentField: plan, code, test, and ship.",
+      "stars": 660,
+      "source": "github"
+    },
+    {
+      "title": "langtalks/swe-agent",
+      "url": "https://github.com/langtalks/swe-agent",
+      "description": "🤖 AI-powered software engineering multi-agent system with researcher and developer agents that automate code implementation through intelligent planning and execution. Built with LangGraph multi-agent workflows",
+      "stars": 623,
+      "source": "github"
+    },
+    {
+      "title": "vstorm-co/pydantic-deepagents",
+      "url": "https://github.com/vstorm-co/pydantic-deepagents",
+      "description": "Python Deep Agent framework built on top of Pydantic-AI, designed to help you quickly build production-grade autonomous AI agents with planning, filesystem operations, subagent delegation, skills, and structured outputs—in just 10 lines of code.",
+      "stars": 605,
+      "source": "github"
+    },
+    {
+      "title": "SixHq/Overture",
+      "url": "https://github.com/SixHq/Overture",
+      "description": "Overture is an open-source, locally running web interface delivered as an MCP (Model Context Protocol) server that visually maps out the execution plan of any AI coding agent as an interactive flowchart/graph before the agent begins writing code. ",
+      "stars": 605,
+      "source": "github"
+    },
+    {
+      "title": "ru-yee/Life-Agent-RU-YEE",
+      "url": "https://github.com/ru-yee/Life-Agent-RU-YEE",
+      "description": "Life Agent RU YEE — An AI-powered life management agent that autonomously        handles daily routines including meal planning, grocery shopping, schedule    coordination, and household task automation via cloud-based mobile agents.",
+      "stars": 581,
+      "source": "github"
+    },
+    {
+      "title": "Grigorij-Dudnik/Clean-Coder-AI",
+      "url": "https://github.com/Grigorij-Dudnik/Clean-Coder-AI",
+      "description": "✅2-in-1 AI Developer and Project Manager. AI agents plan an entire project in Todoist and code it task by task.",
+      "stars": 573,
+      "source": "github"
+    },
+    {
+      "title": "xark-argo/argo",
+      "url": "https://github.com/xark-argo/argo",
+      "description": "ARGO is an open-source AI Agent platform that brings Local Manus to your desktop. With one-click model downloads, seamless closed LLM integration, and offline-first RAG knowledge bases, ARGO becomes a DeepResearch powerhouse for autonomous thinking, task planning, and 100% of your data stays locally. Support Win/Mac/Docker.",
+      "stars": 493,
+      "source": "github"
+    },
+    {
+      "title": "calderbuild/VibeDoc",
+      "url": "https://github.com/calderbuild/VibeDoc",
+      "description": "🚀 Your AI Product Manager & Architect - Transform ideas into complete development plans with AI coding prompts in 60-180 seconds",
+      "stars": 372,
+      "source": "github"
+    },
+    {
+      "title": "NO-CHATBOT-REVOLUTION/full-self-coding",
+      "url": "https://github.com/NO-CHATBOT-REVOLUTION/full-self-coding",
+      "description": "No prompts, no instructions, no plans, you have 100~1000 AI agent coding in parallel now, solving all possible problems and issues in your codebase.",
+      "stars": 358,
+      "source": "github"
+    },
+    {
+      "title": "nth5693/gemini-kit",
+      "url": "https://github.com/nth5693/gemini-kit",
+      "description": "🚀 19 AI Agents + 44 Commands for Gemini CLI - Code 10x faster with auto planning, testing, review & security",
+      "stars": 298,
+      "source": "github"
+    },
+    {
+      "title": "alirezarezvani/claude-code-aso-skill",
+      "url": "https://github.com/alirezarezvani/claude-code-aso-skill",
+      "description": "AEO Automation Framework for Claude Code One-click, beginner friendly automation for GitHub. Includes a dedicated fleet of AEO sub-agents handling planning, execution, reports, actionable items, and executive summaries. Trigger work instantly with AEO slash-commands. Fully integrated as a Claude Code Skill and usable across Claude AI App",
+      "stars": 288,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.476,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.118,
+      "diversity": 0.0,
+      "usability": 0.1,
+      "applicability": 0.975,
+      "coverage": 1.0,
+      "ndcg": 0.898,
+      "map": 1.0,
+      "mrr": 1.0,
+      "rouge_1": 0.717,
+      "semantic_sim": 0.249,
+      "coherence": 0.147,
+      "task_completion": 0.561,
+      "tool_use": 0.133,
+      "reasoning_depth": 0.393,
+      "autonomy": 0.2,
+      "multi_agent": 0.09
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

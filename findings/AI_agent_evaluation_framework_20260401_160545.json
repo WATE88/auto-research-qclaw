@@ -1,0 +1,174 @@
+{
+  "topic": "AI agent evaluation framework",
+  "timestamp": "2026-04-01T16:05:45.585233",
+  "findings": [
+    {
+      "title": "raga-ai-hub/RagaAI-Catalyst",
+      "url": "https://github.com/raga-ai-hub/RagaAI-Catalyst",
+      "description": "Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced analytics with timeline and execution graph view ",
+      "stars": 16127,
+      "source": "github"
+    },
+    {
+      "title": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+      "stars": 13690,
+      "source": "github"
+    },
+    {
+      "title": "openlit/openlit",
+      "url": "https://github.com/openlit/openlit",
+      "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50+ LLM Providers, VectorDBs, Agent Frameworks and GPUs.",
+      "stars": 2332,
+      "source": "github"
+    },
+    {
+      "title": "mozilla-ai/any-agent",
+      "url": "https://github.com/mozilla-ai/any-agent",
+      "description": "A single interface to use and evaluate different agent frameworks ",
+      "stars": 1136,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/AIOpsLab",
+      "url": "https://github.com/microsoft/AIOpsLab",
+      "description": "A holistic framework to enable the design, development, and evaluation of autonomous AIOps agents.",
+      "stars": 846,
+      "source": "github"
+    },
+    {
+      "title": "awslabs/agent-evaluation",
+      "url": "https://github.com/awslabs/agent-evaluation",
+      "description": "A generative AI-powered framework for testing virtual agents.",
+      "stars": 354,
+      "source": "github"
+    },
+    {
+      "title": "reworkd/bananalyzer",
+      "url": "https://github.com/reworkd/bananalyzer",
+      "description": "Open source AI Agent evaluation framework for web tasks 🐒🍌",
+      "stars": 327,
+      "source": "github"
+    },
+    {
+      "title": "aielte-research/HackSynth",
+      "url": "https://github.com/aielte-research/HackSynth",
+      "description": "LLM Agent and Evaluation Framework for Autonomous Penetration Testing ",
+      "stars": 302,
+      "source": "github"
+    },
+    {
+      "title": "4aibsc/4AI-Agent-Space",
+      "url": "https://github.com/4aibsc/4AI-Agent-Space",
+      "description": "Agent Space is an open-source framework that automatically selects the appropriate agent based on task requirements, executes the task, evaluates the results, and returns the result.",
+      "stars": 206,
+      "source": "github"
+    },
+    {
+      "title": "sunblaze-ucb/cybergym",
+      "url": "https://github.com/sunblaze-ucb/cybergym",
+      "description": "CyberGym is a large-scale, high-quality cybersecurity evaluation framework designed to rigorously assess the capabilities of AI agents on real-world vulnerability analysis tasks.",
+      "stars": 191,
+      "source": "github"
+    },
+    {
+      "title": "facebookresearch/aira-dojo",
+      "url": "https://github.com/facebookresearch/aira-dojo",
+      "description": "AIRA-dojo: a framework for developing and evaluating AI research agents",
+      "stars": 136,
+      "source": "github"
+    },
+    {
+      "title": "scabench-org/scabench",
+      "url": "https://github.com/scabench-org/scabench",
+      "description": "A framework for evaluating AI audit agents using recent real-world data",
+      "stars": 105,
+      "source": "github"
+    },
+    {
+      "title": "strands-agents/evals",
+      "url": "https://github.com/strands-agents/evals",
+      "description": "A comprehensive evaluation framework for AI agents and LLM applications.",
+      "stars": 96,
+      "source": "github"
+    },
+    {
+      "title": "Mengmeara/agent-safe-probe-x",
+      "url": "https://github.com/Mengmeara/agent-safe-probe-x",
+      "description": "ASP-X (Agent Safe Probe X) — An open-source framework for automated safety evaluation of intelligent agents, providing systematic, extensible tools for probing and assessing AI safety across diverse environments.",
+      "stars": 83,
+      "source": "github"
+    },
+    {
+      "title": "AgentEvalHQ/AgentEval",
+      "url": "https://github.com/AgentEvalHQ/AgentEval",
+      "description": "AgentEval is the comprehensive .NET toolkit for AI agent evaluation—tool usage validation, RAG quality metrics, stochastic evaluation, and model comparison—built first for Microsoft Agent Framework (MAF) and Microsoft.Extensions.AI. What RAGAS, PromptFoo and DeepEval do for Python, AgentEval does for .NET",
+      "stars": 78,
+      "source": "github"
+    },
+    {
+      "title": "aws-samples/sample-getting-started-with-strands-agents-course",
+      "url": "https://github.com/aws-samples/sample-getting-started-with-strands-agents-course",
+      "description": "Learn to build AI agents with Strands framework. Covers LLM integration via Amazon Bedrock/Anthropic, AWS service connections, tool implementation with MCP/A2A protocols, and agent evaluation using LangFuse/RAGAS.",
+      "stars": 73,
+      "source": "github"
+    },
+    {
+      "title": "velocitybolt/synkro",
+      "url": "https://github.com/velocitybolt/synkro",
+      "description": "AI agent simulation framework",
+      "stars": 67,
+      "source": "github"
+    },
+    {
+      "title": "kajogo777/the-agent-sandbox-taxonomy",
+      "url": "https://github.com/kajogo777/the-agent-sandbox-taxonomy",
+      "description": "An open taxonomy and scoring framework for evaluating AI agent sandboxes: 7 defense layers, 7 threat categories, 3 evaluation dimensions, 27 \"sandboxes\" scored.",
+      "stars": 47,
+      "source": "github"
+    },
+    {
+      "title": "Ancastal/AI-Recruitment-Agent",
+      "url": "https://github.com/Ancastal/AI-Recruitment-Agent",
+      "description": "A multi-agent recruitment assistant that leverages Microsoft AutoGen framework to streamline hiring processes. The system employs specialized AI agents working in concert to automate resume screening, candidate evaluation, and interview preparation.",
+      "stars": 36,
+      "source": "github"
+    },
+    {
+      "title": "ibm-self-serve-assets/JudgeIt-LLM-as-a-Judge",
+      "url": "https://github.com/ibm-self-serve-assets/JudgeIt-LLM-as-a-Judge",
+      "description": "Automation Framework using LLM-as-a-judge to evaluate of Agentic AI, RAG, Text2SQL at scale; that is a good proxy for human judgement.",
+      "stars": 34,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.438,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.112,
+      "diversity": 0.0,
+      "usability": 0.0,
+      "applicability": 1.0,
+      "coverage": 1.0,
+      "ndcg": 0.687,
+      "map": 1.0,
+      "mrr": 1.0,
+      "rouge_1": 0.7,
+      "semantic_sim": 0.348,
+      "coherence": 0.134,
+      "task_completion": 0.7,
+      "tool_use": 0.113,
+      "reasoning_depth": 0.01,
+      "autonomy": 0.15,
+      "multi_agent": 0.03
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

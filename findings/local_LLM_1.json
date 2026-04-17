@@ -1,0 +1,271 @@
+{
+  "topic": "local LLM",
+  "round": 1,
+  "timestamp": "2026-03-27T16:12:58.654266",
+  "findings": [
+    {
+      "title": "nomic-ai/gpt4all",
+      "url": "https://github.com/nomic-ai/gpt4all",
+      "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+      "stars": 77233,
+      "source": "github"
+    },
+    {
+      "title": "oobabooga/text-generation-webui",
+      "url": "https://github.com/oobabooga/text-generation-webui",
+      "description": "The original local LLM interface. Text, vision, tool-calling, training, and more. 100% offline.",
+      "stars": 46365,
+      "source": "github"
+    },
+    {
+      "title": "mudler/LocalAI",
+      "url": "https://github.com/mudler/LocalAI",
+      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
+      "stars": 44455,
+      "source": "github"
+    },
+    {
+      "title": "chatchat-space/Langchain-Chatchat",
+      "url": "https://github.com/chatchat-space/Langchain-Chatchat",
+      "description": "Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain ",
+      "stars": 37655,
+      "source": "github"
+    },
+    {
+      "title": "khoj-ai/khoj",
+      "url": "https://github.com/khoj-ai/khoj",
+      "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+      "stars": 33650,
+      "source": "github"
+    },
+    {
+      "title": "Fosowl/agenticSeek",
+      "url": "https://github.com/Fosowl/agenticSeek",
+      "description": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account)",
+      "stars": 25693,
+      "source": "github"
+    },
+    {
+      "title": "iOfficeAI/AionUi",
+      "url": "https://github.com/iOfficeAI/AionUi",
+      "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
+      "stars": 20258,
+      "source": "github"
+    },
+    {
+      "title": "dyad-sh/dyad",
+      "url": "https://github.com/dyad-sh/dyad",
+      "description": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!",
+      "stars": 19992,
+      "source": "github"
+    },
+    {
+      "title": "cocktailpeanut/dalai",
+      "url": "https://github.com/cocktailpeanut/dalai",
+      "description": "The simplest way to run LLaMA on your local machine",
+      "stars": 12976,
+      "source": "github"
+    },
+    {
+      "title": "h2oai/h2ogpt",
+      "url": "https://github.com/h2oai/h2ogpt",
+      "description": "Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/",
+      "stars": 12000,
+      "source": "github"
+    },
+    {
+      "title": "Zackriya-Solutions/meetily",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted,  Open-source Ai meeting note taker for macOS & Windows.  ",
+      "stars": 10768,
+      "source": "github"
+    },
+    {
+      "title": "Tiiny-AI/PowerInfer",
+      "url": "https://github.com/Tiiny-AI/PowerInfer",
+      "description": "High-speed Large Language Model Serving for Local Deployment",
+      "stars": 9135,
+      "source": "github"
+    },
+    {
+      "title": "intel/ipex-llm",
+      "url": "https://github.com/intel/ipex-llm",
+      "description": "Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, DeepSeek, Mixtral, Gemma, Phi, MiniCPM, Qwen-VL, MiniCPM-V, etc.) on Intel XPU (e.g., local PC with iGPU and NPU, discrete GPU such as Arc, Flex and Max); seamlessly integrate with llama.cpp, Ollama, HuggingFace, LangChain, LlamaIndex, vLLM, DeepSpeed, Axolotl, etc.",
+      "stars": 8741,
+      "source": "github"
+    },
+    {
+      "title": "CoplayDev/unity-mcp",
+      "url": "https://github.com/CoplayDev/unity-mcp",
+      "description": "Unity MCP acts as a bridge, allowing AI assistants (like Claude, Cursor) to interact directly with your Unity Editor via a local MCP (Model Context Protocol) Client. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
+      "stars": 7684,
+      "source": "github"
+    },
+    {
+      "title": "di-sukharev/opencommit",
+      "url": "https://github.com/di-sukharev/opencommit",
+      "description": "top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too",
+      "stars": 7222,
+      "source": "github"
+    },
+    {
+      "title": "JerryZLiu/Dayflow",
+      "url": "https://github.com/JerryZLiu/Dayflow",
+      "description": "The automatic work journal. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.",
+      "stars": 5871,
+      "source": "github"
+    },
+    {
+      "title": "gptme/gptme",
+      "url": "https://github.com/gptme/gptme",
+      "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!",
+      "stars": 4247,
+      "source": "github"
+    },
+    {
+      "title": "LearningCircuit/local-deep-research",
+      "url": "https://github.com/LearningCircuit/local-deep-research",
+      "description": "Local Deep Research achieves ~95% on SimpleQA benchmark (tested with GPT-4.1-mini). Supports local and cloud LLMs (Ollama, Google, Anthropic, ...). Searches 10+ sources - arXiv, PubMed, web, and your private documents. Everything Local & Encrypted.",
+      "stars": 4192,
+      "source": "github"
+    },
+    {
+      "title": "CaviraOSS/OpenMemory",
+      "url": "https://github.com/CaviraOSS/OpenMemory",
+      "description": "Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.",
+      "stars": 3776,
+      "source": "github"
+    },
+    {
+      "title": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.",
+      "stars": 3674,
+      "source": "github"
+    },
+    {
+      "title": "ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling",
+      "url": "https://arxiv.org/abs/2603.25746v1",
+      "abstract": "Multi-shot video generation is crucial for long narrative storytelling, yet current bidirectional architectures suffer from limited interactivity and high latency. We propose ShotStream, a novel causa",
+      "source": "arxiv"
+    },
+    {
+      "title": "MegaFlow: Zero-Shot Large Displacement Optical Flow",
+      "url": "https://arxiv.org/abs/2603.25739v1",
+      "abstract": "Accurate estimation of large displacement optical flow remains a critical challenge. Existing methods typically rely on iterative local search or/and domain-specific fine-tuning, which severely limits",
+      "source": "arxiv"
+    },
+    {
+      "title": "Training the Knowledge Base through Evidence Distillation and Write-Back Enrichment",
+      "url": "https://arxiv.org/abs/2603.25737v1",
+      "abstract": "The knowledge base in a retrieval-augmented generation (RAG) system is typically assembled once and never revised, even though the facts a query requires are often fragmented across documents and buri",
+      "source": "arxiv"
+    },
+    {
+      "title": "PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference",
+      "url": "https://arxiv.org/abs/2603.25730v1",
+      "abstract": "Autoregressive video diffusion models have demonstrated remarkable progress, yet they remain bottlenecked by intractable linear KV-cache growth, temporal repetition, and compounding errors during long",
+      "source": "arxiv"
+    },
+    {
+      "title": "Spectrum of SL(2,R)-characters: the once-punctured torus case",
+      "url": "https://arxiv.org/abs/2603.25714v1",
+      "abstract": "Consider a topological surface $Σ$. We introduce the spectrum of a representation from the fundamental group of $Σ$ to SL(2,R), which is a subset of projective measured lamination on the surface, whic",
+      "source": "arxiv"
+    },
+    {
+      "title": "Compiling molecular ultrastructure into neural dynamics",
+      "url": "https://arxiv.org/abs/2603.25713v1",
+      "abstract": "High-resolution brain imaging can now capture not just synapse locations but their molecular composition, with the cost of such mapping falling exponentially. Yet such ultrastructural data has so far ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Nonlocal Portal to the Dark Sector",
+      "url": "https://arxiv.org/abs/2603.25712v1",
+      "abstract": "We propose a nonlocal realization of the Stueckelberg portal between the Standard Model and Dark Sector, which decouple in the local limit. This implies that the mediator, $U(1)_{\\rm D}$ Dark Photon $",
+      "source": "arxiv"
+    },
+    {
+      "title": "Seeing to Ground: Visual Attention for Hallucination-Resilient MDLLMs",
+      "url": "https://arxiv.org/abs/2603.25711v1",
+      "abstract": "Multimodal Diffusion Large Language Models (MDLLMs) achieve high-concurrency generation through parallel masked decoding, yet the architectures remain prone to multimodal hallucinations. This structur",
+      "source": "arxiv"
+    },
+    {
+      "title": "Stone Duality for Monads",
+      "url": "https://arxiv.org/abs/2603.25710v1",
+      "abstract": "We introduce a contravariant idempotent adjunction between (i) the category of ranked monads on $\\mathsf{Set}$; and (ii) the category of internal categories and internal retrofunctors in the category ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Anomalous thermoelectric Hall response of interacting 2D Dirac fermions",
+      "url": "https://arxiv.org/abs/2603.25705v1",
+      "abstract": "We study the anomalous thermoelectric Hall response of two-dimensional massive Dirac fermions to first order in the electron-electron interaction. We compute both the Nernst response to a Luttinger-ty",
+      "source": "arxiv"
+    },
+    {
+      "title": "S2D2: Fast Decoding for Diffusion LLMs via Training-Free Self-Speculation",
+      "url": "https://arxiv.org/abs/2603.25702v1",
+      "abstract": "Block-diffusion language models offer a promising path toward faster-than-autoregressive generation by combining block-wise autoregressive decoding with within-block parallel denoising. However, in th",
+      "source": "arxiv"
+    },
+    {
+      "title": "Magnetic field Controlled Anderson Delocalization in a Spinful Non-Hermitian Chain",
+      "url": "https://arxiv.org/abs/2603.25700v1",
+      "abstract": "Anderson localization (AL) and the non-Hermitian skin effect (NHSE) represent two paradigmatic localization phenomena driven, respectively, by disorder and non-Hermiticity. In one-dimensional (1D) non",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Kitchen Loop: User-Spec-Driven Development for a Self-Evolving Codebase",
+      "url": "https://arxiv.org/abs/2603.25697v1",
+      "abstract": "Code production is now a commodity; the bottleneck is knowing what to build and proving it works. We present the Kitchen Loop, a framework for autonomous, self-evolving software built on a unified tru",
+      "source": "arxiv"
+    },
+    {
+      "title": "Just Zoom In: Cross-View Geo-Localization via Autoregressive Zooming",
+      "url": "https://arxiv.org/abs/2603.25686v1",
+      "abstract": "Cross-view geo-localization (CVGL) estimates a camera's location by matching a street-view image to geo-referenced overhead imagery, enabling GPS-denied localization and navigation. Existing methods a",
+      "source": "arxiv"
+    },
+    {
+      "title": "Self-Improvement of Large Language Models: A Technical Overview and Future Outlook",
+      "url": "https://arxiv.org/abs/2603.25681v1",
+      "abstract": "As large language models (LLMs) continue to advance, improving them solely through human supervision is becoming increasingly costly and limited in scalability. As models approach human-level capabili",
+      "source": "arxiv"
+    },
+    {
+      "title": "Measuring What Matters -- or What's Convenient?: Robustness of LLM-Based Scoring Systems to Construct-Irrelevant Factors",
+      "url": "https://arxiv.org/abs/2603.25674v1",
+      "abstract": "Automated systems have been widely adopted across the educational testing industry for open-response assessment and essay scoring. These systems commonly achieve performance levels comparable to or su",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Quasicontinuum Method with Optimized Local Maximum-Entropy Interpolation and Heaviside Enrichment for Heterogeneous Lattices",
+      "url": "https://arxiv.org/abs/2603.25667v1",
+      "abstract": "Lattice systems are effective for modeling heterogeneous materials, but their computational cost is often prohibitive. The QuasiContinuum (QC) method reduces this cost by interpolating the lattice res",
+      "source": "arxiv"
+    },
+    {
+      "title": "SHAPR: Operationalising Human-AI Collaborative Research Through Structured Knowledge Generation",
+      "url": "https://arxiv.org/abs/2603.25660v1",
+      "abstract": "SHAPR (Solo Human-Centred and AI-Assisted Practice) is a framework for research software development that integrates human-centred decision-making with AI-assisted capabilities. While prior work intro",
+      "source": "arxiv"
+    },
+    {
+      "title": "Instance-optimal stochastic convex optimization: Can we improve upon sample-average and robust stochastic approximation?",
+      "url": "https://arxiv.org/abs/2603.25657v1",
+      "abstract": "We study the unconstrained minimization of a smooth and strongly convex population loss function under a stochastic oracle that introduces both additive and multiplicative noise; this is a canonical a",
+      "source": "arxiv"
+    },
+    {
+      "title": "Interfacial Polytype Engineering of Polymer-Derived SiC via Compositionally Complex MXene Templating",
+      "url": "https://arxiv.org/abs/2603.25652v1",
+      "abstract": "Controlling polytype selection in polymer-derived silicon carbide (SiC) remains challenging since stacking sequences are determined locally at the nucleation front. Here, we demonstrate an interface-d",
+      "source": "arxiv"
+    }
+  ],
+  "sources": [
+    "github",
+    "arxiv"
+  ]
+}

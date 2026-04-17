@@ -1,0 +1,159 @@
+{
+  "topic": "sentence embeddings",
+  "timestamp": "2026-03-30T13:05:15.222099",
+  "findings": [
+    {
+      "title": "huggingface/sentence-transformers",
+      "url": "https://github.com/huggingface/sentence-transformers",
+      "description": "State-of-the-Art Text Embeddings",
+      "stars": 18467,
+      "source": "github"
+    },
+    {
+      "title": "BlinkDL/RWKV-LM",
+      "url": "https://github.com/BlinkDL/RWKV-LM",
+      "description": "RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 \"Goose\". So it's combining the best of RNN and transformer - great performance, linear time, constant space (no kv-cache), fast training, infinite ctx_len, and free sentence embedding.",
+      "stars": 14446,
+      "source": "github"
+    },
+    {
+      "title": "jina-ai/clip-as-service",
+      "url": "https://github.com/jina-ai/clip-as-service",
+      "description": "🏄 Scalable embedding, reasoning, ranking for images and sentences with CLIP",
+      "stars": 12827,
+      "source": "github"
+    },
+    {
+      "title": "shibing624/text2vec",
+      "url": "https://github.com/shibing624/text2vec",
+      "description": "text2vec, text to vector. 文本向量表征工具，把文本转化为向量矩阵，实现了Word2Vec、RankBM25、Sentence-BERT、CoSENT等文本表征、文本相似度计算模型，开箱即用。",
+      "stars": 4957,
+      "source": "github"
+    },
+    {
+      "title": "princeton-nlp/SimCSE",
+      "url": "https://github.com/princeton-nlp/SimCSE",
+      "description": "[EMNLP 2021] SimCSE: Simple Contrastive Learning of Sentence Embeddings https://arxiv.org/abs/2104.08821",
+      "stars": 3647,
+      "source": "github"
+    },
+    {
+      "title": "Separius/awesome-sentence-embedding",
+      "url": "https://github.com/Separius/awesome-sentence-embedding",
+      "description": " A curated list of pretrained sentence and word embedding models",
+      "stars": 2290,
+      "source": "github"
+    },
+    {
+      "title": "facebookresearch/InferSent",
+      "url": "https://github.com/facebookresearch/InferSent",
+      "description": "InferSent sentence embeddings",
+      "stars": 2280,
+      "source": "github"
+    },
+    {
+      "title": "facebookresearch/SentEval",
+      "url": "https://github.com/facebookresearch/SentEval",
+      "description": "A python tool for evaluating the quality of sentence embeddings.",
+      "stars": 2106,
+      "source": "github"
+    },
+    {
+      "title": "yongzhuo/Keras-TextClassification",
+      "url": "https://github.com/yongzhuo/Keras-TextClassification",
+      "description": "中文长文本分类、短句子分类、多标签分类、两句子相似度（Chinese Text Classification of Keras NLP, multi-label classify, or sentence classify, long or short），字词句向量嵌入层（embeddings）和网络层（graph）构建基类，FastText，TextCNN，CharCNN，TextRNN,  RCNN,  DCNN, DPCNN, VDCNN, CRNN, Bert, Xlnet, Albert, Attention, DeepMoji, HAN, 胶囊网络-CapsuleNet, Transformer-encode,  Seq2seq,  SWEM, LEAM, TextGCN",
+      "stars": 1809,
+      "source": "github"
+    },
+    {
+      "title": "jasonwei20/eda_nlp",
+      "url": "https://github.com/jasonwei20/eda_nlp",
+      "description": "Data augmentation for NLP, presented at EMNLP 2019",
+      "stars": 1651,
+      "source": "github"
+    },
+    {
+      "title": "yongzhuo/nlp_xiaojiang",
+      "url": "https://github.com/yongzhuo/nlp_xiaojiang",
+      "description": "自然语言处理（nlp），小姜机器人（闲聊检索式chatbot），BERT句向量-相似度（Sentence Similarity），XLNET句向量-相似度（text xlnet embedding），文本分类（Text classification）， 实体提取（ner，bert+bilstm+crf），数据增强（text augment, data enhance），同义句同义词生成，句子主干提取（mainpart），中文汉语短文本相似度，文本特征工程，keras-http-service调用",
+      "stars": 1539,
+      "source": "github"
+    },
+    {
+      "title": "dhwajraj/deep-siamese-text-similarity",
+      "url": "https://github.com/dhwajraj/deep-siamese-text-similarity",
+      "description": "Tensorflow based implementation of deep siamese LSTM network to capture phrase/sentence similarity using character/word embeddings",
+      "stars": 1418,
+      "source": "github"
+    },
+    {
+      "title": "PrincetonML/SIF",
+      "url": "https://github.com/PrincetonML/SIF",
+      "description": "sentence embedding by Smooth Inverse Frequency weighting scheme",
+      "stars": 1087,
+      "source": "github"
+    },
+    {
+      "title": "vec2text/vec2text",
+      "url": "https://github.com/vec2text/vec2text",
+      "description": "utilities for decoding deep representations (like sentence embeddings) back to text",
+      "stars": 1083,
+      "source": "github"
+    },
+    {
+      "title": "facebookresearch/SONAR",
+      "url": "https://github.com/facebookresearch/SONAR",
+      "description": "SONAR, a new multilingual and multimodal fixed-size sentence embedding space, with a full suite of speech and text encoders and decoders.",
+      "stars": 877,
+      "source": "github"
+    },
+    {
+      "title": "Muennighoff/sgpt",
+      "url": "https://github.com/Muennighoff/sgpt",
+      "description": "SGPT: GPT Sentence Embeddings for Semantic Search",
+      "stars": 873,
+      "source": "github"
+    },
+    {
+      "title": "oborchers/Fast_Sentence_Embeddings",
+      "url": "https://github.com/oborchers/Fast_Sentence_Embeddings",
+      "description": "Compute Sentence Embeddings Fast!",
+      "stars": 625,
+      "source": "github"
+    },
+    {
+      "title": "ncbi-nlp/BioSentVec",
+      "url": "https://github.com/ncbi-nlp/BioSentVec",
+      "description": "BioWordVec & BioSentVec: pre-trained embeddings for biomedical words and sentences",
+      "stars": 611,
+      "source": "github"
+    },
+    {
+      "title": "SeanLee97/AnglE",
+      "url": "https://github.com/SeanLee97/AnglE",
+      "description": "Train and Infer Powerful Sentence Embeddings with AnglE | 🔥 SOTA on STS and MTEB Leaderboard",
+      "stars": 568,
+      "source": "github"
+    },
+    {
+      "title": "adobe/NLP-Cube",
+      "url": "https://github.com/adobe/NLP-Cube",
+      "description": "Natural Language Processing Pipeline - Sentence Splitting, Tokenization, Lemmatization, Part-of-speech Tagging and Dependency Parsing",
+      "stars": 563,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.31,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.2,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

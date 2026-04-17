@@ -1,0 +1,183 @@
+{
+  "topic": "AI agent benchmark evaluation",
+  "timestamp": "2026-03-31T12:01:50.522891",
+  "findings": [
+    {
+      "title": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "stars": 13332,
+      "updated_at": "2026-03-31T00:47:55Z",
+      "source": "github"
+    },
+    {
+      "title": "Tencent/AI-Infra-Guard",
+      "url": "https://github.com/Tencent/AI-Infra-Guard",
+      "description": "A full-stack AI Red Teaming platform securing AI ecosystems via OpenClaw Security Scan, Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
+      "stars": 3362,
+      "updated_at": "2026-03-31T01:18:44Z",
+      "source": "github"
+    },
+    {
+      "title": "Barca0412/Introduction-to-Quantitative-Finance",
+      "url": "https://github.com/Barca0412/Introduction-to-Quantitative-Finance",
+      "description": "入门资料整理：1.多因子股票量化框架开源教程 2.学界和业界的经典资料收录 3.AI + 金融的相关工作，包括LLM, Agent, benchmark(evaluation), etc.",
+      "stars": 1291,
+      "updated_at": "2026-03-30T09:40:33Z",
+      "source": "github"
+    },
+    {
+      "title": "Tencent/AICGSecEval",
+      "url": "https://github.com/Tencent/AICGSecEval",
+      "description": "A.S.E (AICGSecEval) is a repository-level AI-generated code security evaluation benchmark developed by Tencent Wukong Code Security Team.",
+      "stars": 1150,
+      "updated_at": "2026-03-31T02:02:17Z",
+      "source": "github"
+    },
+    {
+      "title": "pinchbench/skill",
+      "url": "https://github.com/pinchbench/skill",
+      "description": "PinchBench is a benchmarking system for evaluating LLM models as OpenClaw coding agents. Made with 🦀 by the humans at https://kilo.ai",
+      "stars": 864,
+      "updated_at": "2026-03-31T03:07:51Z",
+      "source": "github"
+    },
+    {
+      "title": "facebookresearch/meta-agents-research-environments",
+      "url": "https://github.com/facebookresearch/meta-agents-research-environments",
+      "description": "Meta Agents Research Environments is a comprehensive platform designed to evaluate AI agents in dynamic, realistic scenarios. Unlike static benchmarks, this platform introduces evolving environments where agents must adapt their strategies as new information becomes available, mirroring real-world challenges.",
+      "stars": 464,
+      "updated_at": "2026-03-30T09:54:48Z",
+      "source": "github"
+    },
+    {
+      "title": "InternScience/SGI-Bench",
+      "url": "https://github.com/InternScience/SGI-Bench",
+      "description": "Probing Scientific General Intelligence of LLMs with Scientist-Aligned Workflows",
+      "stars": 160,
+      "updated_at": "2026-03-30T15:34:51Z",
+      "source": "github"
+    },
+    {
+      "title": "MemTensor/HaluMem",
+      "url": "https://github.com/MemTensor/HaluMem",
+      "description": "HaluMem is the first operation level hallucination evaluation benchmark tailored to agent memory systems.",
+      "stars": 120,
+      "updated_at": "2026-03-30T04:28:03Z",
+      "source": "github"
+    },
+    {
+      "title": "philschmid/ai-agent-benchmark-compendium",
+      "url": "https://github.com/philschmid/ai-agent-benchmark-compendium",
+      "description": "Compendium of over 50 benchmarks for evaluating AI agents, categorized into Function Calling & Tool Use, General Assistant & Reasoning, Coding & Software Engineering, and Computer Interaction.",
+      "stars": 115,
+      "updated_at": "2026-03-31T03:27:02Z",
+      "source": "github"
+    },
+    {
+      "title": "QuesmaOrg/BinaryAudit",
+      "url": "https://github.com/QuesmaOrg/BinaryAudit",
+      "description": "An open-source benchmark for evaluating AI agents' ability to find backdoors hidden in compiled binaries.",
+      "stars": 77,
+      "updated_at": "2026-03-30T10:39:55Z",
+      "source": "github"
+    },
+    {
+      "title": "fdabench/FDAbench",
+      "url": "https://github.com/fdabench/FDAbench",
+      "description": "FDABench, a benchmark for evaluating data agents' reasoning ability over heterogeneous data in analytical scenarios.",
+      "stars": 56,
+      "updated_at": "2026-03-24T06:50:27Z",
+      "source": "github"
+    },
+    {
+      "title": "InternScience/ResearchClawBench",
+      "url": "https://github.com/InternScience/ResearchClawBench",
+      "description": "ResearchClawBench: Evaluating AI Agents for Automated Research from Re-Discovery to New-Discovery",
+      "stars": 50,
+      "updated_at": "2026-03-31T02:13:15Z",
+      "source": "github"
+    },
+    {
+      "title": "ml-dev-bench/ml-dev-bench",
+      "url": "https://github.com/ml-dev-bench/ml-dev-bench",
+      "description": "ML-Dev-Bench is a benchmark for evaluating AI agents against various ML development tasks.",
+      "stars": 42,
+      "updated_at": "2026-03-25T23:17:54Z",
+      "source": "github"
+    },
+    {
+      "title": "IBM/vakra",
+      "url": "https://github.com/IBM/vakra",
+      "description": "A Benchmark for Evaluating Multi-Hop, Multi-Source Tool-Calling in AI Agents",
+      "stars": 42,
+      "updated_at": "2026-03-31T03:08:25Z",
+      "source": "github"
+    },
+    {
+      "title": "The-Focus-AI/june-2025-coding-agent-report",
+      "url": "https://github.com/The-Focus-AI/june-2025-coding-agent-report",
+      "description": "Comprehensive evaluation of 15 AI coding agents (Cursor, Copilot, Claude, Replit, v0, Warp, etc.) with implementations, screenshots, and professional scoring. Published on Turing Post.",
+      "stars": 40,
+      "updated_at": "2025-11-06T11:07:17Z",
+      "source": "github"
+    },
+    {
+      "title": "facebookresearch/ai-agent-privacy",
+      "url": "https://github.com/facebookresearch/ai-agent-privacy",
+      "description": "Dataset and evaluation benchmark for Privacy Leakage Evaluation of Autonomous Web Agents",
+      "stars": 37,
+      "updated_at": "2026-03-28T11:05:07Z",
+      "source": "github"
+    },
+    {
+      "title": "FutureTwT/awesome-world-models-for-vla-agents",
+      "url": "https://github.com/FutureTwT/awesome-world-models-for-vla-agents",
+      "description": "Official repository for \"Towards Generalist Embodied AI: A Survey on World Models for VLA Agents\". This curated list systematically organizes core resources including research papers, foundation models, evaluation metrics, and benchmarks.",
+      "stars": 36,
+      "updated_at": "2026-03-30T03:21:51Z",
+      "source": "github"
+    },
+    {
+      "title": "chaosync-org/awesome-ai-agent-testing",
+      "url": "https://github.com/chaosync-org/awesome-ai-agent-testing",
+      "description": "🤖 A curated list of resources for testing AI agents - frameworks, methodologies, benchmarks, tools, and best practices for ensuring reliable, safe, and effective autonomous AI systems",
+      "stars": 31,
+      "updated_at": "2026-03-26T16:02:51Z",
+      "source": "github"
+    },
+    {
+      "title": "wangyu-ovo/aicrypto-agent",
+      "url": "https://github.com/wangyu-ovo/aicrypto-agent",
+      "description": "Code for the paper \"AICrypto: A Comprehensive Benchmark for Evaluating Cryptography Capabilities of Large Language Models\"",
+      "stars": 29,
+      "updated_at": "2026-03-16T13:18:07Z",
+      "source": "github"
+    },
+    {
+      "title": "pinchbench/leaderboard",
+      "url": "https://github.com/pinchbench/leaderboard",
+      "description": "PinchBench is a benchmarking system for evaluating LLM models as OpenClaw coding agents. Made with 🦀 by the humans at https://kilo.ai",
+      "stars": 27,
+      "updated_at": "2026-03-30T03:22:02Z",
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.552,
+    "grade": "B",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.8,
+      "star_power": 0.08,
+      "diversity": 0.0,
+      "usability": 0.0,
+      "applicability": 1.0,
+      "coverage": 1.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

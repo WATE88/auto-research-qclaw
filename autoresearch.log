@@ -1,0 +1,186 @@
+2026-04-07 11:31:15,024 [INFO] Initializing AutoResearch v4.8...
+2026-04-07 11:31:15,024 [INFO] Created default config at C:\Users\Admin\.qclaw\workspace\autoresearch\config\config.json
+2026-04-07 11:31:15,025 [INFO] Created C:\Users\Admin\.qclaw\workspace\autoresearch\config\topics.txt
+2026-04-07 11:31:15,025 [INFO] Initialization complete
+2026-04-07 11:31:20,824 [INFO] Loaded config from C:\Users\Admin\.qclaw\workspace\autoresearch\config\config.json
+2026-04-07 11:31:20,826 [INFO] Loaded config from C:\Users\Admin\.qclaw\workspace\autoresearch\config\config.json
+2026-04-07 11:31:20,826 [INFO] Loaded 10 topics from C:\Users\Admin\.qclaw\workspace\autoresearch\config\topics.txt
+2026-04-07 11:31:20,826 [INFO] Auto-run starting with 5 topics
+2026-04-07 11:31:20,826 [INFO] 
+[1/5] Processing: AI model benchmark
+2026-04-07 11:31:20,826 [INFO] 
+============================================================
+2026-04-07 11:31:20,827 [INFO] Research: AI model benchmark
+2026-04-07 11:31:20,827 [INFO] ============================================================
+2026-04-07 11:31:20,924 [INFO] [CACHE] GitHub: AI model benchmark -> 20 items
+2026-04-07 11:31:20,926 [INFO] Grade: C | Score: 0.489
+2026-04-07 11:31:20,926 [INFO] [Agent] task=0.375 tool=0.100
+2026-04-07 11:31:20,926 [INFO] [BEIR] NDCG=0.455 MAP=0.833
+2026-04-07 11:31:20,926 [INFO] Saved: AI model benchmark_20260407_113120.json
+2026-04-07 11:31:23,927 [INFO] 
+[2/5] Processing: LLM evaluation benchmark
+2026-04-07 11:31:23,927 [INFO] 
+============================================================
+2026-04-07 11:31:23,927 [INFO] Research: LLM evaluation benchmark
+2026-04-07 11:31:23,927 [INFO] ============================================================
+2026-04-07 11:31:24,016 [INFO] [CACHE] GitHub: LLM evaluation benchmark -> 20 items
+2026-04-07 11:31:24,018 [INFO] Grade: C | Score: 0.538
+2026-04-07 11:31:24,018 [INFO] [Agent] task=0.425 tool=0.033
+2026-04-07 11:31:24,018 [INFO] [BEIR] NDCG=0.582 MAP=0.982
+2026-04-07 11:31:24,018 [INFO] Saved: LLM evaluation benchmark_20260407_113124.json
+2026-04-07 11:31:27,034 [INFO] 
+[3/5] Processing: NLP evaluation
+2026-04-07 11:31:27,034 [INFO] 
+============================================================
+2026-04-07 11:31:27,034 [INFO] Research: NLP evaluation
+2026-04-07 11:31:27,034 [INFO] ============================================================
+2026-04-07 11:31:27,121 [INFO] [CACHE] GitHub: NLP evaluation -> 20 items
+2026-04-07 11:31:27,123 [INFO] Grade: D | Score: 0.389
+2026-04-07 11:31:27,123 [INFO] [Agent] task=0.333 tool=0.033
+2026-04-07 11:31:27,123 [INFO] [BEIR] NDCG=0.401 MAP=0.525
+2026-04-07 11:31:27,123 [INFO] Saved: NLP evaluation_20260407_113127.json
+2026-04-07 11:31:30,127 [INFO] 
+[4/5] Processing: RAG evaluation
+2026-04-07 11:31:30,127 [INFO] 
+============================================================
+2026-04-07 11:31:30,127 [INFO] Research: RAG evaluation
+2026-04-07 11:31:30,127 [INFO] ============================================================
+2026-04-07 11:31:30,214 [INFO] [CACHE] GitHub: RAG evaluation -> 20 items
+2026-04-07 11:31:30,216 [INFO] Grade: C | Score: 0.454
+2026-04-07 11:31:30,216 [INFO] [Agent] task=0.460 tool=0.067
+2026-04-07 11:31:30,216 [INFO] [BEIR] NDCG=0.368 MAP=0.642
+2026-04-07 11:31:30,216 [INFO] Saved: RAG evaluation_20260407_113130.json
+2026-04-07 11:31:33,220 [INFO] 
+[5/5] Processing: AI agent framework
+2026-04-07 11:31:33,220 [INFO] 
+============================================================
+2026-04-07 11:31:33,220 [INFO] Research: AI agent framework
+2026-04-07 11:31:33,220 [INFO] ============================================================
+2026-04-07 11:31:33,316 [INFO] [CACHE] GitHub: AI agent framework -> 20 items
+2026-04-07 11:31:33,318 [INFO] Grade: B | Score: 0.614
+2026-04-07 11:31:33,318 [INFO] [Agent] task=0.612 tool=0.033
+2026-04-07 11:31:33,318 [INFO] [BEIR] NDCG=0.674 MAP=0.970
+2026-04-07 11:31:33,318 [INFO] Saved: AI agent framework_20260407_113133.json
+2026-04-07 11:31:36,332 [INFO] 
+============================================================
+2026-04-07 11:31:36,332 [INFO] Auto-run completed
+2026-04-07 12:15:17,553 [INFO] Loaded config from C:\Users\Admin\.qclaw\workspace\autoresearch\config\config.json
+2026-04-07 12:15:17,553 [INFO] 
+============================================================
+2026-04-07 12:15:17,554 [INFO] Research: AI agent memory system
+2026-04-07 12:15:17,554 [INFO] ============================================================
+2026-04-07 12:15:18,952 [INFO] [OK] GitHub: AI agent memory system -> 20 items
+2026-04-07 12:15:18,955 [INFO] Grade: B | Score: 0.638
+2026-04-07 12:15:18,955 [INFO] [Agent] task=0.569 tool=0.200
+2026-04-07 12:15:18,955 [INFO] [BEIR] NDCG=0.658 MAP=1.000
+2026-04-07 12:15:18,955 [INFO] Saved: AI agent memory system_20260407_121518.json
+2026-04-07 12:15:23,925 [INFO] Loaded config from C:\Users\Admin\.qclaw\workspace\autoresearch\config\config.json
+2026-04-07 12:15:23,927 [INFO] 
+============================================================
+2026-04-07 12:15:23,927 [INFO] Research: LLM prompt engineering
+2026-04-07 12:15:23,927 [INFO] ============================================================
+2026-04-07 12:15:25,276 [INFO] [OK] GitHub: LLM prompt engineering -> 20 items
+2026-04-07 12:15:25,280 [INFO] Grade: B | Score: 0.650
+2026-04-07 12:15:25,280 [INFO] [Agent] task=0.585 tool=0.100
+2026-04-07 12:15:25,280 [INFO] [BEIR] NDCG=0.820 MAP=0.992
+2026-04-07 12:15:25,280 [INFO] Saved: LLM prompt engineering_20260407_121525.json
+2026-04-07 12:15:29,611 [INFO] Loaded config from C:\Users\Admin\.qclaw\workspace\autoresearch\config\config.json
+2026-04-07 12:15:29,612 [INFO] 
+============================================================
+2026-04-07 12:15:29,612 [INFO] Research: AI agent reasoning chain
+2026-04-07 12:15:29,612 [INFO] ============================================================
+2026-04-07 12:15:32,343 [INFO] [OK] GitHub: AI agent reasoning chain -> 20 items
+2026-04-07 12:15:32,349 [INFO] Grade: B | Score: 0.658
+2026-04-07 12:15:32,349 [INFO] [Agent] task=0.565 tool=0.333
+2026-04-07 12:15:32,349 [INFO] [BEIR] NDCG=0.720 MAP=1.000
+2026-04-07 12:15:32,349 [INFO] Saved: AI agent reasoning chain_20260407_121532.json
+2026-04-07 12:15:37,074 [INFO] Loaded config from C:\Users\Admin\.qclaw\workspace\autoresearch\config\config.json
+2026-04-07 12:15:37,076 [INFO] 
+============================================================
+2026-04-07 12:15:37,076 [INFO] Research: LLM fine-tuning optimization
+2026-04-07 12:15:37,076 [INFO] ============================================================
+2026-04-07 12:15:38,400 [INFO] [OK] GitHub: LLM fine-tuning optimization -> 20 items
+2026-04-07 12:15:38,404 [INFO] Grade: B | Score: 0.565
+2026-04-07 12:15:38,404 [INFO] [Agent] task=0.473 tool=0.050
+2026-04-07 12:15:38,404 [INFO] [BEIR] NDCG=0.639 MAP=0.955
+2026-04-07 12:15:38,404 [INFO] Saved: LLM fine-tuning optimization_20260407_121538.json
+2026-04-07 12:15:42,741 [INFO] Loaded config from C:\Users\Admin\.qclaw\workspace\autoresearch\config\config.json
+2026-04-07 12:15:42,742 [INFO] 
+============================================================
+2026-04-07 12:15:42,742 [INFO] Research: AI multimodal benchmark
+2026-04-07 12:15:42,743 [INFO] ============================================================
+2026-04-07 12:15:44,324 [INFO] [OK] GitHub: AI multimodal benchmark -> 20 items
+2026-04-07 12:15:44,327 [INFO] Grade: B | Score: 0.556
+2026-04-07 12:15:44,327 [INFO] [Agent] task=0.505 tool=0.100
+2026-04-07 12:15:44,327 [INFO] [BEIR] NDCG=0.572 MAP=0.874
+2026-04-07 12:15:44,327 [INFO] Saved: AI multimodal benchmark_20260407_121544.json
+2026-04-07 12:15:48,300 [INFO] Loaded config from C:\Users\Admin\.qclaw\workspace\autoresearch\config\config.json
+2026-04-07 12:15:48,301 [INFO] 
+============================================================
+2026-04-07 12:15:48,302 [INFO] Research: RAG knowledge retrieval
+2026-04-07 12:15:48,302 [INFO] ============================================================
+2026-04-07 12:15:49,815 [INFO] [OK] GitHub: RAG knowledge retrieval -> 20 items
+2026-04-07 12:15:49,819 [INFO] Grade: B | Score: 0.605
+2026-04-07 12:15:49,819 [INFO] [Agent] task=0.468 tool=0.100
+2026-04-07 12:15:49,819 [INFO] [BEIR] NDCG=0.672 MAP=1.000
+2026-04-07 12:15:49,819 [INFO] Saved: RAG knowledge retrieval_20260407_121549.json
+2026-04-07 12:15:55,663 [INFO] Loaded config from C:\Users\Admin\.qclaw\workspace\autoresearch\config\config.json
+2026-04-07 12:15:55,664 [INFO] 
+============================================================
+2026-04-07 12:15:55,664 [INFO] Research: AI agent tool calling
+2026-04-07 12:15:55,664 [INFO] ============================================================
+2026-04-07 12:15:57,101 [INFO] [OK] GitHub: AI agent tool calling -> 20 items
+2026-04-07 12:15:57,113 [INFO] Grade: B | Score: 0.682
+2026-04-07 12:15:57,113 [INFO] [Agent] task=0.570 tool=0.517
+2026-04-07 12:15:57,114 [INFO] [BEIR] NDCG=0.832 MAP=1.000
+2026-04-07 12:15:57,114 [INFO] Saved: AI agent tool calling_20260407_121557.json
+2026-04-07 12:16:01,603 [INFO] Loaded config from C:\Users\Admin\.qclaw\workspace\autoresearch\config\config.json
+2026-04-07 12:16:01,604 [INFO] 
+============================================================
+2026-04-07 12:16:01,604 [INFO] Research: LLM inference acceleration
+2026-04-07 12:16:01,604 [INFO] ============================================================
+2026-04-07 12:16:03,568 [INFO] [OK] GitHub: LLM inference acceleration -> 20 items
+2026-04-07 12:16:03,571 [INFO] Grade: B | Score: 0.642
+2026-04-07 12:16:03,571 [INFO] [Agent] task=0.603 tool=0.067
+2026-04-07 12:16:03,571 [INFO] [BEIR] NDCG=0.736 MAP=1.000
+2026-04-07 12:16:03,571 [INFO] Saved: LLM inference acceleration_20260407_121603.json
+2026-04-07 12:16:08,232 [INFO] Loaded config from C:\Users\Admin\.qclaw\workspace\autoresearch\config\config.json
+2026-04-07 12:16:08,233 [INFO] 
+============================================================
+2026-04-07 12:16:08,233 [INFO] Research: AI model quantization
+2026-04-07 12:16:08,233 [INFO] ============================================================
+2026-04-07 12:16:09,525 [INFO] [OK] GitHub: AI model quantization -> 20 items
+2026-04-07 12:16:09,531 [INFO] Grade: C | Score: 0.525
+2026-04-07 12:16:09,531 [INFO] [Agent] task=0.438 tool=0.067
+2026-04-07 12:16:09,531 [INFO] [BEIR] NDCG=0.585 MAP=0.826
+2026-04-07 12:16:09,531 [INFO] Saved: AI model quantization_20260407_121609.json
+2026-04-07 12:16:14,022 [INFO] Loaded config from C:\Users\Admin\.qclaw\workspace\autoresearch\config\config.json
+2026-04-07 12:16:14,023 [INFO] 
+============================================================
+2026-04-07 12:16:14,024 [INFO] Research: AI agent autonomous system
+2026-04-07 12:16:14,024 [INFO] ============================================================
+2026-04-07 12:16:15,417 [INFO] [OK] GitHub: AI agent autonomous system -> 20 items
+2026-04-07 12:16:15,420 [INFO] Grade: B | Score: 0.641
+2026-04-07 12:16:15,420 [INFO] [Agent] task=0.632 tool=0.167
+2026-04-07 12:16:15,420 [INFO] [BEIR] NDCG=0.646 MAP=1.000
+2026-04-07 12:16:15,420 [INFO] Saved: AI agent autonomous system_20260407_121615.json
+2026-04-07 14:42:24,511 [INFO] Loaded config from C:\Users\Admin\.qclaw\workspace\autoresearch\config\config.json
+2026-04-07 14:42:24,512 [INFO] 
+============================================================
+2026-04-07 14:42:24,512 [INFO] Research: cold chain logistics China import beef
+2026-04-07 14:42:24,512 [INFO] ============================================================
+2026-04-07 14:42:25,268 [INFO] [OK] GitHub: cold chain logistics China import beef -> 0 items
+2026-04-07 14:42:25,270 [INFO] Grade: F | Score: 0.000
+2026-04-07 14:42:25,270 [INFO] [Agent] task=0.000 tool=0.000
+2026-04-07 14:42:25,270 [INFO] [BEIR] NDCG=0.000 MAP=0.000
+2026-04-07 14:42:25,270 [INFO] Saved: cold chain logistics China import beef_20260407_144225.json
+2026-04-07 14:42:59,094 [INFO] Loaded config from C:\Users\Admin\.qclaw\workspace\autoresearch\config\config.json
+2026-04-07 14:42:59,095 [INFO] 
+============================================================
+2026-04-07 14:42:59,095 [INFO] Research: China cold chain logistics company
+2026-04-07 14:42:59,095 [INFO] ============================================================
+2026-04-07 14:42:59,782 [INFO] [OK] GitHub: China cold chain logistics company -> 0 items
+2026-04-07 14:42:59,783 [INFO] Grade: F | Score: 0.000
+2026-04-07 14:42:59,783 [INFO] [Agent] task=0.000 tool=0.000
+2026-04-07 14:42:59,783 [INFO] [BEIR] NDCG=0.000 MAP=0.000
+2026-04-07 14:42:59,783 [INFO] Saved: China cold chain logistics company_20260407_144259.json

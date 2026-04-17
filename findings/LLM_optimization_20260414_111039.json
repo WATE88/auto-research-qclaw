@@ -1,0 +1,280 @@
+{
+  "topic": "LLM optimization",
+  "timestamp": "2026-04-14T11:10:39.014096",
+  "findings": [
+    {
+      "title": "affaan-m/everything-claude-code",
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 154661,
+      "source": "github"
+    },
+    {
+      "title": "ray-project/ray",
+      "url": "https://github.com/ray-project/ray",
+      "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+      "stars": 42110,
+      "source": "github"
+    },
+    {
+      "title": "mlflow/mlflow",
+      "url": "https://github.com/mlflow/mlflow",
+      "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.",
+      "stars": 25336,
+      "source": "github"
+    },
+    {
+      "title": "emcie-co/parlant",
+      "url": "https://github.com/emcie-co/parlant",
+      "description": "The conversational control layer for customer-facing AI agents - Parlant is an agentic harness optimized for controlling customer interactions.",
+      "stars": 17919,
+      "source": "github"
+    },
+    {
+      "title": "kvcache-ai/ktransformers",
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "stars": 16966,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/TensorRT-LLM",
+      "url": "https://github.com/NVIDIA/TensorRT-LLM",
+      "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+      "stars": 13356,
+      "source": "github"
+    },
+    {
+      "title": "tensorzero/tensorzero",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "description": "TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.",
+      "stars": 11210,
+      "source": "github"
+    },
+    {
+      "title": "krillinai/KrillinAI",
+      "url": "https://github.com/krillinai/KrillinAI",
+      "description": "Video translation and dubbing tool powered by LLMs. The video translator offers 100 language translations and one-click full-process deployment. The video translation output is optimized for platforms like YouTube，TikTok.   AI视频翻译配音工具，100种语言双向翻译，一键部署全流程，可以生抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube等形态的内容成适配",
+      "stars": 9850,
+      "source": "github"
+    },
+    {
+      "title": "Marker-Inc-Korea/AutoRAG",
+      "url": "https://github.com/Marker-Inc-Korea/AutoRAG",
+      "description": "AutoRAG: An Open-Source Framework for Retrieval-Augmented Generation (RAG) Evaluation & Optimization with AutoML-Style Automation",
+      "stars": 4699,
+      "source": "github"
+    },
+    {
+      "title": "SylphAI-Inc/AdalFlow",
+      "url": "https://github.com/SylphAI-Inc/AdalFlow",
+      "description": "AdalFlow: The library to build & auto-optimize LLM applications.",
+      "stars": 4103,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/GenerativeAIExamples",
+      "url": "https://github.com/NVIDIA/GenerativeAIExamples",
+      "description": "Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.",
+      "stars": 3910,
+      "source": "github"
+    },
+    {
+      "title": "lemonade-sdk/lemonade",
+      "url": "https://github.com/lemonade-sdk/lemonade",
+      "description": "Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk",
+      "stars": 3522,
+      "source": "github"
+    },
+    {
+      "title": "algorithmicsuperintelligence/optillm",
+      "url": "https://github.com/algorithmicsuperintelligence/optillm",
+      "description": "Optimizing inference proxy for LLMs",
+      "stars": 3428,
+      "source": "github"
+    },
+    {
+      "title": "vllm-project/llm-compressor",
+      "url": "https://github.com/vllm-project/llm-compressor",
+      "description": "Transformers-compatible library for applying various compression algorithms to LLMs for optimized deployment with vLLM",
+      "stars": 3070,
+      "source": "github"
+    },
+    {
+      "title": "can1357/oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 2971,
+      "source": "github"
+    },
+    {
+      "title": "BBuf/how-to-optim-algorithm-in-cuda",
+      "url": "https://github.com/BBuf/how-to-optim-algorithm-in-cuda",
+      "description": "how to optimize some algorithm in cuda.",
+      "stars": 2916,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "stars": 2464,
+      "source": "github"
+    },
+    {
+      "title": "langfengQ/verl-agent",
+      "url": "https://github.com/langfengQ/verl-agent",
+      "description": "verl-agent is an extension of veRL, designed for training LLM/VLM agents via RL. verl-agent is also the official code for paper \"Group-in-Group Policy Optimization for LLM Agent Training\"",
+      "stars": 1790,
+      "source": "github"
+    },
+    {
+      "title": "facebookresearch/MobileLLM",
+      "url": "https://github.com/facebookresearch/MobileLLM",
+      "description": "MobileLLM Optimizing Sub-billion Parameter Language Models for On-Device Use Cases. In ICML 2024.",
+      "stars": 1421,
+      "source": "github"
+    },
+    {
+      "title": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "The Context Optimization Layer for LLM Applications",
+      "stars": 1291,
+      "source": "github"
+    },
+    {
+      "title": "Pair2Scene: Learning Local Object Relations for Procedural Scene Generation",
+      "url": "http://arxiv.org/abs/2604.11808v1",
+      "abstract": "Generating high-fidelity 3D indoor scenes remains a significant challenge due to data scarcity and the complexity of modeling intricate spatial relations. Current methods often struggle to scale beyond training distribution to dense scenes or rely on LLMs/VLMs that lack the ability for precise spati",
+      "source": "arxiv"
+    },
+    {
+      "title": "Solving Physics Olympiad via Reinforcement Learning on Physics Simulators",
+      "url": "http://arxiv.org/abs/2604.11805v1",
+      "abstract": "We have witnessed remarkable advances in LLM reasoning capabilities with the advent of DeepSeek-R1. However, much of this progress has been fueled by the abundance of internet question-answer (QA) pairs, a major bottleneck going forward, since such data is limited in scale and concentrated mainly in",
+      "source": "arxiv"
+    },
+    {
+      "title": "Psychological Concept Neurons: Can Neural Control Bias Probing and Shift Generation in LLMs?",
+      "url": "http://arxiv.org/abs/2604.11802v1",
+      "abstract": "Using psychological constructs such as the Big Five, large language models (LLMs) can imitate specific personality profiles and predict a user's personality. While LLMs can exhibit behaviors consistent with these constructs, it remains unclear where and how they are represented inside the model and ",
+      "source": "arxiv"
+    },
+    {
+      "title": "CLSGen: A Dual-Head Fine-Tuning Framework for Joint Probabilistic Classification and Verbalized Explanation",
+      "url": "http://arxiv.org/abs/2604.11801v1",
+      "abstract": "With the recent progress of Large Language Models (LLMs), there is a growing interest in applying these models to solve complex and challenging problems. Modern LLMs, capable of processing long contexts and generating verbalized explanations, offer significant potential in addressing real-world appl",
+      "source": "arxiv"
+    },
+    {
+      "title": "C-ReD: A Comprehensive Chinese Benchmark for AI-Generated Text Detection Derived from Real-World Prompts",
+      "url": "http://arxiv.org/abs/2604.11796v1",
+      "abstract": "Recently, large language models (LLMs) are capable of generating highly fluent textual content. While they offer significant convenience to humans, they also introduce various risks, like phishing and academic dishonesty. Numerous research efforts have been dedicated to developing algorithms for det",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Mechanistic Analysis of Looped Reasoning Language Models",
+      "url": "http://arxiv.org/abs/2604.11791v1",
+      "abstract": "Reasoning has become a central capability in large language models. Recent research has shown that reasoning performance can be improved by looping an LLM's layers in the latent dimension, resulting in looped reasoning language models. Despite promising results, few works have investigated how their",
+      "source": "arxiv"
+    },
+    {
+      "title": "ClawGuard: A Runtime Security Framework for Tool-Augmented LLM Agents Against Indirect Prompt Injection",
+      "url": "http://arxiv.org/abs/2604.11790v1",
+      "abstract": "Tool-augmented Large Language Model (LLM) agents have demonstrated impressive capabilities in automating complex, multi-step real-world tasks, yet remain vulnerable to indirect prompt injection. Adversaries exploit this weakness by embedding malicious instructions within tool-returned content, which",
+      "source": "arxiv"
+    },
+    {
+      "title": "Extraction of Effective Electromagnetic Material Properties for Rydberg Electrometer Vapor Cells from 10-300 MHz",
+      "url": "http://arxiv.org/abs/2604.11785v1",
+      "abstract": "Quantum sensors often consist of packaging, such as dielectric-based vapor cells and metallic electrodes, that reduces and spatially alters the locally observed electromagnetic fields. These effects have been well studied in the optical regime, and even in the RF regime over a few GHz. However, ther",
+      "source": "arxiv"
+    },
+    {
+      "title": "Optimal Codes for Deterministic Identification over Gaussian Channels: Closing the Capacity Gap",
+      "url": "http://arxiv.org/abs/2604.11782v1",
+      "abstract": "Deterministic identification (DI) has emerged as a promising paradigm for large-scale and goal-oriented communication systems. Despite significant progress, a fundamental open problem has remained unresolved: a persistent gap between the best known lower and upper bounds on the DI capacity, as well ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Multiple spiking functionalities in annealing-optimized Ag/Hf$_{0.5}$Zr$_{0.5}$O$_2$-based memristive neurons",
+      "url": "http://arxiv.org/abs/2604.11780v1",
+      "abstract": "Rapid progress of artificial neural network applications in recent years has led to the issue of an unprecedented energy consumption. It can be solved by the implementation of energy efficient hardware based on non-von-Neumann architectures, which requires the development of electronic components em",
+      "source": "arxiv"
+    },
+    {
+      "title": "General365: Benchmarking General Reasoning in Large Language Models Across Diverse and Challenging Tasks",
+      "url": "http://arxiv.org/abs/2604.11778v1",
+      "abstract": "Contemporary large language models (LLMs) have demonstrated remarkable reasoning capabilities, particularly in specialized domains like mathematics and physics. However, their ability to generalize these reasoning skills to more general and broader contexts--often termed general reasoning--remains u",
+      "source": "arxiv"
+    },
+    {
+      "title": "Unique Continuation for Fifth-Order KP Equation and its application to control problems",
+      "url": "http://arxiv.org/abs/2604.11777v1",
+      "abstract": "We develop a framework for the fifth-order Kadomtsev--Petviashvili equation on $\\mathbb{T}_x \\times \\mathbb{R}_y$ within a mean-zero KP-adapted Sobolev scale. A localized high-order feedback acting on the periodic variable yields a $5/2$--derivative gain in suitable space--time norms, leading to pro",
+      "source": "arxiv"
+    },
+    {
+      "title": "Bicuspid Valve Closure and Backflow Prevention: Role of Leaflet Geometry",
+      "url": "http://arxiv.org/abs/2604.11776v1",
+      "abstract": "Bicuspid valves with crescent-shaped leaflets are found in lymphatic vessels and veins, where their primary function is to prevent reflux and ensure unidirectional flow toward the heart. These valves are passive, and their functionality emerges spontaneously from a complex interplay between the prop",
+      "source": "arxiv"
+    },
+    {
+      "title": "Towards Automated Pentesting with Large Language Models",
+      "url": "http://arxiv.org/abs/2604.11772v1",
+      "abstract": "Large Language Models (LLMs) are redefining offensive cybersecurity by allowing the generation of harmful machine code with minimal human intervention. While attackers take advantage of dark LLMs such as XXXGPT and WolfGPT to produce malicious code, ethical hackers can follow similar approaches to a",
+      "source": "arxiv"
+    },
+    {
+      "title": "Enhancing Program Repair with Specification Guidance and Intermediate Behavioral Signals",
+      "url": "http://arxiv.org/abs/2604.11770v1",
+      "abstract": "Automated Program Repair (APR) has recently benefited from large language models (LLMs). However, most LLM-based APR approaches still rely primarily on coarse end-to-end signals from test-suite outcomes to guide repair, providing limited insight into where a program's internal logic deviates from it",
+      "source": "arxiv"
+    },
+    {
+      "title": "$λ_A$: A Typed Lambda Calculus for LLM Agent Composition",
+      "url": "http://arxiv.org/abs/2604.11767v1",
+      "abstract": "Existing LLM agent frameworks lack formal semantics: there is no principled way to determine whether an agent configuration is well-formed or will terminate. We present $λ_A$, a typed lambda calculus for agent composition that extends the simply-typed lambda calculus with oracle calls, bounded fixpo",
+      "source": "arxiv"
+    },
+    {
+      "title": "Hybrid Quantum-Classical Optimization Workflows for the Shipment Selection Problem",
+      "url": "http://arxiv.org/abs/2604.11758v1",
+      "abstract": "We present a quantum optimization framework for the Shipment Selection Problem (SSP) in electric freight logistics, developed jointly by IonQ and Einride. Idle gaps arising from stochastic shipment cancellations reduce fleet utilization and revenue; filling them optimally requires solving a combinat",
+      "source": "arxiv"
+    },
+    {
+      "title": "Grounded World Model for Semantically Generalizable Planning",
+      "url": "http://arxiv.org/abs/2604.11751v1",
+      "abstract": "In Model Predictive Control (MPC), world models predict the future outcomes of various action proposals, which are then scored to guide the selection of the optimal action. For visuomotor MPC, the score function is a distance metric between a predicted image and a goal image, measured in the latent ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Discourse Diversity in Multi-Turn Empathic Dialogue",
+      "url": "http://arxiv.org/abs/2604.11742v1",
+      "abstract": "Large language models (LLMs) produce responses rated as highly empathic in single-turn settings (Ayers et al., 2023; Lee et al., 2024), yet they are also known to be formulaic generators that reuse the same lexical patterns, syntactic templates, and discourse structures across tasks (Jiang et al., 2",
+      "source": "arxiv"
+    },
+    {
+      "title": "Multi-ORFT: Stable Online Reinforcement Fine-Tuning for Multi-Agent Diffusion Planning in Cooperative Driving",
+      "url": "http://arxiv.org/abs/2604.11734v1",
+      "abstract": "Closed-loop cooperative driving requires planners that generate realistic multimodal multi-agent trajectories while improving safety and traffic efficiency. Existing diffusion planners can model multimodal behaviors from demonstrations, but they often exhibit weak scene consistency and remain poorly",
+      "source": "arxiv"
+    }
+  ],
+  "quality": {
+    "total": 40,
+    "quality_score": 0.421,
+    "dimensions": {
+      "authority": 0.95,
+      "quality": 0.05,
+      "star_power": 0.106,
+      "diversity": 0.5
+    },
+    "sources_breakdown": {
+      "github": 20,
+      "arxiv": 20
+    }
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "topic": "ONNX runtime",
+  "timestamp": "2026-03-30T13:03:30.242548",
+  "findings": [
+    {
+      "title": "microsoft/onnxruntime",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+      "stars": 19692,
+      "source": "github"
+    },
+    {
+      "title": "RapidAI/RapidOCR",
+      "url": "https://github.com/RapidAI/RapidOCR",
+      "description": "📄 Awesome OCR multiple programing languages toolkits based on ONNX Runtime, OpenVINO, MNN, PaddlePaddle, TensorRT and PyTorch.",
+      "stars": 6206,
+      "source": "github"
+    },
+    {
+      "title": "iree-org/iree",
+      "url": "https://github.com/iree-org/iree",
+      "description": "A retargetable MLIR-based machine learning compiler and runtime toolkit.",
+      "stars": 3680,
+      "source": "github"
+    },
+    {
+      "title": "neuralmagic/deepsparse",
+      "url": "https://github.com/neuralmagic/deepsparse",
+      "description": "Sparsity-aware deep learning inference runtime for CPUs",
+      "stars": 3163,
+      "source": "github"
+    },
+    {
+      "title": "intel/neural-compressor",
+      "url": "https://github.com/intel/neural-compressor",
+      "description": "SOTA low-bit LLM quantization (INT8/FP8/MXFP8/INT4/MXFP4/NVFP4) & sparsity; leading model compression techniques on PyTorch, TensorFlow, and ONNX Runtime",
+      "stars": 2608,
+      "source": "github"
+    },
+    {
+      "title": "thewh1teagle/kokoro-onnx",
+      "url": "https://github.com/thewh1teagle/kokoro-onnx",
+      "description": "TTS with kokoro and onnx runtime",
+      "stars": 2437,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/onnxruntime-inference-examples",
+      "url": "https://github.com/microsoft/onnxruntime-inference-examples",
+      "description": "Examples for using ONNX Runtime for machine learning inferencing.",
+      "stars": 1634,
+      "source": "github"
+    },
+    {
+      "title": "VoltaML/voltaML",
+      "url": "https://github.com/VoltaML/voltaML",
+      "description": "⚡VoltaML is a lightweight library to convert and run your ML/DL deep learning models in high performance inference runtimes like TensorRT, TorchScript, ONNX and TVM.",
+      "stars": 1180,
+      "source": "github"
+    },
+    {
+      "title": "Geekgineer/YOLOs-CPP",
+      "url": "https://github.com/Geekgineer/YOLOs-CPP",
+      "description": "Cross-Platform Production-ready C++ inference engine for YOLO models (v5-v12, YOLO26). Unified API for detection, segmentation, pose estimation, OBB, and classification. Built on ONNX Runtime and OpenCV. Optimized for CPU/GPU with quantization support.",
+      "stars": 922,
+      "source": "github"
+    },
+    {
+      "title": "zhiqwang/yolort",
+      "url": "https://github.com/zhiqwang/yolort",
+      "description": "yolort is a runtime stack for yolov5 on specialized accelerators such as tensorrt, libtorch, onnxruntime, tvm and ncnn.",
+      "stars": 730,
+      "source": "github"
+    },
+    {
+      "title": "yakhyo/uniface",
+      "url": "https://github.com/yakhyo/uniface",
+      "description": "UniFace: A Unified Face Analysis Library in Python built on ONNX Runtime | Actively being maintained by @yakhyo",
+      "stars": 644,
+      "source": "github"
+    },
+    {
+      "title": "slavabarkov/tidy",
+      "url": "https://github.com/slavabarkov/tidy",
+      "description": "Offline semantic Text-to-Image and Image-to-Image search on Android powered by quantized state-of-the-art vision-language pretrained CLIP model and ONNX Runtime inference engine",
+      "stars": 559,
+      "source": "github"
+    },
+    {
+      "title": "dme-compunet/YoloSharp",
+      "url": "https://github.com/dme-compunet/YoloSharp",
+      "description": "🚀 A high performance real-time object detection solution using YOLO11 ⚡️ powered by ONNX-Runtime",
+      "stars": 543,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/onnxruntime-extensions",
+      "url": "https://github.com/microsoft/onnxruntime-extensions",
+      "description": "onnxruntime-extensions: A specialized pre- and post- processing library for ONNX Runtime",
+      "stars": 454,
+      "source": "github"
+    },
+    {
+      "title": "AmusementClub/vs-mlrt",
+      "url": "https://github.com/AmusementClub/vs-mlrt",
+      "description": "Efficient CPU/GPU ML Runtimes for VapourSynth (with built-in support for waifu2x, DPIR, RealESRGANv2/v3, Real-CUGAN, RIFE, SCUNet, ArtCNN and more!)",
+      "stars": 427,
+      "source": "github"
+    },
+    {
+      "title": "xmba15/onnx_runtime_cpp",
+      "url": "https://github.com/xmba15/onnx_runtime_cpp",
+      "description": "small c++ library to quickly deploy models using onnxruntime",
+      "stars": 386,
+      "source": "github"
+    },
+    {
+      "title": "pytorch/ort",
+      "url": "https://github.com/pytorch/ort",
+      "description": "Accelerate PyTorch models with ONNX Runtime",
+      "stars": 370,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/onnxruntime-training-examples",
+      "url": "https://github.com/microsoft/onnxruntime-training-examples",
+      "description": "Examples for using ONNX Runtime for model training.",
+      "stars": 365,
+      "source": "github"
+    },
+    {
+      "title": "nbigaouette/onnxruntime-rs",
+      "url": "https://github.com/nbigaouette/onnxruntime-rs",
+      "description": "Rust wrapper for Microsoft's ONNX Runtime (version 1.8)",
+      "stars": 318,
+      "source": "github"
+    },
+    {
+      "title": "iwatake2222/InferenceHelper",
+      "url": "https://github.com/iwatake2222/InferenceHelper",
+      "description": "C++ Helper Class for Deep Learning Inference Frameworks: TensorFlow Lite, TensorRT, OpenCV, OpenVINO, ncnn, MNN, SNPE, Arm NN, NNabla, ONNX Runtime, LibTorch, TensorFlow",
+      "stars": 299,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.294,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.118,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

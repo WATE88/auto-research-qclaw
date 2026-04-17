@@ -1,0 +1,159 @@
+{
+  "topic": "semantic segmentation",
+  "timestamp": "2026-03-30T16:06:56.126191",
+  "findings": [
+    {
+      "title": "qubvel-org/segmentation_models.pytorch",
+      "url": "https://github.com/qubvel-org/segmentation_models.pytorch",
+      "description": "Semantic segmentation models with 500+ pretrained convolutional and transformer-based backbones.",
+      "stars": 11437,
+      "source": "github"
+    },
+    {
+      "title": "milesial/Pytorch-UNet",
+      "url": "https://github.com/milesial/Pytorch-UNet",
+      "description": "PyTorch implementation of the U-Net for image semantic segmentation with high quality images",
+      "stars": 11320,
+      "source": "github"
+    },
+    {
+      "title": "mrgloom/awesome-semantic-segmentation",
+      "url": "https://github.com/mrgloom/awesome-semantic-segmentation",
+      "description": ":metal: awesome-semantic-segmentation",
+      "stars": 10829,
+      "source": "github"
+    },
+    {
+      "title": "open-mmlab/mmsegmentation",
+      "url": "https://github.com/open-mmlab/mmsegmentation",
+      "description": "OpenMMLab Semantic Segmentation Toolbox and Benchmark.",
+      "stars": 9700,
+      "source": "github"
+    },
+    {
+      "title": "PaddlePaddle/PaddleSeg",
+      "url": "https://github.com/PaddlePaddle/PaddleSeg",
+      "description": "Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Matting, 3D Segmentation, etc.",
+      "stars": 9319,
+      "source": "github"
+    },
+    {
+      "title": "CSAILVision/semantic-segmentation-pytorch",
+      "url": "https://github.com/CSAILVision/semantic-segmentation-pytorch",
+      "description": "Pytorch implementation for Semantic Segmentation/Scene Parsing on MIT ADE20K dataset",
+      "stars": 5066,
+      "source": "github"
+    },
+    {
+      "title": "fundamentalvision/BEVFormer",
+      "url": "https://github.com/fundamentalvision/BEVFormer",
+      "description": "[ECCV 2022] This is the official implementation of BEVFormer, a camera-only framework for autonomous driving perception, e.g., 3D object detection and semantic map segmentation.",
+      "stars": 4392,
+      "source": "github"
+    },
+    {
+      "title": "meetps/pytorch-semseg",
+      "url": "https://github.com/meetps/pytorch-semseg",
+      "description": "Semantic Segmentation Architectures Implemented in PyTorch",
+      "stars": 3409,
+      "source": "github"
+    },
+    {
+      "title": "shelhamer/fcn.berkeleyvision.org",
+      "url": "https://github.com/shelhamer/fcn.berkeleyvision.org",
+      "description": "Fully Convolutional Networks for Semantic Segmentation by Jonathan Long*, Evan Shelhamer*, and Trevor Darrell. CVPR 2015 and PAMI 2016.",
+      "stars": 3353,
+      "source": "github"
+    },
+    {
+      "title": "HRNet/HRNet-Semantic-Segmentation",
+      "url": "https://github.com/HRNet/HRNet-Semantic-Segmentation",
+      "description": "The OCR approach is rephrased as Segmentation Transformer: https://arxiv.org/abs/1909.11065. This is an official implementation of semantic segmentation for HRNet. https://arxiv.org/abs/1908.07919",
+      "stars": 3321,
+      "source": "github"
+    },
+    {
+      "title": "luigifreda/pyslam",
+      "url": "https://github.com/luigifreda/pyslam",
+      "description": "pySLAM is a hybrid Python/C++ Visual SLAM pipeline supporting monocular, stereo, and RGB-D cameras. It provides a broad set of modern local and global feature extractors, multiple loop-closure strategies, a volumetric reconstruction module, integrated depth-prediction models, and semantic segmentation capabilities for enhanced scene understanding.",
+      "stars": 3205,
+      "source": "github"
+    },
+    {
+      "title": "Tramac/awesome-semantic-segmentation-pytorch",
+      "url": "https://github.com/Tramac/awesome-semantic-segmentation-pytorch",
+      "description": "Semantic Segmentation on PyTorch (include FCN, PSPNet, Deeplabv3, Deeplabv3+, DANet, DenseASPP, BiSeNet, EncNet, DUNet, ICNet, ENet, OCNet, CCNet, PSANet, CGNet, ESPNet, LEDNet, DFANet)",
+      "stars": 3055,
+      "source": "github"
+    },
+    {
+      "title": "GeorgeSeif/Semantic-Segmentation-Suite",
+      "url": "https://github.com/GeorgeSeif/Semantic-Segmentation-Suite",
+      "description": "Semantic Segmentation Suite in TensorFlow. Implement, train, and test new Semantic Segmentation models easily!",
+      "stars": 2524,
+      "source": "github"
+    },
+    {
+      "title": "wolny/pytorch-3dunet",
+      "url": "https://github.com/wolny/pytorch-3dunet",
+      "description": "3D U-Net model for volumetric semantic segmentation written in pytorch",
+      "stars": 2377,
+      "source": "github"
+    },
+    {
+      "title": "mapbox/robosat",
+      "url": "https://github.com/mapbox/robosat",
+      "description": " Semantic segmentation on aerial and satellite imagery. Extracts features such as: buildings, parking lots, roads, water, clouds",
+      "stars": 2055,
+      "source": "github"
+    },
+    {
+      "title": "Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor",
+      "url": "https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor",
+      "description": "Web labeling tool for bitmap images and point clouds",
+      "stars": 1950,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/semantic-segmentation",
+      "url": "https://github.com/NVIDIA/semantic-segmentation",
+      "description": "Nvidia Semantic Segmentation monorepo",
+      "stars": 1818,
+      "source": "github"
+    },
+    {
+      "title": "yassouali/pytorch-segmentation",
+      "url": "https://github.com/yassouali/pytorch-segmentation",
+      "description": ":art: Semantic segmentation models, datasets and losses implemented in PyTorch.",
+      "stars": 1814,
+      "source": "github"
+    },
+    {
+      "title": "zijundeng/pytorch-semantic-segmentation",
+      "url": "https://github.com/zijundeng/pytorch-semantic-segmentation",
+      "description": "PyTorch for Semantic Segmentation",
+      "stars": 1738,
+      "source": "github"
+    },
+    {
+      "title": "msracver/FCIS",
+      "url": "https://github.com/msracver/FCIS",
+      "description": "Fully Convolutional Instance-aware Semantic Segmentation",
+      "stars": 1565,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.352,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.412,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

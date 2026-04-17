@@ -1,0 +1,26 @@
+{
+  "topic": "bitsandbytes INT8 training",
+  "timestamp": "2026-03-31T11:27:37.196607",
+  "findings": [
+    {
+      "title": "garimamittal13/fine-tune-gpt-2-small",
+      "url": "https://github.com/garimamittal13/fine-tune-gpt-2-small",
+      "description": "Fine-tuned GPT-2 on AG News for news classification, with reproducible preprocessing, training, evaluation, and FP32 vs INT8 / 4-bit inference comparison.",
+      "stars": 0,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 1,
+    "quality_score": 0.27,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 1
+    }
+  }
+}

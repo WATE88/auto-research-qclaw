@@ -1,0 +1,174 @@
+{
+  "topic": "AI benchmark platform",
+  "timestamp": "2026-04-07T11:22:43.206492",
+  "findings": [
+    {
+      "title": "Tencent/AI-Infra-Guard",
+      "url": "https://github.com/Tencent/AI-Infra-Guard",
+      "description": "A full-stack AI Red Teaming platform securing AI ecosystems via OpenClaw Security Scan, Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
+      "stars": 3400,
+      "source": "github"
+    },
+    {
+      "title": "StanfordVL/BEHAVIOR-1K",
+      "url": "https://github.com/StanfordVL/BEHAVIOR-1K",
+      "description": "BEHAVIOR-1K: a platform for accelerating Embodied AI research. Join our Discord for support: https://discord.gg/bccR5vGFEx",
+      "stars": 1400,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/WindowsAgentArena",
+      "url": "https://github.com/microsoft/WindowsAgentArena",
+      "description": "Windows Agent Arena (WAA) 🪟 is a scalable OS platform for testing and benchmarking of multi-modal AI agents.",
+      "stars": 849,
+      "source": "github"
+    },
+    {
+      "title": "facebookresearch/meta-agents-research-environments",
+      "url": "https://github.com/facebookresearch/meta-agents-research-environments",
+      "description": "Meta Agents Research Environments is a comprehensive platform designed to evaluate AI agents in dynamic, realistic scenarios. Unlike static benchmarks, this platform introduces evolving environments where agents must adapt their strategies as new information becomes available, mirroring real-world challenges.",
+      "stars": 467,
+      "source": "github"
+    },
+    {
+      "title": "flagos-ai/FlagPerf",
+      "url": "https://github.com/flagos-ai/FlagPerf",
+      "description": "FlagPerf is an open-source software platform for  benchmarking AI chips. ",
+      "stars": 363,
+      "source": "github"
+    },
+    {
+      "title": "MigoXLab/LMeterX",
+      "url": "https://github.com/MigoXLab/LMeterX",
+      "description": "A general-purpose API load testing platform that supports LLM services and business HTTP interfaces, enabling one-click performance testing, result comparison, and AI-powered intelligent analysis and summarization. 一站式通用 API 压测平台，支持大模型推理与业务 HTTP 接口，一键完成性能测试、结果对比与 AI 智能分析总结",
+      "stars": 183,
+      "source": "github"
+    },
+    {
+      "title": "facebookresearch/param",
+      "url": "https://github.com/facebookresearch/param",
+      "description": "PArametrized Recommendation and Ai Model benchmark is a repository for development of numerous uBenchmarks as well as end to end nets for evaluation of training and inference platforms.",
+      "stars": 153,
+      "source": "github"
+    },
+    {
+      "title": "svilupp/Julia-LLM-Leaderboard",
+      "url": "https://github.com/svilupp/Julia-LLM-Leaderboard",
+      "description": "Provides a platform for the Julia community to compare AI models' abilities in generating syntactically correct Julia code, featuring structured tests and automated evaluations for easy and collaborative benchmarking.",
+      "stars": 86,
+      "source": "github"
+    },
+    {
+      "title": "RagView/RagView",
+      "url": "https://github.com/RagView/RagView",
+      "description": "We believe that every SOTA result is only valid on its own dataset. RAGView provides a unified evaluation platform to benchmark different RAG methods on your specific data.",
+      "stars": 81,
+      "source": "github"
+    },
+    {
+      "title": "opea-project/GenAIStudio",
+      "url": "https://github.com/opea-project/GenAIStudio",
+      "description": "GenAI Studio is a low code platform to enable users to construct, evaluate, and benchmark GenAI applications. The platform also provide capability to export developed application as a ready-to-deploy package for immediate enterprise integration. ",
+      "stars": 60,
+      "source": "github"
+    },
+    {
+      "title": "onvoyage-ai/best-ai-marketing-platform-benchmark",
+      "url": "https://github.com/onvoyage-ai/best-ai-marketing-platform-benchmark",
+      "description": "a systematic benchmark for best AI marketing related tools ",
+      "stars": 39,
+      "source": "github"
+    },
+    {
+      "title": "ginking/archimedes-1",
+      "url": "https://github.com/ginking/archimedes-1",
+      "description": "Archimedes 1 is a bot based sentient based trader, heavily influenced on forked existing bots, with a few enhancements here or there, this was completed to understand how the bots worked to roll the forward in our own manner to our own complete ai based trading system (Archimedes 2:0)   This bot watches [followed accounts] tweets and waits for them to mention any publicly traded companies. When they do, sentiment analysis is used determine whether the opinions are positive or negative toward those companies. The bot then automatically executes trades on the relevant stocks according to the expected market reaction.   The code is written in Python and is meant to run on a Google Compute Engine instance. It uses the Twitter Streaming APIs (however new version) to get notified whenever tweets within remit are of interest. The entity detection and sentiment analysis is done using Google's Cloud Natural Language API and the Wikidata Query Service provides the company data. The TradeKing (ALLY) API does the stock trading (changed to ALLY).  The main module defines a callback where incoming tweets are handled and starts streaming user's feed:  def twitter_callback(tweet):     companies = analysis.find_companies(tweet)     if companies:         trading.make_trades(companies)         twitter.tweet(companies, tweet)  if __name__ == \"__main__\":     twitter.start_streaming(twitter_callback) The core algorithms are implemented in the analysis and trading modules. The former finds mentions of companies in the text of the tweet, figures out what their ticker symbol is, and assigns a sentiment score to them. The latter chooses a trading strategy, which is either buy now and sell at close or sell short now and buy to cover at close. The twitter module deals with streaming and tweeting out the summary.  Follow these steps to run the code yourself:  1. Create VM instance  Check out the quickstart to create a Cloud Platform project and a Linux VM instance with Compute Engine, then SSH into it for the steps below. The predefined machine type g1-small (1 vCPU, 1.7 GB memory) seems to work well.  2. Set up auth  The authentication keys for the different APIs are read from shell environment variables. Each service has different steps to obtain them.  Twitter  Log in to your Twitter account and create a new application. Under the Keys and Access Tokens tab for your app you'll find the Consumer Key and Consumer Secret. Export both to environment variables:  export TWITTER_CONSUMER_KEY=\"<YOUR_CONSUMER_KEY>\" export TWITTER_CONSUMER_SECRET=\"<YOUR_CONSUMER_SECRET>\" If you want the tweets to come from the same account that owns the application, simply use the Access Token and Access Token Secret on the same page. If you want to tweet from a different account, follow the steps to obtain an access token. Then export both to environment variables:  export TWITTER_ACCESS_TOKEN=\"<YOUR_ACCESS_TOKEN>\" export TWITTER_ACCESS_TOKEN_SECRET=\"<YOUR_ACCESS_TOKEN_SECRET>\" Google  Follow the Google Application Default Credentials instructions to create, download, and export a service account key.  export GOOGLE_APPLICATION_CREDENTIALS=\"/path/to/credentials-file.json\" You also need to enable the Cloud Natural Language API for your Google Cloud Platform project.  TradeKing (ALLY)  Log in to your TradeKing (ALLY account and create a new application. Behind the Details button for your application you'll find the Consumer Key, Consumer Secret, OAuth (Access) Token, and Oauth (Access) Token Secret. Export them all to environment variables:  export TRADEKING_CONSUMER_KEY=\"<YOUR_CONSUMER_KEY>\" export TRADEKING_CONSUMER_SECRET=\"<YOUR_CONSUMER_SECRET>\" export TRADEKING_ACCESS_TOKEN=\"<YOUR_ACCESS_TOKEN>\" export TRADEKING_ACCESS_TOKEN_SECRET=\"<YOUR_ACCESS_TOKEN_SECRET>\" Also export your TradeKing (ALLY) account number, which you'll find under My Accounts:  export TRADEKING_ACCOUNT_NUMBER=\"<YOUR_ACCOUNT_NUMBER>\" 3. Install dependencies  There are a few library dependencies, which you can install using pip:  $ pip install -r requirements.txt 4. Run the tests  Verify that everything is working as intended by running the tests with pytest using this command:  $ export USE_REAL_MONEY=NO && pytest *.py --verbose 5. Run the benchmark  The benchmark report shows how the current implementation of the analysis and trading algorithms would have performed against historical data. You can run it again to benchmark any changes you may have made:  $ ./benchmark.py > benchmark.md 6. Start the bot  Enable real orders that use your money:  $ export USE_REAL_MONEY=YES Have the code start running in the background with this command:  $ nohup ./main.py &  License   Archimedes (edits under Invacio) Max Braun Frame under Max Braun, licence under Apache V2 License.  Licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License. You may obtain a copy of the License at  http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.",
+      "stars": 24,
+      "source": "github"
+    },
+    {
+      "title": "TanayGhanshyam/crispy-octo-guide",
+      "url": "https://github.com/TanayGhanshyam/crispy-octo-guide",
+      "description": "We have come a long way since I was a child in the 1960s when all I wanted for Christmas was a slinky and some Rock’Em – Sock’Em Robots. Now imagine we have traveled ten years into the future, and it is Christmas 2031. Alexa has replaced kids’ parents and Santa Claus. Every toy is connected to the Internet and looks like a robot version of the animal it represents. Clean thermonuclear Christmas trees will be providing us with radiant, gamma-ray energy for all our holiday needs. Pogo sticks have also made a comeback, but they are solar-powered and can leap entire city blocks.  And while I am busy pretending to be the Ghost of Christmas Future, I thought it would also be fun to ask the Office of the CTO team about their predictions for futuristic, technical toys. So, I posed these two questions:  What cool TECHNICAL toy or gadget would you like Santa to bring you this year in 2021? As a participating member of the Office of the CTO, what cool TECHNICAL toy or gadget (that has not yet been invented) would you like Santa to bring you in 10 years from now in 2031? christmas wishlist for the octo team overlay  You know what?  We just might see I see a sneak preview of some of these magical tech toys of the future in just a few weeks at the CES 2022 conference. In the meantime, take a look at the wish list from all of our Extreme technical gurus:  Marcus Burton – Wireless and Cloud Architect   Christmas Wish 2021: Is a Tesla Cybertruck an option? I’ll even take a prototype. That will scratch several technology itches at the same time. Think about it…EV, autonomous driving, AI, 5G probably, cloud-connected, mobile-first, and all the best in materials sciences and mechanical engineering applied to trucks. What more could an outdoorsy tech guy want?  Christmas Wish 2031: I’m kinda thinking that while everyone else has their brain slurped out in the metaverse (with VR!), I will prefer to go to the actual mountains. But you know, I have a wife and kids, so I have to think about safety. So here’s my wish: a smart personal device that has a full week of battery life (using ultra-thin silicon wafers) with rapid solar charging, LEO satellite connectivity (for sending “eat your heart out” 3D pics to my friends from the “there’s no 6G here” wilderness), and ultra-HD terrain feature maps for modern navigation.  Carla Guzzetti – VP, Experience, Messaging & Enablement  Christmas Wish 2021: I want this: Meeting Owl Pro – 360-Degree, 1080p HD Smart Video Conference Camera, Microphone, and Speaker  Christmas Wish 2031: I want a gadget where we can have virtual meetings without the need for a wearable! Who wants to wear heavy goggles all day?  Doug McDonald – Director of Product Management  Christmas Wish 2021: As a technologist often looking for a balance between screen time and health and fitness I hope Santa brings me the Aura Strap. The Aura strap adds additional IoT sensory capabilities to compliment your Apple smartwatch.  Bioelectrical impedance analysis is the cutting-edge science behind the AURA Strap. This innovation provides a way to truly see how your body changes over the course of a day. Their body composition analysis includes fat, muscle mass, minerals, and hydration; providing personalized insights that improve the results of your workouts, diet, and your lifestyle as a whole.  Christmas Wish 2031: Hopefully, this innovation will be here sooner. Still, in the spirit of my first wish from Santa, I also hope to have a service engine warning light for me. The concept is utilizing advancements in biomedical sensory devices to pinpoint potential changes in your physical metrics that may help in seeking medical attention sooner than later if variances in health data occur. I spoke about this concept in the Digital Diagnosis episode of the Inflection Points podcast from the Office of the CTO.  Ed Koehler – Principal Engineer  Christmas Wish 2021: My answers are short and sweet. I want a nice drone with high-resolution pan, tilt, and zoom (PTZ) cameras.  Christmas Wish 2031: In ten years, I want a drone that I can sit inside and fly away!  Puneet Sehgal – Business Initiatives Program Manager   Christmas Wish 2021: I have always wanted to enjoy the world from a bird’s eye view. Therefore, my wish is for Santa to bring me a good-quality drone camera this year. It is amazing how quickly drones have evolved from commercial /military use to becoming a personal gadget.  Christmas Wish 2031: In 2031, I wish Santa could get me a virtual reality (VR) trainer to help me internalize physical motion by looking at a simulation video while sending an electrical impulse to mimic it. It will open endless possibilities, and I could become an ice skater, a karate expert, or a pianist – all in one. Maybe similar research is already being done, but we are far away from something like this maturing for practical use. So, who knows – it’s Santa after all and we are talking 2031!  Tim Harrison – Director of Product Marketing, Service Provider  Christmas Wish 2021: This year, I would love to extend my audio recording setup and move from a digital 24 channel mixer to a control surface that integrates with my DAW (digital audio workstation) and allows me to use my outboard microphone pre-amps.  I’ve been looking at an ICON QCon Pro G2 plus one QCon EX G2 extender to give me direct control over 16 channels at once (I use 16 channels just for my drum kit).  Christmas Wish 2031: Ten years from now, I sincerely hope to receive an anti-gravity platform.  First, I’ll be old, and climbing stairs will have become more challenging for these creaky old bones.  Secondly, who hasn’t hoped for a REAL hoverboard?  Once we know what gravity is “made of,” we can start making it easier to manipulate objects on earth and make space more habitable for human physiology.  Either that or a puppy.  Puppy sitting  Divya Balu Pazhayannur – Director of Business Initiatives  Christmas Wish 2021: I’m upgrading parts of my house over the holidays and browsing online for kitchen and laundry appliances. If you had told me that I would be spending three hours reading blogs on choosing the right cooktop for me, I would not have believed you. Does it have the right power, is it reliable, is it Wi-Fi enabled, can you talk to it – I’m kidding on that last one. Having said that, I’d love to get the Bosch Benchmark Gas Stovetop. Although I can’t speak to my appliance, its minimalist look has me writing it down on my wish list for Santa. I’ll even offer him some crispy dosas in exchange.  Christmas Wish 2031: Apart from flying cars and personal robot assistants, I’d love to get the gift of better connectivity. I miss my family and friends in India, and it would be amazing to engage with them through holographic technology. I imagine it would allow for a much higher level of communication than today’s ‘talking head’ approach. Although do I want my family sitting with me in my living room? Still – I’d like to think a holograph would be just fantastic.  Yury Ostrovsky – Sr. Technology Manager  Christmas Wish 2021: I believe 2022 will be the year of VR toys. Virtual Reality is already popular, but I believe more applications will be developed in this area. We might see radio waves coming from different sources (Wi-Fi, LTE, 5G, BT, etc.) and visualize propagation in real-time.  Christmas Wish 2031: “Prediction is very difficult, especially if it’s about the future” – Niels Bohr  Kurt Semba – Principal Architect  Christmas Wish 2021: The Crown from Neurosity. It helps you get and stay in a deep focus to improve your work and gaming results.  Christmas Wish 2031: A non-evasive health device that can quickly look deep into your body and cells and explain why you are not feeling well today.  Jon Filson – Senior Producer, Content  Christmas Wish 2021: I want a large rollable TV by LG. In part because I watch a lot of football. And while I have a Smart TV, I still can’t get it to connect to my Bluetooth speaker … so while I love it, I want it to work better, and isn’t that so often the way with tech? But more than that, I don’t like and have never liked that rooms have to be designed around TVs. They are big, which is fine, but they are often in the way, which is less so. They should disappear when not in use. It’s $100,000 so I don’t expect it any time soon.  But it’s an idea whose time has come.  Christmas Wish 2031: I cheated on this one and asked my 12-year-old son Jack what he would want. It’s the portal gun, from Rick and Morty, a show in which a crazed scientist named Rick takes his grandson Morty on wacky adventures in a multi-verse. That last part is important to me. Kids today are already well into multi-verses, while we adults are just struggling to make one decent Metaverse. The next generation is already way ahead of us digitally speaking, it’s clear.  Alexey Reznik – Senior UX Designer  Christmas Wish 2021: This awesome toy: DJI Mavic 2 Pro – Drone Quadcopter UAV with Hasselblad Camera 3-Axis Gimbal HDR 4K Video Adjustable Aperture 20MP 1″ CMOS Sensor, up to 48mph, Gray  Christmas Wish 2031: Something along these lines: BMW Motorrad VISION NEXT 100  BMW Motorcycle  Michael Rash – Distinguished Engineer – Security  Christmas Wish 2021: Satechi USB-C Multiport MX Adapter – Dual 4K HDMI.  Christmas Wish 2031: A virtual reality headset that actually works.  Alena Amir – Senior Content and Communications Manager  Christmas Wish 2021: With conversations around VR/AR and the metaverse taking the world by storm, Santa could help out with an Oculus Quest. Purely for research purposes of course!  Christmas Wish 2031: The 1985 movie, Back to the Future, was a family favorite and sure we didn’t get it all exactly right by 2015 but hey, it’s almost 2022! About time we get those hoverboards!  David Coleman – Director of Wireless  Christmas Wish 2021: Well, it looks like drones are the #1 wish item for 2021, and I am no exception. My wife and I just bought a home in the mountains of Blue Ridge, Georgia, where there is an abundance of wildlife. I want a state-of-the-art drone for bear surveillance.  Christmas Wish 2031: In ten years, I will be 71 years old, and I hope to be at least semi-retired and savoring the fruits of my long tech career. Even though we are looking to the future, I want a time machine to revisit the past. I would travel back to July 16th, 1969, and watch Apollo 11 liftoff from Cape Kennedy to the moon. I actually did that as a nine-year-old kid. Oh, and I would also travel back to 1966 and play with my Rock’Em – Sock’Em Robots.  Rock'em Sock'em Robots  To summarize, our peeps in the Office of the CTO all envision Christmas 2031, where the way we interact as a society will have progressed. In 2021, we already have unlimited access to information, so future tech toys might depend less on magical new technologies and more on the kinds of experiences these new technologies can create. And when those experiences can be shared across the globe in real-time, the world gains an opportunity to learn from each other and grow together in ways that would never have been possible.",
+      "stars": 20,
+      "source": "github"
+    },
+    {
+      "title": "mlcommons/cm4mlops",
+      "url": "https://github.com/mlcommons/cm4mlops",
+      "description": "Legacy CM repository with a collection of portable, reusable and cross-platform CM automations for MLOps and MLPerf to simplify the process of building, benchmarking and optimizing AI systems across diverse models, data sets, software and hardware",
+      "stars": 19,
+      "source": "github"
+    },
+    {
+      "title": "fuxiAIlab/NetEaseCrowd-Dataset",
+      "url": "https://github.com/fuxiAIlab/NetEaseCrowd-Dataset",
+      "description": "NetEaseCrowd dataset, a collection of data obtained from You Ling crowdsourcing platform, Fuxi AI Lab, NetEase. ",
+      "stars": 12,
+      "source": "github"
+    },
+    {
+      "title": "kstonekuan/voice-rtc-bench",
+      "url": "https://github.com/kstonekuan/voice-rtc-bench",
+      "description": "A distributed benchmarking system for comparing WebRTC voice AI platforms (Daily vs LiveKit) across multiple geographic locations and time periods.",
+      "stars": 11,
+      "source": "github"
+    },
+    {
+      "title": "codereef-ai/client",
+      "url": "https://github.com/codereef-ai/client",
+      "description": "Cross-platform Python client for the CodeReef.ai portal to manage portable workflows, reusable automation actions, software detection plugins, meta packages and dashboards for crowd-benchmarking:",
+      "stars": 11,
+      "source": "github"
+    },
+    {
+      "title": "FishCodeTech/ctf-agent-benchmark",
+      "url": "https://github.com/FishCodeTech/ctf-agent-benchmark",
+      "description": "Benchmarking platform for evaluating AI agents on CTF-style tasks and tool-use workflows.",
+      "stars": 10,
+      "source": "github"
+    },
+    {
+      "title": "arnobt78/Vehicle-Routing-Problem-Time-Windows-Solver-Comparison--VRPTW-Python-React",
+      "url": "https://github.com/arnobt78/Vehicle-Routing-Problem-Time-Windows-Solver-Comparison--VRPTW-Python-React",
+      "description": "A full-stack (R&D) Vehicle Routing Problem with Time Windows (VRPTW) comparison platform. Run and benchmark metaheuristic algorithms HGS, ACO, SA, GLS (v0.6.3) & ILS (v0.13+), visualize routes, tune parameters, and explore Solomon benchmark datasets—with an optional AI-assisted RAG Q&A and parameter tuning capabilities.",
+      "stars": 11,
+      "source": "github"
+    },
+    {
+      "title": "zhihao1998/LLM4NetLab",
+      "url": "https://github.com/zhihao1998/LLM4NetLab",
+      "description": "An open benchmarking platform to build and evaluate AI agents on network troubleshooting with low operational effort. Lightening paper accepted at the ACM SIGCOMM 2025 1st Workshop on Next-Generation Network Observability (NGNO).",
+      "stars": 9,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.526,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.8,
+      "star_power": 0.106,
+      "diversity": 0.0,
+      "usability": 0.2,
+      "applicability": 1.0,
+      "coverage": 1.0,
+      "ndcg": 0.871,
+      "map": 1.0,
+      "mrr": 1.0,
+      "rouge_1": 0.7,
+      "semantic_sim": 0.226,
+      "coherence": 0.17,
+      "task_completion": 0.566,
+      "tool_use": 0.205,
+      "reasoning_depth": 0.06,
+      "autonomy": 0.163,
+      "multi_agent": 0.065
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "topic": "prefix tuning",
+  "timestamp": "2026-03-30T13:01:53.887853",
+  "findings": [
+    {
+      "title": "XiangLi1999/PrefixTuning",
+      "url": "https://github.com/XiangLi1999/PrefixTuning",
+      "description": "Prefix-Tuning: Optimizing Continuous Prompts for Generation",
+      "stars": 962,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/UniSumm",
+      "url": "https://github.com/microsoft/UniSumm",
+      "description": "UNISUMM: Unified Few-shot Summarization with Multi-Task Pre-Training and Prefix-Tuning",
+      "stars": 61,
+      "source": "github"
+    },
+    {
+      "title": "li-plus/flash-preference",
+      "url": "https://github.com/li-plus/flash-preference",
+      "description": "Accelerate LLM preference tuning via prefix sharing with a single line of code",
+      "stars": 51,
+      "source": "github"
+    },
+    {
+      "title": "rasbt/blog-finetuning-llama-adapters",
+      "url": "https://github.com/rasbt/blog-finetuning-llama-adapters",
+      "description": "Supplementary material for \"Understanding Parameter-Efficient Finetuning of Large Language Models: From Prefix Tuning to Adapters\"",
+      "stars": 48,
+      "source": "github"
+    },
+    {
+      "title": "minguinho26/Prefix_AAC_ICASSP2023",
+      "url": "https://github.com/minguinho26/Prefix_AAC_ICASSP2023",
+      "description": "Official Implementation of \"Prefix tuning for Automated Audio Captioning(ICASSP 2023)\"",
+      "stars": 31,
+      "source": "github"
+    },
+    {
+      "title": "minicheshire/Robust-Prefix-Tuning",
+      "url": "https://github.com/minicheshire/Robust-Prefix-Tuning",
+      "description": "code for the ICLR'22 paper: On Robust Prefix-Tuning for Text Classification",
+      "stars": 27,
+      "source": "github"
+    },
+    {
+      "title": "cooelf/CompassMTL",
+      "url": "https://github.com/cooelf/CompassMTL",
+      "description": "Task Compass: Scaling Multi-task Pre-training with Task Prefix (EMNLP 2022: Findings) (stay tuned & more will be updated)",
+      "stars": 22,
+      "source": "github"
+    },
+    {
+      "title": "zwcolin/Domain-Robustness-Prompt-Tuning",
+      "url": "https://github.com/zwcolin/Domain-Robustness-Prompt-Tuning",
+      "description": "Implementation of the report: on the domain robustness of prefix and prompt tuning",
+      "stars": 20,
+      "source": "github"
+    },
+    {
+      "title": "1KE-JI/UPFT",
+      "url": "https://github.com/1KE-JI/UPFT",
+      "description": "Official resources of \"The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models\", accepted by NeurIPS 2025",
+      "stars": 20,
+      "source": "github"
+    },
+    {
+      "title": "tjvsonsbeek/open-ended-medical-vqa",
+      "url": "https://github.com/tjvsonsbeek/open-ended-medical-vqa",
+      "description": "Repository for the paper: Open-Ended Medical Visual Question Answering Through Prefix Tuning of Language Models (https://arxiv.org/abs/2303.05977)",
+      "stars": 19,
+      "source": "github"
+    },
+    {
+      "title": "ChainsmokersAI/Controlled-Prefix-Tuning",
+      "url": "https://github.com/ChainsmokersAI/Controlled-Prefix-Tuning",
+      "description": "Controlled Text Generation using Prefix-Tuning on GPT",
+      "stars": 18,
+      "source": "github"
+    },
+    {
+      "title": "YunxinLi/Multimodal-Context-Reasoning",
+      "url": "https://github.com/YunxinLi/Multimodal-Context-Reasoning",
+      "description": "A multimodal context reasoning approach that introduce the multi-view semantic alignment information via prefix tuning.",
+      "stars": 16,
+      "source": "github"
+    },
+    {
+      "title": "GKNL/ChapTER",
+      "url": "https://github.com/GKNL/ChapTER",
+      "description": "[NAACL 2024 Findings] Deja vu: Contrastive Historical Modeling with Prefix-tuning for Temporal Knowledge Graph Reasoning",
+      "stars": 15,
+      "source": "github"
+    },
+    {
+      "title": "ImKeTT/Alpaca-Light",
+      "url": "https://github.com/ImKeTT/Alpaca-Light",
+      "description": "[Project] Tune LLaMA with Prefix/LoRA on English/Chinese instruction datasets",
+      "stars": 12,
+      "source": "github"
+    },
+    {
+      "title": "yangyang-69/Prompt_sam_cryoPPP",
+      "url": "https://github.com/yangyang-69/Prompt_sam_cryoPPP",
+      "description": "This study explored prompt-based learning to adapt the state-of-the-art image segmentation foundation model SAM for cryo-EM. Through trials with three prompt-based learning strategies, namely head prompt, prefix prompt, and encoder prompt, we observed enhanced performance and reduced computational requirements compared to the fine-tuning approach. ",
+      "stars": 12,
+      "source": "github"
+    },
+    {
+      "title": "ychen-stat-ml/kernel-adapters",
+      "url": "https://github.com/ychen-stat-ml/kernel-adapters",
+      "description": "Code for \"Inducer-tuning: Connecting Prefix-tuning and Adapter-tuning\" (EMNLP 2022) and \"Empowering Parameter-Efficient Transfer Learning by Recognizing the Kernel Structure in Attention\" (NAACL 2022 Findings)",
+      "stars": 11,
+      "source": "github"
+    },
+    {
+      "title": "PradeepNalluri/Prefix-Tuning-Bert",
+      "url": "https://github.com/PradeepNalluri/Prefix-Tuning-Bert",
+      "description": "Tuning BERT",
+      "stars": 10,
+      "source": "github"
+    },
+    {
+      "title": "Computer-K/PEFT",
+      "url": "https://github.com/Computer-K/PEFT",
+      "description": "微调：BitFit、Prompt tuning、P-tuning、Prefix Tuning、LoRA、IA3",
+      "stars": 8,
+      "source": "github"
+    },
+    {
+      "title": "jiaqi5598/KnowPrefix-Tuning",
+      "url": "https://github.com/jiaqi5598/KnowPrefix-Tuning",
+      "description": null,
+      "stars": 8,
+      "source": "github"
+    },
+    {
+      "title": "GuudMan/HuggingFaceTransformers",
+      "url": "https://github.com/GuudMan/HuggingFaceTransformers",
+      "description": "基础入门篇：Transformers入门，从环境安装到各个基础组件的介绍，包括Pipeline、Tokenizer、Model、Datasets、Evaluate、Trainer，并通过一个最基本的文本分类实例将各个模块进行串讲  实战演练篇：Transformers实战，通过丰富的实战案例对Transformers在NLP任务中的解决方案进行介绍，包括命名实体识别、机器阅读理解、多项选择、文本相似度、检索式对话机器人、掩码语言模型、因果语言模型、摘要生成、生成式对话机器人  高效微调篇：Transformers模型高效微调，以PEFT库为核心，介绍各种常用的参数高效微调方法的原理与实战，包括BitFit、Prompt-tuning、P-tuning、Prefix-Tuning、Lora和I",
+      "stars": 8,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.284,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.072,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

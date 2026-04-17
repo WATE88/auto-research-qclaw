@@ -1,0 +1,174 @@
+{
+  "topic": "LLM benchmark dataset",
+  "timestamp": "2026-03-31T13:06:24.640846",
+  "findings": [
+    {
+      "title": "open-compass/opencompass",
+      "url": "https://github.com/open-compass/opencompass",
+      "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.",
+      "stars": 6812,
+      "source": "github"
+    },
+    {
+      "title": "FreedomIntelligence/Awesome-AI4Med",
+      "url": "https://github.com/FreedomIntelligence/Awesome-AI4Med",
+      "description": "[Medical_NLP ➟ Awesome-AI4Med] medical-related LLMs, Multimodal systems, Datasets, Benchmarks, and more.",
+      "stars": 2610,
+      "source": "github"
+    },
+    {
+      "title": "beir-cellar/beir",
+      "url": "https://github.com/beir-cellar/beir",
+      "description": "A Heterogeneous Benchmark for Information Retrieval. Easy to use, evaluate your models across 15+ diverse IR datasets.",
+      "stars": 2129,
+      "source": "github"
+    },
+    {
+      "title": "openai/SWELancer-Benchmark",
+      "url": "https://github.com/openai/SWELancer-Benchmark",
+      "description": "This repo contains the dataset and code for the paper \"SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?\"",
+      "stars": 1441,
+      "source": "github"
+    },
+    {
+      "title": "DataScienceUIBK/Rankify",
+      "url": "https://github.com/DataScienceUIBK/Rankify",
+      "description": "🔥 Rankify: A Comprehensive Python Toolkit for Retrieval, Re-Ranking, and Retrieval-Augmented Generation 🔥. Our toolkit integrates 40 pre-retrieved benchmark datasets and supports 7+ retrieval techniques, 24+ state-of-the-art Reranking models, and multiple RAG methods.",
+      "stars": 652,
+      "source": "github"
+    },
+    {
+      "title": "onejune2018/Awesome-LLM-Eval",
+      "url": "https://github.com/onejune2018/Awesome-LLM-Eval",
+      "description": "Awesome-LLM-Eval: a curated list of tools, datasets/benchmark, demos, leaderboard, papers, docs and models, mainly for Evaluation on LLMs.  一个由工具、基准/数据、演示、排行榜和大模型等组成的精选列表，主要面向基础大模型评测，旨在探求生成式AI的技术边界.",
+      "stars": 627,
+      "source": "github"
+    },
+    {
+      "title": "HowieHwong/TrustLLM",
+      "url": "https://github.com/HowieHwong/TrustLLM",
+      "description": "[ICML 2024] TrustLLM: Trustworthiness in Large Language Models",
+      "stars": 621,
+      "source": "github"
+    },
+    {
+      "title": "leobeeson/llm_benchmarks",
+      "url": "https://github.com/leobeeson/llm_benchmarks",
+      "description": "A collection of benchmarks and datasets for evaluating LLM.",
+      "stars": 560,
+      "source": "github"
+    },
+    {
+      "title": "zhenbench/z-bench",
+      "url": "https://github.com/zhenbench/z-bench",
+      "description": "Z-Bench 1.0 by 真格基金：一个麻瓜的大语言模型中文测试集。Z-Bench is a LLM prompt dataset for non-technical users, developed by an enthusiastic AI-focused team in Zhenfund.",
+      "stars": 503,
+      "source": "github"
+    },
+    {
+      "title": "adlnlp/FinLLMs",
+      "url": "https://github.com/adlnlp/FinLLMs",
+      "description": "This repository contains related work, benchmarks and datasets for the paper \"Large Language Models in Finance (FinLLMs)\".",
+      "stars": 360,
+      "source": "github"
+    },
+    {
+      "title": "FreedomIntelligence/Apollo",
+      "url": "https://github.com/FreedomIntelligence/Apollo",
+      "description": "Multilingual Medicine: Model, Dataset, Benchmark, Code",
+      "stars": 199,
+      "source": "github"
+    },
+    {
+      "title": "adobe-research/NoLiMa",
+      "url": "https://github.com/adobe-research/NoLiMa",
+      "description": "Official repository for \"NoLiMa: Long-Context Evaluation Beyond Literal Matching\"",
+      "stars": 189,
+      "source": "github"
+    },
+    {
+      "title": "IAAR-Shanghai/UHGEval",
+      "url": "https://github.com/IAAR-Shanghai/UHGEval",
+      "description": "[ACL 2024] User-friendly evaluation framework: Eval Suite & Benchmarks: UHGEval, HaluEval, HalluQA, etc.",
+      "stars": 180,
+      "source": "github"
+    },
+    {
+      "title": "IAAR-Shanghai/xFinder",
+      "url": "https://github.com/IAAR-Shanghai/xFinder",
+      "description": "[ICLR 2025] xFinder: Large Language Models as Automated Evaluators for Reliable Evaluation",
+      "stars": 180,
+      "source": "github"
+    },
+    {
+      "title": "alibaba/aacr-bench",
+      "url": "https://github.com/alibaba/aacr-bench",
+      "description": "An Alibaba open-source multi-language benchmark for evaluating LLMs in repository-level automatic code review, featuring an AI-assisted and expert-verified dataset.",
+      "stars": 132,
+      "source": "github"
+    },
+    {
+      "title": "FuxiaoLiu/VisualNews-Repository",
+      "url": "https://github.com/FuxiaoLiu/VisualNews-Repository",
+      "description": "[EMNLP'21] Visual News: Benchmark and Challenges in News Image Captioning",
+      "stars": 106,
+      "source": "github"
+    },
+    {
+      "title": "westlake-repl/NineRec",
+      "url": "https://github.com/westlake-repl/NineRec",
+      "description": "Multimodal Dataset and Benchmark for Multi-domain and Cross-domain Recommendation System",
+      "stars": 104,
+      "source": "github"
+    },
+    {
+      "title": "erogol/BlaGPT",
+      "url": "https://github.com/erogol/BlaGPT",
+      "description": "Experimental playground for benchmarking language model (LM) architectures, layers, and tricks on smaller datasets. Designed for flexible experimentation and exploration.",
+      "stars": 102,
+      "source": "github"
+    },
+    {
+      "title": "FuxiaoLiu/MMC",
+      "url": "https://github.com/FuxiaoLiu/MMC",
+      "description": "[NAACL 2024] MMC: Advancing Multimodal Chart Understanding with LLM Instruction Tuning",
+      "stars": 95,
+      "source": "github"
+    },
+    {
+      "title": "williamliujl/CMExam",
+      "url": "https://github.com/williamliujl/CMExam",
+      "description": "A Chinese National Medical Licensing Examination dataset and large languge model benchmarks",
+      "stars": 84,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.438,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.85,
+      "star_power": 0.13,
+      "diversity": 0.0,
+      "usability": 0.2,
+      "applicability": 0.95,
+      "coverage": 1.0,
+      "ndcg": 0.751,
+      "map": 0.848,
+      "mrr": 1.0,
+      "rouge_1": 0.3,
+      "semantic_sim": 0.127,
+      "coherence": 0.125,
+      "task_completion": 0.327,
+      "tool_use": 0.028,
+      "reasoning_depth": 0.0,
+      "autonomy": 0.062,
+      "multi_agent": 0.015
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "topic": "tool use LLM agent",
+  "timestamp": "2026-03-31T12:30:07.960686",
+  "findings": [
+    {
+      "title": "Klavis-AI/klavis",
+      "url": "https://github.com/Klavis-AI/klavis",
+      "description": "Klavis AI:  MCP integration platforms that let AI agents use tools reliably at any scale",
+      "stars": 5692,
+      "source": "github"
+    },
+    {
+      "title": "ModelEngine-Group/nexent",
+      "url": "https://github.com/ModelEngine-Group/nexent",
+      "description": "Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestration with built-in constraints, feedback loops, and control planes.",
+      "stars": 4353,
+      "source": "github"
+    },
+    {
+      "title": "gptme/gptme",
+      "url": "https://github.com/gptme/gptme",
+      "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!",
+      "stars": 4254,
+      "source": "github"
+    },
+    {
+      "title": "XiaomingX/indie-hacker-tools-plus",
+      "url": "https://github.com/XiaomingX/indie-hacker-tools-plus",
+      "description": "为独立开发者准备的精选技术栈和工具仓库来了！这里有你最需要的工具，帮你提升开发效率、节约成本，最重要的是——这些工具都是市场上热门的，经过验证的。🚀A curated collection of tech stacks and tools tailored for independent developers is here! these are proven, popular tools widely used in the industry. 🚀",
+      "stars": 1595,
+      "source": "github"
+    },
+    {
+      "title": "badlogic/lemmy",
+      "url": "https://github.com/badlogic/lemmy",
+      "description": "Wrapper around tool using LLMs for agentic workflows",
+      "stars": 1507,
+      "source": "github"
+    },
+    {
+      "title": "trpc-group/trpc-agent-go",
+      "url": "https://github.com/trpc-group/trpc-agent-go",
+      "description": "trpc-agent-go is a powerful Go framework for building intelligent agent systems using large language models (LLMs) and tools.",
+      "stars": 1048,
+      "source": "github"
+    },
+    {
+      "title": "TIGER-AI-Lab/verl-tool",
+      "url": "https://github.com/TIGER-AI-Lab/verl-tool",
+      "description": "A version of verl to support diverse tool use",
+      "stars": 936,
+      "source": "github"
+    },
+    {
+      "title": "docker/compose-for-agents",
+      "url": "https://github.com/docker/compose-for-agents",
+      "description": "Build and run AI agents using Docker Compose. A collection of ready-to-use examples for orchestrating open-source LLMs, tools, and agent runtimes.",
+      "stars": 895,
+      "source": "github"
+    },
+    {
+      "title": "sigoden/llm-functions",
+      "url": "https://github.com/sigoden/llm-functions",
+      "description": "Easily create LLM tools and agents using plain Bash/JavaScript/Python functions.",
+      "stars": 730,
+      "source": "github"
+    },
+    {
+      "title": "jonigl/mcp-client-for-ollama",
+      "url": "https://github.com/jonigl/mcp-client-for-ollama",
+      "description": "A text-based user interface (TUI) client for interacting with MCP servers using Ollama. Features include agent mode, multi-server, model switching, streaming responses, tool management, human-in-the-loop, thinking mode, model params config, MCP prompts, custom system prompt and saved preferences. Built for developers working with local LLMs.",
+      "stars": 586,
+      "source": "github"
+    },
+    {
+      "title": "zhongyu09/openchatbi",
+      "url": "https://github.com/zhongyu09/openchatbi",
+      "description": "OpenChatBI is an intelligent chat-based BI tool powered by large language models, designed to help users query, analyze, and visualize data through natural language conversations. It uses LangGraph and LangChain to build chat agent and workflows that support natural language to SQL conversion and data analysis.",
+      "stars": 541,
+      "source": "github"
+    },
+    {
+      "title": "Accenture/mcp-bench",
+      "url": "https://github.com/Accenture/mcp-bench",
+      "description": "MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers",
+      "stars": 464,
+      "source": "github"
+    },
+    {
+      "title": "strands-agents/agent-builder",
+      "url": "https://github.com/strands-agents/agent-builder",
+      "description": "An example agent demonstrating streaming, tool use, and interactivity from your terminal. This agent builder can help you to build your own agents and tools.",
+      "stars": 400,
+      "source": "github"
+    },
+    {
+      "title": "MLT-OSS/open-assistant-api",
+      "url": "https://github.com/MLT-OSS/open-assistant-api",
+      "description": "The Open Assistant API is a ready-to-use, open-source, self-hosted agent/gpts orchestration creation framework, supporting customized extensions for LLM, RAG, function call, and tools capabilities. It also supports seamless integration with the openai/langchain sdk.",
+      "stars": 359,
+      "source": "github"
+    },
+    {
+      "title": "GoogleCloudPlatform/cymbal-air-toolbox-demo",
+      "url": "https://github.com/GoogleCloudPlatform/cymbal-air-toolbox-demo",
+      "description": "Demo of a customer service agent (Cymbal Air) using LangGraph, Tools, and RAG to interact with Google Cloud Databases via MCP Toolbox.",
+      "stars": 319,
+      "source": "github"
+    },
+    {
+      "title": "strands-agents/mcp-server",
+      "url": "https://github.com/strands-agents/mcp-server",
+      "description": "This MCP server provides documentation about Strands Agents to your GenAI tools, so you can use your favorite AI coding assistant to vibe-code Strands Agents.",
+      "stars": 270,
+      "source": "github"
+    },
+    {
+      "title": "ganeshnikhil/J.A.R.V.I.S.2.0",
+      "url": "https://github.com/ganeshnikhil/J.A.R.V.I.S.2.0",
+      "description": " open source assistant  hybrid using small models (2b - 5b) and gemini  , with image and agentic tool capabilities and integration of RAG with effiecient memory. android  support using adb ",
+      "stars": 227,
+      "source": "github"
+    },
+    {
+      "title": "xorbitsai/xagent",
+      "url": "https://github.com/xorbitsai/xagent",
+      "description": "A production-ready platform for dynamic AI agents — plan, use tools, and complete real work without hardcoded workflows.",
+      "stars": 200,
+      "source": "github"
+    },
+    {
+      "title": "SylvianAI/sv-excel-agent",
+      "url": "https://github.com/SylvianAI/sv-excel-agent",
+      "description": "An Excel AI agent that uses MCP tools to let LLMs read, edit, and automate Excel spreadsheets.",
+      "stars": 178,
+      "source": "github"
+    },
+    {
+      "title": "mcp-use/mcp-use-ts",
+      "url": "https://github.com/mcp-use/mcp-use-ts",
+      "description": "mcp-use is the framework for MCP with the best DX - Build AI agents, create MCP   servers with UI widgets, and debug with built-in inspector. Includes client SDK, server SDK, React hooks, and powerful dev tools.",
+      "stars": 172,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.429,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.05,
+      "star_power": 0.217,
+      "diversity": 0.0,
+      "usability": 0.4,
+      "applicability": 1.0,
+      "coverage": 1.0,
+      "ndcg": 0.586,
+      "map": 0.868,
+      "mrr": 1.0,
+      "rouge_1": 0.338,
+      "semantic_sim": 0.149,
+      "coherence": 0.263,
+      "task_completion": 0.555,
+      "tool_use": 0.247,
+      "reasoning_depth": 0.077,
+      "autonomy": 0.075,
+      "multi_agent": 0.045
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

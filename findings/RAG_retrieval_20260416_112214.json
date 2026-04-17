@@ -1,0 +1,280 @@
+{
+  "topic": "RAG retrieval",
+  "timestamp": "2026-04-16T11:22:14.305845",
+  "findings": [
+    {
+      "title": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stars": 78196,
+      "source": "github"
+    },
+    {
+      "title": "HKUDS/LightRAG",
+      "url": "https://github.com/HKUDS/LightRAG",
+      "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+      "stars": 33370,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/graphrag",
+      "url": "https://github.com/microsoft/graphrag",
+      "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+      "stars": 32261,
+      "source": "github"
+    },
+    {
+      "title": "labring/FastGPT",
+      "url": "https://github.com/labring/FastGPT",
+      "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+      "stars": 27728,
+      "source": "github"
+    },
+    {
+      "title": "NirDiamant/RAG_Techniques",
+      "url": "https://github.com/NirDiamant/RAG_Techniques",
+      "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.",
+      "stars": 26794,
+      "source": "github"
+    },
+    {
+      "title": "VectifyAI/PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "stars": 25309,
+      "source": "github"
+    },
+    {
+      "title": "deepset-ai/haystack",
+      "url": "https://github.com/deepset-ai/haystack",
+      "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
+      "stars": 24844,
+      "source": "github"
+    },
+    {
+      "title": "vanna-ai/vanna",
+      "url": "https://github.com/vanna-ai/vanna",
+      "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.",
+      "stars": 23278,
+      "source": "github"
+    },
+    {
+      "title": "memvid/memvid",
+      "url": "https://github.com/memvid/memvid",
+      "description": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
+      "stars": 14930,
+      "source": "github"
+    },
+    {
+      "title": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+      "stars": 13887,
+      "source": "github"
+    },
+    {
+      "title": "activeloopai/deeplake",
+      "url": "https://github.com/activeloopai/deeplake",
+      "description": "Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.",
+      "stars": 9084,
+      "source": "github"
+    },
+    {
+      "title": "OpenSPG/KAG",
+      "url": "https://github.com/OpenSPG/KAG",
+      "description": "KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs.  It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.",
+      "stars": 8677,
+      "source": "github"
+    },
+    {
+      "title": "SciPhi-AI/R2R",
+      "url": "https://github.com/SciPhi-AI/R2R",
+      "description": "SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.",
+      "stars": 7767,
+      "source": "github"
+    },
+    {
+      "title": "weaviate/Verba",
+      "url": "https://github.com/weaviate/Verba",
+      "description": "Retrieval Augmented Generation (RAG) chatbot powered by Weaviate",
+      "stars": 7649,
+      "source": "github"
+    },
+    {
+      "title": "airweave-ai/airweave",
+      "url": "https://github.com/airweave-ai/airweave",
+      "description": "Open-source context retrieval layer for AI agents",
+      "stars": 6237,
+      "source": "github"
+    },
+    {
+      "title": "Marker-Inc-Korea/AutoRAG",
+      "url": "https://github.com/Marker-Inc-Korea/AutoRAG",
+      "description": "AutoRAG: An Open-Source Framework for Retrieval-Augmented Generation (RAG) Evaluation & Optimization with AutoML-Style Automation",
+      "stars": 4705,
+      "source": "github"
+    },
+    {
+      "title": "truefoundry/cognita",
+      "url": "https://github.com/truefoundry/cognita",
+      "description": "RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry ",
+      "stars": 4420,
+      "source": "github"
+    },
+    {
+      "title": "CortexReach/memory-lancedb-pro",
+      "url": "https://github.com/CortexReach/memory-lancedb-pro",
+      "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI",
+      "stars": 4200,
+      "source": "github"
+    },
+    {
+      "title": "AnswerDotAI/RAGatouille",
+      "url": "https://github.com/AnswerDotAI/RAGatouille",
+      "description": "Easily use and train state of the art late-interaction retrieval methods (ColBERT) in any RAG pipeline. Designed for modularity and ease-of-use, backed by research.",
+      "stars": 3908,
+      "source": "github"
+    },
+    {
+      "title": "aiming-lab/SimpleMem",
+      "url": "https://github.com/aiming-lab/SimpleMem",
+      "description": "SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal",
+      "stars": 3231,
+      "source": "github"
+    },
+    {
+      "title": "ROSE: Retrieval-Oriented Segmentation Enhancement",
+      "url": "http://arxiv.org/abs/2604.14147v1",
+      "abstract": "Existing segmentation models based on multimodal large language models (MLLMs), such as LISA, often struggle with novel or emerging entities due to their inability to incorporate up-to-date knowledge. To address this challenge, we introduce the Novel Emerging Segmentation Task (NEST), which focuses ",
+      "source": "arxiv"
+    },
+    {
+      "title": "ID and Graph View Contrastive Learning with Multi-View Attention Fusion for Sequential Recommendation",
+      "url": "http://arxiv.org/abs/2604.14114v1",
+      "abstract": "Sequential recommendation has become increasingly prominent in both academia and industry, particularly in e-commerce. The primary goal is to extract user preferences from historical interaction sequences and predict items a user is likely to engage with next. Recent advances have leveraged contrast",
+      "source": "arxiv"
+    },
+    {
+      "title": "Training-Free Semantic Multi-Object Tracking with Vision-Language Models",
+      "url": "http://arxiv.org/abs/2604.14074v1",
+      "abstract": "Semantic Multi-Object Tracking (SMOT) extends multi-object tracking with semantic outputs such as video summaries, instance-level captions, and interaction labels, aiming to move from trajectories to human-interpretable descriptions of dynamic scenes. Existing SMOT systems are trained end-to-end, co",
+      "source": "arxiv"
+    },
+    {
+      "title": "Enhancing Local Life Service Recommendation with Agentic Reasoning in Large Language Model",
+      "url": "http://arxiv.org/abs/2604.14051v1",
+      "abstract": "Local life service recommendation is distinct from general recommendation scenarios due to its strong living need-driven nature. Fundamentally, accurately identifying a user's immediate living need and recommending the corresponding service are inextricably linked tasks. However, prior works typical",
+      "source": "arxiv"
+    },
+    {
+      "title": "Large Language Models to Enhance Business Process Modeling: Past, Present, and Future Trends",
+      "url": "http://arxiv.org/abs/2604.14034v1",
+      "abstract": "Recent advances in Generative Artificial Intelligence, particularly Large Language Models (LLMs), have stimulated growing interest in automating or assisting Business Process Modeling tasks using natural language. Several approaches have been proposed to transform textual process descriptions into B",
+      "source": "arxiv"
+    },
+    {
+      "title": "Dual-Enhancement Product Bundling: Bridging Interactive Graph and Large Language Model",
+      "url": "http://arxiv.org/abs/2604.14030v1",
+      "abstract": "Product bundling boosts e-commerce revenue by recommending complementary item combinations. However, existing methods face two critical challenges: (1) collaborative filtering approaches struggle with cold-start items owing to dependency on historical interactions, and (2) LLMs lack inherent capabil",
+      "source": "arxiv"
+    },
+    {
+      "title": "POINTS-Seeker: Towards Training a Multimodal Agentic Search Model from Scratch",
+      "url": "http://arxiv.org/abs/2604.14029v1",
+      "abstract": "While Large Multimodal Models (LMMs) demonstrate impressive visual perception, they remain epistemically constrained by their static parametric knowledge. To transcend these boundaries, multimodal search models have been adopted to actively interact with the external environment for evidence retriev",
+      "source": "arxiv"
+    },
+    {
+      "title": "Leveraging LLM-GNN Integration for Open-World Question Answering over Knowledge Graphs",
+      "url": "http://arxiv.org/abs/2604.13979v1",
+      "abstract": "Open-world Question Answering (OW-QA) over knowledge graphs (KGs) aims to answer questions over incomplete or evolving KGs. Traditional KGQA assumes a closed world where answers must exist in the KG, limiting real-world applicability. In contrast, open-world QA requires inferring missing knowledge b",
+      "source": "arxiv"
+    },
+    {
+      "title": "ASTRA: Enhancing Multi-Subject Generation with Retrieval-Augmented Pose Guidance and Disentangled Position Embedding",
+      "url": "http://arxiv.org/abs/2604.13938v1",
+      "abstract": "Subject-driven image generation has shown great success in creating personalized content, but its capabilities are largely confined to single subjects in common poses. Current approaches face a fundamental conflict when handling multiple subjects with complex, distinct actions: preserving individual",
+      "source": "arxiv"
+    },
+    {
+      "title": "Dynamic rephasing in a telecom warm vapor quantum memory",
+      "url": "http://arxiv.org/abs/2604.13900v1",
+      "abstract": "The Off-Resonant Cascaded Absorption (ORCA) protocol in warm atomic vapors offers a scalable platform for high-bandwidth, low noise quantum memories, but its coherence time is fundamentally limited by Doppler-induced dephasing. We introduce and experimentally demonstrate a dynamic rephasing protocol",
+      "source": "arxiv"
+    },
+    {
+      "title": "Time-resolved SNOM via phase-domain sampling",
+      "url": "http://arxiv.org/abs/2604.13892v1",
+      "abstract": "Time-resolved scanning near-field optical microscopy (tr-SNOM) enables the measurement of the dynamic optical response of functional surfaces beyond the diffraction limit. Experimental challenges are imposed both by the use of a pulsed light source, and by the need for interferometric signal modulat",
+      "source": "arxiv"
+    },
+    {
+      "title": "Beyond Static Personas: Situational Personality Steering for Large Language Models",
+      "url": "http://arxiv.org/abs/2604.13846v1",
+      "abstract": "Personalized Large Language Models (LLMs) facilitate more natural, human-like interactions in human-centric applications. However, existing personalization methods are constrained by limited controllability and high resource demands. Furthermore, their reliance on static personality modeling restric",
+      "source": "arxiv"
+    },
+    {
+      "title": "UI-Copilot: Advancing Long-Horizon GUI Automation via Tool-Integrated Policy Optimization",
+      "url": "http://arxiv.org/abs/2604.13822v1",
+      "abstract": "MLLM-based GUI agents have demonstrated strong capabilities in complex user interface interaction tasks. However, long-horizon scenarios remain challenging, as these agents are burdened with tasks beyond their intrinsic capabilities, suffering from memory degradation, progress confusion, and math ha",
+      "source": "arxiv"
+    },
+    {
+      "title": "DUET: Joint Exploration of User Item Profiles in Recommendation System",
+      "url": "http://arxiv.org/abs/2604.13801v1",
+      "abstract": "Traditional recommendation systems represent users and items as dense vectors and learn to align them in a shared latent space for relevance estimation. Recent LLM-based recommenders instead leverage natural-language representations that are easier to interpret and integrate with downstream reasonin",
+      "source": "arxiv"
+    },
+    {
+      "title": "Driving Engagement in Daily Fantasy Sports with a Scalable and Urgency-Aware Ranking Engine",
+      "url": "http://arxiv.org/abs/2604.13796v1",
+      "abstract": "In daily fantasy sports (DFS), match participation is highly time-sensitive. Users must act within a narrow window before a game begins, making match recommendation a time-critical task to prevent missed engagement and revenue loss. Existing recommender systems, typically designed for static item ca",
+      "source": "arxiv"
+    },
+    {
+      "title": "ToolOmni: Enabling Open-World Tool Use via Agentic learning with Proactive Retrieval and Grounded Execution",
+      "url": "http://arxiv.org/abs/2604.13787v1",
+      "abstract": "Large Language Models (LLMs) enhance their problem-solving capability by utilizing external tools. However, in open-world scenarios with massive and evolving tool repositories, existing methods relying on static embedding retrieval or parameter memorization of tools struggle to align user intent wit",
+      "source": "arxiv"
+    },
+    {
+      "title": "TokenFormer: Unify the Multi-Field and Sequential Recommendation Worlds",
+      "url": "http://arxiv.org/abs/2604.13737v1",
+      "abstract": "Recommender systems have historically developed along two largely independent paradigms: feature interaction models for modeling correlations among multi-field categorical features, and sequential models for capturing user behavior dynamics from historical interaction sequences. Although recent tren",
+      "source": "arxiv"
+    },
+    {
+      "title": "Doc-V*:Coarse-to-Fine Interactive Visual Reasoning for Multi-Page Document VQA",
+      "url": "http://arxiv.org/abs/2604.13731v1",
+      "abstract": "Multi-page Document Visual Question Answering requires reasoning over semantics, layouts, and visual elements in long, visually dense documents. Existing OCR-free methods face a trade-off between capacity and precision: end-to-end models scale poorly with document length, while visual retrieval-base",
+      "source": "arxiv"
+    },
+    {
+      "title": "Hybrid Retrieval for COVID-19 Literature: Comparing Rank Fusion and Projection Fusion with Diversity Reranking",
+      "url": "http://arxiv.org/abs/2604.13728v1",
+      "abstract": "We present a hybrid retrieval system for COVID-19 scientific literature, evaluated on the TREC-COVID benchmark (171,332 papers, 50 expert queries). The system implements six retrieval configurations spanning sparse (SPLADE), dense (BGE), rank-level fusion (RRF), and a projection-based vector fusion ",
+      "source": "arxiv"
+    },
+    {
+      "title": "FRAGATA: Semantic Retrieval of HPC Support Tickets via Hybrid RAG over 20 Years of Request Tracker History",
+      "url": "http://arxiv.org/abs/2604.13721v1",
+      "abstract": "The technical support team of a supercomputing centre accumulates, over the course of decades, a large volume of resolved incidents that constitute critical operational knowledge. At the Galician Supercomputing Center (CESGA) this history has been managed for over twenty years with Request Tracker (",
+      "source": "arxiv"
+    }
+  ],
+  "quality": {
+    "total": 40,
+    "quality_score": 0.431,
+    "dimensions": {
+      "authority": 0.95,
+      "quality": 0.0,
+      "star_power": 0.23,
+      "diversity": 0.5
+    },
+    "sources_breakdown": {
+      "github": 20,
+      "arxiv": 20
+    }
+  }
+}

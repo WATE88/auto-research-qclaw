@@ -1,0 +1,280 @@
+{
+  "topic": "model compression",
+  "timestamp": "2026-03-30T13:00:26.141595",
+  "findings": [
+    {
+      "title": "microsoft/nni",
+      "url": "https://github.com/microsoft/nni",
+      "description": "An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.",
+      "stars": 14346,
+      "source": "github"
+    },
+    {
+      "title": "PaddlePaddle/PaddleNLP",
+      "url": "https://github.com/PaddlePaddle/PaddleNLP",
+      "description": "Easy-to-use and powerful LLM and SLM library with awesome model zoo.",
+      "stars": 12935,
+      "source": "github"
+    },
+    {
+      "title": "Tencent/TNN",
+      "url": "https://github.com/Tencent/TNN",
+      "description": "TNN: developed by Tencent Youtu Lab and Guangying Lab, a uniform deep learning inference framework for mobile、desktop and server. TNN is distinguished by several outstanding features, including its cross-platform capability, high performance, model compression and code pruning. Based on ncnn and Rapidnet, TNN further strengthens the support and performance optimization for mobile devices, and also draws on the advantages of good extensibility and high performance from existed open source efforts. TNN has been deployed in multiple Apps from Tencent, such as Mobile QQ, Weishi, Pitu, etc. Contributions are welcome to work in collaborative with us and make TNN a better framework. ",
+      "stars": 4632,
+      "source": "github"
+    },
+    {
+      "title": "Tencent/PocketFlow",
+      "url": "https://github.com/Tencent/PocketFlow",
+      "description": "An Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications.",
+      "stars": 2911,
+      "source": "github"
+    },
+    {
+      "title": "intel/neural-compressor",
+      "url": "https://github.com/intel/neural-compressor",
+      "description": "SOTA low-bit LLM quantization (INT8/FP8/MXFP8/INT4/MXFP4/NVFP4) & sparsity; leading model compression techniques on PyTorch, TensorFlow, and ONNX Runtime",
+      "stars": 2606,
+      "source": "github"
+    },
+    {
+      "title": "quic/aimet",
+      "url": "https://github.com/quic/aimet",
+      "description": "AIMET is a library that provides advanced quantization and compression techniques for trained neural network models.",
+      "stars": 2576,
+      "source": "github"
+    },
+    {
+      "title": "666DZY666/micronet",
+      "url": "https://github.com/666DZY666/micronet",
+      "description": "micronet, a model compression and deploy lib. compression: 1、quantization: quantization-aware-training(QAT), High-Bit(>2b)(DoReFa/Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference)、Low-Bit(≤2b)/Ternary and Binary(TWN/BNN/XNOR-Net); post-training-quantization(PTQ), 8-bit(tensorrt); 2、 pruning: normal、regular and group convolutional channel pruning; 3、 group convolution structure; 4、batch-normalization fuse for quantization. deploy: tensorrt, fp32/fp16/int8(ptq-calibration)、op-adapt(upsample)、dynamic_shape",
+      "stars": 2270,
+      "source": "github"
+    },
+    {
+      "title": "horseee/Awesome-Efficient-LLM",
+      "url": "https://github.com/horseee/Awesome-Efficient-LLM",
+      "description": "A curated list for Efficient Large Language Models",
+      "stars": 1970,
+      "source": "github"
+    },
+    {
+      "title": "open-mmlab/mmrazor",
+      "url": "https://github.com/open-mmlab/mmrazor",
+      "description": "OpenMMLab Model Compression Toolbox and Benchmark.",
+      "stars": 1665,
+      "source": "github"
+    },
+    {
+      "title": "PaddlePaddle/PaddleSlim",
+      "url": "https://github.com/PaddlePaddle/PaddleSlim",
+      "description": "PaddleSlim is an open-source library for deep model compression and architecture search.",
+      "stars": 1613,
+      "source": "github"
+    },
+    {
+      "title": "tensorflow/model-optimization",
+      "url": "https://github.com/tensorflow/model-optimization",
+      "description": "A toolkit to optimize ML models for deployment for Keras and TensorFlow, including quantization and pruning.",
+      "stars": 1564,
+      "source": "github"
+    },
+    {
+      "title": "GPUOpen-Tools/compressonator",
+      "url": "https://github.com/GPUOpen-Tools/compressonator",
+      "description": "Tool suite for Texture and 3D Model Compression, Optimization and Analysis using CPUs, GPUs and APUs",
+      "stars": 1405,
+      "source": "github"
+    },
+    {
+      "title": "Zefan-Cai/KVCache-Factory",
+      "url": "https://github.com/Zefan-Cai/KVCache-Factory",
+      "description": "Unified KV Cache Compression Methods for Auto-Regressive Models",
+      "stars": 1314,
+      "source": "github"
+    },
+    {
+      "title": "Vahe1994/AQLM",
+      "url": "https://github.com/Vahe1994/AQLM",
+      "description": "Official Pytorch repository for Extreme Compression of Large Language Models via Additive Quantization https://arxiv.org/pdf/2401.06118.pdf and PV-Tuning: Beyond Straight-Through Estimation for Extreme LLM Compression https://arxiv.org/abs/2405.14852",
+      "stars": 1314,
+      "source": "github"
+    },
+    {
+      "title": "Tebmer/Awesome-Knowledge-Distillation-of-LLMs",
+      "url": "https://github.com/Tebmer/Awesome-Knowledge-Distillation-of-LLMs",
+      "description": "This repository collects papers for \"A Survey on Knowledge Distillation of Large Language Models\". We break down KD into Knowledge Elicitation and Distillation Algorithms, and explore the Skill & Vertical Distillation of LLMs.",
+      "stars": 1269,
+      "source": "github"
+    },
+    {
+      "title": "Zefan-Cai/R-KV",
+      "url": "https://github.com/Zefan-Cai/R-KV",
+      "description": "[Neurips 2025] R-KV: Redundancy-aware KV Cache Compression for Reasoning Models",
+      "stars": 1189,
+      "source": "github"
+    },
+    {
+      "title": "horseee/LLM-Pruner",
+      "url": "https://github.com/horseee/LLM-Pruner",
+      "description": "[NeurIPS 2023] LLM-Pruner: On the Structural Pruning of Large Language Models. Support Llama-3/3.1, Llama-2, LLaMA,  BLOOM, Vicuna, Baichuan, TinyLlama, etc.",
+      "stars": 1113,
+      "source": "github"
+    },
+    {
+      "title": "ModelCloud/GPTQModel",
+      "url": "https://github.com/ModelCloud/GPTQModel",
+      "description": "LLM model quantization (compression) toolkit with hw acceleration support for Nvidia CUDA, AMD ROCm, Intel XPU and Intel/AMD/Apple CPU via HF, vLLM, and SGLang.",
+      "stars": 1074,
+      "source": "github"
+    },
+    {
+      "title": "alibaba/TinyNeuralNetwork",
+      "url": "https://github.com/alibaba/TinyNeuralNetwork",
+      "description": "TinyNeuralNetwork is an efficient and easy-to-use deep learning model compression framework.",
+      "stars": 874,
+      "source": "github"
+    },
+    {
+      "title": "guan-yuan/Awesome-AutoML-and-Lightweight-Models",
+      "url": "https://github.com/guan-yuan/Awesome-AutoML-and-Lightweight-Models",
+      "description": "A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.",
+      "stars": 856,
+      "source": "github"
+    },
+    {
+      "title": "ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling",
+      "url": "https://arxiv.org/abs/2603.25746v1",
+      "abstract": "Multi-shot video generation is crucial for long narrative storytelling, yet current bidirectional architectures suffer from limited interactivity and high latency. We propose ShotStream, a novel causa",
+      "source": "arxiv"
+    },
+    {
+      "title": "MuRF: Unlocking the Multi-Scale Potential of Vision Foundation Models",
+      "url": "https://arxiv.org/abs/2603.25744v1",
+      "abstract": "Vision Foundation Models (VFMs) have become the cornerstone of modern computer vision, offering robust representations across a wide array of tasks. While recent advances allow these models to handle ",
+      "source": "arxiv"
+    },
+    {
+      "title": "RefAlign: Representation Alignment for Reference-to-Video Generation",
+      "url": "https://arxiv.org/abs/2603.25743v1",
+      "abstract": "Reference-to-video (R2V) generation is a controllable video synthesis paradigm that constrains the generation process using both text prompts and reference images, enabling applications such as person",
+      "source": "arxiv"
+    },
+    {
+      "title": "Pseudogap and Non-Fermi-liquid criticality in double Kondo model for bilayer nickelates",
+      "url": "https://arxiv.org/abs/2603.25742v1",
+      "abstract": "Motivated by recent experimental progress on high-temperature superconductivity in bilayer nickelates, we investigate the phase diagram of the normal state in a bilayer Kondo lattice model using singl",
+      "source": "arxiv"
+    },
+    {
+      "title": "Vega: Learning to Drive with Natural Language Instructions",
+      "url": "https://arxiv.org/abs/2603.25741v1",
+      "abstract": "Vision-language-action models have reshaped autonomous driving to incorporate languages into the decision-making process. However, most existing pipelines only utilize the language modality for scene ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving",
+      "url": "https://arxiv.org/abs/2603.25740v1",
+      "abstract": "Human driving behavior is inherently personal, which is shaped by long-term habits and influenced by short-term intentions. Individuals differ in how they accelerate, brake, merge, yield, and overtake",
+      "source": "arxiv"
+    },
+    {
+      "title": "PSDesigner: Automated Graphic Design with a Human-Like Creative Workflow",
+      "url": "https://arxiv.org/abs/2603.25738v1",
+      "abstract": "Graphic design is a creative and innovative process that plays a crucial role in applications such as e-commerce and advertising. However, developing an automated design system that can faithfully tra",
+      "source": "arxiv"
+    },
+    {
+      "title": "MegaFlow: Zero-Shot Large Displacement Optical Flow",
+      "url": "https://arxiv.org/abs/2603.25739v1",
+      "abstract": "Accurate estimation of large displacement optical flow remains a critical challenge. Existing methods typically rely on iterative local search or/and domain-specific fine-tuning, which severely limits",
+      "source": "arxiv"
+    },
+    {
+      "title": "How good was my shot? Quantifying Player Skill Level in Table Tennis",
+      "url": "https://arxiv.org/abs/2603.25736v1",
+      "abstract": "Gauging an individual's skill level is crucial, as it inherently shapes their behavior. Quantifying skill, however, is challenging because it is latent to the observed actions. To explore skill unders",
+      "source": "arxiv"
+    },
+    {
+      "title": "Parameterizing Dark Energy at the density level: A two-parameter alternative to CPL",
+      "url": "https://arxiv.org/abs/2603.25735v1",
+      "abstract": "We introduce a minimal two-parameter formulation of the dark energy (DE) density evolution normalized to its present-day value, $f_{\\rm DE}(z) \\equiv ρ_{\\rm DE}(z)/ρ_{\\rm DE,0}$, in terms of $f_p\\equi",
+      "source": "arxiv"
+    },
+    {
+      "title": "Unleashing Guidance Without Classifiers for Human-Object Interaction Animation",
+      "url": "https://arxiv.org/abs/2603.25734v1",
+      "abstract": "Generating realistic human-object interaction (HOI) animations remains challenging because it requires jointly modeling dynamic human actions and diverse object geometries. Prior diffusion-based appro",
+      "source": "arxiv"
+    },
+    {
+      "title": "SlotVTG: Object-Centric Adapter for Generalizable Video Temporal Grounding",
+      "url": "https://arxiv.org/abs/2603.25733v1",
+      "abstract": "Multimodal Large Language Models (MLLMs) have shown strong performance on Video Temporal Grounding (VTG). However, their coarse recognition capabilities are insufficient for fine-grained temporal unde",
+      "source": "arxiv"
+    },
+    {
+      "title": "BizGenEval: A Systematic Benchmark for Commercial Visual Content Generation",
+      "url": "https://arxiv.org/abs/2603.25732v1",
+      "abstract": "Recent advances in image generation models have expanded their applications beyond aesthetic imagery toward practical visual content creation. However, existing benchmarks mainly focus on natural imag",
+      "source": "arxiv"
+    },
+    {
+      "title": "CMB constraints on dark matter-proton scattering: investigating prior-volume effects using profile likelihoods",
+      "url": "https://arxiv.org/abs/2603.25731v1",
+      "abstract": "We present profile-likelihood constraints on velocity-independent dark matter-proton scattering, including cases in which only a fraction of dark matter has such non-gravitational interactions. Freque",
+      "source": "arxiv"
+    },
+    {
+      "title": "PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference",
+      "url": "https://arxiv.org/abs/2603.25730v1",
+      "abstract": "Autoregressive video diffusion models have demonstrated remarkable progress, yet they remain bottlenecked by intractable linear KV-cache growth, temporal repetition, and compounding errors during long",
+      "source": "arxiv"
+    },
+    {
+      "title": "Back to Basics: Revisiting ASR in the Age of Voice Agents",
+      "url": "https://arxiv.org/abs/2603.25727v1",
+      "abstract": "Automatic speech recognition (ASR) systems have achieved near-human accuracy on curated benchmarks, yet still fail in real-world voice agents under conditions that current evaluations do not systemati",
+      "source": "arxiv"
+    },
+    {
+      "title": "AnyHand: A Large-Scale Synthetic Dataset for RGB(-D) Hand Pose Estimation",
+      "url": "https://arxiv.org/abs/2603.25726v1",
+      "abstract": "We present AnyHand, a large-scale synthetic dataset designed to advance the state of the art in 3D hand pose estimation from both RGB-only and RGB-D inputs. While recent works with foundation approach",
+      "source": "arxiv"
+    },
+    {
+      "title": "Bayesian analysis of $α$-Starobinsky model with Planck, ACT and DESI data",
+      "url": "https://arxiv.org/abs/2603.25721v1",
+      "abstract": "We present a joint Bayesian analysis to impose constraints on the generalized $α$-Starobinsky inflationary model using the high-precision cosmological datasets: Planck, CMB lensing from ACT DR6, and B",
+      "source": "arxiv"
+    },
+    {
+      "title": "No Hard Negatives Required: Concept Centric Learning Leads to Compositionality without Degrading Zero-shot Capabilities of Contrastive Models",
+      "url": "https://arxiv.org/abs/2603.25722v1",
+      "abstract": "Contrastive vision-language (V&amp;L) models remain a popular choice for various applications. However, several limitations have emerged, most notably the limited ability of V&amp;L models to learn co",
+      "source": "arxiv"
+    },
+    {
+      "title": "R-C2: Cycle-Consistent Reinforcement Learning Improves Multimodal Reasoning",
+      "url": "https://arxiv.org/abs/2603.25720v1",
+      "abstract": "Robust perception and reasoning require consistency across sensory modalities. Yet current multimodal models often violate this principle, yielding contradictory predictions for visual and textual rep",
+      "source": "arxiv"
+    }
+  ],
+  "quality": {
+    "total": 40,
+    "quality_score": 0.434,
+    "dimensions": {
+      "authority": 0.95,
+      "quality": 0.025,
+      "star_power": 0.207,
+      "diversity": 0.5
+    },
+    "sources_breakdown": {
+      "github": 20,
+      "arxiv": 20
+    }
+  }
+}

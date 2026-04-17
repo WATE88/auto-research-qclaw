@@ -1,0 +1,159 @@
+{
+  "topic": "pose estimation",
+  "timestamp": "2026-03-30T16:08:17.082017",
+  "findings": [
+    {
+      "title": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. ",
+      "stars": 44552,
+      "source": "github"
+    },
+    {
+      "title": "CMU-Perceptual-Computing-Lab/openpose",
+      "url": "https://github.com/CMU-Perceptual-Computing-Lab/openpose",
+      "description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation",
+      "stars": 33903,
+      "source": "github"
+    },
+    {
+      "title": "MVIG-SJTU/AlphaPose",
+      "url": "https://github.com/MVIG-SJTU/AlphaPose",
+      "description": "Real-Time and Accurate Full-Body Multi-Person Pose Estimation&Tracking System",
+      "stars": 8537,
+      "source": "github"
+    },
+    {
+      "title": "TadasBaltrusaitis/OpenFace",
+      "url": "https://github.com/TadasBaltrusaitis/OpenFace",
+      "description": "OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.",
+      "stars": 7607,
+      "source": "github"
+    },
+    {
+      "title": "xingyizhou/CenterNet",
+      "url": "https://github.com/xingyizhou/CenterNet",
+      "description": "Object detection, 3D detection, and pose estimation using center point detection: ",
+      "stars": 7552,
+      "source": "github"
+    },
+    {
+      "title": "open-mmlab/mmpose",
+      "url": "https://github.com/open-mmlab/mmpose",
+      "description": "OpenMMLab Pose Estimation Toolbox and Benchmark.",
+      "stars": 7462,
+      "source": "github"
+    },
+    {
+      "title": "DeepLabCut/DeepLabCut",
+      "url": "https://github.com/DeepLabCut/DeepLabCut",
+      "description": "Official implementation of DeepLabCut: Markerless pose estimation of user-defined features with deep learning for all animals incl. humans",
+      "stars": 5558,
+      "source": "github"
+    },
+    {
+      "title": "ZheC/Realtime_Multi-Person_Pose_Estimation",
+      "url": "https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation",
+      "description": "Code repo for realtime multi-person pose estimation in CVPR'17 (Oral)",
+      "stars": 5126,
+      "source": "github"
+    },
+    {
+      "title": "leoxiaobin/deep-high-resolution-net.pytorch",
+      "url": "https://github.com/leoxiaobin/deep-high-resolution-net.pytorch",
+      "description": "The project is an official implementation of our CVPR2019 paper \"Deep High-Resolution Representation Learning for Human Pose Estimation\"",
+      "stars": 4469,
+      "source": "github"
+    },
+    {
+      "title": "facebookresearch/VideoPose3D",
+      "url": "https://github.com/facebookresearch/VideoPose3D",
+      "description": "Efficient 3D human pose estimation in video using 2D keypoint trajectories",
+      "stars": 4002,
+      "source": "github"
+    },
+    {
+      "title": "xinghaochen/awesome-hand-pose-estimation",
+      "url": "https://github.com/xinghaochen/awesome-hand-pose-estimation",
+      "description": "Awesome work on hand pose estimation/tracking",
+      "stars": 3350,
+      "source": "github"
+    },
+    {
+      "title": "mkocabas/VIBE",
+      "url": "https://github.com/mkocabas/VIBE",
+      "description": "Official implementation of CVPR2020 paper \"VIBE: Video Inference for Human Body Pose and Shape Estimation\"",
+      "stars": 3170,
+      "source": "github"
+    },
+    {
+      "title": "open-mmlab/mmskeleton",
+      "url": "https://github.com/open-mmlab/mmskeleton",
+      "description": "A OpenMMLAB toolbox  for human pose estimation, skeleton-based action recognition, and action synthesis.",
+      "stars": 3098,
+      "source": "github"
+    },
+    {
+      "title": "NVlabs/FoundationPose",
+      "url": "https://github.com/NVlabs/FoundationPose",
+      "description": "[CVPR 2024 Highlight] FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects",
+      "stars": 3042,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/human-pose-estimation.pytorch",
+      "url": "https://github.com/microsoft/human-pose-estimation.pytorch",
+      "description": "The project is an official implement of our ECCV2018 paper  \"Simple Baselines for Human Pose Estimation and Tracking(https://arxiv.org/abs/1804.06208)\"",
+      "stars": 3006,
+      "source": "github"
+    },
+    {
+      "title": "IDEA-Research/DWPose",
+      "url": "https://github.com/IDEA-Research/DWPose",
+      "description": "\"Effective Whole-body Pose Estimation with Two-stages Distillation\" (ICCV 2023, CV4Metaverse Workshop)",
+      "stars": 2691,
+      "source": "github"
+    },
+    {
+      "title": "cbsudux/awesome-human-pose-estimation",
+      "url": "https://github.com/cbsudux/awesome-human-pose-estimation",
+      "description": "A collection of awesome resources in Human Pose estimation.",
+      "stars": 2480,
+      "source": "github"
+    },
+    {
+      "title": "Hzzone/pytorch-openpose",
+      "url": "https://github.com/Hzzone/pytorch-openpose",
+      "description": "pytorch implementation of openpose including Hand and Body Pose Estimation.",
+      "stars": 2313,
+      "source": "github"
+    },
+    {
+      "title": "IDEA-Research/detrex",
+      "url": "https://github.com/IDEA-Research/detrex",
+      "description": "detrex is a research platform for DETR-based object detection, segmentation, pose estimation and other visual recognition tasks.",
+      "stars": 2273,
+      "source": "github"
+    },
+    {
+      "title": "Daniil-Osokin/lightweight-human-pose-estimation.pytorch",
+      "url": "https://github.com/Daniil-Osokin/lightweight-human-pose-estimation.pytorch",
+      "description": "Fast and accurate human pose estimation in PyTorch. Contains implementation of \"Real-time 2D Multi-Person Pose Estimation on CPU: Lightweight OpenPose\" paper.",
+      "stars": 2237,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.305,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.176,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

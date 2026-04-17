@@ -1,0 +1,159 @@
+{
+  "topic": "knowledge graph",
+  "timestamp": "2026-03-30T13:06:47.243885",
+  "findings": [
+    {
+      "title": "logseq/logseq",
+      "url": "https://github.com/logseq/logseq",
+      "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap/34267",
+      "stars": 41748,
+      "source": "github"
+    },
+    {
+      "title": "getzep/graphiti",
+      "url": "https://github.com/getzep/graphiti",
+      "description": "Build Real-Time Knowledge Graphs for AI Agents",
+      "stars": 24336,
+      "source": "github"
+    },
+    {
+      "title": "abhigyanpatwari/GitNexus",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "stars": 20652,
+      "source": "github"
+    },
+    {
+      "title": "liuhuanyong/QASystemOnMedicalKG",
+      "url": "https://github.com/liuhuanyong/QASystemOnMedicalKG",
+      "description": " A tutorial and implement of disease centered Medical knowledge graph and qa system based on it。知识图谱构建，自动问答，基于kg的自动问答。以疾病为中心的一定规模医药领域知识图谱，并以该知识图谱完成自动问答与分析服务。",
+      "stars": 7216,
+      "source": "github"
+    },
+    {
+      "title": "Lum1104/Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "description": "Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about (Multi-platform e.g., Codex are supported).",
+      "stars": 7026,
+      "source": "github"
+    },
+    {
+      "title": "athensresearch/athens",
+      "url": "https://github.com/athensresearch/athens",
+      "description": "Athens is no longer maintainted. Athens was an open-source, collaborative knowledge graph, backed by YC W21",
+      "stars": 6309,
+      "source": "github"
+    },
+    {
+      "title": "ownthink/KnowledgeGraphData",
+      "url": "https://github.com/ownthink/KnowledgeGraphData",
+      "description": "史上最大规模1.4亿中文知识图谱开源下载",
+      "stars": 5168,
+      "source": "github"
+    },
+    {
+      "title": "husthuke/awesome-knowledge-graph",
+      "url": "https://github.com/husthuke/awesome-knowledge-graph",
+      "description": "整理知识图谱相关学习资料",
+      "stars": 5092,
+      "source": "github"
+    },
+    {
+      "title": "xerrors/Yuxi",
+      "url": "https://github.com/xerrors/Yuxi",
+      "description": "结合知识库管理的 Agent Harness 平台。 An agent harness that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.",
+      "stars": 4722,
+      "source": "github"
+    },
+    {
+      "title": "varunshenoy/GraphGPT",
+      "url": "https://github.com/varunshenoy/GraphGPT",
+      "description": "Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️",
+      "stars": 4430,
+      "source": "github"
+    },
+    {
+      "title": "zjunlp/DeepKE",
+      "url": "https://github.com/zjunlp/DeepKE",
+      "description": "[EMNLP 2022] An Open Toolkit for Knowledge Graph Extraction and Construction",
+      "stars": 4357,
+      "source": "github"
+    },
+    {
+      "title": "qq547276542/Agriculture_KnowledgeGraph",
+      "url": "https://github.com/qq547276542/Agriculture_KnowledgeGraph",
+      "description": "农业知识图谱(AgriKG)：农业领域的信息检索，命名实体识别，关系抽取，智能问答，辅助决策",
+      "stars": 4343,
+      "source": "github"
+    },
+    {
+      "title": "npubird/KnowledgeGraphCourse",
+      "url": "https://github.com/npubird/KnowledgeGraphCourse",
+      "description": "东南大学《知识图谱》研究生课程",
+      "stars": 4343,
+      "source": "github"
+    },
+    {
+      "title": "panaversity/learn-agentic-ai",
+      "url": "https://github.com/panaversity/learn-agentic-ai",
+      "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes.",
+      "stars": 4028,
+      "source": "github"
+    },
+    {
+      "title": "FalkorDB/FalkorDB",
+      "url": "https://github.com/FalkorDB/FalkorDB",
+      "description": "A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).",
+      "stars": 3846,
+      "source": "github"
+    },
+    {
+      "title": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.",
+      "stars": 3788,
+      "source": "github"
+    },
+    {
+      "title": "yoheinakajima/instagraph",
+      "url": "https://github.com/yoheinakajima/instagraph",
+      "description": "Converts text input or URL into knowledge graph and displays",
+      "stars": 3546,
+      "source": "github"
+    },
+    {
+      "title": "OSU-NLP-Group/HippoRAG",
+      "url": "https://github.com/OSU-NLP-Group/HippoRAG",
+      "description": "[NeurIPS'24] HippoRAG is a novel RAG framework inspired by human long-term memory that enables LLMs to continuously integrate knowledge across external documents. RAG + Knowledge Graphs + Personalized PageRank.",
+      "stars": 3318,
+      "source": "github"
+    },
+    {
+      "title": "jm199504/Financial-Knowledge-Graphs",
+      "url": "https://github.com/jm199504/Financial-Knowledge-Graphs",
+      "description": "小型金融知识图谱构建流程（neo4j / python / cypher / KG）",
+      "stars": 3079,
+      "source": "github"
+    },
+    {
+      "title": "rahulnyk/knowledge_graph",
+      "url": "https://github.com/rahulnyk/knowledge_graph",
+      "description": "Convert any text to a graph of knowledge. This can be used for Graph Augmented Generation or Knowledge Graph based QnA",
+      "stars": 3071,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.309,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.197,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

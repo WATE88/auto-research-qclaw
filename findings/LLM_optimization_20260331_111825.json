@@ -1,0 +1,280 @@
+{
+  "topic": "LLM optimization",
+  "timestamp": "2026-03-31T11:18:25.487143",
+  "findings": [
+    {
+      "title": "affaan-m/everything-claude-code",
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 120407,
+      "source": "github"
+    },
+    {
+      "title": "ray-project/ray",
+      "url": "https://github.com/ray-project/ray",
+      "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+      "stars": 41884,
+      "source": "github"
+    },
+    {
+      "title": "mlflow/mlflow",
+      "url": "https://github.com/mlflow/mlflow",
+      "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.",
+      "stars": 25012,
+      "source": "github"
+    },
+    {
+      "title": "emcie-co/parlant",
+      "url": "https://github.com/emcie-co/parlant",
+      "description": "The conversational control layer for customer-facing AI agents - Parlant is a context-engineering framework optimized for controlling customer interactions.",
+      "stars": 17857,
+      "source": "github"
+    },
+    {
+      "title": "kvcache-ai/ktransformers",
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "stars": 16858,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/TensorRT-LLM",
+      "url": "https://github.com/NVIDIA/TensorRT-LLM",
+      "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+      "stars": 13223,
+      "source": "github"
+    },
+    {
+      "title": "tensorzero/tensorzero",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "description": "TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.",
+      "stars": 11164,
+      "source": "github"
+    },
+    {
+      "title": "krillinai/KrillinAI",
+      "url": "https://github.com/krillinai/KrillinAI",
+      "description": "Video translation and dubbing tool powered by LLMs. The video translator offers 100 language translations and one-click full-process deployment. The video translation output is optimized for platforms like YouTube，TikTok.   AI视频翻译配音工具，100种语言双向翻译，一键部署全流程，可以生抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube等形态的内容成适配",
+      "stars": 9761,
+      "source": "github"
+    },
+    {
+      "title": "Marker-Inc-Korea/AutoRAG",
+      "url": "https://github.com/Marker-Inc-Korea/AutoRAG",
+      "description": "AutoRAG: An Open-Source Framework for Retrieval-Augmented Generation (RAG) Evaluation & Optimization with AutoML-Style Automation",
+      "stars": 4652,
+      "source": "github"
+    },
+    {
+      "title": "SylphAI-Inc/AdalFlow",
+      "url": "https://github.com/SylphAI-Inc/AdalFlow",
+      "description": "AdalFlow: The library to build & auto-optimize LLM applications.",
+      "stars": 4084,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/GenerativeAIExamples",
+      "url": "https://github.com/NVIDIA/GenerativeAIExamples",
+      "description": "Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.",
+      "stars": 3884,
+      "source": "github"
+    },
+    {
+      "title": "algorithmicsuperintelligence/optillm",
+      "url": "https://github.com/algorithmicsuperintelligence/optillm",
+      "description": "Optimizing inference proxy for LLMs",
+      "stars": 3395,
+      "source": "github"
+    },
+    {
+      "title": "vllm-project/llm-compressor",
+      "url": "https://github.com/vllm-project/llm-compressor",
+      "description": "Transformers-compatible library for applying various compression algorithms to LLMs for optimized deployment with vLLM",
+      "stars": 2953,
+      "source": "github"
+    },
+    {
+      "title": "BBuf/how-to-optim-algorithm-in-cuda",
+      "url": "https://github.com/BBuf/how-to-optim-algorithm-in-cuda",
+      "description": "how to optimize some algorithm in cuda.",
+      "stars": 2898,
+      "source": "github"
+    },
+    {
+      "title": "lemonade-sdk/lemonade",
+      "url": "https://github.com/lemonade-sdk/lemonade",
+      "description": "Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk",
+      "stars": 2631,
+      "source": "github"
+    },
+    {
+      "title": "can1357/oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 2479,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "stars": 2273,
+      "source": "github"
+    },
+    {
+      "title": "langfengQ/verl-agent",
+      "url": "https://github.com/langfengQ/verl-agent",
+      "description": "verl-agent is an extension of veRL, designed for training LLM/VLM agents via RL. verl-agent is also the official code for paper \"Group-in-Group Policy Optimization for LLM Agent Training\"",
+      "stars": 1745,
+      "source": "github"
+    },
+    {
+      "title": "facebookresearch/MobileLLM",
+      "url": "https://github.com/facebookresearch/MobileLLM",
+      "description": "MobileLLM Optimizing Sub-billion Parameter Language Models for On-Device Use Cases. In ICML 2024.",
+      "stars": 1420,
+      "source": "github"
+    },
+    {
+      "title": "jd-opensource/xllm",
+      "url": "https://github.com/jd-opensource/xllm",
+      "description": "A high-performance inference engine for LLMs, optimized for diverse AI accelerators.",
+      "stars": 1158,
+      "source": "github"
+    },
+    {
+      "title": "PoseDreamer: Scalable and Photorealistic Human Data Generation Pipeline with Diffusion Models",
+      "url": "http://arxiv.org/abs/2603.28763v1",
+      "abstract": "Acquiring labeled datasets for 3D human mesh estimation is challenging due to depth ambiguities and the inherent difficulty of annotating 3D geometry from monocular images. Existing datasets are either real, with manually annotated 3D geometry and limited scale, or synthetic, rendered from 3D engine",
+      "source": "arxiv"
+    },
+    {
+      "title": "On-the-fly Repulsion in the Contextual Space for Rich Diversity in Diffusion Transformers",
+      "url": "http://arxiv.org/abs/2603.28762v1",
+      "abstract": "Modern Text-to-Image (T2I) diffusion models have achieved remarkable semantic alignment, yet they often suffer from a significant lack of variety, converging on a narrow set of visual solutions for any given prompt. This typicality bias presents a challenge for creative applications that require a w",
+      "source": "arxiv"
+    },
+    {
+      "title": "FlowIt: Global Matching for Optical Flow with Confidence-Guided Refinement",
+      "url": "http://arxiv.org/abs/2603.28759v1",
+      "abstract": "We present FlowIt, a novel architecture for optical flow estimation designed to robustly handle large pixel displacements. At its core, FlowIt leverages a hierarchical transformer architecture that captures extensive global context, enabling the model to effectively model long-range correspondences.",
+      "source": "arxiv"
+    },
+    {
+      "title": "Fast Large-Scale Model-Based Iterative Tomography via Exploiting Mathematical Structure, Hierarchical Optimization, Smart Initialization, and Distributed GPU Computing",
+      "url": "http://arxiv.org/abs/2603.28756v1",
+      "abstract": "Model-Based Iterative Reconstruction (MBIR) is important because direct methods, such as Filtered Back-Projection (FBP) can introduce significant noise and artifacts in sparse-angle tomography, especially for time-evolving samples. Although MBIR produces high-quality reconstructions through prior-in",
+      "source": "arxiv"
+    },
+    {
+      "title": "Odd Hadwiger number and graph products",
+      "url": "http://arxiv.org/abs/2603.28748v1",
+      "abstract": "The Odd Hadwiger number of a graph $G$ is the largest integer $r$ such that $G$ has a clique of size $r$ as an odd minor. In this paper, we investigate how large is the Odd Hadwiger number of the product of two graphs, when considering any of the four standard graph products: Cartesian, direct, lexi",
+      "source": "arxiv"
+    },
+    {
+      "title": "Constrained Optimization on Matrix Lie Groups via Interior-Point Method",
+      "url": "http://arxiv.org/abs/2603.28747v1",
+      "abstract": "This paper proposes an interior-point framework for constrained optimization problems whose decision variables evolve on matrix Lie groups. The proposed method, termed the Matrix Lie Group Interior-Point Method (MLG-IPM), operates directly on the group structure using a minimal Lie algebra parametri",
+      "source": "arxiv"
+    },
+    {
+      "title": "Rethinking Language Model Scaling under Transferable Hypersphere Optimization",
+      "url": "http://arxiv.org/abs/2603.28743v1",
+      "abstract": "Scaling laws for large language models depend critically on the optimizer and parameterization. Existing hyperparameter transfer laws are mainly developed for first-order optimizers, and they do not structurally prevent training instability at scale. Recent hypersphere optimization methods constrain",
+      "source": "arxiv"
+    },
+    {
+      "title": "Expectation Error Bounds for Transfer Learning in Linear Regression and Linear Neural Networks",
+      "url": "http://arxiv.org/abs/2603.28739v1",
+      "abstract": "In transfer learning, the learner leverages auxiliary data to improve generalization on a main task. However, the precise theoretical understanding of when and how auxiliary data help remains incomplete. We provide new insights on this issue in two canonical linear settings: ordinary least squares r",
+      "source": "arxiv"
+    },
+    {
+      "title": "See it to Place it: Evolving Macro Placements with Vision-Language Models",
+      "url": "http://arxiv.org/abs/2603.28733v1",
+      "abstract": "We propose using Vision-Language Models (VLMs) for macro placement in chip floorplanning, a complex optimization task that has recently shown promising advancements through machine learning methods. Because human designers rely heavily on spatial reasoning to arrange components on the chip canvas, w",
+      "source": "arxiv"
+    },
+    {
+      "title": "SAGAI-MID: A Generative AI-Driven Middleware for Dynamic Runtime Interoperability",
+      "url": "http://arxiv.org/abs/2603.28731v1",
+      "abstract": "Modern distributed systems integrate heterogeneous services, REST APIs with different schema versions, GraphQL endpoints, and IoT devices with proprietary payloads that suffer from persistent schema mismatches. Traditional static adapters require manual coding for every schema pair and cannot handle",
+      "source": "arxiv"
+    },
+    {
+      "title": "Pentagonal PdTe2 Monolayer for Sustainable Solar-driven Hydrogen Production",
+      "url": "http://arxiv.org/abs/2603.28726v1",
+      "abstract": "This investigation demonstrates that the pentagonal PdTe2 (penta-PdTe2) monolayer is a highly tunable two-dimensional (2D) photocatalyst, characterized by the bandgap of 1.75 eV and high hole mobility. Using density functional theory calculations with the HSE06 functional, we show that tensile strai",
+      "source": "arxiv"
+    },
+    {
+      "title": "Alertness Optimization for Shift Workers Using a Physiology-based Mathematical Model",
+      "url": "http://arxiv.org/abs/2603.28719v1",
+      "abstract": "Sleep is vital for maintaining cognitive function, facilitating metabolic waste removal, and supporting memory consolidation. However, modern societal demands, particularly shift work, often disrupt natural sleep patterns. This can induce excessive sleepiness among shift workers in critical sectors ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Can Hierarchical Cross-Modal Fusion Predict Human Perception of AI Dubbed Content?",
+      "url": "http://arxiv.org/abs/2603.28717v1",
+      "abstract": "Evaluating AI generated dubbed content is inherently multi-dimensional, shaped by synchronization, intelligibility, speaker consistency, emotional alignment, and semantic context. Human Mean Opinion Scores (MOS) remain the gold standard but are costly and impractical at scale. We present a hierarchi",
+      "source": "arxiv"
+    },
+    {
+      "title": "Dynamic Dual-Granularity Skill Bank for Agentic RL",
+      "url": "http://arxiv.org/abs/2603.28716v1",
+      "abstract": "Agentic reinforcement learning (RL) can benefit substantially from reusable experience, yet existing skill-based methods mainly extract trajectory-level guidance and often lack principled mechanisms for maintaining an evolving skill memory. We propose D2Skill, a dynamic dual-granularity skill bank f",
+      "source": "arxiv"
+    },
+    {
+      "title": "GPU-Accelerated Optimization of Transformer-Based Neural Networks for Real-Time Inference",
+      "url": "http://arxiv.org/abs/2603.28708v1",
+      "abstract": "This paper presents the design and evaluation of a GPU-accelerated inference pipeline for transformer models using NVIDIA TensorRT with mixed-precision optimization. We evaluate BERT-base (110M parameters) and GPT-2 (124M parameters) across batch sizes from 1 to 32 and sequence lengths from 32 to 51",
+      "source": "arxiv"
+    },
+    {
+      "title": "Binary Decisions in DAOs: Accountability and Belief Aggregation via Linear Opinion Pools",
+      "url": "http://arxiv.org/abs/2603.28705v1",
+      "abstract": "We study binary decision-making in governance councils of Decentralized Autonomous Organizations (DAOs), where experts choose between two alternatives on behalf of the organization. We introduce an information structure model for such councils and formalize desired properties in blockchain governanc",
+      "source": "arxiv"
+    },
+    {
+      "title": "Transferability of data-driven optimization results across multiple pixelated CdZnTe spectrometers",
+      "url": "http://arxiv.org/abs/2603.28703v1",
+      "abstract": "Recent work by Vavrek et al. (2025) showed that machine learning methods can be used to exploit spatial patterns of performance variations within the highly-segmented H3D M400 gamma spectrometer to improve an overall spectroscopic performance metric. That work also introduced the spectre-ml software",
+      "source": "arxiv"
+    },
+    {
+      "title": "Improved Approximation Algorithms for Multiway Cut by Large Mixtures of New and Old Rounding Schemes",
+      "url": "http://arxiv.org/abs/2603.28700v1",
+      "abstract": "The input to the Multiway Cut problem is a weighted undirected graph, with nonnegative edge weights, and $k$ designated terminals. The goal is to partition the vertices of the graph into $k$ parts, each containing exactly one of the terminals, such that the sum of weights of the edges connecting ver",
+      "source": "arxiv"
+    },
+    {
+      "title": "Efficient and Practical Black-Box Verification of Quantum Metric Learning Algorithms",
+      "url": "http://arxiv.org/abs/2603.28687v1",
+      "abstract": "Quantum metric learning enhances machine learning by mapping classical data to a quantum Hilbert space with maximal separation between classes. However, on current NISQ hardware, this mapping process itself is prone to errors and could be fundamentally incorrect. Verifying that a quantum embedding m",
+      "source": "arxiv"
+    },
+    {
+      "title": "C2RustXW: Program-Structure-Aware C-to-Rust Translation via Program Analysis and LLM",
+      "url": "http://arxiv.org/abs/2603.28686v1",
+      "abstract": "The growing adoption of Rust for its memory safety and performance has increased the demand for effective migration of legacy C codebases. However, existing rule-based translators (e.g., \\ctorust) often generate verbose, non-idiomatic code that preserves unsafe C semantics, limiting readability, mai",
+      "source": "arxiv"
+    }
+  ],
+  "quality": {
+    "total": 40,
+    "quality_score": 0.409,
+    "dimensions": {
+      "authority": 0.95,
+      "quality": 0.0,
+      "star_power": 0.12,
+      "diversity": 0.5
+    },
+    "sources_breakdown": {
+      "github": 20,
+      "arxiv": 20
+    }
+  }
+}

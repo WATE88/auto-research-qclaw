@@ -1,0 +1,151 @@
+{
+  "topic": "AI safety",
+  "round": 1,
+  "timestamp": "2026-03-27T16:13:28.240633",
+  "findings": [
+    {
+      "title": "wasp-lang/wasp",
+      "url": "https://github.com/wasp-lang/wasp",
+      "description": "The batteries-included full-stack framework for the AI era. Develop JS/TS web apps (React, Node.js, and Prisma) using declarative code that abstracts away complex full-stack features like auth, background jobs, RPC, email sending, end-to-end type safety, single-command deployment, and more.",
+      "stars": 18222,
+      "source": "github"
+    },
+    {
+      "title": "Mail-0/Zero",
+      "url": "https://github.com/Mail-0/Zero",
+      "description": "Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord",
+      "stars": 10495,
+      "source": "github"
+    },
+    {
+      "title": "superagent-ai/superagent",
+      "url": "https://github.com/superagent-ai/superagent",
+      "description": "Superagent protects your AI applications against prompt injections, data leaks, and harmful outputs. Embed safety directly into your app and prove compliance to your customers.",
+      "stars": 6499,
+      "source": "github"
+    },
+    {
+      "title": "katanemo/plano",
+      "url": "https://github.com/katanemo/plano",
+      "description": "Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, observability, and smart LLM routing so you stay focused on your agents core logic.",
+      "stars": 6105,
+      "source": "github"
+    },
+    {
+      "title": "sunnypilot/sunnypilot",
+      "url": "https://github.com/sunnypilot/sunnypilot",
+      "description": "sunnypilot is an open source driver assistance system. sunnypilot offers the user a unique driving experience for over 350 supported car makes and models with modified behaviors of driving assist engagements. sunnypilot complies with the safety policy from comma.ai's openpilot as accurately as possible.",
+      "stars": 1865,
+      "source": "github"
+    },
+    {
+      "title": "Dicklesworthstone/agentic_coding_flywheel_setup",
+      "url": "https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup",
+      "description": "Bootstraps a fresh Ubuntu VPS into a complete multi-agent AI development environment in 30 minutes: coding agents, session management, safety tools, and coordination infrastructure",
+      "stars": 1329,
+      "source": "github"
+    },
+    {
+      "title": "yueliu1999/Awesome-Jailbreak-on-LLMs",
+      "url": "https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs",
+      "description": "Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting jailbreak methods on LLMs. It contains papers, codes, datasets, evaluations, and analyses.",
+      "stars": 1274,
+      "source": "github"
+    },
+    {
+      "title": "poco-ai/poco-claw",
+      "url": "https://github.com/poco-ai/poco-claw",
+      "description": "A more beautiful and easier-to-use alternative to OpenClaw. It features a nicer Web UI, built-in IM support, and a sandboxed runtime for improved safety. Under the hood, it is powered by a Claude Code–based agent.",
+      "stars": 1225,
+      "source": "github"
+    },
+    {
+      "title": "nextlevelbuilder/goclaw",
+      "url": "https://github.com/nextlevelbuilder/goclaw",
+      "description": "GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.",
+      "stars": 1219,
+      "source": "github"
+    },
+    {
+      "title": "kaplanelad/shellfirm",
+      "url": "https://github.com/kaplanelad/shellfirm",
+      "description": "Safety guardrails for ai coding agents and human terminal commands",
+      "stars": 885,
+      "source": "github"
+    },
+    {
+      "title": "google-deepmind/ai-safety-gridworlds",
+      "url": "https://github.com/google-deepmind/ai-safety-gridworlds",
+      "description": "This is a suite of reinforcement learning environments illustrating various safety properties of intelligent agents.",
+      "stars": 631,
+      "source": "github"
+    },
+    {
+      "title": "00quebec/Synthid-Bypass",
+      "url": "https://github.com/00quebec/Synthid-Bypass",
+      "description": "Ai safety research showing a working bypass to Google's synthid on Nano Banana Pro",
+      "stars": 468,
+      "source": "github"
+    },
+    {
+      "title": "theNetworkChuck/dark-web-scraping-guide",
+      "url": "https://github.com/theNetworkChuck/dark-web-scraping-guide",
+      "description": "Comprehensive guide for NetworkChuck Episode 480 - Robin AI Dark Web Scraping Tool. Installation, usage, safety guidelines, and troubleshooting for educational security research.",
+      "stars": 417,
+      "source": "github"
+    },
+    {
+      "title": "AI45Lab/AgentDoG",
+      "url": "https://github.com/AI45Lab/AgentDoG",
+      "description": "A Diagnostic Guardrail Framework for AI Agent Safety and Security",
+      "stars": 410,
+      "source": "github"
+    },
+    {
+      "title": "tigerlab-ai/tiger",
+      "url": "https://github.com/tigerlab-ai/tiger",
+      "description": "Open Source LLM toolkit to build trustworthy LLM applications. TigerArmor (AI safety), TigerRAG (embedding, RAG), TigerTune (fine-tuning)",
+      "stars": 402,
+      "source": "github"
+    },
+    {
+      "title": "0din-ai/ai-scanner",
+      "url": "https://github.com/0din-ai/ai-scanner",
+      "description": "AI model safety scanner built on NVIDIA garak",
+      "stars": 349,
+      "source": "github"
+    },
+    {
+      "title": "devchilll/scope",
+      "url": "https://github.com/devchilll/scope",
+      "description": "Configurable Multi-layered AI Agentic Safety Framework",
+      "stars": 329,
+      "source": "github"
+    },
+    {
+      "title": "BlueFalconHD/apple_generative_model_safety_decrypted",
+      "url": "https://github.com/BlueFalconHD/apple_generative_model_safety_decrypted",
+      "description": "Decrypted Generative Model safety files for Apple Intelligence containing filters",
+      "stars": 317,
+      "source": "github"
+    },
+    {
+      "title": "Infosys/Infosys-Responsible-AI-Toolkit",
+      "url": "https://github.com/Infosys/Infosys-Responsible-AI-Toolkit",
+      "description": "The Infosys Responsible AI toolkit incorporates various features including safety, security, explainability, fairness, bias and hallucination detection to ensure AI solutions are trustworthy and transparent.",
+      "stars": 283,
+      "source": "github"
+    },
+    {
+      "title": "caiovicentino/polymarket-mcp-server",
+      "url": "https://github.com/caiovicentino/polymarket-mcp-server",
+      "description": "🤖 AI-Powered MCP Server for Polymarket - Enable Claude to trade prediction markets with 45 tools, real-time monitoring, and enterprise-grade safety features",
+      "stars": 278,
+      "source": "github"
+    }
+  ],
+  "sources": [
+    "github",
+    "arxiv"
+  ]
+}

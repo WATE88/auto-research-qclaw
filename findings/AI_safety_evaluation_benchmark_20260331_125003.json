@@ -1,0 +1,174 @@
+{
+  "topic": "AI safety evaluation benchmark",
+  "timestamp": "2026-03-31T12:50:03.747299",
+  "findings": [
+    {
+      "title": "opea-project/GenAIEval",
+      "url": "https://github.com/opea-project/GenAIEval",
+      "description": "Evaluation, benchmark, and scorecard, targeting for performance on throughput and latency, accuracy on popular evaluation harness, safety, and hallucination",
+      "stars": 41,
+      "source": "github"
+    },
+    {
+      "title": "The-AI-Alliance/trust-safety-evals",
+      "url": "https://github.com/The-AI-Alliance/trust-safety-evals",
+      "description": "The AI Alliance project to define a reference stack for AI model and system evaluation, with evaluations, benchmarks, and leaderboards. ",
+      "stars": 13,
+      "source": "github"
+    },
+    {
+      "title": "Giskard-AI/phare",
+      "url": "https://github.com/Giskard-AI/phare",
+      "description": "Phare is a LLM benchmark that evaluates models across key AI security & safety dimensions",
+      "stars": 12,
+      "source": "github"
+    },
+    {
+      "title": "Beijing-AISI/ForesightSafety-Bench",
+      "url": "https://github.com/Beijing-AISI/ForesightSafety-Bench",
+      "description": "ForesightSafety Bench: a comprehensive, systematic, and forward-looking AI safety evaluation benchmark that encompasses three hierarchical levels, 22 pillars, and 94 granular risk dimensions.",
+      "stars": 9,
+      "source": "github"
+    },
+    {
+      "title": "sebuzdugan/frai-benchmark",
+      "url": "https://github.com/sebuzdugan/frai-benchmark",
+      "description": "FRAI Benchmark: Future Responsible AI Evaluation A consensus-based safety and compliance benchmark for SOTA LLMs (DeepSeek, Grok, GPT-5). Uses a \"Panel of Experts\" methodology where multiple frontier models judge response quality to ensure non-biased, high-fidelity safety scores",
+      "stars": 6,
+      "source": "github"
+    },
+    {
+      "title": "kelkalot/ai-secbench",
+      "url": "https://github.com/kelkalot/ai-secbench",
+      "description": "Security-focused AI reasoning benchmark for evaluating cipher analysis, steganography detection, and adversarial robustness",
+      "stars": 4,
+      "source": "github"
+    },
+    {
+      "title": "superU-ai/voice-agent-QA",
+      "url": "https://github.com/superU-ai/voice-agent-QA",
+      "description": "A unified benchmarking framework for evaluating Voice AI agents across conversational quality, audio realism, latency metrics, and safety guardrails with scalable multi-language stress testing.",
+      "stars": 3,
+      "source": "github"
+    },
+    {
+      "title": "chenglin1112/AgentTrust",
+      "url": "https://github.com/chenglin1112/AgentTrust",
+      "description": "Real-time trustworthiness evaluation and safety interception for AI agents. Semantic analysis, safe alternative suggestions, multi-step attack chain detection, and LLM-as-Judge.",
+      "stars": 3,
+      "source": "github"
+    },
+    {
+      "title": "nagu-io/agent-settlement-bench",
+      "url": "https://github.com/nagu-io/agent-settlement-bench",
+      "description": "Benchmark for evaluating safety of AI agents in irreversible financial decisions (crypto payment settlement, consensus conflicts, replay attacks, finality races).",
+      "stars": 3,
+      "source": "github"
+    },
+    {
+      "title": "givecareapp/givecare-bench",
+      "url": "https://github.com/givecareapp/givecare-bench",
+      "description": "AI safety benchmark for long-term caregiving relationships. Tests crisis detection, regulatory   compliance, and care quality across multi-turn conversations. Includes GiveCare system paper and InvisibleBench evaluation framework.",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "THUZeng/embodied-eval-kit",
+      "url": "https://github.com/THUZeng/embodied-eval-kit",
+      "description": "Open-source embodied AI eval gate: validate logs -> compare runs -> GO/NO-GO decision -> audit/tender-ready delivery bundle + offline portal.",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "Max-Highsmith/safety-dance",
+      "url": "https://github.com/Max-Highsmith/safety-dance",
+      "description": "A standard protocol for AI safety benchmarks to declare requirements and AI models to declare capabilities, enabling compatibility handshakes before evaluation.",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "gsavla6-hue/ai-agent-evaluation-framework",
+      "url": "https://github.com/gsavla6-hue/ai-agent-evaluation-framework",
+      "description": "Comprehensive evaluation framework for AI agents measuring task completion, tool use accuracy, reasoning quality, safety and cost efficiency with benchmarking",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "AishwaryaVathada/comp-ref-benchmark-build",
+      "url": "https://github.com/AishwaryaVathada/comp-ref-benchmark-build",
+      "description": "Multimodal AI safety benchmark pipeline using comp-ref methodology - includes image generation, automated captioning, benchmark construction, and model evaluation frameworks.",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "bdas-sec/ptf-id-bench",
+      "url": "https://github.com/bdas-sec/ptf-id-bench",
+      "description": "Progressive Trust Framework: AI Agent Safety Evaluation Benchmark with 280 scenarios testing Intelligent Disobedience",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "Garyxue213/c-rex-benchmark",
+      "url": "https://github.com/Garyxue213/c-rex-benchmark",
+      "description": "C-REX Benchmark - AI Safety Research Framework for    evaluating emergent collaborative deception in multi-agent LLM systems",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "reiidoda/OpenRe",
+      "url": "https://github.com/reiidoda/OpenRe",
+      "description": "Open-source AI agent evaluation workbench for benchmarking, tracing, optimization, and safety with human approval.",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "patelpa1639/agenteval",
+      "url": "https://github.com/patelpa1639/agenteval",
+      "description": "AI agent evaluation framework — benchmark coding agents with multi-dimensional scoring (correctness, efficiency, safety, recovery)",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "mmbeamsplitter/agent-bench",
+      "url": "https://github.com/mmbeamsplitter/agent-bench",
+      "description": "AI Agent Benchmarking and Testing Framework - Evaluate capability, safety, reliability, and performance",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "natnew/Awesome-AI-Safety-for-Agentic-Systems",
+      "url": "https://github.com/natnew/Awesome-AI-Safety-for-Agentic-Systems",
+      "description": "A curated, technically rigorous list of tools, frameworks, papers, benchmarks, patterns, and resources for building, evaluating, and securing agentic AI systems in real-world environments.",
+      "stars": 0,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.504,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.9,
+      "star_power": 0.215,
+      "diversity": 0.0,
+      "usability": 0.0,
+      "applicability": 0.975,
+      "coverage": 1.0,
+      "ndcg": 0.732,
+      "map": 1.0,
+      "mrr": 1.0,
+      "rouge_1": 0.725,
+      "semantic_sim": 0.345,
+      "coherence": 0.17,
+      "task_completion": 0.62,
+      "tool_use": 0.02,
+      "reasoning_depth": 0.027,
+      "autonomy": 0.062,
+      "multi_agent": 0.03
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

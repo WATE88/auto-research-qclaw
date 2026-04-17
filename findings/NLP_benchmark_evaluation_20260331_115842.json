@@ -1,0 +1,183 @@
+{
+  "topic": "NLP benchmark evaluation",
+  "timestamp": "2026-03-31T11:58:42.681749",
+  "findings": [
+    {
+      "title": "beir-cellar/beir",
+      "url": "https://github.com/beir-cellar/beir",
+      "description": "A Heterogeneous Benchmark for Information Retrieval. Easy to use, evaluate your models across 15+ diverse IR datasets.",
+      "stars": 2129,
+      "updated_at": "2026-03-30T17:46:38Z",
+      "source": "github"
+    },
+    {
+      "title": "ChineseGLUE/ChineseGLUE",
+      "url": "https://github.com/ChineseGLUE/ChineseGLUE",
+      "description": "Language Understanding Evaluation benchmark for Chinese: datasets, baselines, pre-trained models,corpus and leaderboard",
+      "stars": 1786,
+      "updated_at": "2026-03-17T07:17:54Z",
+      "source": "github"
+    },
+    {
+      "title": "The-FinAI/PIXIU",
+      "url": "https://github.com/The-FinAI/PIXIU",
+      "description": "This repository introduces PIXIU, an open-source resource featuring the first financial large language models (LLMs), instruction tuning data, and evaluation benchmarks to holistically assess financial LLMs. Our goal is to continually push forward the open-source development of financial artificial intelligence (AI).",
+      "stars": 843,
+      "updated_at": "2026-03-31T03:24:39Z",
+      "source": "github"
+    },
+    {
+      "title": "onejune2018/Awesome-LLM-Eval",
+      "url": "https://github.com/onejune2018/Awesome-LLM-Eval",
+      "description": "Awesome-LLM-Eval: a curated list of tools, datasets/benchmark, demos, leaderboard, papers, docs and models, mainly for Evaluation on LLMs.  一个由工具、基准/数据、演示、排行榜和大模型等组成的精选列表，主要面向基础大模型评测，旨在探求生成式AI的技术边界.",
+      "stars": 627,
+      "updated_at": "2026-03-30T02:10:36Z",
+      "source": "github"
+    },
+    {
+      "title": "HowieHwong/TrustLLM",
+      "url": "https://github.com/HowieHwong/TrustLLM",
+      "description": "[ICML 2024] TrustLLM: Trustworthiness in Large Language Models",
+      "stars": 621,
+      "updated_at": "2026-03-27T20:27:06Z",
+      "source": "github"
+    },
+    {
+      "title": "piyushpathak03/Recommendation-systems",
+      "url": "https://github.com/piyushpathak03/Recommendation-systems",
+      "description": "Recommendation Systems This is a workshop on using Machine Learning and Deep Learning Techniques to build Recommendation Systesm  Theory: ML & DL Formulation, Prediction vs. Ranking, Similiarity, Biased vs. Unbiased Paradigms: Content-based, Collaborative filtering, Knowledge-based, Hybrid and Ensembles Data: Tabular, Images, Text (Sequences) Models: (Deep) Matrix Factorisation, Auto-Encoders, Wide & Deep, Rank-Learning, Sequence Modelling Methods: Explicit vs. implicit feedback, User-Item matrix, Embeddings, Convolution, Recurrent, Domain Signals: location, time, context, social, Process: Setup, Encode & Embed, Design, Train & Select, Serve & Scale, Measure, Test & Improve Tools: python-data-stack: numpy, pandas, scikit-learn, keras, spacy, implicit, lightfm Notes & Slides Basics: Deep Learning AI Conference 2019: WhiteBoard Notes | In-Class Notebooks Notebooks Movies - Movielens  01-Acquire 02-Augment 03-Refine 04-Transform 05-Evaluation 06-Model-Baseline 07-Feature-extractor 08-Model-Matrix-Factorization 09-Model-Matrix-Factorization-with-Bias 10-Model-MF-NNMF 11-Model-Deep-Matrix-Factorization 12-Model-Neural-Collaborative-Filtering 13-Model-Implicit-Matrix-Factorization 14-Features-Image 15-Features-NLP Ecommerce - YooChoose  01-Data-Preparation 02-Models News - Hackernews  Product - Groceries  Python Libraries Deep Recommender Libraries  Tensorrec - Built on Tensorflow Spotlight - Built on PyTorch TFranking - Built on TensorFlow (Learning to Rank) Matrix Factorisation Based Libraries  Implicit - Implicit Matrix Factorisation QMF - Implicit Matrix Factorisation Lightfm - For Hybrid Recommedations Surprise - Scikit-learn type api for traditional alogrithms Similarity Search Libraries  Annoy - Approximate Nearest Neighbour NMSLib - kNN methods FAISS - Similarity search and clustering Learning Resources Reference Slides Deep Learning in RecSys by Balázs Hidasi Lessons from Industry RecSys by Xavier Amatriain Architecting Recommendation Systems by James Kirk Recommendation Systems Overview by Raimon and Basilico Benchmarks MovieLens Benchmarks for Traditional Setup Microsoft Tutorial on Recommendation System at KDD 2019 Algorithms & Approaches Collaborative Filtering for Implicit Feedback Datasets Bayesian Personalised Ranking for Implicit Data Logistic Matrix Factorisation Neural Network Matrix Factorisation Neural Collaborative Filtering Variational Autoencoders for Collaborative Filtering Evaluations Evaluating Recommendation Systems",
+      "stars": 214,
+      "updated_at": "2026-03-25T11:10:30Z",
+      "source": "github"
+    },
+    {
+      "title": "IBM/unitxt",
+      "url": "https://github.com/IBM/unitxt",
+      "description": "🦄 Unitxt is a Python library for enterprise-grade evaluation of AI performance, offering the world's largest catalog of  tools and data for end-to-end AI benchmarking",
+      "stars": 211,
+      "updated_at": "2026-02-23T22:33:10Z",
+      "source": "github"
+    },
+    {
+      "title": "apple/ml-mkqa",
+      "url": "https://github.com/apple/ml-mkqa",
+      "description": "We introduce MKQA, an open-domain question answering evaluation set comprising 10k question-answer pairs aligned across 26 typologically diverse languages (260k question-answer pairs in total). The goal of this dataset is to provide a challenging benchmark for question answering quality across a wide set of languages. Please refer to our paper for details, MKQA: A Linguistically Diverse Benchmark for Multilingual Open Domain Question Answering",
+      "stars": 192,
+      "updated_at": "2026-02-10T09:10:20Z",
+      "source": "github"
+    },
+    {
+      "title": "adobe-research/NoLiMa",
+      "url": "https://github.com/adobe-research/NoLiMa",
+      "description": "Official repository for \"NoLiMa: Long-Context Evaluation Beyond Literal Matching\"",
+      "stars": 189,
+      "updated_at": "2026-03-17T07:04:56Z",
+      "source": "github"
+    },
+    {
+      "title": "boudinfl/ake-datasets",
+      "url": "https://github.com/boudinfl/ake-datasets",
+      "description": "Large, curated set of benchmark datasets for evaluating automatic keyphrase extraction algorithms.",
+      "stars": 147,
+      "updated_at": "2025-11-19T22:37:58Z",
+      "source": "github"
+    },
+    {
+      "title": "nlp-uoregon/mlmm-evaluation",
+      "url": "https://github.com/nlp-uoregon/mlmm-evaluation",
+      "description": "Multilingual Large Language Models Evaluation Benchmark",
+      "stars": 132,
+      "updated_at": "2026-02-20T14:57:42Z",
+      "source": "github"
+    },
+    {
+      "title": "YangLinyi/GLUE-X",
+      "url": "https://github.com/YangLinyi/GLUE-X",
+      "description": "We leverage 14 datasets as OOD test data and conduct evaluations on 8 NLU tasks over 21 popularly used models. Our findings confirm that the OOD accuracy in NLP tasks needs to be paid more attention to since the significant performance decay compared to ID accuracy has been found in all settings.",
+      "stars": 93,
+      "updated_at": "2025-05-01T12:28:54Z",
+      "source": "github"
+    },
+    {
+      "title": "IIIIQIIII/DramaBench",
+      "url": "https://github.com/IIIIQIIII/DramaBench",
+      "description": "A six-dimensional evaluation framework for drama script continuation with interactive leaderboard and case studies",
+      "stars": 84,
+      "updated_at": "2026-03-23T13:36:58Z",
+      "source": "github"
+    },
+    {
+      "title": "caixd-220529/LifelongAgentBench",
+      "url": "https://github.com/caixd-220529/LifelongAgentBench",
+      "description": "Code repo for \"LifelongAgentBench: Evaluating LLM Agents as Lifelong Learners\"",
+      "stars": 82,
+      "updated_at": "2026-03-18T06:55:25Z",
+      "source": "github"
+    },
+    {
+      "title": "Mofid-AI/persian-nlp-benchmark",
+      "url": "https://github.com/Mofid-AI/persian-nlp-benchmark",
+      "description": "A benchmark for evaluation and comparison of various NLP tasks in Persian language.",
+      "stars": 77,
+      "updated_at": "2026-01-28T12:13:52Z",
+      "source": "github"
+    },
+    {
+      "title": "vecto-ai/word-benchmarks",
+      "url": "https://github.com/vecto-ai/word-benchmarks",
+      "description": "Benchmarks for intrinsic word embeddings evaluation.",
+      "stars": 66,
+      "updated_at": "2025-12-03T13:56:56Z",
+      "source": "github"
+    },
+    {
+      "title": "AI45Lab/Flames",
+      "url": "https://github.com/AI45Lab/Flames",
+      "description": "Flames is a highly adversarial benchmark in Chinese for LLM's harmlessness evaluation developed by Shanghai AI Lab and Fudan NLP Group.",
+      "stars": 63,
+      "updated_at": "2026-03-26T10:02:55Z",
+      "source": "github"
+    },
+    {
+      "title": "matt-seb-ho/WikiWhy",
+      "url": "https://github.com/matt-seb-ho/WikiWhy",
+      "description": "WikiWhy is a new benchmark for evaluating LLMs' ability to explain between cause-effect relationships. It is a QA dataset containing 9000+ \"why\" question-answer-rationale triplets.",
+      "stars": 49,
+      "updated_at": "2026-03-15T14:08:57Z",
+      "source": "github"
+    },
+    {
+      "title": "lifan-yuan/OOD_NLP",
+      "url": "https://github.com/lifan-yuan/OOD_NLP",
+      "description": "[NeurIPS 2023 D&B Track] Code and data for paper \"Revisiting Out-of-distribution Robustness in NLP: Benchmarks, Analysis, and LLMs Evaluations\".",
+      "stars": 37,
+      "updated_at": "2026-03-27T12:25:30Z",
+      "source": "github"
+    },
+    {
+      "title": "GAIR-NLP/BeHonest",
+      "url": "https://github.com/GAIR-NLP/BeHonest",
+      "description": "BeHonest: Benchmarking Honesty in Large Language Models",
+      "stars": 35,
+      "updated_at": "2026-03-28T02:15:42Z",
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.608,
+    "grade": "B",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.8,
+      "star_power": 0.18,
+      "diversity": 0.0,
+      "usability": 0.3,
+      "applicability": 0.975,
+      "coverage": 1.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

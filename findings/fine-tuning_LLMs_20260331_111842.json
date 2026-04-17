@@ -1,0 +1,280 @@
+{
+  "topic": "fine-tuning LLMs",
+  "timestamp": "2026-03-31T11:18:42.066121",
+  "findings": [
+    {
+      "title": "hiyouga/LlamaFactory",
+      "url": "https://github.com/hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars": 69282,
+      "source": "github"
+    },
+    {
+      "title": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Unsloth Studio is a web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.",
+      "stars": 58693,
+      "source": "github"
+    },
+    {
+      "title": "kvcache-ai/ktransformers",
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "stars": 16858,
+      "source": "github"
+    },
+    {
+      "title": "xming521/WeClone",
+      "url": "https://github.com/xming521/WeClone",
+      "description": "🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊天记录创造数字分身的一站式解决方案  ",
+      "stars": 16464,
+      "source": "github"
+    },
+    {
+      "title": "ConardLi/easy-dataset",
+      "url": "https://github.com/ConardLi/easy-dataset",
+      "description": "A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval",
+      "stars": 13759,
+      "source": "github"
+    },
+    {
+      "title": "bentoml/OpenLLM",
+      "url": "https://github.com/bentoml/OpenLLM",
+      "description": "Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.",
+      "stars": 12245,
+      "source": "github"
+    },
+    {
+      "title": "ludwig-ai/ludwig",
+      "url": "https://github.com/ludwig-ai/ludwig",
+      "description": "Low-code framework for building custom LLMs, neural networks, and other AI models",
+      "stars": 11666,
+      "source": "github"
+    },
+    {
+      "title": "bigscience-workshop/petals",
+      "url": "https://github.com/bigscience-workshop/petals",
+      "description": "🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading",
+      "stars": 10032,
+      "source": "github"
+    },
+    {
+      "title": "oumi-ai/oumi",
+      "url": "https://github.com/oumi-ai/oumi",
+      "description": "Easily fine-tune, evaluate and deploy gpt-oss, Qwen3, DeepSeek-R1, or any open source LLM / VLM!",
+      "stars": 8922,
+      "source": "github"
+    },
+    {
+      "title": "h2oai/h2o-llmstudio",
+      "url": "https://github.com/h2oai/h2o-llmstudio",
+      "description": "H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/",
+      "stars": 4900,
+      "source": "github"
+    },
+    {
+      "title": "SylphAI-Inc/LLM-engineer-handbook",
+      "url": "https://github.com/SylphAI-Inc/LLM-engineer-handbook",
+      "description": "A curated list of Large Language Model resources, covering model training, serving, fine-tuning, and building LLM applications.",
+      "stars": 4759,
+      "source": "github"
+    },
+    {
+      "title": "predibase/lorax",
+      "url": "https://github.com/predibase/lorax",
+      "description": "Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs",
+      "stars": 3741,
+      "source": "github"
+    },
+    {
+      "title": "iusztinpaul/hands-on-llms",
+      "url": "https://github.com/iusztinpaul/hands-on-llms",
+      "description": "🦖 𝗟𝗲𝗮𝗿𝗻 about 𝗟𝗟𝗠𝘀, 𝗟𝗟𝗠𝗢𝗽𝘀, and 𝘃𝗲𝗰𝘁𝗼𝗿 𝗗𝗕𝘀 for free by designing, training, and deploying a real-time financial advisor LLM system ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 𝘷𝘪𝘥𝘦𝘰 & 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴",
+      "stars": 3401,
+      "source": "github"
+    },
+    {
+      "title": "ashishpatel26/LLM-Finetuning",
+      "url": "https://github.com/ashishpatel26/LLM-Finetuning",
+      "description": "LLM Finetuning with peft",
+      "stars": 2884,
+      "source": "github"
+    },
+    {
+      "title": "stochasticai/xTuring",
+      "url": "https://github.com/stochasticai/xTuring",
+      "description": "Build, personalize and control your own LLMs. From data pre-processing to fine-tuning, xTuring provides an easy way to personalize open-source LLMs. Join our discord community: https://discord.gg/TgHXuSJEk6",
+      "stars": 2668,
+      "source": "github"
+    },
+    {
+      "title": "decodingai-magazine/second-brain-ai-assistant-course",
+      "url": "https://github.com/decodingai-magazine/second-brain-ai-assistant-course",
+      "description": "Learn to build your Second Brain AI assistant with LLMs, agents, RAG, fine-tuning, LLMOps and AI systems techniques.",
+      "stars": 2603,
+      "source": "github"
+    },
+    {
+      "title": "Memento-Teams/Memento",
+      "url": "https://github.com/Memento-Teams/Memento",
+      "description": "Official Code of Memento: Fine-tuning LLM Agents without Fine-tuning LLMs",
+      "stars": 2372,
+      "source": "github"
+    },
+    {
+      "title": "AI-Hypercomputer/maxtext",
+      "url": "https://github.com/AI-Hypercomputer/maxtext",
+      "description": "A simple, performant and scalable Jax LLM!",
+      "stars": 2190,
+      "source": "github"
+    },
+    {
+      "title": "dstackai/dstack",
+      "url": "https://github.com/dstackai/dstack",
+      "description": "Control plane for agents and engineers to provision compute and run training and inference across NVIDIA, AMD, TPU, and Tenstorrent GPUs—on clouds, Kubernetes, and bare-metal clusters.",
+      "stars": 2075,
+      "source": "github"
+    },
+    {
+      "title": "kubeflow/trainer",
+      "url": "https://github.com/kubeflow/trainer",
+      "description": "Distributed AI Model Training and LLM Fine-Tuning on Kubernetes",
+      "stars": 2070,
+      "source": "github"
+    },
+    {
+      "title": "See it to Place it: Evolving Macro Placements with Vision-Language Models",
+      "url": "http://arxiv.org/abs/2603.28733v1",
+      "abstract": "We propose using Vision-Language Models (VLMs) for macro placement in chip floorplanning, a complex optimization task that has recently shown promising advancements through machine learning methods. Because human designers rely heavily on spatial reasoning to arrange components on the chip canvas, w",
+      "source": "arxiv"
+    },
+    {
+      "title": "SAGAI-MID: A Generative AI-Driven Middleware for Dynamic Runtime Interoperability",
+      "url": "http://arxiv.org/abs/2603.28731v1",
+      "abstract": "Modern distributed systems integrate heterogeneous services, REST APIs with different schema versions, GraphQL endpoints, and IoT devices with proprietary payloads that suffer from persistent schema mismatches. Traditional static adapters require manual coding for every schema pair and cannot handle",
+      "source": "arxiv"
+    },
+    {
+      "title": "SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning",
+      "url": "http://arxiv.org/abs/2603.28730v1",
+      "abstract": "Vision-language models (VLMs) have shown impressive capabilities across diverse tasks, motivating efforts to leverage these models to supervise robot learning. However, when used as evaluators in reinforcement learning (RL), today's strongest models often fail under partial observability and distrib",
+      "source": "arxiv"
+    },
+    {
+      "title": "Can Hierarchical Cross-Modal Fusion Predict Human Perception of AI Dubbed Content?",
+      "url": "http://arxiv.org/abs/2603.28717v1",
+      "abstract": "Evaluating AI generated dubbed content is inherently multi-dimensional, shaped by synchronization, intelligibility, speaker consistency, emotional alignment, and semantic context. Human Mean Opinion Scores (MOS) remain the gold standard but are costly and impractical at scale. We present a hierarchi",
+      "source": "arxiv"
+    },
+    {
+      "title": "EpiScreen: Early Epilepsy Detection from Electronic Health Records with Large Language Models",
+      "url": "http://arxiv.org/abs/2603.28698v1",
+      "abstract": "Epilepsy and psychogenic non-epileptic seizures often present with similar seizure-like manifestations but require fundamentally different management strategies. Misdiagnosis is common and can lead to prolonged diagnostic delays, unnecessary treatments, and substantial patient morbidity. Although pr",
+      "source": "arxiv"
+    },
+    {
+      "title": "C2RustXW: Program-Structure-Aware C-to-Rust Translation via Program Analysis and LLM",
+      "url": "http://arxiv.org/abs/2603.28686v1",
+      "abstract": "The growing adoption of Rust for its memory safety and performance has increased the demand for effective migration of legacy C codebases. However, existing rule-based translators (e.g., \\ctorust) often generate verbose, non-idiomatic code that preserves unsafe C semantics, limiting readability, mai",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Techno-Economic Framework for Cost Modeling and Revenue Opportunities in Open and Programmable AI-RAN",
+      "url": "http://arxiv.org/abs/2603.28680v1",
+      "abstract": "The large-scale deployment of 5G networks has not delivered the expected return on investment for mobile network operators, raising concerns about the economic viability of future 6G rollouts. At the same time, surging demand for Artificial Intelligence (AI) inference and training workloads is strai",
+      "source": "arxiv"
+    },
+    {
+      "title": "Safeguarding LLMs Against Misuse and AI-Driven Malware Using Steganographic Canaries",
+      "url": "http://arxiv.org/abs/2603.28655v1",
+      "abstract": "AI-powered malware increasingly exploits cloud-hosted generative-AI services and large language models (LLMs) as analysis engines for reconnaissance and code generation. Simultaneously, enterprise uploads expose sensitive documents to third-party AI vendors. Both threats converge at the AI service i",
+      "source": "arxiv"
+    },
+    {
+      "title": "BACE: LLM-based Code Generation through Bayesian Anchored Co-Evolution of Code and Test Populations",
+      "url": "http://arxiv.org/abs/2603.28653v1",
+      "abstract": "Large Language Models (LLMs) have demonstrated impressive capabilities in code generation. While an interactive feedback loop can improve performance, writing effective tests is a non-trivial task. Early multi-agent frameworks, such as AgentCoder, automated this process but relied on generated tests",
+      "source": "arxiv"
+    },
+    {
+      "title": "Information-Theoretic Limits of Safety Verification for Self-Improving Systems",
+      "url": "http://arxiv.org/abs/2603.28650v1",
+      "abstract": "Can a safety gate permit unbounded beneficial self-modification while maintaining bounded cumulative risk? We formalize this question through dual conditions -- requiring sum delta_n &lt; infinity (bounded risk) and sum TPR_n = infinity (unbounded utility) -- and establish a theory of their (in)comp",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Ultimate Tutorial for AI-driven Scale Development in Generative Psychometrics: Releasing AIGENIE from its Bottle",
+      "url": "http://arxiv.org/abs/2603.28643v1",
+      "abstract": "Psychological scale development has traditionally required extensive expert involvement, iterative revision, and large-scale pilot testing before psychometric evaluation can begin. The `AIGENIE` R package implements the AI-GENIE framework (Automatic Item Generation with Network-Integrated Evaluation",
+      "source": "arxiv"
+    },
+    {
+      "title": "From $α$ decay to cluster decay: an extreme case of transfer learning",
+      "url": "http://arxiv.org/abs/2603.28628v1",
+      "abstract": "When training data are limited, data-driven models are especially vulnerable to optimization-related fluctuations from random initialization and to sampling-induced bias from insufficient training data. We address both challenges with transfer learning (TL): deep neural networks (DNNs) are first pre",
+      "source": "arxiv"
+    },
+    {
+      "title": "TGIF2: Extended Text-Guided Inpainting Forgery Dataset &amp; Benchmark",
+      "url": "http://arxiv.org/abs/2603.28613v1",
+      "abstract": "Generative AI has made text-guided inpainting a powerful image editing tool, but at the same time a growing challenge for media forensics. Existing benchmarks, including our text-guided inpainting forgery (TGIF) dataset, show that image forgery localization (IFL) methods can localize manipulations i",
+      "source": "arxiv"
+    },
+    {
+      "title": "One stout to rule them all: Reconciling artificial intelligence, data science and malted alcoholic beverages",
+      "url": "http://arxiv.org/abs/2603.28607v1",
+      "abstract": "Beer is a phenomenal beverage. It has previously shaped the history of many peoples, states and cultures. The beauty of beer is its versatility. Starting from the original implementations that were murky or diluted, over time researchers found novel approaches to gradually develop beverages that are",
+      "source": "arxiv"
+    },
+    {
+      "title": "Unsafe2Safe: Controllable Image Anonymization for Downstream Utility",
+      "url": "http://arxiv.org/abs/2603.28605v1",
+      "abstract": "Large-scale image datasets frequently contain identifiable or sensitive content, raising privacy risks when training models that may memorize and leak such information. We present Unsafe2Safe, a fully automated pipeline that detects privacy-prone images and rewrites only their sensitive regions usin",
+      "source": "arxiv"
+    },
+    {
+      "title": "Moving Beyond Review: Applying Language Models to Planning and Translation in Reflection",
+      "url": "http://arxiv.org/abs/2603.28596v1",
+      "abstract": "Reflective writing is known to support the development of students' metacognitive skills, yet learners often struggle to engage in deep reflection, limiting learning gains. Although large language models (LLMs) have been shown to improve writing skills, their use as conversational agents for reflect",
+      "source": "arxiv"
+    },
+    {
+      "title": "MonitorBench: A Comprehensive Benchmark for Chain-of-Thought Monitorability in Large Language Models",
+      "url": "http://arxiv.org/abs/2603.28590v1",
+      "abstract": "Large language models (LLMs) can generate chains of thought (CoTs) that are not always causally responsible for their final outputs. When such a mismatch occurs, the CoT no longer faithfully reflects the decision-critical factors driving the model's behavior, leading to the reduced CoT monitorabilit",
+      "source": "arxiv"
+    },
+    {
+      "title": "Towards a Medical AI Scientist",
+      "url": "http://arxiv.org/abs/2603.28589v1",
+      "abstract": "Autonomous systems that generate scientific hypotheses, conduct experiments, and draft manuscripts have recently emerged as a promising paradigm for accelerating discovery. However, existing AI Scientists remain largely domain-agnostic, limiting their applicability to clinical medicine, where resear",
+      "source": "arxiv"
+    },
+    {
+      "title": "Tiered Super-Moore's Law: Price Evolution, Production Frontiers, and Market Competition in Large Language Model Inference Services",
+      "url": "http://arxiv.org/abs/2603.28576v1",
+      "abstract": "This paper provides the first systematic economic analysis of token pricing in the large language model (LLM) inference market. Assembling a novel dataset integrating OpenRouter API data (318 models), Epoch AI records (3,237 models), and 62 cross-validated milestone observations spanning 2020-2026, ",
+      "source": "arxiv"
+    },
+    {
+      "title": "CirrusBench: Evaluating LLM-based Agents Beyond Correctness in Real-World Cloud Service Environments",
+      "url": "http://arxiv.org/abs/2603.28569v1",
+      "abstract": "The increasing agentic capabilities of Large Language Models (LLMs) have enabled their deployment in real-world applications, such as cloud services, where customer-assistant interactions exhibit high technical complexity and long-horizon dependencies, making robustness and resolution efficiency cri",
+      "source": "arxiv"
+    }
+  ],
+  "quality": {
+    "total": 40,
+    "quality_score": 0.436,
+    "dimensions": {
+      "authority": 0.95,
+      "quality": 0.05,
+      "star_power": 0.182,
+      "diversity": 0.5
+    },
+    "sources_breakdown": {
+      "github": 20,
+      "arxiv": 20
+    }
+  }
+}

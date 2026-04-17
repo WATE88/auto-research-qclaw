@@ -1,0 +1,280 @@
+{
+  "topic": "LLM optimization",
+  "timestamp": "2026-04-15T11:09:01.474729",
+  "findings": [
+    {
+      "title": "affaan-m/everything-claude-code",
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 156251,
+      "source": "github"
+    },
+    {
+      "title": "ray-project/ray",
+      "url": "https://github.com/ray-project/ray",
+      "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+      "stars": 42124,
+      "source": "github"
+    },
+    {
+      "title": "mlflow/mlflow",
+      "url": "https://github.com/mlflow/mlflow",
+      "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.",
+      "stars": 25366,
+      "source": "github"
+    },
+    {
+      "title": "emcie-co/parlant",
+      "url": "https://github.com/emcie-co/parlant",
+      "description": "The conversational control layer for customer-facing AI agents - Parlant is an agentic harness optimized for controlling customer interactions.",
+      "stars": 17924,
+      "source": "github"
+    },
+    {
+      "title": "kvcache-ai/ktransformers",
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "stars": 16972,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/TensorRT-LLM",
+      "url": "https://github.com/NVIDIA/TensorRT-LLM",
+      "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+      "stars": 13366,
+      "source": "github"
+    },
+    {
+      "title": "tensorzero/tensorzero",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "description": "TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.",
+      "stars": 11215,
+      "source": "github"
+    },
+    {
+      "title": "krillinai/KrillinAI",
+      "url": "https://github.com/krillinai/KrillinAI",
+      "description": "Video translation and dubbing tool powered by LLMs. The video translator offers 100 language translations and one-click full-process deployment. The video translation output is optimized for platforms like YouTube，TikTok.   AI视频翻译配音工具，100种语言双向翻译，一键部署全流程，可以生抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube等形态的内容成适配",
+      "stars": 9855,
+      "source": "github"
+    },
+    {
+      "title": "Marker-Inc-Korea/AutoRAG",
+      "url": "https://github.com/Marker-Inc-Korea/AutoRAG",
+      "description": "AutoRAG: An Open-Source Framework for Retrieval-Augmented Generation (RAG) Evaluation & Optimization with AutoML-Style Automation",
+      "stars": 4701,
+      "source": "github"
+    },
+    {
+      "title": "SylphAI-Inc/AdalFlow",
+      "url": "https://github.com/SylphAI-Inc/AdalFlow",
+      "description": "AdalFlow: The library to build & auto-optimize LLM applications.",
+      "stars": 4103,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/GenerativeAIExamples",
+      "url": "https://github.com/NVIDIA/GenerativeAIExamples",
+      "description": "Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.",
+      "stars": 3910,
+      "source": "github"
+    },
+    {
+      "title": "lemonade-sdk/lemonade",
+      "url": "https://github.com/lemonade-sdk/lemonade",
+      "description": "Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk",
+      "stars": 3539,
+      "source": "github"
+    },
+    {
+      "title": "algorithmicsuperintelligence/optillm",
+      "url": "https://github.com/algorithmicsuperintelligence/optillm",
+      "description": "Optimizing inference proxy for LLMs",
+      "stars": 3428,
+      "source": "github"
+    },
+    {
+      "title": "vllm-project/llm-compressor",
+      "url": "https://github.com/vllm-project/llm-compressor",
+      "description": "Transformers-compatible library for applying various compression algorithms to LLMs for optimized deployment with vLLM",
+      "stars": 3091,
+      "source": "github"
+    },
+    {
+      "title": "can1357/oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 3009,
+      "source": "github"
+    },
+    {
+      "title": "BBuf/how-to-optim-algorithm-in-cuda",
+      "url": "https://github.com/BBuf/how-to-optim-algorithm-in-cuda",
+      "description": "how to optimize some algorithm in cuda.",
+      "stars": 2922,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "stars": 2475,
+      "source": "github"
+    },
+    {
+      "title": "langfengQ/verl-agent",
+      "url": "https://github.com/langfengQ/verl-agent",
+      "description": "verl-agent is an extension of veRL, designed for training LLM/VLM agents via RL. verl-agent is also the official code for paper \"Group-in-Group Policy Optimization for LLM Agent Training\"",
+      "stars": 1796,
+      "source": "github"
+    },
+    {
+      "title": "facebookresearch/MobileLLM",
+      "url": "https://github.com/facebookresearch/MobileLLM",
+      "description": "MobileLLM Optimizing Sub-billion Parameter Language Models for On-Device Use Cases. In ICML 2024.",
+      "stars": 1421,
+      "source": "github"
+    },
+    {
+      "title": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "The Context Optimization Layer for LLM Applications",
+      "stars": 1304,
+      "source": "github"
+    },
+    {
+      "title": "SceneCritic: A Symbolic Evaluator for 3D Indoor Scene Synthesis",
+      "url": "http://arxiv.org/abs/2604.13035v1",
+      "abstract": "Large Language Models (LLMs) and Vision-Language Models (VLMs) increasingly generate indoor scenes through intermediate structures such as layouts and scene graphs, yet evaluation still relies on LLM or VLM judges that score rendered views, making judgments sensitive to viewpoint, prompt phrasing, a",
+      "source": "arxiv"
+    },
+    {
+      "title": "DySkew: Dynamic Data Redistribution for Skew-Resilient Snowpark UDF Execution",
+      "url": "http://arxiv.org/abs/2604.13034v1",
+      "abstract": "Snowflake revolutionized data warehousing with an elastic architecture that decouples compute and storage, enabling scalable solutions for diverse data analytics needs. Building on this foundation, Snowflake has advanced its AI Data Cloud vision by introducing Snowpark, a managed turnkey solution th",
+      "source": "arxiv"
+    },
+    {
+      "title": "Zeno Blockade Enabling Photonic Quantum Optimization",
+      "url": "http://arxiv.org/abs/2604.13032v1",
+      "abstract": "In this work we explore the potential of implementing an optical quantum optimizer using non-linear optics, specifically using sum-frequency generation and/or two photon absorption. This proposal uses Zeno effects to enforce independence constraints and then a linear protocol to find a maximum indep",
+      "source": "arxiv"
+    },
+    {
+      "title": "Visual Preference Optimization with Rubric Rewards",
+      "url": "http://arxiv.org/abs/2604.13029v1",
+      "abstract": "The effectiveness of Direct Preference Optimization (DPO) depends on preference data that reflect the quality differences that matter in multimodal tasks. Existing pipelines often rely on off-policy perturbations or coarse outcome-based signals, which are not well suited to fine-grained visual reaso",
+      "source": "arxiv"
+    },
+    {
+      "title": "A complexity phase transition at the EPR Hamiltonian",
+      "url": "http://arxiv.org/abs/2604.13026v1",
+      "abstract": "We study the computational complexity of 2-local Hamiltonian problems generated by a positive-weight symmetric interaction term, encompassing many canonical problems in statistical mechanics and optimization. We show these problems belong to one of three complexity phases: QMA-complete, StoqMA-compl",
+      "source": "arxiv"
+    },
+    {
+      "title": "Asymptotically faster algorithms for recognizing $(k,\\ell)$-sparse graphs",
+      "url": "http://arxiv.org/abs/2604.13025v1",
+      "abstract": "The family of $(k,\\ell)$-sparse graphs, introduced by Lorea, plays a central role in combinatorial optimization and has a wide range of applications, particularly in rigidity theory. A key algorithmic problem is to decide whether a given graph is $(k,\\ell)$-sparse and, if not, to produce a vertex se",
+      "source": "arxiv"
+    },
+    {
+      "title": "Classical and Quantum Speedups for Non-Convex Optimization via Energy Conserving Descent",
+      "url": "http://arxiv.org/abs/2604.13022v1",
+      "abstract": "The Energy Conserving Descent (ECD) algorithm was recently proposed (De Luca &amp; Silverstein, 2022) as a global non-convex optimization method. Unlike gradient descent, appropriately configured ECD dynamics escape strict local minima and converge to a global minimum, making it appealing for machin",
+      "source": "arxiv"
+    },
+    {
+      "title": "Bilevel Late Acceptance Hill Climbing for the Electric Capacitated Vehicle Routing Problem",
+      "url": "http://arxiv.org/abs/2604.13013v1",
+      "abstract": "This paper tackles the Electric Capacitated Vehicle Routing Problem (E-CVRP) through a bilevel optimization framework that handles routing and charging decisions separately or jointly depending on the search stage. By analyzing their interaction, we introduce a surrogate objective at the upper level",
+      "source": "arxiv"
+    },
+    {
+      "title": "Lightning OPD: Efficient Post-Training for Large Reasoning Models with Offline On-Policy Distillation",
+      "url": "http://arxiv.org/abs/2604.13010v1",
+      "abstract": "On-policy distillation (OPD) has emerged as an efficient post-training paradigm for large language models. However, standard OPD requires a live teacher inference server throughout training, resulting in substantial infrastructure overhead. In this work, we investigate whether on-policy distillation",
+      "source": "arxiv"
+    },
+    {
+      "title": "Closed-Form Characterization of Constrained Double-Integrator Optimal Control",
+      "url": "http://arxiv.org/abs/2604.13007v1",
+      "abstract": "We present a framework for predicting human driving behavior in mixed traffic where connected and automated vehicles (CAVs) coexist with human-driven vehicles (HDVs), and validate it using an open-source virtual reality (VR) testbed. We estimate the time-shift parameter of Newell's car-following mod",
+      "source": "arxiv"
+    },
+    {
+      "title": "One Token Away from Collapse: The Fragility of Instruction-Tuned Helpfulness",
+      "url": "http://arxiv.org/abs/2604.13006v1",
+      "abstract": "Instruction-tuned large language models produce helpful, structured responses, but how robust is this helpfulness when trivially constrained? We show that simple lexical constraints (banning a single punctuation character or common word) cause instruction-tuned LLMs to collapse their responses, losi",
+      "source": "arxiv"
+    },
+    {
+      "title": "XRZero-G0: Pushing the Frontier of Dexterous Robotic Manipulation with Interfaces, Quality and Ratios",
+      "url": "http://arxiv.org/abs/2604.13001v1",
+      "abstract": "The acquisition of high-quality, action-aligned demonstration data remains a fundamental bottleneck in scaling foundation models for dexterous robot manipulation. Although robot-free human demonstrations (e.g., the UMI paradigm) offer a scalable alternative to traditional teleoperation, current syst",
+      "source": "arxiv"
+    },
+    {
+      "title": "Personalizing LLM-Based Conversational Programming Assistants",
+      "url": "http://arxiv.org/abs/2604.12998v1",
+      "abstract": "Large Language Models (LLMs) have shown much promise in powering a variety of software engineering (SE) tools. Offering natural language as an intuitive interaction mechanism, LLMs have recently been employed as conversational ``programming assistants'' capable of supporting several SE activities si",
+      "source": "arxiv"
+    },
+    {
+      "title": "Equivalence of optimal transport problems to regularization on the family of f-divergences",
+      "url": "http://arxiv.org/abs/2604.12996v1",
+      "abstract": "This work establishes that an optimal transport~(OT) problem regularized by a given $f$-divergence admits the same solution as another OT problem regularized by a different $g$-divergence, under an appropriate transformation of the cost function. This structural equivalence between OT problems regul",
+      "source": "arxiv"
+    },
+    {
+      "title": "PolicyLLM: Towards Excellent Comprehension of Public Policy for Large Language Models",
+      "url": "http://arxiv.org/abs/2604.12995v1",
+      "abstract": "Large Language Models (LLMs) are increasingly integrated into real-world decision-making, including in the domain of public policy. Yet, their ability to comprehend and reason about policy-related content remains underexplored. To fill this gap, we present \\textbf{\\textit{PolicyBench}}, the first la",
+      "source": "arxiv"
+    },
+    {
+      "title": "LogicEval: A Systematic Framework for Evaluating Automated Repair Techniques for Logical Vulnerabilities in Real-World Software",
+      "url": "http://arxiv.org/abs/2604.12994v1",
+      "abstract": "Logical vulnerabilities in software stem from flaws in program logic rather than memory safety, which can lead to critical security failures. Although existing automated program repair techniques primarily focus on repairing memory corruption vulnerabilities, they struggle with logical vulnerabiliti",
+      "source": "arxiv"
+    },
+    {
+      "title": "Opportunistic QKD: Exploiting Idle Capacity of Classical WDM Systems",
+      "url": "http://arxiv.org/abs/2604.12982v1",
+      "abstract": "While Quantum Key Distribution (QKD) has been proven in lab environments, large-scale implementation requires integration with existing infrastructure. This paper proposes an opportunistic QKD framework that takes advantage of idle spectral capacity, that is, unused channels in classical fibers, to ",
+      "source": "arxiv"
+    },
+    {
+      "title": "State counting in gravity and maximal entropy principle",
+      "url": "http://arxiv.org/abs/2604.12980v1",
+      "abstract": "It is known that the semiclassical approximation to the gravity path integral can be leveraged to explain certain inherently quantum aspects of gravity. One such aspect is the state-counting interpretation of the Bekenstein-Hawking entropy of black holes. A second aspect is the Page curve for the en",
+      "source": "arxiv"
+    },
+    {
+      "title": "An Engineering Journey Training Large Language Models at Scale on Alps: The Apertus Experience",
+      "url": "http://arxiv.org/abs/2604.12973v1",
+      "abstract": "Large Language Models (LLMs) have surged as a transformative technology for science and society, prompting governments worldwide to pursue sovereign AI capabilities that ensure data compliance and cultural representation. However, the associated capital costs and engineering complexity required to t",
+      "source": "arxiv"
+    },
+    {
+      "title": "Evolution of Optimization Methods: Algorithms, Scenarios, and Evaluations",
+      "url": "http://arxiv.org/abs/2604.12968v1",
+      "abstract": "Balancing convergence speed, generalization capability, and computational efficiency remains a core challenge in deep learning optimization. First-order gradient descent methods, epitomized by stochastic gradient descent (SGD) and Adam, serve as the cornerstone of modern training pipelines. However,",
+      "source": "arxiv"
+    }
+  ],
+  "quality": {
+    "total": 40,
+    "quality_score": 0.406,
+    "dimensions": {
+      "authority": 0.95,
+      "quality": 0.0,
+      "star_power": 0.105,
+      "diversity": 0.5
+    },
+    "sources_breakdown": {
+      "github": 20,
+      "arxiv": 20
+    }
+  }
+}

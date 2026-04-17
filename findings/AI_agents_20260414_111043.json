@@ -1,0 +1,280 @@
+{
+  "topic": "AI agents",
+  "timestamp": "2026-04-14T11:10:43.119812",
+  "findings": [
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "stars": 183404,
+      "source": "github"
+    },
+    {
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "stars": 146905,
+      "source": "github"
+    },
+    {
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "description": "Production-ready platform for agentic workflow development.",
+      "stars": 137632,
+      "source": "github"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "stars": 135100,
+      "source": "github"
+    },
+    {
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "description": "The agent engineering platform",
+      "stars": 133455,
+      "source": "github"
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "description": "🔥 The Web Data API for AI - Power AI agents with clean web data",
+      "stars": 108727,
+      "source": "github"
+    },
+    {
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "stars": 105328,
+      "source": "github"
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "stars": 101156,
+      "source": "github"
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "stars": 87653,
+      "source": "github"
+    },
+    {
+      "title": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "stars": 79516,
+      "source": "github"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 78408,
+      "source": "github"
+    },
+    {
+      "title": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stars": 77957,
+      "source": "github"
+    },
+    {
+      "title": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+      "stars": 75147,
+      "source": "github"
+    },
+    {
+      "title": "dair-ai/Prompt-Engineering-Guide",
+      "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+      "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+      "stars": 73257,
+      "source": "github"
+    },
+    {
+      "title": "karpathy/autoresearch",
+      "url": "https://github.com/karpathy/autoresearch",
+      "description": "AI agents running research on single-GPU nanochat training automatically",
+      "stars": 71706,
+      "source": "github"
+    },
+    {
+      "title": "FoundationAgents/MetaGPT",
+      "url": "https://github.com/FoundationAgents/MetaGPT",
+      "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+      "stars": 67027,
+      "source": "github"
+    },
+    {
+      "title": "OpenBB-finance/OpenBB",
+      "url": "https://github.com/OpenBB-finance/OpenBB",
+      "description": "Financial data platform for analysts, quants and AI agents.",
+      "stars": 65839,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/autogen",
+      "url": "https://github.com/microsoft/autogen",
+      "description": "A programming framework for agentic AI",
+      "stars": 57058,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "description": "12 Lessons to Get Started Building AI Agents",
+      "stars": 56618,
+      "source": "github"
+    },
+    {
+      "title": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "stars": 53602,
+      "source": "github"
+    },
+    {
+      "title": "Detecting Safety Violations Across Many Agent Traces",
+      "url": "http://arxiv.org/abs/2604.11806v1",
+      "abstract": "To identify safety violations, auditors often search over large sets of agent traces. This search is difficult because failures are often rare, complex, and sometimes even adversarially hidden and only detectable when multiple traces are analyzed together. These challenges arise in diverse settings ",
+      "source": "arxiv"
+    },
+    {
+      "title": "C-ReD: A Comprehensive Chinese Benchmark for AI-Generated Text Detection Derived from Real-World Prompts",
+      "url": "http://arxiv.org/abs/2604.11796v1",
+      "abstract": "Recently, large language models (LLMs) are capable of generating highly fluent textual content. While they offer significant convenience to humans, they also introduce various risks, like phishing and academic dishonesty. Numerous research efforts have been dedicated to developing algorithms for det",
+      "source": "arxiv"
+    },
+    {
+      "title": "ClawGuard: A Runtime Security Framework for Tool-Augmented LLM Agents Against Indirect Prompt Injection",
+      "url": "http://arxiv.org/abs/2604.11790v1",
+      "abstract": "Tool-augmented Large Language Model (LLM) agents have demonstrated impressive capabilities in automating complex, multi-step real-world tasks, yet remain vulnerable to indirect prompt injection. Adversaries exploit this weakness by embedding malicious instructions within tool-returned content, which",
+      "source": "arxiv"
+    },
+    {
+      "title": "GenTac: Generative Modeling and Forecasting of Soccer Tactics",
+      "url": "http://arxiv.org/abs/2604.11786v1",
+      "abstract": "Modeling open-play soccer tactics is a formidable challenge due to the stochastic, multi-agent nature of the game. Existing computational approaches typically produce single, deterministic trajectory forecasts or focus on highly structured set-pieces, fundamentally failing to capture the inherent va",
+      "source": "arxiv"
+    },
+    {
+      "title": "ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents",
+      "url": "http://arxiv.org/abs/2604.11784v1",
+      "abstract": "GUI agents drive applications through their visual interfaces instead of programmatic APIs, interacting with arbitrary software via taps, swipes, and keystrokes, reaching a long tail of applications that CLI-based agents cannot. Yet progress in this area is bottlenecked less by modeling capacity tha",
+      "source": "arxiv"
+    },
+    {
+      "title": "Autonomous Diffractometry Enabled by Visual Reinforcement Learning",
+      "url": "http://arxiv.org/abs/2604.11773v1",
+      "abstract": "Automation underpins progress across scientific and industrial disciplines. Yet, automating tasks requiring interpretation of abstract visual information remain challenging. For example, crystal alignment strongly relies on humans with the ability to comprehend diffraction patterns. Here we introduc",
+      "source": "arxiv"
+    },
+    {
+      "title": "Towards Automated Pentesting with Large Language Models",
+      "url": "http://arxiv.org/abs/2604.11772v1",
+      "abstract": "Large Language Models (LLMs) are redefining offensive cybersecurity by allowing the generation of harmful machine code with minimal human intervention. While attackers take advantage of dark LLMs such as XXXGPT and WolfGPT to produce malicious code, ethical hackers can follow similar approaches to a",
+      "source": "arxiv"
+    },
+    {
+      "title": "Shape-dependence of electrophoretic mobility",
+      "url": "http://arxiv.org/abs/2604.11771v1",
+      "abstract": "The electrophoretic mobility of a spherical particle is well understood, yet how particle shape modifies this mobility at arbitrary Debye length remains an open question. Here, we compute the electrophoretic mobility of a nearly spherical particle whose surface is described by $r_s(θ) = a[1 + \\varep",
+      "source": "arxiv"
+    },
+    {
+      "title": "$λ_A$: A Typed Lambda Calculus for LLM Agent Composition",
+      "url": "http://arxiv.org/abs/2604.11767v1",
+      "abstract": "Existing LLM agent frameworks lack formal semantics: there is no principled way to determine whether an agent configuration is well-formed or will terminate. We present $λ_A$, a typed lambda calculus for agent composition that extends the simply-typed lambda calculus with oracle calls, bounded fixpo",
+      "source": "arxiv"
+    },
+    {
+      "title": "Retrieval Is Not Enough: Why Organizational AI Needs Epistemic Infrastructure",
+      "url": "http://arxiv.org/abs/2604.11759v1",
+      "abstract": "Organizational knowledge used by AI agents typically lacks epistemic structure: retrieval systems surface semantically relevant content without distinguishing binding decisions from abandoned hypotheses, contested claims from settled ones, or known facts from unresolved questions. We argue that the ",
+      "source": "arxiv"
+    },
+    {
+      "title": "StarVLA-$α$: Reducing Complexity in Vision-Language-Action Systems",
+      "url": "http://arxiv.org/abs/2604.11757v1",
+      "abstract": "Vision-Language-Action (VLA) models have recently emerged as a promising paradigm for building general-purpose robotic agents. However, the VLA landscape remains highly fragmented and complex: as existing approaches vary substantially in architectures, training data, embodiment configurations, and b",
+      "source": "arxiv"
+    },
+    {
+      "title": "Agentic Aggregation for Parallel Scaling of Long-Horizon Agentic Tasks",
+      "url": "http://arxiv.org/abs/2604.11753v1",
+      "abstract": "We study parallel test-time scaling for long-horizon agentic tasks such as agentic search and deep research, where multiple rollouts are generated in parallel and aggregated into a final response. While such scaling has proven effective for chain-of-thought reasoning, agentic tasks pose unique chall",
+      "source": "arxiv"
+    },
+    {
+      "title": "Collaborative Multi-Agent Scripts Generation for Enhancing Imperfect-Information Reasoning in Murder Mystery Games",
+      "url": "http://arxiv.org/abs/2604.11741v1",
+      "abstract": "Vision-language models (VLMs) have shown impressive capabilities in perceptual tasks, yet they degrade in complex multi-hop reasoning under multiplayer game settings with imperfect and deceptive information. In this paper, we study a representative multiplayer task, Murder Mystery Games, which requi",
+      "source": "arxiv"
+    },
+    {
+      "title": "Multi-ORFT: Stable Online Reinforcement Fine-Tuning for Multi-Agent Diffusion Planning in Cooperative Driving",
+      "url": "http://arxiv.org/abs/2604.11734v1",
+      "abstract": "Closed-loop cooperative driving requires planners that generate realistic multimodal multi-agent trajectories while improving safety and traffic efficiency. Existing diffusion planners can model multimodal behaviors from demonstrations, but they often exhibit weak scene consistency and remain poorly",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Devil is in the Details -- From OCR for Old Church Slavonic to Purely Visual Stemma Reconstruction",
+      "url": "http://arxiv.org/abs/2604.11724v1",
+      "abstract": "The age of artificial intelligence has brought many new possibilities and pitfalls in many fields and tasks. The devil is in the details, and those come to the fore when building new pipelines and executing small practical experiments. OCR and stemmatology are no exception. The current investigation",
+      "source": "arxiv"
+    },
+    {
+      "title": "Evaluating Cooperation in LLM Social Groups through Elected Leadership",
+      "url": "http://arxiv.org/abs/2604.11721v1",
+      "abstract": "Governing common-pool resources requires agents to develop enduring strategies through cooperation and self-governance to avoid collective failure. While foundation models have shown potential for cooperation in these settings, existing multi-agent research provides little insight into whether struc",
+      "source": "arxiv"
+    },
+    {
+      "title": "SWE-AGILE: A Software Agent Framework for Efficiently Managing Dynamic Reasoning Context",
+      "url": "http://arxiv.org/abs/2604.11716v1",
+      "abstract": "Prior representative ReAct-style approaches in autonomous Software Engineering (SWE) typically lack the explicit System-2 reasoning required for deep analysis and handling complex edge cases. While recent reasoning models demonstrate the potential of extended Chain-of-Thought (CoT), applying them to",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Distributed Bilevel Framework for the Macroscopic Optimization of Multi-Agent Systems",
+      "url": "http://arxiv.org/abs/2604.11712v1",
+      "abstract": "In this paper, we propose a novel distributed algorithm to optimize the emergent macroscopic behavior of large-scale multi-agent systems via microscopic actions. We cast this task as a bilevel optimization problem, where the upper level formalizes the desired macroscopic target behavior through a su",
+      "source": "arxiv"
+    },
+    {
+      "title": "Agentic Driving Coach: Robustness and Determinism of Agentic AI-Powered Human-in-the-Loop Cyber-Physical Systems",
+      "url": "http://arxiv.org/abs/2604.11705v1",
+      "abstract": "Foundation models, including large language models (LLMs), are increasingly used for human-in-the-loop (HITL) cyber-physical systems (CPS) because foundation model-based AI agents can potentially interact with both the physical environments and human users. However, the unpredictable behavior of hum",
+      "source": "arxiv"
+    },
+    {
+      "title": "DreamKG: A KG-Augmented Conversational System for People Experiencing Homelessness",
+      "url": "http://arxiv.org/abs/2604.11703v1",
+      "abstract": "People experiencing homelessness (PEH) face substantial barriers to accessing timely, accurate information about community services. DreamKG addresses this through a knowledge graph-augmented conversational system that grounds responses in verified, up-to-date data about Philadelphia organizations, ",
+      "source": "arxiv"
+    }
+  ],
+  "quality": {
+    "total": 40,
+    "quality_score": 0.496,
+    "dimensions": {
+      "authority": 0.95,
+      "quality": 0.025,
+      "star_power": 0.517,
+      "diversity": 0.5
+    },
+    "sources_breakdown": {
+      "github": 20,
+      "arxiv": 20
+    }
+  }
+}

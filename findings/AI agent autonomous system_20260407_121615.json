@@ -1,0 +1,166 @@
+{
+  "topic": "AI agent autonomous system",
+  "timestamp": "2026-04-07T12:16:15.419366",
+  "findings": [
+    {
+      "title": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "stars": 30422,
+      "source": "github"
+    },
+    {
+      "title": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "stars": 14342,
+      "source": "github"
+    },
+    {
+      "title": "MemMachine/MemMachine",
+      "url": "https://github.com/MemMachine/MemMachine",
+      "description": "Universal memory layer for AI Agents. It provides scalable, extensible, and interoperable memory storage and retrieval to streamline AI agent state management for next-generation autonomous systems.",
+      "stars": 5356,
+      "source": "github"
+    },
+    {
+      "title": "KsanaDock/Microverse",
+      "url": "https://github.com/KsanaDock/Microverse",
+      "description": "A god-simulation sandbox game built on Godot 4 as a multi-agent AI social simulation system. In this virtual world, AI characters possess independent thinking and memory, capable of autonomous social interactions, task completion, and developing complex social relationships through continuous communication.",
+      "stars": 2211,
+      "source": "github"
+    },
+    {
+      "title": "hyperspaceai/agi",
+      "url": "https://github.com/hyperspaceai/agi",
+      "description": "The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your browser or CLI.",
+      "stars": 1274,
+      "source": "github"
+    },
+    {
+      "title": "TransformerOptimus/SuperCoder",
+      "url": "https://github.com/TransformerOptimus/SuperCoder",
+      "description": "Open Source Autonomous Software Development System",
+      "stars": 968,
+      "source": "github"
+    },
+    {
+      "title": "massgen/MassGen",
+      "url": "https://github.com/massgen/MassGen",
+      "description": "🚀 MassGen is an open-source multi-agent scaling system that runs in your terminal, autonomously orchestrating frontier models and agents to collaborate, reason, and produce high-quality results. | Join us on Discord: discord.massgen.ai",
+      "stars": 927,
+      "source": "github"
+    },
+    {
+      "title": "VoltAgent/awesome-ai-agent-papers",
+      "url": "https://github.com/VoltAgent/awesome-ai-agent-papers",
+      "description": "A curated collection of AI agent research papers released in 2026, covering agent engineering, memory, evaluation, workflows, and autonomous systems.",
+      "stars": 486,
+      "source": "github"
+    },
+    {
+      "title": "dfinke/PSAI",
+      "url": "https://github.com/dfinke/PSAI",
+      "description": "High-agency PowerShell AI framework for multi-agent orchestration and autonomous systems engineering",
+      "stars": 255,
+      "source": "github"
+    },
+    {
+      "title": "bgdnvk/clanker",
+      "url": "https://github.com/bgdnvk/clanker",
+      "description": "autonomous systems engineering cli agent for any cloud environment: AWS, GCP, Cloudflare, etc",
+      "stars": 245,
+      "source": "github"
+    },
+    {
+      "title": "xxyQwQ/ComfyBench",
+      "url": "https://github.com/xxyQwQ/ComfyBench",
+      "description": "Implementation for the paper \"ComfyBench: Benchmarking LLM-based Agents in ComfyUI for Autonomously Designing Collaborative AI Systems\".",
+      "stars": 201,
+      "source": "github"
+    },
+    {
+      "title": "eternalai-org/eternal-ai",
+      "url": "https://github.com/eternalai-org/eternal-ai",
+      "description": "A Peer-to-Peer Autonomous Agent System",
+      "stars": 161,
+      "source": "github"
+    },
+    {
+      "title": "akj2018/Multi-AI-Agent-Systems-with-crewAI",
+      "url": "https://github.com/akj2018/Multi-AI-Agent-Systems-with-crewAI",
+      "description": "Automate complex business workflows with our Multi-AI-Agent Systems using crewAI. This framework leverages autonomous, role-specific AI agents to collaboratively perform multi-step tasks, enhancing efficiency and accuracy across various domains. Ideal for applications in resume tailoring, website design, research, customer support, and more.",
+      "stars": 162,
+      "source": "github"
+    },
+    {
+      "title": "gustavoeenriquez/MakerAi",
+      "url": "https://github.com/gustavoeenriquez/MakerAi",
+      "description": "The AI Operating System for Delphi. 100% native framework with RAG 2.0 for knowledge retrieval, autonomous agents with semantic memory, visual workflow orchestration, and universal LLM connector. Supports OpenAI, Claude, Gemini, Ollama, and more. Enterprise-grade AI for Delphi 10.3+",
+      "stars": 158,
+      "source": "github"
+    },
+    {
+      "title": "MiChaelinzo/Trading-Agent-",
+      "url": "https://github.com/MiChaelinzo/Trading-Agent-",
+      "description": "A trading agent AI is an artificial intelligence system that uses computational intelligence methods such as machine learning and deep reinforcement learning to automatically discover, implement, and fine-tune strategies for autonomous adaptive automated trading in financial markets",
+      "stars": 128,
+      "source": "github"
+    },
+    {
+      "title": "kalaspuff/ai-assisted-task-executor",
+      "url": "https://github.com/kalaspuff/ai-assisted-task-executor",
+      "description": "🤖 A Task-Driven Autonomous Agent System as an AI-powered solution that leverages LLMs, vector search, and the LangChain framework to efficiently complete, generate, and prioritize tasks using a wide range of different concepts.",
+      "stars": 125,
+      "source": "github"
+    },
+    {
+      "title": "bio-xyz/BioAgents",
+      "url": "https://github.com/bio-xyz/BioAgents",
+      "description": "BioAgents: An AI scientist framework for autonomous deep research in biological sciences. Multi-agent system combining literature analysis agents with data scientist agents to enable deep research automation through user feedback integration and iterative scientific discovery. Inspired by advances in Edison Kosmos, Sakana AI, K-Dense and others.",
+      "stars": 121,
+      "source": "github"
+    },
+    {
+      "title": "xyzthiago/claude-flows",
+      "url": "https://github.com/xyzthiago/claude-flows",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks.",
+      "stars": 110,
+      "source": "github"
+    },
+    {
+      "title": "alfredolopez80/multi-agent-ralph-loop",
+      "url": "https://github.com/alfredolopez80/multi-agent-ralph-loop",
+      "description": "Multi-Agent Ralph Loop v3.1.0 — AI orchestration system with memory-driven planning, parallel Agent Teams, autonomous experimentation (autoresearch), quality gates, and 50+ skills. Featuring 3-phase intelligent onboarding for autonomous code optimization.",
+      "stars": 108,
+      "source": "github"
+    },
+    {
+      "title": "ruvnet/flow-nexus",
+      "url": "https://github.com/ruvnet/flow-nexus",
+      "description": "Flow Nexus is the first competitive agentic platform built entirely on MCP. Deploy autonomous AI swarms, train   neural networks, and compete in coding challenges while earning rUv credits. Transform agentic engineering mastery into lived experience through gamified cloud development where agents spawn agents and systems improve themselves",
+      "stars": 85,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.641,
+    "grade": "B",
+    "dimensions": {
+      "authority": 0.9,
+      "star_power": 0.095,
+      "diversity": 0.0,
+      "coverage": 1.0,
+      "ndcg": 0.646,
+      "map": 1.0,
+      "mrr": 1.0,
+      "rouge_1": 0.75,
+      "semantic_sim": 0.325,
+      "task_completion": 0.632,
+      "tool_use": 0.167,
+      "reasoning_depth": 0.1,
+      "autonomy": 1.0
+    }
+  }
+}

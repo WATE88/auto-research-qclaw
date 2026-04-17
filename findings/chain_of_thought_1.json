@@ -1,0 +1,271 @@
+{
+  "topic": "chain of thought",
+  "round": 1,
+  "timestamp": "2026-03-27T16:14:15.635603",
+  "findings": [
+    {
+      "title": "amazon-science/mm-cot",
+      "url": "https://github.com/amazon-science/mm-cot",
+      "description": "Official implementation for \"Multimodal Chain-of-Thought Reasoning in Language Models\" (stay tuned and more will be updated)",
+      "stars": 3987,
+      "source": "github"
+    },
+    {
+      "title": "atfortes/Awesome-LLM-Reasoning",
+      "url": "https://github.com/atfortes/Awesome-LLM-Reasoning",
+      "description": "From Chain-of-Thought prompting to OpenAI o1 and DeepSeek-R1 🍓",
+      "stars": 3575,
+      "source": "github"
+    },
+    {
+      "title": "FranxYao/chain-of-thought-hub",
+      "url": "https://github.com/FranxYao/chain-of-thought-hub",
+      "description": "Benchmarking large language models' complex reasoning ability with chain-of-thought prompting",
+      "stars": 2770,
+      "source": "github"
+    },
+    {
+      "title": "griptape-ai/griptape",
+      "url": "https://github.com/griptape-ai/griptape",
+      "description": "Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory. ",
+      "stars": 2501,
+      "source": "github"
+    },
+    {
+      "title": "PhialsBasement/Chain-of-Recursive-Thoughts",
+      "url": "https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts",
+      "description": "I made my AI think harder by making it argue with itself repeatedly. It works stupidly well.",
+      "stars": 2324,
+      "source": "github"
+    },
+    {
+      "title": "Timothyxxx/Chain-of-ThoughtsPapers",
+      "url": "https://github.com/Timothyxxx/Chain-of-ThoughtsPapers",
+      "description": "A trend starts from \"Chain of Thought Prompting Elicits Reasoning in Large Language Models\".",
+      "stars": 2101,
+      "source": "github"
+    },
+    {
+      "title": "cjo4m06/mcp-shrimp-task-manager",
+      "url": "https://github.com/cjo4m06/mcp-shrimp-task-manager",
+      "description": "Shrimp Task Manager is a task tool built for AI Agents, emphasizing chain-of-thought, reflection, and style consistency. It converts natural language into structured dev tasks with dependency tracking and iterative refinement, enabling agent-like developer behavior in reasoning AI systems.",
+      "stars": 2060,
+      "source": "github"
+    },
+    {
+      "title": "amazon-science/auto-cot",
+      "url": "https://github.com/amazon-science/auto-cot",
+      "description": "Official implementation for \"Automatic Chain of Thought Prompting in Large Language Models\" (stay tuned & more will be updated)",
+      "stars": 2019,
+      "source": "github"
+    },
+    {
+      "title": "a-real-ai/pywinassistant",
+      "url": "https://github.com/a-real-ai/pywinassistant",
+      "description": "The first open-source Artificial Narrow Intelligence generalist agentic framework Computer-Using-Agent that fully operates graphical-user-interfaces (GUIs) by using only natural language. Uses Visualization-of-Thought and Chain-of-Thought reasoning to elicit spatial reasoning and perception, emulates, plans and simulates synthetic HID interactions.",
+      "stars": 1332,
+      "source": "github"
+    },
+    {
+      "title": "FunAudioLLM/ThinkSound",
+      "url": "https://github.com/FunAudioLLM/ThinkSound",
+      "description": "[NeurIPS 2025] PyTorch implementation of [ThinkSound], a unified framework for generating audio from any modality, guided by Chain-of-Thought (CoT) reasoning.",
+      "stars": 1228,
+      "source": "github"
+    },
+    {
+      "title": "OpenBioLink/ThoughtSource",
+      "url": "https://github.com/OpenBioLink/ThoughtSource",
+      "description": "A central, open resource for data and tools related to chain-of-thought reasoning in large language models. Developed @ Samwald research group: https://samwald.info/",
+      "stars": 1014,
+      "source": "github"
+    },
+    {
+      "title": "yaotingwangofficial/Awesome-MCoT",
+      "url": "https://github.com/yaotingwangofficial/Awesome-MCoT",
+      "description": "Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey",
+      "stars": 968,
+      "source": "github"
+    },
+    {
+      "title": "nvidia-cosmos/cosmos-reason1",
+      "url": "https://github.com/nvidia-cosmos/cosmos-reason1",
+      "description": "Cosmos-Reason1 models understand the physical common sense and generate appropriate embodied decisions in natural language through long chain-of-thought reasoning processes.",
+      "stars": 928,
+      "source": "github"
+    },
+    {
+      "title": "RPG-fan/Cline-Recursive-Chain-of-Thought-System-CRCT-",
+      "url": "https://github.com/RPG-fan/Cline-Recursive-Chain-of-Thought-System-CRCT-",
+      "description": "A framework designed to manage context, dependencies, and tasks in large-scale Cline projects within VS Code",
+      "stars": 760,
+      "source": "github"
+    },
+    {
+      "title": "AGI-Edgerunners/Plan-and-Solve-Prompting",
+      "url": "https://github.com/AGI-Edgerunners/Plan-and-Solve-Prompting",
+      "description": "Code for our ACL 2023 Paper \"Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models\".",
+      "stars": 723,
+      "source": "github"
+    },
+    {
+      "title": "LightChen233/Awesome-Long-Chain-of-Thought-Reasoning",
+      "url": "https://github.com/LightChen233/Awesome-Long-Chain-of-Thought-Reasoning",
+      "description": "Latest Advances on Long Chain-of-Thought Reasoning",
+      "stars": 620,
+      "source": "github"
+    },
+    {
+      "title": "suzgunmirac/BIG-Bench-Hard",
+      "url": "https://github.com/suzgunmirac/BIG-Bench-Hard",
+      "description": "Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them",
+      "stars": 552,
+      "source": "github"
+    },
+    {
+      "title": "zchuz/CoT-Reasoning-Survey",
+      "url": "https://github.com/zchuz/CoT-Reasoning-Survey",
+      "description": "[ACL 2024] A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future",
+      "stars": 496,
+      "source": "github"
+    },
+    {
+      "title": "deepcs233/Visual-CoT",
+      "url": "https://github.com/deepcs233/Visual-CoT",
+      "description": "[Neurips'24 Spotlight] Visual CoT: Advancing Multi-Modal Language Models with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning",
+      "stars": 440,
+      "source": "github"
+    },
+    {
+      "title": "Zoeyyao27/CoT-Igniting-Agent",
+      "url": "https://github.com/Zoeyyao27/CoT-Igniting-Agent",
+      "description": "This repository contains the paper list for the paper: Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents",
+      "stars": 365,
+      "source": "github"
+    },
+    {
+      "title": "Krylov-space anatomy and spread complexity of a disordered quantum spin chain",
+      "url": "https://arxiv.org/abs/2603.25724v1",
+      "abstract": "We investigate the anatomy and complexity of quantum states in Krylov space, in the ergodic and many-body localised (MBL) phases of a disordered, interacting spin chain. The Krylov basis generated by ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Magnetic field Controlled Anderson Delocalization in a Spinful Non-Hermitian Chain",
+      "url": "https://arxiv.org/abs/2603.25700v1",
+      "abstract": "Anderson localization (AL) and the non-Hermitian skin effect (NHSE) represent two paradigmatic localization phenomena driven, respectively, by disorder and non-Hermiticity. In one-dimensional (1D) non",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Kitchen Loop: User-Spec-Driven Development for a Self-Evolving Codebase",
+      "url": "https://arxiv.org/abs/2603.25697v1",
+      "abstract": "Code production is now a commodity; the bottleneck is knowing what to build and proving it works. We present the Kitchen Loop, a framework for autonomous, self-evolving software built on a unified tru",
+      "source": "arxiv"
+    },
+    {
+      "title": "Approximate Bayesian Inference for Structural Equation Models using Integrated Nested Laplace Approximations",
+      "url": "https://arxiv.org/abs/2603.25690v1",
+      "abstract": "Markov chain Monte Carlo (MCMC) methods remain the mainstay of Bayesian estimation of structural equation models (SEM); however they often incur a high computational cost. We present a bespoke approxi",
+      "source": "arxiv"
+    },
+    {
+      "title": "Designing Any Imaging System from Natural Language: Agent-Constrained Composition over a Finite Primitive Basis",
+      "url": "https://arxiv.org/abs/2603.25636v1",
+      "abstract": "Designing a computational imaging system -- selecting operators, setting parameters, validating consistency -- requires weeks of specialist effort per modality, creating an expertise bottleneck that e",
+      "source": "arxiv"
+    },
+    {
+      "title": "LanteRn: Latent Visual Structured Reasoning",
+      "url": "https://arxiv.org/abs/2603.25629v1",
+      "abstract": "While language reasoning models excel in many tasks, visual reasoning remains challenging for current large multimodal models (LMMs). As a result, most LMMs default to verbalizing perceptual content i",
+      "source": "arxiv"
+    },
+    {
+      "title": "PICon: A Multi-Turn Interrogation Framework for Evaluating Persona Agent Consistency",
+      "url": "https://arxiv.org/abs/2603.25620v1",
+      "abstract": "Large language model (LLM)-based persona agents are rapidly being adopted as scalable proxies for human participants across diverse domains. Yet there is no systematic method for verifying whether a p",
+      "source": "arxiv"
+    },
+    {
+      "title": "Kakeya Conjecture and Conditional Kolmogorov Complexity",
+      "url": "https://arxiv.org/abs/2603.25611v1",
+      "abstract": "This paper develops an information-theoretic framework for algorithmic complexity under regular identifiable fibering. The central question is: when a decoder is given information about the fiber labe",
+      "source": "arxiv"
+    },
+    {
+      "title": "Entropic phase separation in polymer--vitrimer melts",
+      "url": "https://arxiv.org/abs/2603.25532v1",
+      "abstract": "Traditional plastics demand a choice between durability (thermosets) and reprocessability (thermoplastics). Vitrimers are a recent class of polymer network combining both these qualities. Their increa",
+      "source": "arxiv"
+    },
+    {
+      "title": "Identifying the Threshold Chain Length for Stress Overshoot in Ring-Linear Polymer Blends under Uniaxial Elongation: The Role of Multiple Threading",
+      "url": "https://arxiv.org/abs/2603.25505v1",
+      "abstract": "The rheological behavior of ring-linear polymer blends under uniaxial elongational flow has remained a subject of intense debate, particularly regarding the emergence of stress overshoot. Herein, we e",
+      "source": "arxiv"
+    },
+    {
+      "title": "EcoThink: A Green Adaptive Inference Framework for Sustainable and Accessible Agents",
+      "url": "https://arxiv.org/abs/2603.25498v1",
+      "abstract": "As the Web transitions from static retrieval to generative interaction, the escalating environmental footprint of Large Language Models (LLMs) presents a critical sustainability challenge. Current par",
+      "source": "arxiv"
+    },
+    {
+      "title": "Directional Geometry and Anisotropy in the Partition Graph",
+      "url": "https://arxiv.org/abs/2603.25488v1",
+      "abstract": "We develop a directional formalism for the partition graph G_n based on several canonical reference sets: the main chain, the self-conjugate axis, the spine, and the boundary framework. For each such ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Exceptional-point-constrained locking of boundary-sensitive topological transitions in non-Hermitian lattices",
+      "url": "https://arxiv.org/abs/2603.25451v1",
+      "abstract": "Point-gap topology under periodic boundary conditions and line-gap topology under open boundary conditions are generally inequivalent in non-Hermitian systems. We show that, in chiral non-Hermitian la",
+      "source": "arxiv"
+    },
+    {
+      "title": "On the integrability structure of the deformed rule-54 reversible cellular automaton",
+      "url": "https://arxiv.org/abs/2603.25424v1",
+      "abstract": "We study quantum and stochastic deformations of the rule-54 reversible cellular automaton (RCA54) on a 1+1-dimensional spatiotemporal lattice, focusing on their integrability structures in two distinc",
+      "source": "arxiv"
+    },
+    {
+      "title": "Beyond Content Safety: Real-Time Monitoring for Reasoning Vulnerabilities in Large Language Models",
+      "url": "https://arxiv.org/abs/2603.25412v1",
+      "abstract": "Large language models (LLMs) increasingly rely on explicit chain-of-thought (CoT) reasoning to solve complex tasks, yet the safety of the reasoning process itself remains largely unaddressed. Existing",
+      "source": "arxiv"
+    },
+    {
+      "title": "From Intent to Evidence: A Categorical Approach for Structural Evaluation of Deep Research Agents",
+      "url": "https://arxiv.org/abs/2603.25342v1",
+      "abstract": "Although deep research agents (DRAs) have emerged as a promising paradigm for complex information synthesis, their evaluation remains constrained by ad hoc empirical benchmarks. These heuristic approa",
+      "source": "arxiv"
+    },
+    {
+      "title": "Exotic topological phases in polyacene chains",
+      "url": "https://arxiv.org/abs/2603.25324v1",
+      "abstract": "The introduction of Su-Schrieffer-Heeger model has led to a major breakthrough in the area of one-dimensional topological insulators, even though this model was primarily formulated on an organic poly",
+      "source": "arxiv"
+    },
+    {
+      "title": "Transdimensional Data Assimilation for dynamic model selection problems",
+      "url": "https://arxiv.org/abs/2603.25318v1",
+      "abstract": "In this paper we combine the non-linear filtering capabilities of particle filters with the transdimensional inference of the reversible-jump Markov chain Monte Carlo method for a data assimilation me",
+      "source": "arxiv"
+    },
+    {
+      "title": "Probabilistic Concept Graph Reasoning for Multimodal Misinformation Detection",
+      "url": "https://arxiv.org/abs/2603.25203v1",
+      "abstract": "Multimodal misinformation poses an escalating challenge that often evades traditional detectors, which are opaque black boxes and fragile against new manipulation tactics. We present Probabilistic Con",
+      "source": "arxiv"
+    },
+    {
+      "title": "Classification of interfacial water governed by water-polymer interactions in hydrated polymers: A molecular dynamics simulation study of ethylene-based and acrylate polymers",
+      "url": "https://arxiv.org/abs/2603.25198v1",
+      "abstract": "We perform molecular dynamics simulations to investigate hydration structures and dynamics in seven water-containing polymers: PVA, PHEA, PHEMA, PBA, PMEMA, PEG, and PMEA. The analysis integrates four",
+      "source": "arxiv"
+    }
+  ],
+  "sources": [
+    "github",
+    "arxiv"
+  ]
+}

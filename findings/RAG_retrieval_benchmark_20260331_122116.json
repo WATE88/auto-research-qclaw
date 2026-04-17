@@ -1,0 +1,170 @@
+{
+  "topic": "RAG retrieval benchmark",
+  "timestamp": "2026-03-31T12:21:16.159246",
+  "findings": [
+    {
+      "title": "DEEP-PolyU/Awesome-GraphRAG",
+      "url": "https://github.com/DEEP-PolyU/Awesome-GraphRAG",
+      "description": "Awesome-GraphRAG: A curated list of resources (surveys, papers, benchmarks, and opensource projects) on graph-based retrieval-augmented generation. ",
+      "stars": 2243,
+      "source": "github"
+    },
+    {
+      "title": "beir-cellar/beir",
+      "url": "https://github.com/beir-cellar/beir",
+      "description": "A Heterogeneous Benchmark for Information Retrieval. Easy to use, evaluate your models across 15+ diverse IR datasets.",
+      "stars": 2129,
+      "source": "github"
+    },
+    {
+      "title": "IntelLabs/fastRAG",
+      "url": "https://github.com/IntelLabs/fastRAG",
+      "description": "Efficient Retrieval Augmentation and Generation Framework",
+      "stars": 1773,
+      "source": "github"
+    },
+    {
+      "title": "DataScienceUIBK/Rankify",
+      "url": "https://github.com/DataScienceUIBK/Rankify",
+      "description": "🔥 Rankify: A Comprehensive Python Toolkit for Retrieval, Re-Ranking, and Retrieval-Augmented Generation 🔥. Our toolkit integrates 40 pre-retrieved benchmark datasets and supports 7+ retrieval techniques, 24+ state-of-the-art Reranking models, and multiple RAG methods.",
+      "stars": 652,
+      "source": "github"
+    },
+    {
+      "title": "GraphRAG-Bench/GraphRAG-Benchmark",
+      "url": "https://github.com/GraphRAG-Bench/GraphRAG-Benchmark",
+      "description": "The official repo of GraphRAG-Bench for evaluating GraphRAG models. \"When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation\".  (ICLR'26)",
+      "stars": 380,
+      "source": "github"
+    },
+    {
+      "title": "IAAR-Shanghai/CRUD_RAG",
+      "url": "https://github.com/IAAR-Shanghai/CRUD_RAG",
+      "description": "CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented Generation of Large Language Models",
+      "stars": 366,
+      "source": "github"
+    },
+    {
+      "title": "TeleAI-UAGI/Awesome-Agent-Memory",
+      "url": "https://github.com/TeleAI-UAGI/Awesome-Agent-Memory",
+      "description": "Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning.",
+      "stars": 319,
+      "source": "github"
+    },
+    {
+      "title": "Marker-Inc-Korea/RAGchain",
+      "url": "https://github.com/Marker-Inc-Korea/RAGchain",
+      "description": "Extension of Langchain for RAG. Easy benchmarking, multiple retrievals, reranker, time-aware RAG, and so on...",
+      "stars": 284,
+      "source": "github"
+    },
+    {
+      "title": "illuin-tech/vidore-benchmark",
+      "url": "https://github.com/illuin-tech/vidore-benchmark",
+      "description": "Vision Document Retrieval (ViDoRe): Benchmark. Evaluation code for the ColPali paper.",
+      "stars": 269,
+      "source": "github"
+    },
+    {
+      "title": "naver/bergen",
+      "url": "https://github.com/naver/bergen",
+      "description": "Benchmarking library for RAG",
+      "stars": 264,
+      "source": "github"
+    },
+    {
+      "title": "CoIR-team/coir",
+      "url": "https://github.com/CoIR-team/coir",
+      "description": "(ACL 2025 Main) A Comprehensive Benchmark for Code  Information Retrieval.",
+      "stars": 151,
+      "source": "github"
+    },
+    {
+      "title": "DocAILab/XRAG",
+      "url": "https://github.com/DocAILab/XRAG",
+      "description": "XRAG: eXamining the Core - Benchmarking Foundational Component Modules in Advanced Retrieval-Augmented Generation",
+      "stars": 119,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/benchmark-qed",
+      "url": "https://github.com/microsoft/benchmark-qed",
+      "description": "Automated benchmarking of Retrieval-Augmented Generation (RAG) systems",
+      "stars": 81,
+      "source": "github"
+    },
+    {
+      "title": "NEUIR/M2RAG",
+      "url": "https://github.com/NEUIR/M2RAG",
+      "description": "This is the code repo for our paper \"Benchmarking Retrieval-Augmented Generation in Multi-Modal Contexts\".",
+      "stars": 43,
+      "source": "github"
+    },
+    {
+      "title": "CSHaitao/LexRAG",
+      "url": "https://github.com/CSHaitao/LexRAG",
+      "description": "Benchmarking Retrieval-Augmented Generation in Multi-Turn Legal Consultation Conversation",
+      "stars": 39,
+      "source": "github"
+    },
+    {
+      "title": "PGraphRAG-benchmark/PGraphRAG",
+      "url": "https://github.com/PGraphRAG-benchmark/PGraphRAG",
+      "description": "Personalized Graph-based Retrieval for LLMs Benchmark",
+      "stars": 34,
+      "source": "github"
+    },
+    {
+      "title": "ReLink-Inc/PropRAG",
+      "url": "https://github.com/ReLink-Inc/PropRAG",
+      "description": "PropRAG: A novel Retrieval-Augmented Generation framework leveraging context-rich propositions and LLM-free beam search over proposition paths for multi-hop reasoning. Achieves state-of-the-art zero-shot performance on benchmarks like MuSiQue, HotpotQA, and 2Wiki. ",
+      "stars": 33,
+      "source": "github"
+    },
+    {
+      "title": "jiaruzouu/T-RAG",
+      "url": "https://github.com/jiaruzouu/T-RAG",
+      "description": "Official Implementation of RAG over Tables: Hierarchical Memory Index, Multi-Stage Retrieval, and Benchmarking.",
+      "stars": 28,
+      "source": "github"
+    },
+    {
+      "title": "project-miracl/nomiracl",
+      "url": "https://github.com/project-miracl/nomiracl",
+      "description": "NoMIRACL: A multilingual hallucination evaluation dataset to evaluate LLM robustness in RAG against first-stage retrieval errors on 18 languages.",
+      "stars": 27,
+      "source": "github"
+    },
+    {
+      "title": "platformxlab/RAGPerf",
+      "url": "https://github.com/platformxlab/RAGPerf",
+      "description": "An End-to-End Benchmarking Framework for Retrieval-Augmented Generation Systems",
+      "stars": 23,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.574,
+    "grade": "B",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.95,
+      "star_power": 0.206,
+      "diversity": 0.0,
+      "usability": 0.2,
+      "applicability": 1.0,
+      "coverage": 1.0,
+      "ndcg": 0.611,
+      "map": 0.947,
+      "mrr": 1.0,
+      "rouge_1": 0.533,
+      "rouge_2": 0.0,
+      "semantic_sim": 0.264,
+      "coherence": 0.092
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

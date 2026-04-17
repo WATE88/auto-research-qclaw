@@ -1,0 +1,174 @@
+{
+  "topic": "AI agent code review",
+  "timestamp": "2026-04-01T16:28:07.800630",
+  "findings": [
+    {
+      "title": "darrenhinde/OpenAgentsControl",
+      "url": "https://github.com/darrenhinde/OpenAgentsControl",
+      "description": "AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built for OpenCode",
+      "stars": 3167,
+      "source": "github"
+    },
+    {
+      "title": "FradSer/dotclaude",
+      "url": "https://github.com/FradSer/dotclaude",
+      "description": "A comprehensive development environment with specialized AI agents for code review, security analysis, and technical leadership.",
+      "stars": 519,
+      "source": "github"
+    },
+    {
+      "title": "project-codeguard/rules",
+      "url": "https://github.com/project-codeguard/rules",
+      "description": "Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance.",
+      "stars": 399,
+      "source": "github"
+    },
+    {
+      "title": "777genius/claude_agent_teams_ui",
+      "url": "https://github.com/777genius/claude_agent_teams_ui",
+      "description": "You're the CTO, agents are your team. They handle tasks themselves, message each other, review each other's code. You just look at the kanban board and drink coffee.",
+      "stars": 358,
+      "source": "github"
+    },
+    {
+      "title": "nth5693/gemini-kit",
+      "url": "https://github.com/nth5693/gemini-kit",
+      "description": "🚀 19 AI Agents + 44 Commands for Gemini CLI - Code 10x faster with auto planning, testing, review & security",
+      "stars": 298,
+      "source": "github"
+    },
+    {
+      "title": "Community-Access/accessibility-agents",
+      "url": "https://github.com/Community-Access/accessibility-agents",
+      "description": "Accessibility review agents for Claude Code, GitHub Copilot, and Claude Desktop. Eleven specialists that enforce WCAG 2.2 AA compliance so AI coding tools stop generating inaccessible code.",
+      "stars": 207,
+      "source": "github"
+    },
+    {
+      "title": "sourceant/sourceant",
+      "url": "https://github.com/sourceant/sourceant",
+      "description": "OpenSource AI assisted code reviews  and agentic automation.",
+      "stars": 171,
+      "source": "github"
+    },
+    {
+      "title": "LerianStudio/ring",
+      "url": "https://github.com/LerianStudio/ring",
+      "description": "89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.",
+      "stars": 155,
+      "source": "github"
+    },
+    {
+      "title": "areibman/bottleneck",
+      "url": "https://github.com/areibman/bottleneck",
+      "description": "Code review for AI native teams. Native Electron app for reviewing pull requests dramatically faster than Github web. Specialized for handling reviews for background agents working on multiple concurrent threads",
+      "stars": 153,
+      "source": "github"
+    },
+    {
+      "title": "zubair-trabzada/ai-legal-claude",
+      "url": "https://github.com/zubair-trabzada/ai-legal-claude",
+      "description": "AI Legal Assistant skill for Claude Code. Contract review, risk analysis, NDA generation, compliance auditing, negotiation strategy, and PDF reports — 14 skills, 5 parallel agents. If you want to learn how to sell this to real businesses, check out the Skool community",
+      "stars": 127,
+      "source": "github"
+    },
+    {
+      "title": "aklofas/kicad-happy",
+      "url": "https://github.com/aklofas/kicad-happy",
+      "description": "AI coding agent skills for KiCad electronics design. Works with Claude Code and OpenAI Codex. Analyze schematics, review PCB layouts, download datasheets, source components, and prep boards for fabrication.",
+      "stars": 116,
+      "source": "github"
+    },
+    {
+      "title": "renfei-design/design-jarvis",
+      "url": "https://github.com/renfei-design/design-jarvis",
+      "description": "An AI-native design team for VS Code — one orchestrator routes your requests to specialist agents (UX, UI, research, content) that collaborate autonomously. Design Lead reviews every output and drives next steps until the project is complete. Memory persists decisions across sessions. Just talk to @Design Jarvis and it handles the rest.",
+      "stars": 97,
+      "source": "github"
+    },
+    {
+      "title": "PouriaRouzrokh/LatteReview",
+      "url": "https://github.com/PouriaRouzrokh/LatteReview",
+      "description": "This is the repository for the LatteReview python package. LatteReview is a low-code Python package designed to automate systematic literature review processes through AI-powered agents.",
+      "stars": 96,
+      "source": "github"
+    },
+    {
+      "title": "zixingtangmouren/mr-agent",
+      "url": "https://github.com/zixingtangmouren/mr-agent",
+      "description": "mr-agent: A Node.js service that auto-triggers AI-powered code reviews when receiving Git merge request webhook events. Integrates with GitHub/GitLab/Bitbucket to analyze changes, flag issues, and suggest improvements—streamlining reviews for teams of all sizes.",
+      "stars": 87,
+      "source": "github"
+    },
+    {
+      "title": "Robdel12/OrbitDock",
+      "url": "https://github.com/Robdel12/OrbitDock",
+      "description": "Run, review, and orchestrate AI coding agents from anywhere",
+      "stars": 86,
+      "source": "github"
+    },
+    {
+      "title": "kv0906/pm-kit",
+      "url": "https://github.com/kv0906/pm-kit",
+      "description": "AI-augmented PM workspace for Coding Agents — daily standups, decisions, blockers, docs, and sprint reviews as markdown   skills",
+      "stars": 73,
+      "source": "github"
+    },
+    {
+      "title": "Dicklesworthstone/slb",
+      "url": "https://github.com/Dicklesworthstone/slb",
+      "description": "Two-person rule CLI for AI coding agents: peer review and approval required before running potentially destructive commands",
+      "stars": 65,
+      "source": "github"
+    },
+    {
+      "title": "gitbito/CodeReviewAgent",
+      "url": "https://github.com/gitbito/CodeReviewAgent",
+      "description": "On-demand, context-aware AI code reviews in your Git workflow or IDE as you code.",
+      "stars": 60,
+      "source": "github"
+    },
+    {
+      "title": "shivamsaraswat/SeCoRA",
+      "url": "https://github.com/shivamsaraswat/SeCoRA",
+      "description": "Secure Code Review AI Agent (SeCoRA) - AI SAST",
+      "stars": 55,
+      "source": "github"
+    },
+    {
+      "title": "workstream-labs/workstreams",
+      "url": "https://github.com/workstream-labs/workstreams",
+      "description": "declarative CLI orchestrator for parallel AI coding agents. define workstreams, run in isolated worktrees, review with comments, and iterate until done.",
+      "stars": 54,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.424,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.1,
+      "diversity": 0.0,
+      "usability": 0.0,
+      "applicability": 1.0,
+      "coverage": 1.0,
+      "ndcg": 0.798,
+      "map": 0.989,
+      "mrr": 1.0,
+      "rouge_1": 0.662,
+      "semantic_sim": 0.296,
+      "coherence": 0.105,
+      "task_completion": 0.483,
+      "tool_use": 0.078,
+      "reasoning_depth": 0.087,
+      "autonomy": 0.1,
+      "multi_agent": 0.125
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

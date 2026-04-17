@@ -1,0 +1,174 @@
+{
+  "topic": "NLP evaluation",
+  "timestamp": "2026-04-07T11:22:16.112218",
+  "findings": [
+    {
+      "title": "beir-cellar/beir",
+      "url": "https://github.com/beir-cellar/beir",
+      "description": "A Heterogeneous Benchmark for Information Retrieval. Easy to use, evaluate your models across 15+ diverse IR datasets.",
+      "stars": 2135,
+      "source": "github"
+    },
+    {
+      "title": "tatsu-lab/alpaca_eval",
+      "url": "https://github.com/tatsu-lab/alpaca_eval",
+      "description": "An automatic evaluator for instruction-following language models. Human-validated, high-quality, cheap, and fast.",
+      "stars": 1964,
+      "source": "github"
+    },
+    {
+      "title": "ChineseGLUE/ChineseGLUE",
+      "url": "https://github.com/ChineseGLUE/ChineseGLUE",
+      "description": "Language Understanding Evaluation benchmark for Chinese: datasets, baselines, pre-trained models,corpus and leaderboard",
+      "stars": 1787,
+      "source": "github"
+    },
+    {
+      "title": "Maluuba/nlg-eval",
+      "url": "https://github.com/Maluuba/nlg-eval",
+      "description": "Evaluation code for various unsupervised automated metrics for Natural Language Generation.",
+      "stars": 1394,
+      "source": "github"
+    },
+    {
+      "title": "The-FinAI/PIXIU",
+      "url": "https://github.com/The-FinAI/PIXIU",
+      "description": "This repository introduces PIXIU, an open-source resource featuring the first financial large language models (LLMs), instruction tuning data, and evaluation benchmarks to holistically assess financial LLMs. Our goal is to continually push forward the open-source development of financial artificial intelligence (AI).",
+      "stars": 847,
+      "source": "github"
+    },
+    {
+      "title": "MIND-Lab/OCTIS",
+      "url": "https://github.com/MIND-Lab/OCTIS",
+      "description": "OCTIS: Comparing Topic Models is Simple! A python package to optimize and evaluate topic models (accepted at EACL2021 demo track)",
+      "stars": 800,
+      "source": "github"
+    },
+    {
+      "title": "IntelLabs/RAG-FiT",
+      "url": "https://github.com/IntelLabs/RAG-FiT",
+      "description": "Framework for enhancing LLMs for RAG tasks using fine-tuning.",
+      "stars": 769,
+      "source": "github"
+    },
+    {
+      "title": "Unbabel/COMET",
+      "url": "https://github.com/Unbabel/COMET",
+      "description": " A Neural Framework for MT Evaluation",
+      "stars": 731,
+      "source": "github"
+    },
+    {
+      "title": "ucinlp/autoprompt",
+      "url": "https://github.com/ucinlp/autoprompt",
+      "description": "AutoPrompt: Automatic Prompt Construction for Masked Language Models.",
+      "stars": 640,
+      "source": "github"
+    },
+    {
+      "title": "onejune2018/Awesome-LLM-Eval",
+      "url": "https://github.com/onejune2018/Awesome-LLM-Eval",
+      "description": "Awesome-LLM-Eval: a curated list of tools, datasets/benchmark, demos, leaderboard, papers, docs and models, mainly for Evaluation on LLMs.  一个由工具、基准/数据、演示、排行榜和大模型等组成的精选列表，主要面向基础大模型评测，旨在探求生成式AI的技术边界.",
+      "stars": 629,
+      "source": "github"
+    },
+    {
+      "title": "HowieHwong/TrustLLM",
+      "url": "https://github.com/HowieHwong/TrustLLM",
+      "description": "[ICML 2024] TrustLLM: Trustworthiness in Large Language Models",
+      "stars": 623,
+      "source": "github"
+    },
+    {
+      "title": "jkkummerfeld/text2sql-data",
+      "url": "https://github.com/jkkummerfeld/text2sql-data",
+      "description": "A collection of datasets that pair questions with SQL queries.",
+      "stars": 587,
+      "source": "github"
+    },
+    {
+      "title": "liuhuanyong/ChineseNLPCorpus",
+      "url": "https://github.com/liuhuanyong/ChineseNLPCorpus",
+      "description": "An collection of Chinese nlp corpus including basic Chinese syntatic wordset, semantic wordset, historic corpus and evaluate corpus. 中文自然语言处理的语料集合，包括语义词、领域共时、历时语料库、评测语料库等。",
+      "stars": 449,
+      "source": "github"
+    },
+    {
+      "title": "asahi417/tner",
+      "url": "https://github.com/asahi417/tner",
+      "description": "Language model fine-tuning on NER with an easy interface and cross-domain evaluation. \"T-NER: An All-Round Python Library for Transformer-based Named Entity Recognition, EACL 2021\"",
+      "stars": 396,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/presidio-research",
+      "url": "https://github.com/microsoft/presidio-research",
+      "description": "This package features data-science related tasks for developing new recognizers for Presidio. It is used for the evaluation of the entire system, as well as for evaluating specific PII recognizers or PII detection models.",
+      "stars": 272,
+      "source": "github"
+    },
+    {
+      "title": "likejazz/Siamese-LSTM",
+      "url": "https://github.com/likejazz/Siamese-LSTM",
+      "description": "Siamese LSTM for evaluating semantic similarity between sentences of the Quora Question Pairs Dataset.",
+      "stars": 256,
+      "source": "github"
+    },
+    {
+      "title": "amirbar/rnn.wgan",
+      "url": "https://github.com/amirbar/rnn.wgan",
+      "description": "Code for training and evaluation of the model from \"Language Generation with Recurrent Generative Adversarial Networks without Pre-training\"",
+      "stars": 252,
+      "source": "github"
+    },
+    {
+      "title": "bheinzerling/pyrouge",
+      "url": "https://github.com/bheinzerling/pyrouge",
+      "description": "A Python wrapper for the ROUGE summarization evaluation package",
+      "stars": 249,
+      "source": "github"
+    },
+    {
+      "title": "devmount/GermanWordEmbeddings",
+      "url": "https://github.com/devmount/GermanWordEmbeddings",
+      "description": "Toolkit to obtain and preprocess German text corpora, train models and evaluate them with generated testsets. Built with Gensim and Tensorflow. ",
+      "stars": 242,
+      "source": "github"
+    },
+    {
+      "title": "lgalke/vec4ir",
+      "url": "https://github.com/lgalke/vec4ir",
+      "description": "Word Embeddings for Information Retrieval",
+      "stars": 227,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.385,
+    "grade": "D",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.35,
+      "star_power": 0.357,
+      "diversity": 0.0,
+      "usability": 0.4,
+      "applicability": 0.85,
+      "coverage": 1.0,
+      "ndcg": 0.507,
+      "map": 0.693,
+      "mrr": 1.0,
+      "rouge_1": 0.25,
+      "semantic_sim": 0.082,
+      "coherence": 0.084,
+      "task_completion": 0.37,
+      "tool_use": 0.02,
+      "reasoning_depth": 0.0,
+      "autonomy": 0.087,
+      "multi_agent": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

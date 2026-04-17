@@ -1,0 +1,31 @@
+{
+  "topic": "text benchmark BLEU ROUGE",
+  "timestamp": "2026-03-31T12:06:27.802381",
+  "findings": [
+    {
+      "title": "phani-x507/-Offline-LLMs-for-Low-Spec-Devices--A-Study-on-Efficiency-and-Usability-",
+      "url": "https://github.com/phani-x507/-Offline-LLMs-for-Low-Spec-Devices--A-Study-on-Efficiency-and-Usability-",
+      "description": "This project benchmarks offline Masked and Causal Language Models (MLMs, CLMs) like DistilBERT, MobileBERT, TinyLLaMA, Phi-2, and Gemma-2B. It evaluates accuracy, efficiency, and text quality using BLEU, ROUGE, and Perplexity, ensuring privacy-focused AI applications. The results guide optimal offline LLM selection.",
+      "stars": 0,
+      "updated_at": "2025-12-19T10:13:35Z",
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 1,
+    "quality_score": 0.682,
+    "grade": "B",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 1.0,
+      "star_power": 0,
+      "diversity": 0.0,
+      "usability": 1.0,
+      "applicability": 1.0,
+      "coverage": 0.05
+    },
+    "sources_breakdown": {
+      "github": 1
+    }
+  }
+}

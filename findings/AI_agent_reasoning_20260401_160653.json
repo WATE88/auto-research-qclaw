@@ -1,0 +1,174 @@
+{
+  "topic": "AI agent reasoning",
+  "timestamp": "2026-04-01T16:06:53.012227",
+  "findings": [
+    {
+      "title": "mindsdb/mindsdb",
+      "url": "https://github.com/mindsdb/mindsdb",
+      "description": "Query Engine for AI Analytics: Build self-reasoning agents across all your live data",
+      "stars": 38890,
+      "source": "github"
+    },
+    {
+      "title": "PySpur-Dev/pyspur",
+      "url": "https://github.com/PySpur-Dev/pyspur",
+      "description": "A visual playground for agentic workflows: Iterate over your agents 10x faster",
+      "stars": 5711,
+      "source": "github"
+    },
+    {
+      "title": "entireio/cli",
+      "url": "https://github.com/entireio/cli",
+      "description": "Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning.",
+      "stars": 3819,
+      "source": "github"
+    },
+    {
+      "title": "griptape-ai/griptape",
+      "url": "https://github.com/griptape-ai/griptape",
+      "description": "Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory. ",
+      "stars": 2506,
+      "source": "github"
+    },
+    {
+      "title": "BAAI-Agents/Cradle",
+      "url": "https://github.com/BAAI-Agents/Cradle",
+      "description": "The Cradle framework is a first attempt at General Computer Control (GCC). Cradle supports agents to ace any computer task by enabling strong reasoning abilities, self-improvment, and skill curation, in a standardized general environment with minimal requirements.",
+      "stars": 2483,
+      "source": "github"
+    },
+    {
+      "title": "cjo4m06/mcp-shrimp-task-manager",
+      "url": "https://github.com/cjo4m06/mcp-shrimp-task-manager",
+      "description": "Shrimp Task Manager is a task tool built for AI Agents, emphasizing chain-of-thought, reflection, and style consistency. It converts natural language into structured dev tasks with dependency tracking and iterative refinement, enabling agent-like developer behavior in reasoning AI systems.",
+      "stars": 2068,
+      "source": "github"
+    },
+    {
+      "title": "HCPLab-SYSU/Embodied_AI_Paper_List",
+      "url": "https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List",
+      "description": "[Embodied-AI-Survey-2025] Paper List and Resource Repository for Embodied AI",
+      "stars": 1978,
+      "source": "github"
+    },
+    {
+      "title": "onestardao/WFGY",
+      "url": "https://github.com/onestardao/WFGY",
+      "description": "WFGY is an open-source AI Troubleshooting Atlas for RAG, agents, and real-world AI workflows. Includes the 16-problem map, Global Debug Card, and WFGY 4.0. ⭐ Star to help more builders find this repo.",
+      "stars": 1694,
+      "source": "github"
+    },
+    {
+      "title": "masamasa59/ai-agent-papers",
+      "url": "https://github.com/masamasa59/ai-agent-papers",
+      "description": "A collection of AI Agents papers (Updated biweekly)",
+      "stars": 1241,
+      "source": "github"
+    },
+    {
+      "title": "EuniAI/Prometheus",
+      "url": "https://github.com/EuniAI/Prometheus",
+      "description": "🧠 Prometheus: A Knowledge-Graph-Driven 🤖 AI Agent that maps 🗺, understands 🧩, and repairs 🛠 complex codebases — not by guessing, but by reasoning. ⚡",
+      "stars": 972,
+      "source": "github"
+    },
+    {
+      "title": "heurist-network/heurist-agent-framework",
+      "url": "https://github.com/heurist-network/heurist-agent-framework",
+      "description": "A flexible multi-interface AI agent framework for building agents with reasoning, tool use, memory, deep research, blockchain interaction, MCP, and agents-as-a-service.",
+      "stars": 789,
+      "source": "github"
+    },
+    {
+      "title": "SanMuzZzZz/LuaN1aoAgent",
+      "url": "https://github.com/SanMuzZzZz/LuaN1aoAgent",
+      "description": "LuaN1aoAgent is a cognitive-driven AI hacker. It is a fully autonomous AI penetration testing agent powered by DeepSeek V3.2. Using dual-graph reasoning, LuaN1ao achieves a success rate of over 90% on the XBOW Benchmark, with a median exploit cost of just $0.09.",
+      "stars": 659,
+      "source": "github"
+    },
+    {
+      "title": "IAAR-Shanghai/Awesome-AI-Memory",
+      "url": "https://github.com/IAAR-Shanghai/Awesome-AI-Memory",
+      "description": "Awesome AI Memory | LLM Memory | A curated knowledge base on AI memory for LLMs and agents, covering long-term memory, reasoning, retrieval, and memory-native system design.  Awesome-AI-Memory 是一个 集中式、持续更新的 AI 记忆知识库，系统性整理了与 大模型记忆（LLM Memory）与智能体记忆（Agent Memory） 相关的前沿研究、工程框架、系统设计、评测基准与真实应用实践。",
+      "stars": 644,
+      "source": "github"
+    },
+    {
+      "title": "pguso/agents-from-scratch",
+      "url": "https://github.com/pguso/agents-from-scratch",
+      "description": "Build AI agents from first principles using a local LLM - no frameworks, no cloud APIs, no hidden reasoning.",
+      "stars": 624,
+      "source": "github"
+    },
+    {
+      "title": "mims-harvard/TxAgent",
+      "url": "https://github.com/mims-harvard/TxAgent",
+      "description": "TxAgent: An AI Agent for Therapeutic Reasoning Across a Universe of Tools",
+      "stars": 610,
+      "source": "github"
+    },
+    {
+      "title": "Doriandarko/kimi-writer",
+      "url": "https://github.com/Doriandarko/kimi-writer",
+      "description": "AI writing agent powered by kimi-k2-thinking - autonomously creates novels and stories with deep reasoning",
+      "stars": 544,
+      "source": "github"
+    },
+    {
+      "title": "sentient-engineering/agent-q",
+      "url": "https://github.com/sentient-engineering/agent-q",
+      "description": "agent q - oss advanced reasoning and learning for autonomous ai agents",
+      "stars": 504,
+      "source": "github"
+    },
+    {
+      "title": "PV-Bhat/vibe-check-mcp-server",
+      "url": "https://github.com/PV-Bhat/vibe-check-mcp-server",
+      "description": "Vibe Check is a tool that provides mentor-like feedback to AI Agents, preventing tunnel-vision, over-engineering and reasoning lock-in for complex and long-horizon agent workflows. KISS your over-eager AI Agents goodbye! Effective for: Coding, Ambiguous Tasks, High-Risk tasks",
+      "stars": 480,
+      "source": "github"
+    },
+    {
+      "title": "TheAgenticAI/CortexON",
+      "url": "https://github.com/TheAgenticAI/CortexON",
+      "description": "Open-source generalized AI agent for everyday task automations.",
+      "stars": 458,
+      "source": "github"
+    },
+    {
+      "title": "opennars/opennars",
+      "url": "https://github.com/opennars/opennars",
+      "description": "OpenNARS for Research 3.0+",
+      "stars": 417,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.403,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.05,
+      "star_power": 0.086,
+      "diversity": 0.0,
+      "usability": 0.0,
+      "applicability": 1.0,
+      "coverage": 1.0,
+      "ndcg": 0.461,
+      "map": 1.0,
+      "mrr": 1.0,
+      "rouge_1": 0.7,
+      "semantic_sim": 0.283,
+      "coherence": 0.176,
+      "task_completion": 0.56,
+      "tool_use": 0.068,
+      "reasoning_depth": 0.15,
+      "autonomy": 0.113,
+      "multi_agent": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

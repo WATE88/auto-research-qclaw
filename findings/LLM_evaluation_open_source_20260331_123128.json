@@ -1,0 +1,174 @@
+{
+  "topic": "LLM evaluation open source",
+  "timestamp": "2026-03-31T12:31:28.163297",
+  "findings": [
+    {
+      "title": "mlflow/mlflow",
+      "url": "https://github.com/mlflow/mlflow",
+      "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.",
+      "stars": 25013,
+      "source": "github"
+    },
+    {
+      "title": "langfuse/langfuse",
+      "url": "https://github.com/langfuse/langfuse",
+      "description": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 ",
+      "stars": 24080,
+      "source": "github"
+    },
+    {
+      "title": "google/adk-python",
+      "url": "https://github.com/google/adk-python",
+      "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+      "stars": 18678,
+      "source": "github"
+    },
+    {
+      "title": "openai/evals",
+      "url": "https://github.com/openai/evals",
+      "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
+      "stars": 18102,
+      "source": "github"
+    },
+    {
+      "title": "tensorzero/tensorzero",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "description": "TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.",
+      "stars": 11164,
+      "source": "github"
+    },
+    {
+      "title": "oumi-ai/oumi",
+      "url": "https://github.com/oumi-ai/oumi",
+      "description": "Easily fine-tune, evaluate and deploy gpt-oss, Qwen3, DeepSeek-R1, or any open source LLM / VLM!",
+      "stars": 8922,
+      "source": "github"
+    },
+    {
+      "title": "evidentlyai/evidently",
+      "url": "https://github.com/evidentlyai/evidently",
+      "description": "Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics.",
+      "stars": 7348,
+      "source": "github"
+    },
+    {
+      "title": "google/adk-go",
+      "url": "https://github.com/google/adk-go",
+      "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+      "stars": 7298,
+      "source": "github"
+    },
+    {
+      "title": "Helicone/helicone",
+      "url": "https://github.com/Helicone/helicone",
+      "description": "🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓",
+      "stars": 5406,
+      "source": "github"
+    },
+    {
+      "title": "Giskard-AI/giskard-oss",
+      "url": "https://github.com/Giskard-AI/giskard-oss",
+      "description": "🐢 Open-Source Evaluation & Testing library for LLM Agents",
+      "stars": 5210,
+      "source": "github"
+    },
+    {
+      "title": "Marker-Inc-Korea/AutoRAG",
+      "url": "https://github.com/Marker-Inc-Korea/AutoRAG",
+      "description": "AutoRAG: An Open-Source Framework for Retrieval-Augmented Generation (RAG) Evaluation & Optimization with AutoML-Style Automation",
+      "stars": 4652,
+      "source": "github"
+    },
+    {
+      "title": "Agenta-AI/agenta",
+      "url": "https://github.com/Agenta-AI/agenta",
+      "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place.",
+      "stars": 3989,
+      "source": "github"
+    },
+    {
+      "title": "open-compass/VLMEvalKit",
+      "url": "https://github.com/open-compass/VLMEvalKit",
+      "description": "Open-source evaluation toolkit of large multi-modality models (LMMs), support 220+ LMMs, 80+ benchmarks",
+      "stars": 3974,
+      "source": "github"
+    },
+    {
+      "title": "ianarawjo/ChainForge",
+      "url": "https://github.com/ianarawjo/ChainForge",
+      "description": "An open-source visual programming environment for battle-testing prompts to LLMs.",
+      "stars": 2965,
+      "source": "github"
+    },
+    {
+      "title": "stanford-crfm/helm",
+      "url": "https://github.com/stanford-crfm/helm",
+      "description": "Holistic Evaluation of Language Models (HELM) is an open source Python framework created by the Center for Research on Foundation Models (CRFM) at Stanford for holistic, reproducible and transparent evaluation of foundation models, including large language models (LLMs) and multimodal models.",
+      "stars": 2725,
+      "source": "github"
+    },
+    {
+      "title": "openlit/openlit",
+      "url": "https://github.com/openlit/openlit",
+      "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50+ LLM Providers, VectorDBs, Agent Frameworks and GPUs.",
+      "stars": 2330,
+      "source": "github"
+    },
+    {
+      "title": "onestardao/WFGY",
+      "url": "https://github.com/onestardao/WFGY",
+      "description": "WFGY is an open-source AI Troubleshooting Atlas for RAG, agents, and real-world AI workflows. Includes the 16-problem map, Global Debug Card, and WFGY 4.0. ⭐ Star to help more builders find this repo.",
+      "stars": 1693,
+      "source": "github"
+    },
+    {
+      "title": "SkyworkAI/Skywork",
+      "url": "https://github.com/SkyworkAI/Skywork",
+      "description": "Skywork series models are pre-trained on 3.2TB of high-quality multilingual (mainly Chinese and English) and code data. We have open-sourced the model, training data, evaluation data, evaluation methods, etc.  ",
+      "stars": 1492,
+      "source": "github"
+    },
+    {
+      "title": "google/adk-java",
+      "url": "https://github.com/google/adk-java",
+      "description": "An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+      "stars": 1413,
+      "source": "github"
+    },
+    {
+      "title": "Scale3-Labs/langtrace",
+      "url": "https://github.com/Scale3-Labs/langtrace",
+      "description": "Langtrace 🔍 is an open-source,  Open Telemetry based end-to-end observability tool for LLM applications, providing real-time tracing, evaluations and metrics for popular LLMs, LLM frameworks, vectorDBs and more.. Integrate using Typescript, Python. 🚀💻📊",
+      "stars": 1187,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.414,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.1,
+      "star_power": 0.315,
+      "diversity": 0.0,
+      "usability": 0.0,
+      "applicability": 0.95,
+      "coverage": 1.0,
+      "ndcg": 0.616,
+      "map": 0.83,
+      "mrr": 1.0,
+      "rouge_1": 0.7,
+      "semantic_sim": 0.33,
+      "coherence": 0.095,
+      "task_completion": 0.511,
+      "tool_use": 0.085,
+      "reasoning_depth": 0.013,
+      "autonomy": 0.062,
+      "multi_agent": 0.015
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

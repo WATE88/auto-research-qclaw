@@ -1,0 +1,159 @@
+{
+  "topic": "stable diffusion",
+  "timestamp": "2026-03-30T13:53:54.546887",
+  "findings": [
+    {
+      "title": "AUTOMATIC1111/stable-diffusion-webui",
+      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "description": "Stable Diffusion web UI",
+      "stars": 162022,
+      "source": "github"
+    },
+    {
+      "title": "CompVis/stable-diffusion",
+      "url": "https://github.com/CompVis/stable-diffusion",
+      "description": "A latent text-to-image diffusion model",
+      "stars": 72778,
+      "source": "github"
+    },
+    {
+      "title": "invoke-ai/InvokeAI",
+      "url": "https://github.com/invoke-ai/InvokeAI",
+      "description": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.",
+      "stars": 26915,
+      "source": "github"
+    },
+    {
+      "title": "Sanster/IOPaint",
+      "url": "https://github.com/Sanster/IOPaint",
+      "description": "Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.",
+      "stars": 22921,
+      "source": "github"
+    },
+    {
+      "title": "apple/ml-stable-diffusion",
+      "url": "https://github.com/apple/ml-stable-diffusion",
+      "description": "Stable Diffusion with Core ML on Apple Silicon",
+      "stars": 17827,
+      "source": "github"
+    },
+    {
+      "title": "IDEA-Research/Grounded-Segment-Anything",
+      "url": "https://github.com/IDEA-Research/Grounded-Segment-Anything",
+      "description": "Grounded SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything",
+      "stars": 17485,
+      "source": "github"
+    },
+    {
+      "title": "camenduru/stable-diffusion-webui-colab",
+      "url": "https://github.com/camenduru/stable-diffusion-webui-colab",
+      "description": "stable diffusion webui colab",
+      "stars": 15953,
+      "source": "github"
+    },
+    {
+      "title": "divamgupta/diffusionbee-stable-diffusion-ui",
+      "url": "https://github.com/divamgupta/diffusionbee-stable-diffusion-ui",
+      "description": "Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.",
+      "stars": 13550,
+      "source": "github"
+    },
+    {
+      "title": "lllyasviel/stable-diffusion-webui-forge",
+      "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+      "description": null,
+      "stars": 12354,
+      "source": "github"
+    },
+    {
+      "title": "hua1995116/awesome-ai-painting",
+      "url": "https://github.com/hua1995116/awesome-ai-painting",
+      "description": "AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） Stable diffusion、AnimateDiff、Stable Cascade 、Stable SDXL Turbo",
+      "stars": 11762,
+      "source": "github"
+    },
+    {
+      "title": "easydiffusion/easydiffusion",
+      "url": "https://github.com/easydiffusion/easydiffusion",
+      "description": "An easy 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image.",
+      "stars": 10308,
+      "source": "github"
+    },
+    {
+      "title": "ashawkey/stable-dreamfusion",
+      "url": "https://github.com/ashawkey/stable-dreamfusion",
+      "description": "Text-to-3D & Image-to-3D & Mesh Exportation with NeRF + Diffusion.",
+      "stars": 8825,
+      "source": "github"
+    },
+    {
+      "title": "carson-katri/dream-textures",
+      "url": "https://github.com/carson-katri/dream-textures",
+      "description": "Stable Diffusion built-in to Blender",
+      "stars": 8136,
+      "source": "github"
+    },
+    {
+      "title": "TheLastBen/fast-stable-diffusion",
+      "url": "https://github.com/TheLastBen/fast-stable-diffusion",
+      "description": "fast-stable-diffusion + DreamBooth",
+      "stars": 7896,
+      "source": "github"
+    },
+    {
+      "title": "Sygil-Dev/sygil-webui",
+      "url": "https://github.com/Sygil-Dev/sygil-webui",
+      "description": "Stable Diffusion web UI",
+      "stars": 7893,
+      "source": "github"
+    },
+    {
+      "title": "MochiDiffusion/MochiDiffusion",
+      "url": "https://github.com/MochiDiffusion/MochiDiffusion",
+      "description": "Run Stable Diffusion on Mac natively",
+      "stars": 7867,
+      "source": "github"
+    },
+    {
+      "title": "LykosAI/StabilityMatrix",
+      "url": "https://github.com/LykosAI/StabilityMatrix",
+      "description": "Multi-Platform Package Manager for Stable Diffusion",
+      "stars": 7813,
+      "source": "github"
+    },
+    {
+      "title": "XavierXiao/Dreambooth-Stable-Diffusion",
+      "url": "https://github.com/XavierXiao/Dreambooth-Stable-Diffusion",
+      "description": "Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion",
+      "stars": 7742,
+      "source": "github"
+    },
+    {
+      "title": "AbdBarho/stable-diffusion-webui-docker",
+      "url": "https://github.com/AbdBarho/stable-diffusion-webui-docker",
+      "description": "Easy Docker setup for Stable Diffusion with user-friendly UI",
+      "stars": 7327,
+      "source": "github"
+    },
+    {
+      "title": "AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
+      "url": "https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
+      "description": "A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using either Automatic or ComfyUI as a backend.",
+      "stars": 7235,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.298,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.14,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

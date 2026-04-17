@@ -1,0 +1,159 @@
+{
+  "topic": "AWQ quantization",
+  "timestamp": "2026-03-31T11:17:29.133569",
+  "findings": [
+    {
+      "title": "mit-han-lab/llm-awq",
+      "url": "https://github.com/mit-han-lab/llm-awq",
+      "description": "[MLSys 2024 Best Paper Award] AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration",
+      "stars": 3478,
+      "source": "github"
+    },
+    {
+      "title": "intel/neural-compressor",
+      "url": "https://github.com/intel/neural-compressor",
+      "description": "SOTA low-bit LLM quantization (INT8/FP8/MXFP8/INT4/MXFP4/NVFP4) & sparsity; leading model compression techniques on PyTorch, TensorFlow, and ONNX Runtime",
+      "stars": 2610,
+      "source": "github"
+    },
+    {
+      "title": "casper-hansen/AutoAWQ",
+      "url": "https://github.com/casper-hansen/AutoAWQ",
+      "description": "AutoAWQ implements the AWQ algorithm for 4-bit quantization with a 2x speedup during inference. Documentation:",
+      "stars": 2320,
+      "source": "github"
+    },
+    {
+      "title": "ModelTC/LightCompress",
+      "url": "https://github.com/ModelTC/LightCompress",
+      "description": "[EMNLP 2024 & AAAI 2026] A powerful toolkit for compressing large models including LLMs, VLMs, and video generative models.",
+      "stars": 695,
+      "source": "github"
+    },
+    {
+      "title": "wejoncy/QLLM",
+      "url": "https://github.com/wejoncy/QLLM",
+      "description": "A general 2-8 bits quantization toolbox with GPTQ/AWQ/HQQ/VPTQ, and export to onnx/onnx-runtime easily.",
+      "stars": 187,
+      "source": "github"
+    },
+    {
+      "title": "xhedit/quantkit",
+      "url": "https://github.com/xhedit/quantkit",
+      "description": "cli tool to quantize gguf, gptq, awq, hqq and exl2 models",
+      "stars": 79,
+      "source": "github"
+    },
+    {
+      "title": "kingabzpro/Deploying-Llama-3.3-70B",
+      "url": "https://github.com/kingabzpro/Deploying-Llama-3.3-70B",
+      "description": "Serve Llama 3.3 70B (with AWQ quantization) using vLLM and deploy it on BentoCloud.",
+      "stars": 31,
+      "source": "github"
+    },
+    {
+      "title": "zhihu/TLLM_QMM",
+      "url": "https://github.com/zhihu/TLLM_QMM",
+      "description": "TLLM_QMM strips the implementation of quantized kernels of Nvidia's TensorRT-LLM, removing NVInfer dependency and exposes ease of use Pytorch module. We modified the dequantation and weight preprocessing to align with popular quantization alogirthms such as AWQ and GPTQ, and combine them with new FP8 quantization.",
+      "stars": 16,
+      "source": "github"
+    },
+    {
+      "title": "EasonGZY/AutoAPTQ",
+      "url": "https://github.com/EasonGZY/AutoAPTQ",
+      "description": "AutoAPTQ: Integrated Quantization Framework (APTQ, GPTQ, AWQ)",
+      "stars": 12,
+      "source": "github"
+    },
+    {
+      "title": "Kubenew/TurboQuant-v3",
+      "url": "https://github.com/Kubenew/TurboQuant-v3",
+      "description": "# TurboQuant v3 (INT4 + AWQ + Protected Channels + Low-Rank) This notebook demonstrates a **TurboQuant-like** quantization algorithm: - Group-wise INT4 quantization - Activation-aware scaling (AWQ-style) - Protected FP16 channels - Optional low-rank correction (SVD)  ",
+      "stars": 12,
+      "source": "github"
+    },
+    {
+      "title": "AIAnytime/Quantize-LLM-using-AWQ",
+      "url": "https://github.com/AIAnytime/Quantize-LLM-using-AWQ",
+      "description": "Quantize LLM using AWQ",
+      "stars": 6,
+      "source": "github"
+    },
+    {
+      "title": "liyuan24/nanoquantization",
+      "url": "https://github.com/liyuan24/nanoquantization",
+      "description": "A self-contained end-to-end quantization framework that currently supports AWQ (Activation-aware Weight Quantization) and Qwen3 models.",
+      "stars": 5,
+      "source": "github"
+    },
+    {
+      "title": "Junfeng-Pan/Qwen3-AWQ",
+      "url": "https://github.com/Junfeng-Pan/Qwen3-AWQ",
+      "description": "quantize Qwen3-VL-8B using AWQ",
+      "stars": 4,
+      "source": "github"
+    },
+    {
+      "title": "inferless/openhermes-2-5-mistral-7b",
+      "url": "https://github.com/inferless/openhermes-2-5-mistral-7b",
+      "description": "A quantized model fine-tuned for rapid, efficient, and robust conversational and instruction tasks.  <metadata> gpu: A100 | collections: [\"vLLM\",\"AWQ\"] </metadata>",
+      "stars": 4,
+      "source": "github"
+    },
+    {
+      "title": "ouwei2013/aquila2_34b_awq",
+      "url": "https://github.com/ouwei2013/aquila2_34b_awq",
+      "description": "Quantize aquila2_34b with AWQ",
+      "stars": 3,
+      "source": "github"
+    },
+    {
+      "title": "alenperic/Debian-PyTorch-RTX5070Ti",
+      "url": "https://github.com/alenperic/Debian-PyTorch-RTX5070Ti",
+      "description": "A concise, end‑to‑end tutorial for Debian 12 that builds a CUDA 12.8‑optimized PyTorch image and launches vLLM with FlashInfer and AWQ/FP4‑quantized models on NVIDIA Blackwell GPUs via Docker or Podman.",
+      "stars": 3,
+      "source": "github"
+    },
+    {
+      "title": "GURPREETKAURJETHRA/Quantize-LLM-using-AWQ",
+      "url": "https://github.com/GURPREETKAURJETHRA/Quantize-LLM-using-AWQ",
+      "description": "Quantize LLM using AWQ",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "prashant852/DeepSeek-Finetuning-and-AWQ-Quantization",
+      "url": "https://github.com/prashant852/DeepSeek-Finetuning-and-AWQ-Quantization",
+      "description": "Finetuning DeepSeek-R1-Distill-Qwen-7B on LIMO dataset using Unsloth (2x Faster) Framework, followed by AWQ Quantization ",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "hekmon/autoawq",
+      "url": "https://github.com/hekmon/autoawq",
+      "description": "Quantize HF models to AWQ format",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "Saivivekmulukuri/Qwen2_5_VL_AutoAWQ",
+      "url": "https://github.com/Saivivekmulukuri/Qwen2_5_VL_AutoAWQ",
+      "description": "This repository contains code for quantizing the Qwen2_5_VL model to INT4 using autoawq.",
+      "stars": 2,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.297,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.136,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "topic": "AI research workflow tool",
+  "timestamp": "2026-03-31T12:56:53.807858",
+  "findings": [
+    {
+      "title": "Haervwe/open-webui-tools",
+      "url": "https://github.com/Haervwe/open-webui-tools",
+      "description": "Open‑WebUI Tools is a modular toolkit designed to extend and enrich your Open WebUI instance, turning it into a powerful AI workstation. With a suite of over 15 specialized tools, function pipelines, and filters, this project supports academic research, agentic autonomy, multimodal creativity, workflows, and more",
+      "stars": 627,
+      "source": "github"
+    },
+    {
+      "title": "SPThole/CoexistAI",
+      "url": "https://github.com/SPThole/CoexistAI",
+      "description": "CoexistAI is a modular, developer-friendly research assistant framework . It enables you to build, search, summarize, and automate research workflows using LLMs, web search, Reddit, YouTube, and mapping tools—all with simple MCP tool calls or API calls or Python functions. ",
+      "stars": 456,
+      "source": "github"
+    },
+    {
+      "title": "cporter202/youtube-growth-guide",
+      "url": "https://github.com/cporter202/youtube-growth-guide",
+      "description": "The ultimate open-source YouTube growth guide inspired by Creator Unlock. Includes tools, workflows, and strategies for AI-driven channel audits, niche research, video ideation, thumbnail & title optimization, content scoring, and data-backed growth strategies to help creators stop guessing and start winning on YouTube. 🚀",
+      "stars": 137,
+      "source": "github"
+    },
+    {
+      "title": "hardw00t/ai-security-arsenal",
+      "url": "https://github.com/hardw00t/ai-security-arsenal",
+      "description": "A collection of skills, agents, commands, and workflows for security researchers. Compatible with Claude Code, Claude Desktop, OpenCode, and other AI coding tools.",
+      "stars": 33,
+      "source": "github"
+    },
+    {
+      "title": "0x11c11e/awesome-ai-research-tools",
+      "url": "https://github.com/0x11c11e/awesome-ai-research-tools",
+      "description": "A curated list of AI tools specifically designed to assist in research activities, including tools for literature reviews, citation management, data analysis, and more. This repository is intended for researchers, students, and professionals who want to leverage AI to enhance their research workflows.",
+      "stars": 22,
+      "source": "github"
+    },
+    {
+      "title": "davzoku/paperwise",
+      "url": "https://github.com/davzoku/paperwise",
+      "description": "Paperwise is a systematic and streamlined research workflow for managing AI papers that revolves around three core tools: Zotero, ResearchRabbit, and Obsidian.",
+      "stars": 17,
+      "source": "github"
+    },
+    {
+      "title": "pro402/ai-report-generator",
+      "url": "https://github.com/pro402/ai-report-generator",
+      "description": "AI Report Generator is an AI-powered tool that automates the creation of detailed reports, newsletters, and blogs. Leveraging cutting-edge language models, custom search APIs, and a dynamic state graph workflow, it transforms your inputs into professional, SEO-friendly content in minutes. Ideal for researchers, marketers, and content creators.",
+      "stars": 10,
+      "source": "github"
+    },
+    {
+      "title": "projokali/projokali",
+      "url": "https://github.com/projokali/projokali",
+      "description": "Open-source developer building AI, tokenization, and Bitcoin CLI tools like ai-research-hub, token-wallet-cli, and btc-pay-tracker. Focused on privacy, local-first workflows, and lightweight decentralized systems for developers and enthusiasts.",
+      "stars": 10,
+      "source": "github"
+    },
+    {
+      "title": "AshrafGalibShaik/Deep-research-agent",
+      "url": "https://github.com/AshrafGalibShaik/Deep-research-agent",
+      "description": "DeepResearch Agent is an intelligent AI-powered research tool specifically designed for developers and tech professionals. Built with LangGraph workflows and Google's Gemini AI, it automatically discovers, analyzes, and compares developer tools, programming frameworks, and technology platforms.",
+      "stars": 8,
+      "source": "github"
+    },
+    {
+      "title": "434media/bizdev-agent",
+      "url": "https://github.com/434media/bizdev-agent",
+      "description": "An AI-powered sales automation tool that transforms manual prospect research into an intelligent, streamlined workflow. Built with Next.js, the Vercel AI SDK, and Apollo.io to help sales and marketing teams generate high-quality leads with personalized outreach.",
+      "stars": 8,
+      "source": "github"
+    },
+    {
+      "title": "PowerUpSkills/research-automation-ai",
+      "url": "https://github.com/PowerUpSkills/research-automation-ai",
+      "description": "Automate your research workflow with AI. Uses Toolhouse tools + free LLMs for web research, data analysis, memory, and trend tracking.",
+      "stars": 6,
+      "source": "github"
+    },
+    {
+      "title": "Research-Equality/awesome-ai-scientists",
+      "url": "https://github.com/Research-Equality/awesome-ai-scientists",
+      "description": "Awesome AI Research: curated tools, codebases, and AI Scientist projects for end-to-end research workflows",
+      "stars": 5,
+      "source": "github"
+    },
+    {
+      "title": "ObaidQadri/RD-Agent",
+      "url": "https://github.com/ObaidQadri/RD-Agent",
+      "description": "RD-Agent is a robust tool designed to streamline your research and development workflows. Explore the project, check out the live demo, and contribute to its growth on GitHub! 🐙✨",
+      "stars": 5,
+      "source": "github"
+    },
+    {
+      "title": "lahadiyani/soami",
+      "url": "https://github.com/lahadiyani/soami",
+      "description": "soami adalah starter framework modular yang bisa anda customisasi untuk membangun dan menjalankan AI Agents (seperti `Researcher`, `Planner`, dan `Coder`) berbasis Python, Flask. Cocok untuk membangun prototype AGI atau AI tooling dengan sistem orchestrator, memory, tools, dan vectorstore.",
+      "stars": 5,
+      "source": "github"
+    },
+    {
+      "title": "mihazs/petk",
+      "url": "https://github.com/mihazs/petk",
+      "description": "Petk is an open-source CLI tool for creating, managing, and testing prompts for Large Language Models (LLMs). Streamline your workflow with intuitive features for developers and AI researchers.",
+      "stars": 5,
+      "source": "github"
+    },
+    {
+      "title": "gupta-v/Deep-Research-Agentic-AI",
+      "url": "https://github.com/gupta-v/Deep-Research-Agentic-AI",
+      "description": "Multi-agent AI research assistant coordinating specialized agents with LangGraph. Leverages multiple research tools (Wikipedia, arXiv, etc ) with full LangSmith tracing for transparent reasoning. Delivers comprehensive scholarly answers through Groq-powered agents working in an orchestrated workflow, through a user-friendly Streamlit interface.",
+      "stars": 4,
+      "source": "github"
+    },
+    {
+      "title": "ssdeanx/Mastervolt-Deep-Research",
+      "url": "https://github.com/ssdeanx/Mastervolt-Deep-Research",
+      "description": "Mastervolt Deep Research is a sophisticated multi-agent orchestration system built on VoltAgent that automates complex research workflows. It combines specialized AI agents, semantic memory, intelligent tooling, and custom web scraping to conduct comprehensive research, verify facts, analyze data, and generate publication-ready reports.",
+      "stars": 4,
+      "source": "github"
+    },
+    {
+      "title": "iliaal/compound-engineering-plugin",
+      "url": "https://github.com/iliaal/compound-engineering-plugin",
+      "description": "AI-powered development tools. 21 agents, 22 commands, 29 skills, 1 hook, 1 MCP server for code review, research, design, and workflow automation.",
+      "stars": 4,
+      "source": "github"
+    },
+    {
+      "title": "launchdarkly-labs/devrel-agents-tutorial",
+      "url": "https://github.com/launchdarkly-labs/devrel-agents-tutorial",
+      "description": "Multi-agent AI chatbot with dynamic    configuration using LangGraph   workflows, RAG search, MCP tools,   and LaunchDarkly AI Configs.   Control AI behavior, swap models   (Claude/GPT/Mistral), enable   research tools, and run A/B   experiments without code deploys.",
+      "stars": 4,
+      "source": "github"
+    },
+    {
+      "title": "Awais-Asghar/AI-Agents-From-Idea-to-Deployment",
+      "url": "https://github.com/Awais-Asghar/AI-Agents-From-Idea-to-Deployment",
+      "description": "A hands-on workshop template that demonstrates how to orchestrate CrewAI agents for planning, research, writing, and review workflows. The stack combines CrewAI with LangChain tools, a FAISS-backed Retrieval-Augmented Generation (RAG) pipeline, and a Streamlit frontend. ",
+      "stars": 2,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.474,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.109,
+      "diversity": 0.0,
+      "usability": 0.4,
+      "applicability": 1.0,
+      "coverage": 1.0,
+      "ndcg": 0.716,
+      "map": 0.86,
+      "mrr": 1.0,
+      "rouge_1": 0.575,
+      "semantic_sim": 0.243,
+      "coherence": 0.189,
+      "task_completion": 0.701,
+      "tool_use": 0.345,
+      "reasoning_depth": 0.053,
+      "autonomy": 0.175,
+      "multi_agent": 0.135
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "topic": "semantic search",
+  "timestamp": "2026-03-30T13:05:50.247998",
+  "findings": [
+    {
+      "title": "deepset-ai/haystack",
+      "url": "https://github.com/deepset-ai/haystack",
+      "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
+      "stars": 24648,
+      "source": "github"
+    },
+    {
+      "title": "neuml/txtai",
+      "url": "https://github.com/neuml/txtai",
+      "description": "💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+      "stars": 12351,
+      "source": "github"
+    },
+    {
+      "title": "hangwin/mcp-chrome",
+      "url": "https://github.com/hangwin/mcp-chrome",
+      "description": "Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.",
+      "stars": 11019,
+      "source": "github"
+    },
+    {
+      "title": "timescale/pgai",
+      "url": "https://github.com/timescale/pgai",
+      "description": "A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL",
+      "stars": 5771,
+      "source": "github"
+    },
+    {
+      "title": "openrecall/openrecall",
+      "url": "https://github.com/openrecall/openrecall",
+      "description": "OpenRecall is a fully open-source, privacy-first alternative to proprietary solutions like Microsoft's Windows Recall. With OpenRecall, you can easily access your digital history, enhancing your memory and productivity without compromising your privacy.",
+      "stars": 2796,
+      "source": "github"
+    },
+    {
+      "title": "freedmand/semantra",
+      "url": "https://github.com/freedmand/semantra",
+      "description": "Multi-tool for semantic search",
+      "stars": 2704,
+      "source": "github"
+    },
+    {
+      "title": "weggli-rs/weggli",
+      "url": "https://github.com/weggli-rs/weggli",
+      "description": "weggli is a fast and robust semantic search tool for C and C++ codebases. It is designed to help security researchers identify interesting functionality in large codebases.",
+      "stars": 2485,
+      "source": "github"
+    },
+    {
+      "title": "glowingjade/obsidian-smart-composer",
+      "url": "https://github.com/glowingjade/obsidian-smart-composer",
+      "description": "AI chat assistant for Obsidian with contextual awareness, smart writing assistance, and one-click edits. Features vault-aware conversations, semantic search, and local model support.",
+      "stars": 2188,
+      "source": "github"
+    },
+    {
+      "title": "chn-lee-yumi/MaterialSearch",
+      "url": "https://github.com/chn-lee-yumi/MaterialSearch",
+      "description": "Semantic search. Search local photos and videos through natural language. AI语义搜索本地素材。以图搜图、查找本地素材、根据文字描述匹配画面、视频帧搜索、根据画面描述搜索视频。",
+      "stars": 1843,
+      "source": "github"
+    },
+    {
+      "title": "run-llama/semtools",
+      "url": "https://github.com/run-llama/semtools",
+      "description": "Semantic search and document parsing tools for the command line",
+      "stars": 1763,
+      "source": "github"
+    },
+    {
+      "title": "ForLoopCodes/contextplus",
+      "url": "https://github.com/ForLoopCodes/contextplus",
+      "description": "Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining RAG, Tree-sitter AST, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph.",
+      "stars": 1696,
+      "source": "github"
+    },
+    {
+      "title": "parruda/swarm",
+      "url": "https://github.com/parruda/swarm",
+      "description": "Ruby gems for general-purpose AI agent systems: automation, research, data processing, customer support, content creation. SwarmSDK provides single-process orchestration, persistent memory with semantic   search, node workflows, and hooks. SwarmMemory/SwarmCLI included. Claude Swarm v1 for dev teams.",
+      "stars": 1688,
+      "source": "github"
+    },
+    {
+      "title": "BeaconBay/ck",
+      "url": "https://github.com/BeaconBay/ck",
+      "description": "Local first semantic and hybrid BM25 grep / search tool for use by AI and humans! ",
+      "stars": 1542,
+      "source": "github"
+    },
+    {
+      "title": "yoanbernabeu/grepai",
+      "url": "https://github.com/yoanbernabeu/grepai",
+      "description": "Semantic Search & Call Graphs for AI Agents (100% Local)",
+      "stars": 1539,
+      "source": "github"
+    },
+    {
+      "title": "kantord/SeaGOAT",
+      "url": "https://github.com/kantord/SeaGOAT",
+      "description": "local-first semantic code search engine",
+      "stars": 1279,
+      "source": "github"
+    },
+    {
+      "title": "zanllp/infinite-image-browsing",
+      "url": "https://github.com/zanllp/infinite-image-browsing",
+      "description": "A full-featured image/video management app with AI-powered organization and semantic search. Supports metadata from  SD-webui, ComfyUI, Fooocus, NovelAI, StableSwarmUI, and more. Available as standalone app, SD-webui extension, or library.",
+      "stars": 1276,
+      "source": "github"
+    },
+    {
+      "title": "gnes-ai/gnes",
+      "url": "https://github.com/gnes-ai/gnes",
+      "description": "GNES is Generic Neural Elastic Search, a cloud-native semantic search system based on deep neural network. ",
+      "stars": 1266,
+      "source": "github"
+    },
+    {
+      "title": "IliasHad/edit-mind",
+      "url": "https://github.com/IliasHad/edit-mind",
+      "description": "Local-first AI video intelligence platform. Index your video library with multi-modal analysis (YOLO, DeepFace, Whisper), search semantically via natural language, Docker-ready.",
+      "stars": 1261,
+      "source": "github"
+    },
+    {
+      "title": "Open-Source-Legal/OpenContracts",
+      "url": "https://github.com/Open-Source-Legal/OpenContracts",
+      "description": "Humans and AI agents, building knowledge bases together. Self-hosted document annotation, version control, semantic search, and MCP.",
+      "stars": 1252,
+      "source": "github"
+    },
+    {
+      "title": "opensemanticsearch/open-semantic-search",
+      "url": "https://github.com/opensemanticsearch/open-semantic-search",
+      "description": "Open Source research tool to search, browse, analyze and explore large document collections by Semantic Search Engine and Open Source Text Mining & Text Analytics platform (Integrates ETL for document processing, OCR for images & PDF, named entity recognition for persons, organizations & locations, metadata management by thesaurus & ontologies, search user interface & search apps for fulltext search, faceted search & knowledge graph)",
+      "stars": 1161,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.303,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.165,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

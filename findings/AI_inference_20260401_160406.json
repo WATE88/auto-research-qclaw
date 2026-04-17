@@ -1,0 +1,174 @@
+{
+  "topic": "AI inference",
+  "timestamp": "2026-04-01T16:04:06.224322",
+  "findings": [
+    {
+      "title": "hpcaitech/ColossalAI",
+      "url": "https://github.com/hpcaitech/ColossalAI",
+      "description": "Making large AI models cheaper, faster and more accessible",
+      "stars": 41372,
+      "source": "github"
+    },
+    {
+      "title": "meta-llama/llama-cookbook",
+      "url": "https://github.com/meta-llama/llama-cookbook",
+      "description": "Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services  ",
+      "stars": 18271,
+      "source": "github"
+    },
+    {
+      "title": "cheahjs/free-llm-api-resources",
+      "url": "https://github.com/cheahjs/free-llm-api-resources",
+      "description": "A list of free LLM inference resources accessible via API.",
+      "stars": 17605,
+      "source": "github"
+    },
+    {
+      "title": "stas00/ml-engineering",
+      "url": "https://github.com/stas00/ml-engineering",
+      "description": "Machine Learning Engineering Open Book",
+      "stars": 17588,
+      "source": "github"
+    },
+    {
+      "title": "alibaba/MNN",
+      "url": "https://github.com/alibaba/MNN",
+      "description": "MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI.",
+      "stars": 14715,
+      "source": "github"
+    },
+    {
+      "title": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "stars": 14631,
+      "source": "github"
+    },
+    {
+      "title": "ubicloud/ubicloud",
+      "url": "https://github.com/ubicloud/ubicloud",
+      "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",
+      "stars": 11980,
+      "source": "github"
+    },
+    {
+      "title": "RunanywhereAI/runanywhere-sdks",
+      "url": "https://github.com/RunanywhereAI/runanywhere-sdks",
+      "description": "Production ready toolkit to run AI locally",
+      "stars": 10358,
+      "source": "github"
+    },
+    {
+      "title": "openvinotoolkit/openvino",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "stars": 9987,
+      "source": "github"
+    },
+    {
+      "title": "deepseek-ai/3FS",
+      "url": "https://github.com/deepseek-ai/3FS",
+      "description": " A high-performance distributed file system designed to address the challenges of AI training and inference workloads. ",
+      "stars": 9785,
+      "source": "github"
+    },
+    {
+      "title": "dusty-nv/jetson-inference",
+      "url": "https://github.com/dusty-nv/jetson-inference",
+      "description": "Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.",
+      "stars": 8785,
+      "source": "github"
+    },
+    {
+      "title": "bentoml/BentoML",
+      "url": "https://github.com/bentoml/BentoML",
+      "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!",
+      "stars": 8551,
+      "source": "github"
+    },
+    {
+      "title": "Trusted-AI/adversarial-robustness-toolbox",
+      "url": "https://github.com/Trusted-AI/adversarial-robustness-toolbox",
+      "description": "Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams",
+      "stars": 5907,
+      "source": "github"
+    },
+    {
+      "title": "aidlearning/AidLearning-FrameWork",
+      "url": "https://github.com/aidlearning/AidLearning-FrameWork",
+      "description": "🔥🔥🔥AidLearning is a powerful AIOT development platform, AidLearning builds a linux env supporting GUI, deep learning and visual IDE on Android...Now Aid supports CPU+GPU+NPU for inference with high performance acceleration...Linux on Android or HarmonyOS ",
+      "stars": 5755,
+      "source": "github"
+    },
+    {
+      "title": "leejet/stable-diffusion.cpp",
+      "url": "https://github.com/leejet/stable-diffusion.cpp",
+      "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
+      "stars": 5654,
+      "source": "github"
+    },
+    {
+      "title": "winfunc/deepreasoning",
+      "url": "https://github.com/winfunc/deepreasoning",
+      "description": "A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models.",
+      "stars": 5367,
+      "source": "github"
+    },
+    {
+      "title": "OpenCSGs/csghub",
+      "url": "https://github.com/OpenCSGs/csghub",
+      "description": "CSGHub is a brand-new open-source platform for managing LLMs, developed by the OpenCSG team. It offers both open-source and on-premise/SaaS solutions, with features comparable to Hugging Face. Gain full control over the lifecycle of LLMs, datasets, and agents, with Python SDK compatibility with Hugging Face. Join us! ⭐️",
+      "stars": 5357,
+      "source": "github"
+    },
+    {
+      "title": "kserve/kserve",
+      "url": "https://github.com/kserve/kserve",
+      "description": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
+      "stars": 5281,
+      "source": "github"
+    },
+    {
+      "title": "superduper-io/superduper",
+      "url": "https://github.com/superduper-io/superduper",
+      "description": "Superduper: End-to-end framework for building custom AI applications and agents.",
+      "stars": 5266,
+      "source": "github"
+    },
+    {
+      "title": "kvcache-ai/Mooncake",
+      "url": "https://github.com/kvcache-ai/Mooncake",
+      "description": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.",
+      "stars": 5019,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.375,
+    "grade": "D",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.275,
+      "diversity": 0.0,
+      "usability": 0.2,
+      "applicability": 0.2,
+      "coverage": 1.0,
+      "ndcg": 0.563,
+      "map": 0.8,
+      "mrr": 1.0,
+      "rouge_1": 0.625,
+      "semantic_sim": 0.216,
+      "coherence": 0.181,
+      "task_completion": 0.599,
+      "tool_use": 0.107,
+      "reasoning_depth": 0.14,
+      "autonomy": 0.0,
+      "multi_agent": 0.03
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

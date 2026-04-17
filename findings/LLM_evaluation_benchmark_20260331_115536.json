@@ -1,0 +1,183 @@
+{
+  "topic": "LLM evaluation benchmark",
+  "timestamp": "2026-03-31T11:55:36.889660",
+  "findings": [
+    {
+      "title": "openai/evals",
+      "url": "https://github.com/openai/evals",
+      "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
+      "stars": 18102,
+      "updated_at": "2026-03-30T20:57:33Z",
+      "source": "github"
+    },
+    {
+      "title": "open-compass/opencompass",
+      "url": "https://github.com/open-compass/opencompass",
+      "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.",
+      "stars": 6812,
+      "updated_at": "2026-03-31T02:52:38Z",
+      "source": "github"
+    },
+    {
+      "title": "open-compass/VLMEvalKit",
+      "url": "https://github.com/open-compass/VLMEvalKit",
+      "description": "Open-source evaluation toolkit of large multi-modality models (LMMs), support 220+ LMMs, 80+ benchmarks",
+      "stars": 3974,
+      "updated_at": "2026-03-31T03:23:25Z",
+      "source": "github"
+    },
+    {
+      "title": "Tencent/AI-Infra-Guard",
+      "url": "https://github.com/Tencent/AI-Infra-Guard",
+      "description": "A full-stack AI Red Teaming platform securing AI ecosystems via OpenClaw Security Scan, Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
+      "stars": 3362,
+      "updated_at": "2026-03-31T01:18:44Z",
+      "source": "github"
+    },
+    {
+      "title": "THUDM/AgentBench",
+      "url": "https://github.com/THUDM/AgentBench",
+      "description": "A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24)",
+      "stars": 3277,
+      "updated_at": "2026-03-31T03:20:31Z",
+      "source": "github"
+    },
+    {
+      "title": "FreedomIntelligence/LLMZoo",
+      "url": "https://github.com/FreedomIntelligence/LLMZoo",
+      "description": "⚡LLM Zoo is a project that provides data, models, and evaluation benchmark for large language models.⚡",
+      "stars": 2953,
+      "updated_at": "2026-03-30T15:49:32Z",
+      "source": "github"
+    },
+    {
+      "title": "modelscope/evalscope",
+      "url": "https://github.com/modelscope/evalscope",
+      "description": "A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking.",
+      "stars": 2577,
+      "updated_at": "2026-03-31T03:28:21Z",
+      "source": "github"
+    },
+    {
+      "title": "beir-cellar/beir",
+      "url": "https://github.com/beir-cellar/beir",
+      "description": "A Heterogeneous Benchmark for Information Retrieval. Easy to use, evaluate your models across 15+ diverse IR datasets.",
+      "stars": 2129,
+      "updated_at": "2026-03-30T17:46:38Z",
+      "source": "github"
+    },
+    {
+      "title": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling",
+      "url": "https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling",
+      "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
+      "stars": 1950,
+      "updated_at": "2026-03-31T03:13:05Z",
+      "source": "github"
+    },
+    {
+      "title": "evalplus/evalplus",
+      "url": "https://github.com/evalplus/evalplus",
+      "description": "Rigourous evaluation of LLM-synthesized code - NeurIPS 2023 & COLM 2024",
+      "stars": 1706,
+      "updated_at": "2026-03-30T21:03:39Z",
+      "source": "github"
+    },
+    {
+      "title": "MLGroupJLU/LLM-eval-survey",
+      "url": "https://github.com/MLGroupJLU/LLM-eval-survey",
+      "description": "The official GitHub page for the survey paper \"A Survey on Evaluation of Large Language Models\".",
+      "stars": 1592,
+      "updated_at": "2026-03-29T02:48:00Z",
+      "source": "github"
+    },
+    {
+      "title": "mbzuai-oryx/Video-ChatGPT",
+      "url": "https://github.com/mbzuai-oryx/Video-ChatGPT",
+      "description": "[ACL 2024 🔥] Video-ChatGPT is a video conversation model capable of generating meaningful conversation about videos. It combines the capabilities of LLMs with a pretrained visual encoder adapted for spatiotemporal video representation. We also introduce a rigorous 'Quantitative Evaluation Benchmarking' for video-based conversational models.",
+      "stars": 1498,
+      "updated_at": "2026-03-23T07:48:55Z",
+      "source": "github"
+    },
+    {
+      "title": "OpenGenerativeAI/llm-colosseum",
+      "url": "https://github.com/OpenGenerativeAI/llm-colosseum",
+      "description": "Benchmark LLMs by fighting in Street Fighter 3! The new way to evaluate the quality of an LLM",
+      "stars": 1475,
+      "updated_at": "2026-03-30T17:44:43Z",
+      "source": "github"
+    },
+    {
+      "title": "Barca0412/Introduction-to-Quantitative-Finance",
+      "url": "https://github.com/Barca0412/Introduction-to-Quantitative-Finance",
+      "description": "入门资料整理：1.多因子股票量化框架开源教程 2.学界和业界的经典资料收录 3.AI + 金融的相关工作，包括LLM, Agent, benchmark(evaluation), etc.",
+      "stars": 1291,
+      "updated_at": "2026-03-30T09:40:33Z",
+      "source": "github"
+    },
+    {
+      "title": "Tencent/AICGSecEval",
+      "url": "https://github.com/Tencent/AICGSecEval",
+      "description": "A.S.E (AICGSecEval) is a repository-level AI-generated code security evaluation benchmark developed by Tencent Wukong Code Security Team.",
+      "stars": 1150,
+      "updated_at": "2026-03-31T02:02:17Z",
+      "source": "github"
+    },
+    {
+      "title": "carlini/yet-another-applied-llm-benchmark",
+      "url": "https://github.com/carlini/yet-another-applied-llm-benchmark",
+      "description": "A benchmark to evaluate language models on questions I've previously asked them to solve.",
+      "stars": 1049,
+      "updated_at": "2026-03-15T19:55:25Z",
+      "source": "github"
+    },
+    {
+      "title": "ScalingIntelligence/KernelBench",
+      "url": "https://github.com/ScalingIntelligence/KernelBench",
+      "description": "KernelBench: Can LLMs Write GPU Kernels? - Benchmark + Toolkit with Torch -> CUDA (+ more DSLs)",
+      "stars": 891,
+      "updated_at": "2026-03-30T23:49:39Z",
+      "source": "github"
+    },
+    {
+      "title": "pinchbench/skill",
+      "url": "https://github.com/pinchbench/skill",
+      "description": "PinchBench is a benchmarking system for evaluating LLM models as OpenClaw coding agents. Made with 🦀 by the humans at https://kilo.ai",
+      "stars": 864,
+      "updated_at": "2026-03-31T03:07:51Z",
+      "source": "github"
+    },
+    {
+      "title": "The-FinAI/PIXIU",
+      "url": "https://github.com/The-FinAI/PIXIU",
+      "description": "This repository introduces PIXIU, an open-source resource featuring the first financial large language models (LLMs), instruction tuning data, and evaluation benchmarks to holistically assess financial LLMs. Our goal is to continually push forward the open-source development of financial artificial intelligence (AI).",
+      "stars": 843,
+      "updated_at": "2026-03-31T03:24:39Z",
+      "source": "github"
+    },
+    {
+      "title": "MME-Benchmarks/Video-MME",
+      "url": "https://github.com/MME-Benchmarks/Video-MME",
+      "description": "✨✨[CVPR 2025] Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis",
+      "stars": 741,
+      "updated_at": "2026-03-30T03:37:37Z",
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.575,
+    "grade": "B",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.8,
+      "star_power": 0.161,
+      "diversity": 0.0,
+      "usability": 0.1,
+      "applicability": 0.975,
+      "coverage": 1.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

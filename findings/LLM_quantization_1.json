@@ -1,0 +1,271 @@
+{
+  "topic": "LLM quantization",
+  "round": 1,
+  "timestamp": "2026-03-27T16:12:15.101580",
+  "findings": [
+    {
+      "title": "hiyouga/LlamaFactory",
+      "url": "https://github.com/hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars": 69140,
+      "source": "github"
+    },
+    {
+      "title": "ymcui/Chinese-LLaMA-Alpaca",
+      "url": "https://github.com/ymcui/Chinese-LLaMA-Alpaca",
+      "description": "中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)",
+      "stars": 18964,
+      "source": "github"
+    },
+    {
+      "title": "artidoro/qlora",
+      "url": "https://github.com/artidoro/qlora",
+      "description": "QLoRA: Efficient Finetuning of Quantized LLMs",
+      "stars": 10862,
+      "source": "github"
+    },
+    {
+      "title": "bitsandbytes-foundation/bitsandbytes",
+      "url": "https://github.com/bitsandbytes-foundation/bitsandbytes",
+      "description": "Accessible large language models via k-bit quantization for PyTorch.",
+      "stars": 8083,
+      "source": "github"
+    },
+    {
+      "title": "AutoGPTQ/AutoGPTQ",
+      "url": "https://github.com/AutoGPTQ/AutoGPTQ",
+      "description": "An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm.",
+      "stars": 5039,
+      "source": "github"
+    },
+    {
+      "title": "mit-han-lab/llm-awq",
+      "url": "https://github.com/mit-han-lab/llm-awq",
+      "description": "[MLSys 2024 Best Paper Award] AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration",
+      "stars": 3480,
+      "source": "github"
+    },
+    {
+      "title": "thu-ml/SageAttention",
+      "url": "https://github.com/thu-ml/SageAttention",
+      "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
+      "stars": 3254,
+      "source": "github"
+    },
+    {
+      "title": "vllm-project/llm-compressor",
+      "url": "https://github.com/vllm-project/llm-compressor",
+      "description": "Transformers-compatible library for applying various compression algorithms to LLMs for optimized deployment with vLLM",
+      "stars": 2937,
+      "source": "github"
+    },
+    {
+      "title": "stochasticai/xTuring",
+      "url": "https://github.com/stochasticai/xTuring",
+      "description": "Build, personalize and control your own LLMs. From data pre-processing to fine-tuning, xTuring provides an easy way to personalize open-source LLMs. Join our discord community: https://discord.gg/TgHXuSJEk6",
+      "stars": 2668,
+      "source": "github"
+    },
+    {
+      "title": "intel/neural-compressor",
+      "url": "https://github.com/intel/neural-compressor",
+      "description": "SOTA low-bit LLM quantization (INT8/FP8/MXFP8/INT4/MXFP4/NVFP4) & sparsity; leading model compression techniques on PyTorch, TensorFlow, and ONNX Runtime",
+      "stars": 2606,
+      "source": "github"
+    },
+    {
+      "title": "dvmazur/mixtral-offloading",
+      "url": "https://github.com/dvmazur/mixtral-offloading",
+      "description": "Run Mixtral-8x7B models in Colab or consumer desktops",
+      "stars": 2331,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "stars": 2248,
+      "source": "github"
+    },
+    {
+      "title": "adithya-s-k/AI-Engineering.academy",
+      "url": "https://github.com/adithya-s-k/AI-Engineering.academy",
+      "description": "Mastering Applied AI, One Concept at a Time ",
+      "stars": 2159,
+      "source": "github"
+    },
+    {
+      "title": "RWKV/rwkv.cpp",
+      "url": "https://github.com/RWKV/rwkv.cpp",
+      "description": "INT4/INT5/INT8 and FP16 inference on CPU for RWKV language model",
+      "stars": 1563,
+      "source": "github"
+    },
+    {
+      "title": "RightNow-AI/picolm",
+      "url": "https://github.com/RightNow-AI/picolm",
+      "description": "Run a 1-billion parameter LLM on a $10 board with 256MB RAM",
+      "stars": 1438,
+      "source": "github"
+    },
+    {
+      "title": "RahulSChand/gpu_poor",
+      "url": "https://github.com/RahulSChand/gpu_poor",
+      "description": "Calculate token/s & GPU memory requirement for any LLM.  Supports llama.cpp/ggml/bnb/QLoRA quantization",
+      "stars": 1397,
+      "source": "github"
+    },
+    {
+      "title": "Vahe1994/AQLM",
+      "url": "https://github.com/Vahe1994/AQLM",
+      "description": "Official Pytorch repository for Extreme Compression of Large Language Models via Additive Quantization https://arxiv.org/pdf/2401.06118.pdf and PV-Tuning: Beyond Straight-Through Estimation for Extreme LLM Compression https://arxiv.org/abs/2405.14852",
+      "stars": 1314,
+      "source": "github"
+    },
+    {
+      "title": "openvinotoolkit/nncf",
+      "url": "https://github.com/openvinotoolkit/nncf",
+      "description": "Neural Network Compression Framework for enhanced OpenVINO™ inference",
+      "stars": 1144,
+      "source": "github"
+    },
+    {
+      "title": "ModelCloud/GPTQModel",
+      "url": "https://github.com/ModelCloud/GPTQModel",
+      "description": "LLM model quantization (compression) toolkit with hw acceleration support for Nvidia CUDA, AMD ROCm, Intel XPU and Intel/AMD/Apple CPU via HF, vLLM, and SGLang.",
+      "stars": 1074,
+      "source": "github"
+    },
+    {
+      "title": "IST-DASLab/marlin",
+      "url": "https://github.com/IST-DASLab/marlin",
+      "description": "FP16xINT4 LLM inference kernel that can achieve near-ideal ~4x speedups up to medium batchsizes of 16-32 tokens.",
+      "stars": 1044,
+      "source": "github"
+    },
+    {
+      "title": "Training the Knowledge Base through Evidence Distillation and Write-Back Enrichment",
+      "url": "https://arxiv.org/abs/2603.25737v1",
+      "abstract": "The knowledge base in a retrieval-augmented generation (RAG) system is typically assembled once and never revised, even though the facts a query requires are often fragmented across documents and buri",
+      "source": "arxiv"
+    },
+    {
+      "title": "Anomalous thermoelectric Hall response of interacting 2D Dirac fermions",
+      "url": "https://arxiv.org/abs/2603.25705v1",
+      "abstract": "We study the anomalous thermoelectric Hall response of two-dimensional massive Dirac fermions to first order in the electron-electron interaction. We compute both the Nernst response to a Luttinger-ty",
+      "source": "arxiv"
+    },
+    {
+      "title": "S2D2: Fast Decoding for Diffusion LLMs via Training-Free Self-Speculation",
+      "url": "https://arxiv.org/abs/2603.25702v1",
+      "abstract": "Block-diffusion language models offer a promising path toward faster-than-autoregressive generation by combining block-wise autoregressive decoding with within-block parallel denoising. However, in th",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Kitchen Loop: User-Spec-Driven Development for a Self-Evolving Codebase",
+      "url": "https://arxiv.org/abs/2603.25697v1",
+      "abstract": "Code production is now a commodity; the bottleneck is knowing what to build and proving it works. We present the Kitchen Loop, a framework for autonomous, self-evolving software built on a unified tru",
+      "source": "arxiv"
+    },
+    {
+      "title": "Self-Improvement of Large Language Models: A Technical Overview and Future Outlook",
+      "url": "https://arxiv.org/abs/2603.25681v1",
+      "abstract": "As large language models (LLMs) continue to advance, improving them solely through human supervision is becoming increasingly costly and limited in scalability. As models approach human-level capabili",
+      "source": "arxiv"
+    },
+    {
+      "title": "Measuring What Matters -- or What's Convenient?: Robustness of LLM-Based Scoring Systems to Construct-Irrelevant Factors",
+      "url": "https://arxiv.org/abs/2603.25674v1",
+      "abstract": "Automated systems have been widely adopted across the educational testing industry for open-response assessment and essay scoring. These systems commonly achieve performance levels comparable to or su",
+      "source": "arxiv"
+    },
+    {
+      "title": "SHAPR: Operationalising Human-AI Collaborative Research Through Structured Knowledge Generation",
+      "url": "https://arxiv.org/abs/2603.25660v1",
+      "abstract": "SHAPR (Solo Human-Centred and AI-Assisted Practice) is a framework for research software development that integrates human-centred decision-making with AI-assisted capabilities. While prior work intro",
+      "source": "arxiv"
+    },
+    {
+      "title": "Beyond Via: Analysis and Estimation of the Impact of Large Language Models in Academic Papers",
+      "url": "https://arxiv.org/abs/2603.25638v1",
+      "abstract": "Through an analysis of arXiv papers, we report several shifts in word usage that are likely driven by large language models (LLMs) but have not previously received sufficient attention, such as the in",
+      "source": "arxiv"
+    },
+    {
+      "title": "Is Mathematical Problem-Solving Expertise in Large Language Models Associated with Assessment Performance?",
+      "url": "https://arxiv.org/abs/2603.25633v1",
+      "abstract": "Large Language Models (LLMs) are increasingly used in math education not only as problem solvers but also as assessors of learners' reasoning. However, it remains unclear whether stronger math problem",
+      "source": "arxiv"
+    },
+    {
+      "title": "PICon: A Multi-Turn Interrogation Framework for Evaluating Persona Agent Consistency",
+      "url": "https://arxiv.org/abs/2603.25620v1",
+      "abstract": "Large language model (LLM)-based persona agents are rapidly being adopted as scalable proxies for human participants across diverse domains. Yet there is no systematic method for verifying whether a p",
+      "source": "arxiv"
+    },
+    {
+      "title": "Demographic Fairness in Multimodal LLMs: A Benchmark of Gender and Ethnicity Bias in Face Verification",
+      "url": "https://arxiv.org/abs/2603.25613v1",
+      "abstract": "Multimodal Large Language Models (MLLMs) have recently been explored as face verification systems that determine whether two face images are of the same person. Unlike dedicated face recognition syste",
+      "source": "arxiv"
+    },
+    {
+      "title": "WKB for semiclassical operators: How to fly over caustics (and more)",
+      "url": "https://arxiv.org/abs/2603.25601v1",
+      "abstract": "The method initiated by Wentzel, Kramers, and Brillouin to find approximate solutions to the Schrödinger equation lies at the origin of the spectacular development of microlocal and semiclassical anal",
+      "source": "arxiv"
+    },
+    {
+      "title": "Particle method for a nonlinear multimarginal optimal transport problem",
+      "url": "https://arxiv.org/abs/2603.25584v1",
+      "abstract": "We study a nonlinear multimarginal optimal transport problem arising in risk management, where the objective is to maximize a spectral risk measure of the pushforward of a coupling by a cost function.",
+      "source": "arxiv"
+    },
+    {
+      "title": "Are LLMs Overkill for Databases?: A Study on the Finiteness of SQL",
+      "url": "https://arxiv.org/abs/2603.25568v1",
+      "abstract": "Translating natural language to SQL for data retrieval has become more accessible thanks to code generation LLMs. But how hard is it to generate SQL code? While databases can become unbounded in compl",
+      "source": "arxiv"
+    },
+    {
+      "title": "Revisiting On-Policy Distillation: Empirical Failure Modes and Simple Fixes",
+      "url": "https://arxiv.org/abs/2603.25562v1",
+      "abstract": "On-policy distillation (OPD) is appealing for large language model (LLM) post-training because it evaluates teacher feedback on student-generated rollouts rather than fixed teacher traces. In long-hor",
+      "source": "arxiv"
+    },
+    {
+      "title": "Voxtral TTS",
+      "url": "https://arxiv.org/abs/2603.25551v1",
+      "abstract": "We introduce Voxtral TTS, an expressive multilingual text-to-speech model that generates natural speech from as little as 3 seconds of reference audio. Voxtral TTS adopts a hybrid architecture that co",
+      "source": "arxiv"
+    },
+    {
+      "title": "Transverse force tomography inside a proton from Basis Light-front Quantization",
+      "url": "https://arxiv.org/abs/2603.25548v1",
+      "abstract": "The twist-3 transverse spin--dependent nucleon structure function $g_2$ arises in high-energy processes involving a transversely polarized nucleon. Its connection to quark--gluon correlations allows f",
+      "source": "arxiv"
+    },
+    {
+      "title": "Investigating the Fundamental Limit: A Feasibility Study of Hybrid-Neural Archival",
+      "url": "https://arxiv.org/abs/2603.25526v1",
+      "abstract": "Large Language Models (LLMs) possess a theoretical capability to model information density far beyond the limits of classical statistical methods (e.g., Lempel-Ziv). However, utilizing this capability",
+      "source": "arxiv"
+    },
+    {
+      "title": "An Experimental Comparison of the Most Popular Approaches to Fake News Detection",
+      "url": "https://arxiv.org/abs/2603.25501v1",
+      "abstract": "In recent years, fake news detection has received increasing attention in public debate and scientific research. Despite advances in detection techniques, the production and spread of false informatio",
+      "source": "arxiv"
+    },
+    {
+      "title": "Unveiling the Resilience of LLM-Enhanced Search Engines against Black-Hat SEO Manipulation",
+      "url": "https://arxiv.org/abs/2603.25500v1",
+      "abstract": "The emergence of Large Language Model-enhanced Search Engines (LLMSEs) has revolutionized information retrieval by integrating web-scale search capabilities with AI-powered summarization. While these ",
+      "source": "arxiv"
+    }
+  ],
+  "sources": [
+    "github",
+    "arxiv"
+  ]
+}

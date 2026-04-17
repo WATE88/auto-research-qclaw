@@ -1,0 +1,183 @@
+{
+  "topic": "AI research pipeline tool",
+  "timestamp": "2026-03-31T12:01:10.336139",
+  "findings": [
+    {
+      "title": "Haervwe/open-webui-tools",
+      "url": "https://github.com/Haervwe/open-webui-tools",
+      "description": "Open‑WebUI Tools is a modular toolkit designed to extend and enrich your Open WebUI instance, turning it into a powerful AI workstation. With a suite of over 15 specialized tools, function pipelines, and filters, this project supports academic research, agentic autonomy, multimodal creativity, workflows, and more",
+      "stars": 627,
+      "updated_at": "2026-03-30T16:14:58Z",
+      "source": "github"
+    },
+    {
+      "title": "hoangsonww/Agentic-AI-Pipeline",
+      "url": "https://github.com/hoangsonww/Agentic-AI-Pipeline",
+      "description": "🦾 A production‑ready research outreach AI agent that plans, discovers, reasons, uses tools, auto‑builds cited briefings, and drafts tailored emails with tool‑chaining, memory, tests, and turnkey Docker, AWS, Ansible & Terraform deploys. Bonus: An Agentic RAG System & a Coding Pipeline with multistep planning, self-critique, and autonomous agents.",
+      "stars": 52,
+      "updated_at": "2026-03-28T23:49:11Z",
+      "source": "github"
+    },
+    {
+      "title": "MaxiDonkey/SynkFlowAI",
+      "url": "https://github.com/MaxiDonkey/SynkFlowAI",
+      "description": "A proof-of-concept async pipeline framework in Delphi to demonstrate modern AI orchestration with Promises, streaming, and chained execution. Designed by a math researcher to demonstrate that modern, elegant AI architectures can emerge from non-mainstream tools.",
+      "stars": 15,
+      "updated_at": "2026-03-24T16:22:27Z",
+      "source": "github"
+    },
+    {
+      "title": "HamnaCh456/Historical_Figure_Storyteller",
+      "url": "https://github.com/HamnaCh456/Historical_Figure_Storyteller",
+      "description": "Historical Story Video Generator is a multi-agent AI pipeline that takes the name of a historical figure and language, generates an immersive video with subtitles and audio narration. Powered by CrewAI and Gemini, it uses tools like Deepgram, Serper, and MoviePy to research, write, narrate, and animate the story.",
+      "stars": 9,
+      "updated_at": "2026-01-15T14:18:24Z",
+      "source": "github"
+    },
+    {
+      "title": "jonradoff/paper-scout",
+      "url": "https://github.com/jonradoff/paper-scout",
+      "description": "Personal AI research paper ingestion and scoring pipeline with MCP tools for Claude",
+      "stars": 8,
+      "updated_at": "2026-03-17T10:31:16Z",
+      "source": "github"
+    },
+    {
+      "title": "CarinaSchoppe/PISMA-Literature-Review-Pipeline-Automation-Tool",
+      "url": "https://github.com/CarinaSchoppe/PISMA-Literature-Review-Pipeline-Automation-Tool",
+      "description": "AI-powered literature review tool that automatically searches academic databases, collects research papers, expands results via citation networks, and analyzes titles and abstracts for relevance. It ranks papers, downloads open-access PDFs, and generates structured datasets and summaries to support efficient systematic research.",
+      "stars": 6,
+      "updated_at": "2026-03-21T01:55:49Z",
+      "source": "github"
+    },
+    {
+      "title": "HimadeepRagiri/AI-ML-DataScience-Portfolio",
+      "url": "https://github.com/HimadeepRagiri/AI-ML-DataScience-Portfolio",
+      "description": "A self-taught AI/ML Engineer and Data Scientist showcase of 30+ production-ready and research projects in Machine Learning, Deep Learning, NLP, and MLOps. Built end-to-end pipelines, real-time systems, and deployable apps using tools like Docker, Kubernetes, Airflow, MLflow, TensorFlow, PyTorch, Hugging Face, and cloud platforms (GCP, AWS).",
+      "stars": 6,
+      "updated_at": "2026-01-11T20:02:16Z",
+      "source": "github"
+    },
+    {
+      "title": "vermava/awesomelist-ai-security",
+      "url": "https://github.com/vermava/awesomelist-ai-security",
+      "description": "awesomelist-ai-security is a curated, community-driven collection of resources focused on securing AI systems across their entire lifecycle — from models and data to agents, tools, pipelines, and production deployments. This list brings together research papers, frameworks, tools, standards, threat models, blogs, talks, and real-world case studies ",
+      "stars": 5,
+      "updated_at": "2026-02-22T09:36:49Z",
+      "source": "github"
+    },
+    {
+      "title": "ying-ge/tools-sharing",
+      "url": "https://github.com/ying-ge/tools-sharing",
+      "description": "A curated collection of AI-powered tools, notebooks, and pipelines created by FigureYa users to accelerate reproducible scientific research.",
+      "stars": 3,
+      "updated_at": "2025-12-01T03:04:17Z",
+      "source": "github"
+    },
+    {
+      "title": "gsaini/financial-research-analyst-agent",
+      "url": "https://github.com/gsaini/financial-research-analyst-agent",
+      "description": "The Financial Research Analyst Agent is a hierarchical multi-agent system that provides comprehensive stock analysis by coordinating 11 specialized AI agents, 20+ analysis tools, a RAG knowledge pipeline, and a multi-provider data layer — all accessible through a Streamlit web app, REST API, and CLI.",
+      "stars": 3,
+      "updated_at": "2026-03-30T11:48:18Z",
+      "source": "github"
+    },
+    {
+      "title": "Awais-Asghar/AI-Agents-From-Idea-to-Deployment",
+      "url": "https://github.com/Awais-Asghar/AI-Agents-From-Idea-to-Deployment",
+      "description": "A hands-on workshop template that demonstrates how to orchestrate CrewAI agents for planning, research, writing, and review workflows. The stack combines CrewAI with LangChain tools, a FAISS-backed Retrieval-Augmented Generation (RAG) pipeline, and a Streamlit frontend. ",
+      "stars": 2,
+      "updated_at": "2026-03-17T14:37:03Z",
+      "source": "github"
+    },
+    {
+      "title": "SohamNarsale/Research-Paper-Summarization-with-LlamaIndex-and-Mistral-AI",
+      "url": "https://github.com/SohamNarsale/Research-Paper-Summarization-with-LlamaIndex-and-Mistral-AI",
+      "description": "RAG based pipeline for automated research paper summarization using Llamaindex, Mistral AI, and Hugging Face embeddings. This tool parses and summarizes academic documents with customizable chunking and asynchronous tree-based summarization.",
+      "stars": 2,
+      "updated_at": "2025-09-18T21:45:11Z",
+      "source": "github"
+    },
+    {
+      "title": "N7MITA/Agentic-AI-for-Research",
+      "url": "https://github.com/N7MITA/Agentic-AI-for-Research",
+      "description": "An end-to-end automated academic research pipeline powered by Large Language Models (LLMs) and modular workflow automation using n8n. This tool is designed to assist students, researchers, and innovators by dramatically reducing the time and expertise required to generate high-quality research outputs.",
+      "stars": 2,
+      "updated_at": "2026-02-06T09:49:53Z",
+      "source": "github"
+    },
+    {
+      "title": "anusky95/FinAI",
+      "url": "https://github.com/anusky95/FinAI",
+      "description": "The ultimate hub for financial LLM research, datasets, benchmarks, RAG pipelines, and AI-driven trading resources. Curating the best finance-focused AI tools, models, and papers.",
+      "stars": 2,
+      "updated_at": "2025-11-06T01:18:04Z",
+      "source": "github"
+    },
+    {
+      "title": "ceugenia/ceugenia",
+      "url": "https://github.com/ceugenia/ceugenia",
+      "description": "Microbiologist & Computational Biologist bridging AI 🧠 & biology 🧫 | Rare-cell detection, scRNA-seq analysis, and interactive genomics tools. Creator of immune-chord and CIARA pipelines for cutting-edge bioinformatics research.",
+      "stars": 2,
+      "updated_at": "2025-12-12T15:54:14Z",
+      "source": "github"
+    },
+    {
+      "title": "Ramsi-K/dynamic-knowledge-graph-agents",
+      "url": "https://github.com/Ramsi-K/dynamic-knowledge-graph-agents",
+      "description": "A multi-agent pipeline built with the Google AI Developer Kit (ADK) for generating dynamic knowledge graphs. Includes research, ontology, and visualization agents, custom tools, and an extensible graph state architecture.",
+      "stars": 2,
+      "updated_at": "2025-12-05T08:35:52Z",
+      "source": "github"
+    },
+    {
+      "title": "ruapotato/VirtWorker",
+      "url": "https://github.com/ruapotato/VirtWorker",
+      "description": "VirtWorker is an advanced, modular framework designed for creating and managing complex workflows with Language Learning Models (LLMs). It serves as a powerful tool for developers, researchers, and AI enthusiasts who want to build sophisticated, AI-driven text processing and generation pipelines.",
+      "stars": 2,
+      "updated_at": "2024-08-28T15:22:31Z",
+      "source": "github"
+    },
+    {
+      "title": "poornachandra24/AI_Research_Tool",
+      "url": "https://github.com/poornachandra24/AI_Research_Tool",
+      "description": "Webscraping based RAG pipeline",
+      "stars": 1,
+      "updated_at": "2025-03-23T18:52:31Z",
+      "source": "github"
+    },
+    {
+      "title": "inkyubeytor/ai_ux_tools",
+      "url": "https://github.com/inkyubeytor/ai_ux_tools",
+      "description": "NLP pipeline for working with qualitative user research data.",
+      "stars": 1,
+      "updated_at": "2020-07-21T02:01:51Z",
+      "source": "github"
+    },
+    {
+      "title": "aravindvojjala/AI-Powered-News-Research-Tool",
+      "url": "https://github.com/aravindvojjala/AI-Powered-News-Research-Tool",
+      "description": "AI-powered News Research Tool using LangChain, HuggingFace embeddings, FAISS vector search, and Streamlit. Enables intelligent question answering from news articles using a Retrieval-Augmented Generation (RAG) pipeline. Fully Dockerized and production-ready.",
+      "stars": 1,
+      "updated_at": "2026-01-10T17:34:50Z",
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.429,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.05,
+      "star_power": 0.06,
+      "diversity": 0.0,
+      "usability": 0.2,
+      "applicability": 1.0,
+      "coverage": 1.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

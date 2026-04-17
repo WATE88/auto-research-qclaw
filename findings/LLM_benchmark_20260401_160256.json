@@ -1,0 +1,174 @@
+{
+  "topic": "LLM benchmark",
+  "timestamp": "2026-04-01T16:02:56.235598",
+  "findings": [
+    {
+      "title": "toon-format/toon",
+      "url": "https://github.com/toon-format/toon",
+      "description": "🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.",
+      "stars": 23601,
+      "source": "github"
+    },
+    {
+      "title": "openai/evals",
+      "url": "https://github.com/openai/evals",
+      "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
+      "stars": 18113,
+      "source": "github"
+    },
+    {
+      "title": "open-compass/opencompass",
+      "url": "https://github.com/open-compass/opencompass",
+      "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.",
+      "stars": 6820,
+      "source": "github"
+    },
+    {
+      "title": "jeinlee1991/chinese-llm-benchmark",
+      "url": "https://github.com/jeinlee1991/chinese-llm-benchmark",
+      "description": "ReLE评测：中文AI大模型能力评测（持续更新）：目前已囊括359个大模型，覆盖chatgpt、gpt-5.2、o4-mini、谷歌gemini-3-pro、Claude-4.6、文心ERNIE-X1.1、ERNIE-5.0、qwen3-max、qwen3.5-plus、百川、讯飞星火、商汤senseChat等商用模型， 以及step3.5-flash、kimi-k2.5、ernie4.5、MiniMax-M2.5、deepseek-v3.2、Qwen3.5、llama4、智谱GLM-5、GLM-4.7、LongCat、gemma3、mistral等开源大模型。不仅提供排行榜，也提供规模超200万的大模型缺陷库！方便广大社区研究分析、改进大模型。",
+      "stars": 5783,
+      "source": "github"
+    },
+    {
+      "title": "AgentOps-AI/agentops",
+      "url": "https://github.com/AgentOps-AI/agentops",
+      "description": "Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and CamelAI",
+      "stars": 5418,
+      "source": "github"
+    },
+    {
+      "title": "LearningCircuit/local-deep-research",
+      "url": "https://github.com/LearningCircuit/local-deep-research",
+      "description": "Local Deep Research achieves ~95% on SimpleQA benchmark (tested with GPT-4.1-mini). Supports local and cloud LLMs (Ollama, Google, Anthropic, ...). Searches 10+ sources - arXiv, PubMed, web, and your private documents. Everything Local & Encrypted.",
+      "stars": 4213,
+      "source": "github"
+    },
+    {
+      "title": "open-compass/VLMEvalKit",
+      "url": "https://github.com/open-compass/VLMEvalKit",
+      "description": "Open-source evaluation toolkit of large multi-modality models (LMMs), support 220+ LMMs, 80+ benchmarks",
+      "stars": 3979,
+      "source": "github"
+    },
+    {
+      "title": "Tencent/AI-Infra-Guard",
+      "url": "https://github.com/Tencent/AI-Infra-Guard",
+      "description": "A full-stack AI Red Teaming platform securing AI ecosystems via OpenClaw Security Scan, Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
+      "stars": 3371,
+      "source": "github"
+    },
+    {
+      "title": "THUDM/AgentBench",
+      "url": "https://github.com/THUDM/AgentBench",
+      "description": "A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24)",
+      "stars": 3288,
+      "source": "github"
+    },
+    {
+      "title": "FreedomIntelligence/LLMZoo",
+      "url": "https://github.com/FreedomIntelligence/LLMZoo",
+      "description": "⚡LLM Zoo is a project that provides data, models, and evaluation benchmark for large language models.⚡",
+      "stars": 2953,
+      "source": "github"
+    },
+    {
+      "title": "xlang-ai/OSWorld",
+      "url": "https://github.com/xlang-ai/OSWorld",
+      "description": "[NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+      "stars": 2724,
+      "source": "github"
+    },
+    {
+      "title": "FreedomIntelligence/Awesome-AI4Med",
+      "url": "https://github.com/FreedomIntelligence/Awesome-AI4Med",
+      "description": "A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥",
+      "stars": 2614,
+      "source": "github"
+    },
+    {
+      "title": "modelscope/evalscope",
+      "url": "https://github.com/modelscope/evalscope",
+      "description": "A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking.",
+      "stars": 2591,
+      "source": "github"
+    },
+    {
+      "title": "beir-cellar/beir",
+      "url": "https://github.com/beir-cellar/beir",
+      "description": "A Heterogeneous Benchmark for Information Retrieval. Easy to use, evaluate your models across 15+ diverse IR datasets.",
+      "stars": 2131,
+      "source": "github"
+    },
+    {
+      "title": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling",
+      "url": "https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling",
+      "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
+      "stars": 1953,
+      "source": "github"
+    },
+    {
+      "title": "XiongjieDai/GPU-Benchmarks-on-LLM-Inference",
+      "url": "https://github.com/XiongjieDai/GPU-Benchmarks-on-LLM-Inference",
+      "description": "Multiple NVIDIA GPUs or Apple Silicon for Large Language Model Inference?",
+      "stars": 1905,
+      "source": "github"
+    },
+    {
+      "title": "harbor-framework/terminal-bench",
+      "url": "https://github.com/harbor-framework/terminal-bench",
+      "description": "A benchmark for LLMs on complicated tasks in the terminal",
+      "stars": 1822,
+      "source": "github"
+    },
+    {
+      "title": "FireRedTeam/FireRedASR",
+      "url": "https://github.com/FireRedTeam/FireRedASR",
+      "description": "Open-source industrial-grade ASR models supporting Mandarin, Chinese dialects and English, achieving a new SOTA on public Mandarin ASR benchmarks, while also offering outstanding singing lyrics recognition capability.",
+      "stars": 1821,
+      "source": "github"
+    },
+    {
+      "title": "IntelLabs/fastRAG",
+      "url": "https://github.com/IntelLabs/fastRAG",
+      "description": "Efficient Retrieval Augmentation and Generation Framework",
+      "stars": 1773,
+      "source": "github"
+    },
+    {
+      "title": "evalplus/evalplus",
+      "url": "https://github.com/evalplus/evalplus",
+      "description": "Rigourous evaluation of LLM-synthesized code - NeurIPS 2023 & COLM 2024",
+      "stars": 1706,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.452,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.8,
+      "star_power": 0.209,
+      "diversity": 0.0,
+      "usability": 0.2,
+      "applicability": 0.925,
+      "coverage": 1.0,
+      "ndcg": 0.731,
+      "map": 0.945,
+      "mrr": 1.0,
+      "rouge_1": 0.35,
+      "semantic_sim": 0.117,
+      "coherence": 0.114,
+      "task_completion": 0.416,
+      "tool_use": 0.035,
+      "reasoning_depth": 0.03,
+      "autonomy": 0.05,
+      "multi_agent": 0.03
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

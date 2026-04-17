@@ -1,0 +1,159 @@
+{
+  "topic": "bitsandbytes quantization",
+  "timestamp": "2026-03-31T11:17:05.452150",
+  "findings": [
+    {
+      "title": "bitsandbytes-foundation/bitsandbytes",
+      "url": "https://github.com/bitsandbytes-foundation/bitsandbytes",
+      "description": "Accessible large language models via k-bit quantization for PyTorch.",
+      "stars": 8085,
+      "source": "github"
+    },
+    {
+      "title": "facebookresearch/bitsandbytes",
+      "url": "https://github.com/facebookresearch/bitsandbytes",
+      "description": "Library for 8-bit optimizers and quantization routines.",
+      "stars": 780,
+      "source": "github"
+    },
+    {
+      "title": "taprosoft/llm_finetuning",
+      "url": "https://github.com/taprosoft/llm_finetuning",
+      "description": "Convenient wrapper for fine-tuning and inference of Large Language Models (LLMs) with several quantization techniques (GTPQ, bitsandbytes)",
+      "stars": 145,
+      "source": "github"
+    },
+    {
+      "title": "EricRollei/Comfy_HunyuanImage3",
+      "url": "https://github.com/EricRollei/Comfy_HunyuanImage3",
+      "description": "Nodes to run Hunyuan Image 3 locally with BF16 and NF4 quantized options in Comfyui",
+      "stars": 45,
+      "source": "github"
+    },
+    {
+      "title": "aredden/torch-bnb-fp4",
+      "url": "https://github.com/aredden/torch-bnb-fp4",
+      "description": "Faster Pytorch bitsandbytes 4bit fp4 nn.Linear ops",
+      "stars": 30,
+      "source": "github"
+    },
+    {
+      "title": "shaheennabi/Production-Ready-Instruction-Finetuning-of-Meta-Llama-3.2-3B-Instruct-Project",
+      "url": "https://github.com/shaheennabi/Production-Ready-Instruction-Finetuning-of-Meta-Llama-3.2-3B-Instruct-Project",
+      "description": "Instruction Fine-Tuning of Meta Llama 3.2-3B Instruct on Kannada Conversations. Tailoring the model to follow specific instructions in Kannada, enhancing its ability to generate relevant, context-aware responses based on conversational inputs.  Using the Kannada Instruct dataset for fine-tuning! Happy Finetuning 🎋",
+      "stars": 24,
+      "source": "github"
+    },
+    {
+      "title": "Vitgracer/Offline-Voice-LLM-Assistant",
+      "url": "https://github.com/Vitgracer/Offline-Voice-LLM-Assistant",
+      "description": "Running small but capable language models entirely offline",
+      "stars": 12,
+      "source": "github"
+    },
+    {
+      "title": "LittleLittleCloud/TorchSharp.BitsAndBytes",
+      "url": "https://github.com/LittleLittleCloud/TorchSharp.BitsAndBytes",
+      "description": "Leverage BitsAndBytes 4Bit and 8Bit quantization for TorchSharp",
+      "stars": 9,
+      "source": "github"
+    },
+    {
+      "title": "mpsops/mps-bitsandbytes",
+      "url": "https://github.com/mpsops/mps-bitsandbytes",
+      "description": "8-bit quantization for PyTorch on Apple Silicon (M1/M2/M3/M4)",
+      "stars": 5,
+      "source": "github"
+    },
+    {
+      "title": "MohammadMaftoun/MultiModalRAG",
+      "url": "https://github.com/MohammadMaftoun/MultiModalRAG",
+      "description": "This project integrates a Retrieval-Augmented Generation (RAG) pipeline using LLaMA2 (quantized via BitsAndBytes) and OpenAI's CLIP for multimodal document understanding — including both text and images.",
+      "stars": 5,
+      "source": "github"
+    },
+    {
+      "title": "Abeshith/FineTuning_LanguageModels",
+      "url": "https://github.com/Abeshith/FineTuning_LanguageModels",
+      "description": "🎯 Fine-tune large language models and use them for text-related tasks. This repository provides a straightforward approach to fine-tuning models like Gemma, Llama 🦙, and Mistral 🌪️ for various NLP tasks. 🔧 It includes training 📚, fine-tuning 🛠️, and inference pipelines ⚙️. 🚀",
+      "stars": 5,
+      "source": "github"
+    },
+    {
+      "title": "KingdalfGoodman/Llama3.2-bitsandbytes-peft",
+      "url": "https://github.com/KingdalfGoodman/Llama3.2-bitsandbytes-peft",
+      "description": "Example: Training Llama-3.2-1B-Instruct with this framework using 4-bit quantization and LoRA (r=32)",
+      "stars": 4,
+      "source": "github"
+    },
+    {
+      "title": "bitsandbytes-foundation/bitsandbytes-intel",
+      "url": "https://github.com/bitsandbytes-foundation/bitsandbytes-intel",
+      "description": "An extension to enable performance acceleration for bitsandbytes on Intel platforms.",
+      "stars": 3,
+      "source": "github"
+    },
+    {
+      "title": "edcalderin/huggingface-ragflow",
+      "url": "https://github.com/edcalderin/huggingface-ragflow",
+      "description": "This project implements a classic Retrieval-Augmented Generation (RAG) system using HuggingFace models with quantization techniques. The system processes PDF documents, extracts their content, and enables interactive question-answering through a Streamlit web application.",
+      "stars": 3,
+      "source": "github"
+    },
+    {
+      "title": "arham-kk/llama2-qlora-sft",
+      "url": "https://github.com/arham-kk/llama2-qlora-sft",
+      "description": "This model is a fine-tuned model based on the \"TinyPixel/Llama-2-7B-bf16-sharded\" model and \"timdettmers/openassistant-guanaco\" dataset",
+      "stars": 3,
+      "source": "github"
+    },
+    {
+      "title": "agrawalpraveen12/Efficient-Phi3-FineTuning-PEFT",
+      "url": "https://github.com/agrawalpraveen12/Efficient-Phi3-FineTuning-PEFT",
+      "description": "End-to-end fine-tuning pipeline for Microsoft Phi-3-mini using LoRA (PEFT) and 4-bit quantization with bitsandbytes, featuring an interactive Streamlit chat interface for efficient local LLM deployment.",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "kalaiselvan-t/openvla-fr3",
+      "url": "https://github.com/kalaiselvan-t/openvla-fr3",
+      "description": "FR3 robot in Gazebo integrated with 4-bit quantized OpenVLA and MoveIt",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "AhmadShayan1112/Fine-Tuning-DeepSeek-R1-with-QLoRA",
+      "url": "https://github.com/AhmadShayan1112/Fine-Tuning-DeepSeek-R1-with-QLoRA",
+      "description": "Fine-tune DeepSeek R1 using QLoRA for efficient, low-resource training on GPUs like NVIDIA P100. Leverages Hugging Face, PEFT, and bitsandbytes for 4-bit quantized LoRA training with mixed precision. Includes model saving, evaluation, and custom dataset support.",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "lpalbou/model-quantizer",
+      "url": "https://github.com/lpalbou/model-quantizer",
+      "description": "Effortlessly quantize, benchmark, and publish Hugging Face models with cross-platform support for CPU/GPU. Reduce model size by 75% while maintaining performance.",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "leeroopedia/workflow-huggingface-diffusers-model-quantization",
+      "url": "https://github.com/leeroopedia/workflow-huggingface-diffusers-model-quantization",
+      "description": "Reduce diffusion model VRAM usage by 2-4x through multi-backend weight quantization (BitsAndBytes, TorchAO, Quanto, GGUF)",
+      "stars": 1,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.281,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.057,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "topic": "open source AI tools",
+  "timestamp": "2026-03-31T11:58:02.802506",
+  "findings": [
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "stars": 133751,
+      "updated_at": "2026-03-31T03:40:40Z",
+      "source": "github"
+    },
+    {
+      "title": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "stars": 54285,
+      "updated_at": "2026-03-31T03:57:31Z",
+      "source": "github"
+    },
+    {
+      "title": "ToolJet/ToolJet",
+      "url": "https://github.com/ToolJet/ToolJet",
+      "description": "ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "stars": 37692,
+      "updated_at": "2026-03-31T03:02:13Z",
+      "source": "github"
+    },
+    {
+      "title": "onlook-dev/onlook",
+      "url": "https://github.com/onlook-dev/onlook",
+      "description": "The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI",
+      "stars": 24985,
+      "updated_at": "2026-03-31T03:17:14Z",
+      "source": "github"
+    },
+    {
+      "title": "n8n-io/self-hosted-ai-starter-kit",
+      "url": "https://github.com/n8n-io/self-hosted-ai-starter-kit",
+      "description": "The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.",
+      "stars": 14494,
+      "updated_at": "2026-03-30T19:02:43Z",
+      "source": "github"
+    },
+    {
+      "title": "creativetimofficial/ui",
+      "url": "https://github.com/creativetimofficial/ui",
+      "description": "Open-source components, blocks, and AI agents designed to speed up your workflow. Import them seamlessly into your favorite tools through Registry and MCPs.",
+      "stars": 11788,
+      "updated_at": "2026-03-31T02:11:22Z",
+      "source": "github"
+    },
+    {
+      "title": "e2b-dev/E2B",
+      "url": "https://github.com/e2b-dev/E2B",
+      "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
+      "stars": 11509,
+      "updated_at": "2026-03-31T03:40:52Z",
+      "source": "github"
+    },
+    {
+      "title": "blinkospace/blinko",
+      "url": "https://github.com/blinkospace/blinko",
+      "description": "An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .",
+      "stars": 9929,
+      "updated_at": "2026-03-31T02:27:27Z",
+      "source": "github"
+    },
+    {
+      "title": "53AI/53AIHub",
+      "url": "https://github.com/53AI/53AIHub",
+      "description": "53AI Hub is an open-source AI portal, which enables you to quickly build a operational-level AI portal to launch and operate AI agents, prompts, and AI tools. It supports seamless integration with development platforms like Coze, Dify, FastGPT, RAGFlow.",
+      "stars": 8728,
+      "updated_at": "2026-03-31T02:24:29Z",
+      "source": "github"
+    },
+    {
+      "title": "coroot/coroot",
+      "url": "https://github.com/coroot/coroot",
+      "description": "Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and inspections.",
+      "stars": 7534,
+      "updated_at": "2026-03-30T18:25:38Z",
+      "source": "github"
+    },
+    {
+      "title": "modelscope/FunClip",
+      "url": "https://github.com/modelscope/FunClip",
+      "description": "Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated.",
+      "stars": 5435,
+      "updated_at": "2026-03-30T08:51:04Z",
+      "source": "github"
+    },
+    {
+      "title": "aipotheosis-labs/aci",
+      "url": "https://github.com/aipotheosis-labs/aci",
+      "description": "ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps.",
+      "stars": 4752,
+      "updated_at": "2026-03-30T14:21:26Z",
+      "source": "github"
+    },
+    {
+      "title": "SwanHubX/SwanLab",
+      "url": "https://github.com/SwanHubX/SwanLab",
+      "description": "⚡️SwanLab - an open-source, modern-design AI training tracking and visualization tool. Supports Cloud / Self-hosted use. Integrated with PyTorch / Transformers / verl / LLaMA Factory / ms-swift / Ultralytics / MMEngine / Keras etc.",
+      "stars": 3753,
+      "updated_at": "2026-03-31T03:25:30Z",
+      "source": "github"
+    },
+    {
+      "title": "microsoft/PyRIT",
+      "url": "https://github.com/microsoft/PyRIT",
+      "description": "The Python Risk Identification Tool for generative AI (PyRIT) is an open source framework built to empower security professionals and engineers to proactively identify risks in generative AI systems.",
+      "stars": 3644,
+      "updated_at": "2026-03-31T00:09:42Z",
+      "source": "github"
+    },
+    {
+      "title": "containers/ramalama",
+      "url": "https://github.com/containers/ramalama",
+      "description": "RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of containers.",
+      "stars": 2677,
+      "updated_at": "2026-03-30T20:01:29Z",
+      "source": "github"
+    },
+    {
+      "title": "moazbuilds/CodeMachine-CLI",
+      "url": "https://github.com/moazbuilds/CodeMachine-CLI",
+      "description": "CodeMachine is an open-source tool that orchestrates AI coding agents into repeatable, long-running workflows. ⚡️",
+      "stars": 2412,
+      "updated_at": "2026-03-31T00:43:15Z",
+      "source": "github"
+    },
+    {
+      "title": "6174/comflowyspace",
+      "url": "https://github.com/6174/comflowyspace",
+      "description": "Comflowyspace is an intuitive, user-friendly, open-source AI tool for generating images and videos, democratizing access to AI technology.",
+      "stars": 2357,
+      "updated_at": "2026-03-31T00:25:01Z",
+      "source": "github"
+    },
+    {
+      "title": "alvinunreal/awesome-opensource-ai",
+      "url": "https://github.com/alvinunreal/awesome-opensource-ai",
+      "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
+      "stars": 2070,
+      "updated_at": "2026-03-31T03:32:19Z",
+      "source": "github"
+    },
+    {
+      "title": "ZSeven-W/openpencil",
+      "url": "https://github.com/ZSeven-W/openpencil",
+      "description": "The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.",
+      "stars": 1900,
+      "updated_at": "2026-03-31T02:53:41Z",
+      "source": "github"
+    },
+    {
+      "title": "altryne/awesome-ai-art-image-synthesis",
+      "url": "https://github.com/altryne/awesome-ai-art-image-synthesis",
+      "description": "A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.",
+      "stars": 1790,
+      "updated_at": "2026-03-30T15:04:42Z",
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.429,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.129,
+      "diversity": 0.0,
+      "usability": 0.2,
+      "applicability": 1.0,
+      "coverage": 1.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

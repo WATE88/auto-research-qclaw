@@ -1,0 +1,174 @@
+{
+  "topic": "AI research pipeline automation",
+  "timestamp": "2026-03-31T12:56:39.931089",
+  "findings": [
+    {
+      "title": "ghostbyt3/nday-automation-ai",
+      "url": "https://github.com/ghostbyt3/nday-automation-ai",
+      "description": "This repository contains AI-generated analysis reports produced as part of an automated N-day research pipeline targeting Microsoft components. ",
+      "stars": 64,
+      "source": "github"
+    },
+    {
+      "title": "PPPPanda/contentPipe",
+      "url": "https://github.com/PPPPanda/contentPipe",
+      "description": "AI-powered content pipeline for WeChat Official Accounts (微信公众号). Scout → Research → Write → Direct → Format → Publish. Built on OpenClaw.",
+      "stars": 7,
+      "source": "github"
+    },
+    {
+      "title": "CarinaSchoppe/PISMA-Literature-Review-Pipeline-Automation-Tool",
+      "url": "https://github.com/CarinaSchoppe/PISMA-Literature-Review-Pipeline-Automation-Tool",
+      "description": "AI-powered literature review tool that automatically searches academic databases, collects research papers, expands results via citation networks, and analyzes titles and abstracts for relevance. It ranks papers, downloads open-access PDFs, and generates structured datasets and summaries to support efficient systematic research.",
+      "stars": 6,
+      "source": "github"
+    },
+    {
+      "title": "OnlineMo/DeepResearch-Archive",
+      "url": "https://github.com/OnlineMo/DeepResearch-Archive",
+      "description": "三分钟带你解析头版新闻 | This repository stores AI-generated research reports and the display scaffolding. Project A (the automation pipeline) generates reports and updates navigation. Project B focuses on content storage and consumption (read-only for humans).",
+      "stars": 4,
+      "source": "github"
+    },
+    {
+      "title": "fracabu/tube-forge-agents-team",
+      "url": "https://github.com/fracabu/tube-forge-agents-team",
+      "description": "Multi-agent AI system for YouTube content production. 6 specialized Claude Code agents automate the entire video pipeline from market research to publishing.",
+      "stars": 3,
+      "source": "github"
+    },
+    {
+      "title": "gil906/copilot-hive",
+      "url": "https://github.com/gil906/copilot-hive",
+      "description": "🐝 Autonomous AI Agent Swarm — 11 GitHub Copilot agents that research, develop, audit, and deploy improvements to production apps 24/7. Self-healing, version-verified, event-driven pipeline. 780+ ideas/day.",
+      "stars": 3,
+      "source": "github"
+    },
+    {
+      "title": "NullSecurity07/Newsletter-agent",
+      "url": "https://github.com/NullSecurity07/Newsletter-agent",
+      "description": "Automated newsletter pipeline using agentic AI. Topic research → content generation → formatting. Similar pattern to ScribbleFlow — shows a consistent \"local-first AI pipeline\" thesis.",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "N7MITA/Agentic-AI-for-Research",
+      "url": "https://github.com/N7MITA/Agentic-AI-for-Research",
+      "description": "An end-to-end automated academic research pipeline powered by Large Language Models (LLMs) and modular workflow automation using n8n. This tool is designed to assist students, researchers, and innovators by dramatically reducing the time and expertise required to generate high-quality research outputs.",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "AmritaPanjwani/Production-Ready-Multi-Agent-AI-Content-Automation-Engine",
+      "url": "https://github.com/AmritaPanjwani/Production-Ready-Multi-Agent-AI-Content-Automation-Engine",
+      "description": "A Production-ready Multi-Agent Pipeline that performs web research, builds narratives, repurposes content into multiple formats, and generates a complete deliverable package including a PowerPoint deck.",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "jensechterling/ai-research-assistant",
+      "url": "https://github.com/jensechterling/ai-research-assistant",
+      "description": "Automated RSS-to-Obsidian pipeline using Claude Code skills for articles, videos, and podcasts",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "zammaar/YouTube-AI-Automation-Pipeline",
+      "url": "https://github.com/zammaar/YouTube-AI-Automation-Pipeline",
+      "description": "Fully automated YouTube content creation pipeline powered by AI. Features topic research, script generation, voice synthesis, video assembly, thumbnail creation, and automated publishing. Built with Python, OpenAI, ElevenLabs, and YouTube APIs.",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "hfahrudin/automation-labs",
+      "url": "https://github.com/hfahrudin/automation-labs",
+      "description": "Collection of Deploy-Ready AI/ML Projects (Agentic, CV, Data Pipeline) & Research Implementations.",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "sivasaiyadav8143/ai-research-digest",
+      "url": "https://github.com/sivasaiyadav8143/ai-research-digest",
+      "description": "An autonomous AI pipeline that fetches the latest research papers from arXiv and HuggingFace Papers, ranks them by relevance, summarises them in plain English using Llama 3.1 8B via Groq, and delivers a beautiful HTML newsletter to any inbox — daily or on demand.",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "enriqueherbertag-lgtm/deepseek-research-tools",
+      "url": "https://github.com/enriqueherbertag-lgtm/deepseek-research-tools",
+      "description": "Open-source Python tools for AI-assisted scientific research using DeepSeek models. Includes paper analysis pipeline, research workflow automation, and applied examples in neuropharmacology (NeuroFarmac project). Designed for researchers, academics, and developers working with DeepSeek AI.",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "yavru421/APT_algebraic_pipeline_theory",
+      "url": "https://github.com/yavru421/APT_algebraic_pipeline_theory",
+      "description": "APT is a novel methodology for designing and executing complex workflows, pipelines, and applications. It leverages algebraic equations to define the order of operations, variable dependencies, and execution flow, aiming for modularity, scalability, and flexibility across domains such as AI, automation, and scientific research.",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "KEITH-GJINO/MARA",
+      "url": "https://github.com/KEITH-GJINO/MARA",
+      "description": "MARA (Marketing Agent Runtime Architecture) is an open-source Python framework for building and deploying autonomous AI marketing agents. Chain specialized agents into intelligent pipelines for competitor research, audience analysis, content strategy, and campaign optimization with persistent memory and human-in-the-loop controls.",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "RoboFinSystems/robosystems-content-machine",
+      "url": "https://github.com/RoboFinSystems/robosystems-content-machine",
+      "description": "Automated video content pipeline for financial analysis. Combines AI-generated content with production automation to turn SEC filings into narrated videos, podcasts, and social posts.  Uses Claude Cowork + RoboSystems MCP for research, then HeyGen, ElevenLabs, and Shotstack for production.",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "anas-farooq8/verpakkingenxl",
+      "url": "https://github.com/anas-farooq8/verpakkingenxl",
+      "description": "AI-powered B2B lead qualification system that automatically captures Lightspeed orders, researches companies using Google Gemini, scores leads 0-10, and syncs qualified prospects to Pipedrive CRM. Built with n8n workflows for complete automation from order to sales pipeline.",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "drumilharsola/YTAutomate",
+      "url": "https://github.com/drumilharsola/YTAutomate",
+      "description": "AI-powered YouTube automation pipeline - multi-agent system (LangGraph) that researches trends, writes scripts, generates voiceover (Kokoro TTS / ElevenLabs), animates avatars, sources B-roll, adds captions (WhisperX) and BGM (MusicGen), compiles the final video (FFmpeg), and uploads to YouTube - FastAPI backend + Next.js dashboard.",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "jarvis24pro-A01/jarvis-research-pipeline",
+      "url": "https://github.com/jarvis24pro-A01/jarvis-research-pipeline",
+      "description": "Research automation with NotebookLM, Playwright & Gemini AI",
+      "stars": 0,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.452,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.085,
+      "diversity": 0.0,
+      "usability": 0.1,
+      "applicability": 1.0,
+      "coverage": 1.0,
+      "ndcg": 0.775,
+      "map": 1.0,
+      "mrr": 1.0,
+      "rouge_1": 0.725,
+      "semantic_sim": 0.287,
+      "coherence": 0.109,
+      "task_completion": 0.576,
+      "tool_use": 0.203,
+      "reasoning_depth": 0.037,
+      "autonomy": 0.388,
+      "multi_agent": 0.045
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

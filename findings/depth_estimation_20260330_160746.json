@@ -1,0 +1,159 @@
+{
+  "topic": "depth estimation",
+  "timestamp": "2026-03-30T16:07:46.980913",
+  "findings": [
+    {
+      "title": "LiheYoung/Depth-Anything",
+      "url": "https://github.com/LiheYoung/Depth-Anything",
+      "description": "[CVPR 2024] Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation",
+      "stars": 8053,
+      "source": "github"
+    },
+    {
+      "title": "DepthAnything/Depth-Anything-V2",
+      "url": "https://github.com/DepthAnything/Depth-Anything-V2",
+      "description": "[NeurIPS 2024] Depth Anything V2. A More Capable Foundation Model for Monocular Depth Estimation",
+      "stars": 7811,
+      "source": "github"
+    },
+    {
+      "title": "isl-org/MiDaS",
+      "url": "https://github.com/isl-org/MiDaS",
+      "description": "Code for robust monocular depth estimation described in \"Ranftl et. al., Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-shot Cross-dataset Transfer, TPAMI 2022\"",
+      "stars": 5355,
+      "source": "github"
+    },
+    {
+      "title": "nianticlabs/monodepth2",
+      "url": "https://github.com/nianticlabs/monodepth2",
+      "description": "[ICCV 2019] Monocular depth estimation from a single image",
+      "stars": 4467,
+      "source": "github"
+    },
+    {
+      "title": "prs-eth/Marigold",
+      "url": "https://github.com/prs-eth/Marigold",
+      "description": "[CVPR 2024 - Oral, Best Paper Award Candidate] Marigold: Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation",
+      "stars": 3107,
+      "source": "github"
+    },
+    {
+      "title": "isl-org/ZoeDepth",
+      "url": "https://github.com/isl-org/ZoeDepth",
+      "description": "Metric depth estimation from a single image",
+      "stars": 2808,
+      "source": "github"
+    },
+    {
+      "title": "tinghuiz/SfMLearner",
+      "url": "https://github.com/tinghuiz/SfMLearner",
+      "description": "An unsupervised learning framework for depth and ego-motion estimation from monocular videos",
+      "stars": 2015,
+      "source": "github"
+    },
+    {
+      "title": "DepthAnything/Video-Depth-Anything",
+      "url": "https://github.com/DepthAnything/Video-Depth-Anything",
+      "description": "[CVPR 2025 Highlight] Video Depth Anything: Consistent Depth Estimation for Super-Long Videos",
+      "stars": 1826,
+      "source": "github"
+    },
+    {
+      "title": "ialhashim/DenseDepth",
+      "url": "https://github.com/ialhashim/DenseDepth",
+      "description": "High Quality Monocular Depth Estimation via Transfer Learning",
+      "stars": 1607,
+      "source": "github"
+    },
+    {
+      "title": "autonomousvision/unimatch",
+      "url": "https://github.com/autonomousvision/unimatch",
+      "description": "[TPAMI'23] Unifying Flow, Stereo and Depth Estimation",
+      "stars": 1362,
+      "source": "github"
+    },
+    {
+      "title": "TRI-ML/packnet-sfm",
+      "url": "https://github.com/TRI-ML/packnet-sfm",
+      "description": "TRI-ML Monocular Depth Estimation Repository",
+      "stars": 1275,
+      "source": "github"
+    },
+    {
+      "title": "lpiccinelli-eth/UniDepth",
+      "url": "https://github.com/lpiccinelli-eth/UniDepth",
+      "description": "Universal Monocular Metric Depth Estimation",
+      "stars": 1151,
+      "source": "github"
+    },
+    {
+      "title": "aim-uofa/AdelaiDepth",
+      "url": "https://github.com/aim-uofa/AdelaiDepth",
+      "description": "This repo contains the projects: 'Virtual Normal', 'DiverseDepth', and '3D Scene Shape'. They aim to solve the monocular depth estimation, 3D scene reconstruction from single image problems. ",
+      "stars": 1108,
+      "source": "github"
+    },
+    {
+      "title": "Vincentqyw/Recent-Stars-2025",
+      "url": "https://github.com/Vincentqyw/Recent-Stars-2025",
+      "description": "🔥SLAM, VIsual localization, keypoint detection, Image matching, Pose/Object tracking, Depth/Disparity/Flow Estimation, 3D-graphic, etc. related papers and code",
+      "stars": 1045,
+      "source": "github"
+    },
+    {
+      "title": "zhyever/PatchFusion",
+      "url": "https://github.com/zhyever/PatchFusion",
+      "description": "[CVPR 2024] An End-to-End Tile-Based Framework for High-Resolution Monocular Metric Depth Estimation",
+      "stars": 1022,
+      "source": "github"
+    },
+    {
+      "title": "dwofk/fast-depth",
+      "url": "https://github.com/dwofk/fast-depth",
+      "description": "ICRA 2019 \"FastDepth: Fast Monocular Depth Estimation on Embedded Systems\"",
+      "stars": 1004,
+      "source": "github"
+    },
+    {
+      "title": "mileyan/pseudo_lidar",
+      "url": "https://github.com/mileyan/pseudo_lidar",
+      "description": "(CVPR 2019) Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving",
+      "stars": 1001,
+      "source": "github"
+    },
+    {
+      "title": "zhyever/Monocular-Depth-Estimation-Toolbox",
+      "url": "https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox",
+      "description": "Monocular Depth Estimation Toolbox based on MMSegmentation.",
+      "stars": 968,
+      "source": "github"
+    },
+    {
+      "title": "zju3dv/InfiniDepth",
+      "url": "https://github.com/zju3dv/InfiniDepth",
+      "description": "[CVPR 2026] InfiniDepth: Arbitrary-Resolution and Fine-Grained Depth Estimation with Neural Implicit Fields",
+      "stars": 858,
+      "source": "github"
+    },
+    {
+      "title": "shariqfarooq123/AdaBins",
+      "url": "https://github.com/shariqfarooq123/AdaBins",
+      "description": "Official implementation of Adabins: Depth Estimation using adaptive bins",
+      "stars": 784,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.33,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.302,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

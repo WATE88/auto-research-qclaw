@@ -1,0 +1,174 @@
+{
+  "topic": "AI agent code generation",
+  "timestamp": "2026-04-01T16:18:33.836730",
+  "findings": [
+    {
+      "title": "SamurAIGPT/Generative-Media-Skills",
+      "url": "https://github.com/SamurAIGPT/Generative-Media-Skills",
+      "description": "Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI). High-quality image, video, and audio generation powered by muapi.ai.",
+      "stars": 2981,
+      "source": "github"
+    },
+    {
+      "title": "bgauryy/octocode-mcp",
+      "url": "https://github.com/bgauryy/octocode-mcp",
+      "description": "MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codebase/s into AI-optimized knowledge on simple and complex flows | Find real implementations and live docs from anywhere",
+      "stars": 767,
+      "source": "github"
+    },
+    {
+      "title": "GCWing/BitFun",
+      "url": "https://github.com/GCWing/BitFun",
+      "description": "BitFun is a next-generation AI assistant with built-in Code Agent and Cowork Agent. It has memory, personality, and the ability to evolve over time. You can remotely control the desktop through mobile QR pairing or Telegram / Feishu bots, send instructions, and watch each execution step in real time while the Agent keeps working in the background.",
+      "stars": 543,
+      "source": "github"
+    },
+    {
+      "title": "project-codeguard/rules",
+      "url": "https://github.com/project-codeguard/rules",
+      "description": "Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance.",
+      "stars": 399,
+      "source": "github"
+    },
+    {
+      "title": "modelence/modelence",
+      "url": "https://github.com/modelence/modelence",
+      "description": "Modelence is a full-stack framework for building production web apps with a built-in database, authentication and monitoring. Modelence is opinionated and AI agent-first, which means it's optimized for AI code generation with built-in guardrails.",
+      "stars": 385,
+      "source": "github"
+    },
+    {
+      "title": "Xthebuilder/JRVS",
+      "url": "https://github.com/Xthebuilder/JRVS",
+      "description": "JRVS AI Agent with JARCORE autonomous coding engine - RAG knowledge base, web   scraping, calendar, code generation. Powered by whatever local AI you choose.",
+      "stars": 236,
+      "source": "github"
+    },
+    {
+      "title": "NVlabs/sage",
+      "url": "https://github.com/NVlabs/sage",
+      "description": "Official Code Release of SAGE: Scalable Agentic 3D Scene Generation for Embodied AI",
+      "stars": 232,
+      "source": "github"
+    },
+    {
+      "title": "kyaukyuai/gpt-all-star",
+      "url": "https://github.com/kyaukyuai/gpt-all-star",
+      "description": "🤖 AI-powered code generation tool for scratch development of web applications with a team collaboration of autonomous AI agents.",
+      "stars": 224,
+      "source": "github"
+    },
+    {
+      "title": "AIGNE-io/aigne-doc-smith",
+      "url": "https://github.com/AIGNE-io/aigne-doc-smith",
+      "description": "AIGNE DocSmith is a powerful, AI-driven documentation generation tool built on the AIGNE Framework. It automates the creation of detailed, structured, and multi-language documentation directly from your source code.",
+      "stars": 157,
+      "source": "github"
+    },
+    {
+      "title": "zubair-trabzada/ai-legal-claude",
+      "url": "https://github.com/zubair-trabzada/ai-legal-claude",
+      "description": "AI Legal Assistant skill for Claude Code. Contract review, risk analysis, NDA generation, compliance auditing, negotiation strategy, and PDF reports — 14 skills, 5 parallel agents. If you want to learn how to sell this to real businesses, check out the Skool community",
+      "stars": 127,
+      "source": "github"
+    },
+    {
+      "title": "answerlink/MCP-Workspace-Server",
+      "url": "https://github.com/answerlink/MCP-Workspace-Server",
+      "description": "🚀 Beyond Filesystem - Complete AI Development Environment - One MCP Server provides full Agent capability stack: web development, code execution, data processing, image generation. No need for multiple tools, configure once. Perfect support for Dify, FastGPT, Cherry Studio.       文件操作、Python/Node.js 代码执行、Web 应用一键部署（支持泛域名）、Excel 处理、图像生成。开箱即用",
+      "stars": 125,
+      "source": "github"
+    },
+    {
+      "title": "markusgrotz/peract_bimanual",
+      "url": "https://github.com/markusgrotz/peract_bimanual",
+      "description": "Code for PerAct², a language-conditioned imitation learning agent designed for bimanual robotic manipulation using the RLBench environment. It includes dataset generation, training scripts, and evaluation tools for 6-DoF control of two robot arms across complex tasks.",
+      "stars": 119,
+      "source": "github"
+    },
+    {
+      "title": "civai-technologies/cursor-agent",
+      "url": "https://github.com/civai-technologies/cursor-agent",
+      "description": "Cursor Agent Tools - A Python-based AI agent that replicates Cursor's coding assistant capabilities, enabling function calling, code generation, and intelligent coding assistance with Claude, OpenAI, and locally hosted Ollama models.",
+      "stars": 113,
+      "source": "github"
+    },
+    {
+      "title": "osovv/grace-marketplace",
+      "url": "https://github.com/osovv/grace-marketplace",
+      "description": " GRACE (Graph-RAG Anchored Code Engineering): open Agent Skills for contract-driven AI code generation with semantic markup, knowledge graphs, and support for Claude   Code, Codex CLI, and Kilo Code.",
+      "stars": 91,
+      "source": "github"
+    },
+    {
+      "title": "tempurai/coder",
+      "url": "https://github.com/tempurai/coder",
+      "description": "🚀 Next-generation AI code assistant with Multi Agent methodology",
+      "stars": 87,
+      "source": "github"
+    },
+    {
+      "title": "anis-marrouchi/shadxn",
+      "url": "https://github.com/anis-marrouchi/shadxn",
+      "description": " Experimenting with AI our way into the unknown — monorepo: agentx (agentic code generation engine) + shadxn (component registry & transforms)",
+      "stars": 85,
+      "source": "github"
+    },
+    {
+      "title": "l3yx/intentlang",
+      "url": "https://github.com/l3yx/intentlang",
+      "description": "The next-generation AI Agent framework driven by Intent Engineering. Move beyond turn-based Function Calling to embrace code-level intent expression and embedded execution.                         An AI-Native, Intent-Oriented Programming Language built on Python.",
+      "stars": 79,
+      "source": "github"
+    },
+    {
+      "title": "devill/refakts",
+      "url": "https://github.com/devill/refakts",
+      "description": "RefakTS is a TypeScript refactoring tool built by AI coding agents for AI coding agents. It allows them to perform precise refactoring operations via command line instead of error prone text generation.",
+      "stars": 64,
+      "source": "github"
+    },
+    {
+      "title": "aspenkit/aspens",
+      "url": "https://github.com/aspenkit/aspens",
+      "description": "Generate AI-ready documentation for any codebase. Import graph analysis, parallel agentic discovery, skill generation for Claude Code.",
+      "stars": 57,
+      "source": "github"
+    },
+    {
+      "title": "attilaszasz/sdd-pilot",
+      "url": "https://github.com/attilaszasz/sdd-pilot",
+      "description": "Replace chaotic AI code generation with a disciplined, spec-driven workflow. SDD Pilot enforces structured development phases and quality gates, leveraging AI agents to conduct online research for best practices and plan your architecture before a single line of code is written.",
+      "stars": 55,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.474,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.116,
+      "diversity": 0.0,
+      "usability": 0.3,
+      "applicability": 1.0,
+      "coverage": 1.0,
+      "ndcg": 0.787,
+      "map": 1.0,
+      "mrr": 1.0,
+      "rouge_1": 0.825,
+      "semantic_sim": 0.349,
+      "coherence": 0.134,
+      "task_completion": 0.65,
+      "tool_use": 0.15,
+      "reasoning_depth": 0.073,
+      "autonomy": 0.1,
+      "multi_agent": 0.045
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

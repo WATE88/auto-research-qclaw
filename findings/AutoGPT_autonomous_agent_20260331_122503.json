@@ -1,0 +1,174 @@
+{
+  "topic": "AutoGPT autonomous agent",
+  "timestamp": "2026-03-31T12:25:03.607607",
+  "findings": [
+    {
+      "title": "reworkd/AgentGPT",
+      "url": "https://github.com/reworkd/AgentGPT",
+      "description": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.",
+      "stars": 35910,
+      "source": "github"
+    },
+    {
+      "title": "e2b-dev/awesome-ai-agents",
+      "url": "https://github.com/e2b-dev/awesome-ai-agents",
+      "description": "A list of AI autonomous agents",
+      "stars": 26962,
+      "source": "github"
+    },
+    {
+      "title": "ElricLiu/AutoGPT-Next-Web",
+      "url": "https://github.com/ElricLiu/AutoGPT-Next-Web",
+      "description": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用",
+      "stars": 3012,
+      "source": "github"
+    },
+    {
+      "title": "IntelligenzaArtificiale/Free-Auto-GPT",
+      "url": "https://github.com/IntelligenzaArtificiale/Free-Auto-GPT",
+      "description": "Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not rely on any paid OpenAI API, making it accessible to anyone. ",
+      "stars": 2543,
+      "source": "github"
+    },
+    {
+      "title": "idosal/AgentLLM",
+      "url": "https://github.com/idosal/AgentLLM",
+      "description": "AgentLLM is a PoC for browser-native autonomous agents",
+      "stars": 460,
+      "source": "github"
+    },
+    {
+      "title": "ScarletPan/awesome-autonomous-gpt",
+      "url": "https://github.com/ScarletPan/awesome-autonomous-gpt",
+      "description": "A curated list of awesome projects and resources related to autonomous AI agents.",
+      "stars": 284,
+      "source": "github"
+    },
+    {
+      "title": "edmar/whenx",
+      "url": "https://github.com/edmar/whenx",
+      "description": "Event-Driven Autonomous Agents. create alerts in the form of \"When X happens, then do Y\". In this initial version, we are only supporting email alerts in the form of \"When X happens, send me an email report\".",
+      "stars": 53,
+      "source": "github"
+    },
+    {
+      "title": "jbesomi/awesome-autonomous-agents",
+      "url": "https://github.com/jbesomi/awesome-autonomous-agents",
+      "description": "Curated list of tools, frameworks and resources to work with autonomous agents (autoGPT)",
+      "stars": 41,
+      "source": "github"
+    },
+    {
+      "title": "Curated-Awesome-Lists/Awesome-Auto-GPT",
+      "url": "https://github.com/Curated-Awesome-Lists/Awesome-Auto-GPT",
+      "description": "A curated list of awesome projects related to AutoGPT, an autonomous AI agent that can perform tasks independently using ChatGPT.",
+      "stars": 41,
+      "source": "github"
+    },
+    {
+      "title": "alexk1919/MackGPT",
+      "url": "https://github.com/alexk1919/MackGPT",
+      "description": "Create, customize, and launch autonomous AI Agents in your browser. 🤖🚀",
+      "stars": 29,
+      "source": "github"
+    },
+    {
+      "title": "iskandarreza/ai-worker-js",
+      "url": "https://github.com/iskandarreza/ai-worker-js",
+      "description": "Implementation of autonomous AI agent(s) in JS using Webworkers",
+      "stars": 9,
+      "source": "github"
+    },
+    {
+      "title": "fredsiika/gpt-vector-agent",
+      "url": "https://github.com/fredsiika/gpt-vector-agent",
+      "description": "🧩 Interfacing with different LLMs-chains, vectorstore databases, and autonomous agents.",
+      "stars": 8,
+      "source": "github"
+    },
+    {
+      "title": "iskandarreza/loopgpt-next",
+      "url": "https://github.com/iskandarreza/loopgpt-next",
+      "description": "UI frontend for loopgpt self-prompting autonomous AI agent, to aid in debugging initial prompts ",
+      "stars": 7,
+      "source": "github"
+    },
+    {
+      "title": "Eric-LLMs/LLMs-Lab",
+      "url": "https://github.com/Eric-LLMs/LLMs-Lab",
+      "description": "Full-stack LLM Engineering Lab. Features: Autonomous Agents (ReAct/AutoGPT) | Fine-Tuning Llama/Mistral (SFT/DPO) | Large Model Deployment (DeepSeek 671B / 2.5-bit) | Advanced RAG (Hybrid Search) | Function Calling (Stream/Text-to-SQL/External APIs) | Frameworks (LangChain, Semantic Kernel, OpenAI) | Daily SOTA Paper Tracking. From theory to 0-to-1",
+      "stars": 6,
+      "source": "github"
+    },
+    {
+      "title": "web007-spec/AutoGPT-Next-Web",
+      "url": "https://github.com/web007-spec/AutoGPT-Next-Web",
+      "description": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.",
+      "stars": 4,
+      "source": "github"
+    },
+    {
+      "title": "SpyderRex/SquadAI",
+      "url": "https://github.com/SpyderRex/SquadAI",
+      "description": "An autonomous agent program based on crewAI and seeks to be a cross between crewAI and AutoGPT",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "RhythrosaLabs/otto-mate-2",
+      "url": "https://github.com/RhythrosaLabs/otto-mate-2",
+      "description": "Ottomate — your universal AI agent workbench. Give it a goal — it plans, codes, browses, and delivers autonomously. 190+ connectors, advanced multimedia creative suite, browser automation, visual pipelines, 200+ skills, cron task scheduler, and more",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "ChhunT17/Autonomous-AI-Agent",
+      "url": "https://github.com/ChhunT17/Autonomous-AI-Agent",
+      "description": "🤖 Monitor $BTB on Twitter, engage with the community, and provide real-time information using AI-powered responses for BTB Finance.",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "UdayTeja21/Autogpt",
+      "url": "https://github.com/UdayTeja21/Autogpt",
+      "description": "AutoGPT is an AI-powered automation system that can independently plan, reason, and execute tasks with minimal human input. It integrates large language models with real-world tools (APIs, web automation, file operations, workflows) to create a fully autonomous agent capable of solving complex tasks.",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "GravityZenAI/AI-Bastion",
+      "url": "https://github.com/GravityZenAI/AI-Bastion",
+      "description": "8-Layer Security Blueprint for Autonomous AI Agents. Defense-in-depth for OpenClaw, LangChain, CrewAI, AutoGPT, and any AI agent on Linux.",
+      "stars": 1,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.433,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.05,
+      "star_power": 0.097,
+      "diversity": 0.0,
+      "usability": 0.1,
+      "applicability": 1.0,
+      "coverage": 1.0,
+      "ndcg": 0.722,
+      "map": 1.0,
+      "mrr": 1.0,
+      "rouge_1": 0.533,
+      "semantic_sim": 0.215,
+      "coherence": 0.134,
+      "task_completion": 0.479,
+      "tool_use": 0.182,
+      "reasoning_depth": 0.067,
+      "autonomy": 0.55,
+      "multi_agent": 0.03
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

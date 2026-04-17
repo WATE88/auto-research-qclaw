@@ -1,0 +1,174 @@
+{
+  "topic": "AI agent multi-step",
+  "timestamp": "2026-04-01T16:07:17.943561",
+  "findings": [
+    {
+      "title": "SolaceLabs/solace-agent-mesh",
+      "url": "https://github.com/SolaceLabs/solace-agent-mesh",
+      "description": "An event-driven framework designed to build and orchestrate multi-agent AI systems. It enables seamless integration of AI agents with real-world data sources and systems, facilitating complex, multi-step workflows.",
+      "stars": 2675,
+      "source": "github"
+    },
+    {
+      "title": "ntegrals/10x",
+      "url": "https://github.com/ntegrals/10x",
+      "description": "⚡️ 10x - Up to 20x faster AI coding with multi-step Superpowers. Open-source agent with smart model routing, BYOK, fully self-hosted.",
+      "stars": 1425,
+      "source": "github"
+    },
+    {
+      "title": "strands-agents/agent-sop",
+      "url": "https://github.com/strands-agents/agent-sop",
+      "description": "Natural language workflows that enable AI agents to perform complex, multi-step tasks with consistency and reliability.",
+      "stars": 863,
+      "source": "github"
+    },
+    {
+      "title": "abshkbh/arrakis",
+      "url": "https://github.com/abshkbh/arrakis",
+      "description": "A fully customizable and self-hosted sandboxing solution for AI agent code execution and computer use. It features out-of-the-box support for backtracking, a simple REST API and Python SDK, automatic port forwarding, and secure MicroVM isolation. Perfect for safely running, testing, and backtracking multi-step agent workflows.",
+      "stars": 792,
+      "source": "github"
+    },
+    {
+      "title": "graniet/llm",
+      "url": "https://github.com/graniet/llm",
+      "description": "A powerful Rust library and CLI tool to unify and orchestrate multiple LLM, Agent and voice backends (OpenAI, Claude, Gemini, Ollama, ElevenLabs...) with a single, extensible API. Build, chain, evaluate, and serve complex multi-step AI workflows — including speech-to-text, text-to-speech, completions, vision, and reasoning.",
+      "stars": 332,
+      "source": "github"
+    },
+    {
+      "title": "eliranwong/toolmate",
+      "url": "https://github.com/eliranwong/toolmate",
+      "description": "ToolMate AI, developed by Eliran Wong, is a cutting-edge AI companion that seamlessly integrates agents, tools, and plugins to excel in conversations, generative work, and task execution. Supports custom workflow and plugins to automate multi-step actions.",
+      "stars": 175,
+      "source": "github"
+    },
+    {
+      "title": "akj2018/Multi-AI-Agent-Systems-with-crewAI",
+      "url": "https://github.com/akj2018/Multi-AI-Agent-Systems-with-crewAI",
+      "description": "Automate complex business workflows with our Multi-AI-Agent Systems using crewAI. This framework leverages autonomous, role-specific AI agents to collaboratively perform multi-step tasks, enhancing efficiency and accuracy across various domains. Ideal for applications in resume tailoring, website design, research, customer support, and more.",
+      "stars": 160,
+      "source": "github"
+    },
+    {
+      "title": "ksm26/Multi-AI-Agent-Systems-with-crewAI",
+      "url": "https://github.com/ksm26/Multi-AI-Agent-Systems-with-crewAI",
+      "description": "Master the art of designing and organizing AI agents. Learn to automate complex, multi-step business processes by creating specialized AI agent teams using the open-source library crewAI.",
+      "stars": 152,
+      "source": "github"
+    },
+    {
+      "title": "Altaflux/agent-mimir",
+      "url": "https://github.com/Altaflux/agent-mimir",
+      "description": "a Discord / Command Line chat client and \"agent\" manager for LLM's like Chat-GPT that provides the models with access to tooling and a framework with which accomplish multi-step tasks.",
+      "stars": 113,
+      "source": "github"
+    },
+    {
+      "title": "mr-karan/hodor",
+      "url": "https://github.com/mr-karan/hodor",
+      "description": "Agentic code reviewer for GitHub PRs and GitLab MRs. Multi-step reasoning with autonomous tool orchestration — catches bugs requiring analysis across files.",
+      "stars": 94,
+      "source": "github"
+    },
+    {
+      "title": "smogili1/circuit",
+      "url": "https://github.com/smogili1/circuit",
+      "description": "Drag-and-drop agent workflow builder for orchestrating AI agents. Build multi-step pipelines to run Claude Code and OpenAI Codex, featuring real-time streaming, reference interpolation, and flexible control flow.",
+      "stars": 58,
+      "source": "github"
+    },
+    {
+      "title": "Cerno-AI/Cerno-Agentic-Local-Deep-Research",
+      "url": "https://github.com/Cerno-AI/Cerno-Agentic-Local-Deep-Research",
+      "description": "Cerno is a local-first research platform that leverages agentic AI to break down complex queries into verifiable, multi-step workflows. Switch seamlessly between cloud LLMs and self-hosted models, track every reasoning step, and optimize cost and tokens—all while keeping your data on your machine.",
+      "stars": 38,
+      "source": "github"
+    },
+    {
+      "title": "Momoyu404/geminese",
+      "url": "https://github.com/Momoyu404/geminese",
+      "description": "geminese is an Obsidian plugin that embeds Gemini CLI as an AI collaborator in your vault. Your vault becomes Gemini's working directory, giving it full agentic capabilities: file read/write, search, bash commands, and multi-step workflows.",
+      "stars": 36,
+      "source": "github"
+    },
+    {
+      "title": "aws-solutions-library-samples/guidance-for-multi-agent-orchestration-agent-squad-on-aws",
+      "url": "https://github.com/aws-solutions-library-samples/guidance-for-multi-agent-orchestration-agent-squad-on-aws",
+      "description": "This Guidance demonstrates how to effectively orchestrate multiple specialized AI agents to solve complex customer support challenges through different coordination mechanisms on AWS. Modern customer service environments demand sophisticated handling of multi-step interactions, personalized responses, and seamless access to various data sources.",
+      "stars": 33,
+      "source": "github"
+    },
+    {
+      "title": "Manoj7ar/Prism",
+      "url": "https://github.com/Manoj7ar/Prism",
+      "description": "Prism is a windows desktop ai agent built with electron and a fastapi backend, powered by the google-gemini-3-api. it can understand what is on your screen, plan multi step actions.",
+      "stars": 31,
+      "source": "github"
+    },
+    {
+      "title": "cyanheads/workflows-mcp-server",
+      "url": "https://github.com/cyanheads/workflows-mcp-server",
+      "description": "Model Context Protocol server that enables AI agents to discover, create, and execute complex, multi-step workflows defined in simple YAML files. Allow your AI agents to better organize their tool usage and provide a more structured way to handle complex multi-step tasks.",
+      "stars": 29,
+      "source": "github"
+    },
+    {
+      "title": "hayowei/aisandboxgame",
+      "url": "https://github.com/hayowei/aisandboxgame",
+      "description": "AI Sandbox Game: A highly customizable, local-first text RPG driven by LLMs. Create world cards, configure multi-step AI agents, and play with zero backend.",
+      "stars": 24,
+      "source": "github"
+    },
+    {
+      "title": "pensarai/argus-validation-benchmarks",
+      "url": "https://github.com/pensarai/argus-validation-benchmarks",
+      "description": "60 self-contained, Dockerized vulnerable web applications for evaluating AI-powered penetration testing   agents. Covers modern tech stacks (Node.js, Python, Go, Java, PHP, Ruby) across diverse vulnerability   classes from basic injection to multi-step exploit chains.",
+      "stars": 21,
+      "source": "github"
+    },
+    {
+      "title": "glassBead-tc/agent-playbooks",
+      "url": "https://github.com/glassBead-tc/agent-playbooks",
+      "description": "playbooks for AI agents. makes life easier by helping your agent complete common multi-step tasks autonomously.",
+      "stars": 19,
+      "source": "github"
+    },
+    {
+      "title": "nullclaw/nullboiler",
+      "url": "https://github.com/nullclaw/nullboiler",
+      "description": "Orchestrates multi-step AI agent workflows — defines execution graphs, manages shared state, dispatches work to agents, and tracks progress with checkpoints and streaming",
+      "stars": 19,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.516,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.05,
+      "star_power": 0.133,
+      "diversity": 0.0,
+      "usability": 0.3,
+      "applicability": 1.0,
+      "coverage": 1.0,
+      "ndcg": 0.838,
+      "map": 1.0,
+      "mrr": 1.0,
+      "rouge_1": 0.863,
+      "semantic_sim": 0.329,
+      "coherence": 0.119,
+      "task_completion": 0.737,
+      "tool_use": 0.232,
+      "reasoning_depth": 0.197,
+      "autonomy": 0.2,
+      "multi_agent": 0.2
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

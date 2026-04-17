@@ -1,0 +1,159 @@
+{
+  "topic": "vLLM inference",
+  "timestamp": "2026-03-30T12:59:06.179297",
+  "findings": [
+    {
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "stars": 74668,
+      "source": "github"
+    },
+    {
+      "title": "meta-llama/llama-cookbook",
+      "url": "https://github.com/meta-llama/llama-cookbook",
+      "description": "Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services  ",
+      "stars": 18266,
+      "source": "github"
+    },
+    {
+      "title": "GeeeekExplorer/nano-vllm",
+      "url": "https://github.com/GeeeekExplorer/nano-vllm",
+      "description": "Nano vLLM",
+      "stars": 12506,
+      "source": "github"
+    },
+    {
+      "title": "xorbitsai/inference",
+      "url": "https://github.com/xorbitsai/inference",
+      "description": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.",
+      "stars": 9181,
+      "source": "github"
+    },
+    {
+      "title": "intel/ipex-llm",
+      "url": "https://github.com/intel/ipex-llm",
+      "description": "Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, DeepSeek, Mixtral, Gemma, Phi, MiniCPM, Qwen-VL, MiniCPM-V, etc.) on Intel XPU (e.g., local PC with iGPU and NPU, discrete GPU such as Arc, Flex and Max); seamlessly integrate with llama.cpp, Ollama, HuggingFace, LangChain, LlamaIndex, vLLM, DeepSpeed, Axolotl, etc.",
+      "stars": 8737,
+      "source": "github"
+    },
+    {
+      "title": "LMCache/LMCache",
+      "url": "https://github.com/LMCache/LMCache",
+      "description": "Supercharge Your LLM with the Fastest KV Cache Layer",
+      "stars": 7777,
+      "source": "github"
+    },
+    {
+      "title": "kserve/kserve",
+      "url": "https://github.com/kserve/kserve",
+      "description": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
+      "stars": 5275,
+      "source": "github"
+    },
+    {
+      "title": "xlite-dev/Awesome-LLM-Inference",
+      "url": "https://github.com/xlite-dev/Awesome-LLM-Inference",
+      "description": "📚A curated list of Awesome LLM/VLM Inference Papers with Codes: Flash-Attention, Paged-Attention, WINT8/4, Parallelism, etc.🎉",
+      "stars": 5098,
+      "source": "github"
+    },
+    {
+      "title": "kvcache-ai/Mooncake",
+      "url": "https://github.com/kvcache-ai/Mooncake",
+      "description": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.",
+      "stars": 5006,
+      "source": "github"
+    },
+    {
+      "title": "tencentmusic/cube-studio",
+      "url": "https://github.com/tencentmusic/cube-studio",
+      "description": "cube studio开源云原生一站式机器学习/深度学习/大模型AI平台，mlops算法链路全流程，算力租赁平台，notebook在线开发，拖拉拽任务流pipeline编排，多机多卡分布式训练，超参搜索，推理服务VGPU虚拟化，边缘计算，标注平台自动化标注，deepseek等大模型sft微调/奖励模型/强化学习训练，vllm/ollama/mindie大模型多机推理，私有知识库，AI模型市场，支持国产cpu/gpu/npu 昇腾生态，支持RDMA，支持pytorch/tf/mxnet/deepspeed/paddle/colossalai/horovod/ray/volcano等分布式",
+      "stars": 4915,
+      "source": "github"
+    },
+    {
+      "title": "gpustack/gpustack",
+      "url": "https://github.com/gpustack/gpustack",
+      "description": "A GPU cluster manager that configures and orchestrates inference engines like vLLM and SGLang for high-performance AI model deployment.",
+      "stars": 4749,
+      "source": "github"
+    },
+    {
+      "title": "skyzh/tiny-llm",
+      "url": "https://github.com/skyzh/tiny-llm",
+      "description": "A course of learning LLM inference serving on Apple Silicon for systems engineers: build a tiny vLLM + Qwen.",
+      "stars": 4041,
+      "source": "github"
+    },
+    {
+      "title": "vllm-project/vllm-omni",
+      "url": "https://github.com/vllm-project/vllm-omni",
+      "description": "A framework for efficient model inference with omni-modality models",
+      "stars": 3989,
+      "source": "github"
+    },
+    {
+      "title": "PaddlePaddle/FastDeploy",
+      "url": "https://github.com/PaddlePaddle/FastDeploy",
+      "description": "High-performance Inference and Deployment Toolkit for LLMs and VLMs based on PaddlePaddle",
+      "stars": 3666,
+      "source": "github"
+    },
+    {
+      "title": "containers/ramalama",
+      "url": "https://github.com/containers/ramalama",
+      "description": "RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of containers.",
+      "stars": 2674,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "stars": 2264,
+      "source": "github"
+    },
+    {
+      "title": "vllm-project/vllm-ascend",
+      "url": "https://github.com/vllm-project/vllm-ascend",
+      "description": "Community maintained hardware plugin for vLLM on Ascend",
+      "stars": 1845,
+      "source": "github"
+    },
+    {
+      "title": "kubeai-project/kubeai",
+      "url": "https://github.com/kubeai-project/kubeai",
+      "description": "AI Inference Operator for Kubernetes. The easiest way to serve ML models in production. Supports VLMs, LLMs, embeddings, and speech-to-text.",
+      "stars": 1169,
+      "source": "github"
+    },
+    {
+      "title": "Ksuriuri/index-tts-vllm",
+      "url": "https://github.com/Ksuriuri/index-tts-vllm",
+      "description": "Added vLLM support to IndexTTS for faster inference.",
+      "stars": 1108,
+      "source": "github"
+    },
+    {
+      "title": "intel/auto-round",
+      "url": "https://github.com/intel/auto-round",
+      "description": "SOTA rounding-based quantization for high-accuracy low-bit LLM inference, seamlessly optimized for CPU/XPU/CUDA, with multi-datatype support and full compatibility with vLLM, SGLang, and Transformers.",
+      "stars": 929,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.294,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.119,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

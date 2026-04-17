@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>🧬 AutoResearch 实时监控</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #0d1117;
+    color: #e6edf3;
+    font-family: 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+    min-height: 100vh;
+    padding: 20px;
+  }
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 24px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid #21262d;
+  }
+  .header h1 { font-size: 1.5rem; color: #58a6ff; }
+  .live-dot {
+    display: inline-block;
+    width: 10px; height: 10px;
+    background: #3fb950;
+    border-radius: 50%;
+    margin-right: 6px;
+    animation: pulse 1.5s infinite;
+  }
+  @keyframes pulse {
+    0%, 100% { opacity: 1; transform: scale(1); }
+    50% { opacity: 0.5; transform: scale(0.8); }
+  }
+  .badge {
+    background: #161b22;
+    border: 1px solid #30363d;
+    border-radius: 20px;
+    padding: 4px 12px;
+    font-size: 0.8rem;
+    color: #8b949e;
+  }
+
+  /* Stats row */
+  .stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 12px;
+    margin-bottom: 24px;
+  }
+  .stat-card {
+    background: #161b22;
+    border: 1px solid #21262d;
+    border-radius: 12px;
+    padding: 16px;
+    text-align: center;
+    transition: border-color 0.3s;
+  }
+  .stat-card:hover { border-color: #388bfd; }
+  .stat-card .label { font-size: 0.75rem; color: #8b949e; text-transform: uppercase; letter-spacing: 0.05em; }
+  .stat-card .value { font-size: 1.8rem; font-weight: 700; margin: 6px 0 2px; }
+  .stat-card .sub { font-size: 0.75rem; color: #6e7681; }
+  .stat-card.up .value { color: #3fb950; }
+  .stat-card.hot .value { color: #f78166; }
+  .stat-card.rounds .value { color: #58a6ff; }
+
+  /* Evolution rounds */
+  .section-title {
+    font-size: 0.85rem;
+    color: #8b949e;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-bottom: 12px;
+  }
+  .rounds-list { display: flex; flex-direction: column; gap: 8px; margin-bottom: 24px; }
+
+  .round-card {
+    background: #161b22;
+    border: 1px solid #21262d;
+    border-radius: 10px;
+    padding: 14px 18px;
+    display: grid;
+    grid-template-columns: 50px 1fr auto auto auto;
+    align-items: center;
+    gap: 16px;
+    transition: all 0.4s;
+  }
+  .round-card.active {
+    border-color: #388bfd;
+    box-shadow: 0 0 20px rgba(56,139,253,0.15);
+    animation: glow 2s infinite;
+  }
+  .round-card.best { border-color: #3fb950; }
+  @keyframes glow {
+    0%, 100% { box-shadow: 0 0 10px rgba(56,139,253,0.2); }
+    50% { box-shadow: 0 0 25px rgba(56,139,253,0.4); }
+  }
+
+  .round-num {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: #58a6ff;
+    text-align: center;
+  }
+  .round-card.best .round-num { color: #3fb950; }
+
+  .round-info { display: flex; flex-direction: column; gap: 4px; }
+  .round-sources { font-size: 0.85rem; color: #8b949e; }
+  .round-depth { font-size: 0.75rem; color: #6e7681; }
+  .round-sources span {
+    background: #21262d;
+    border-radius: 4px;
+    padding: 1px 6px;
+    margin-right: 4px;
+    font-size: 0.75rem;
+    color: #c9d1d9;
+  }
+
+  .round-bar-wrap { display: flex; flex-direction: column; gap: 4px; }
+  .round-bar-label { font-size: 0.7rem; color: #6e7681; }
+  .round-bar {
+    width: 180px;
+    height: 8px;
+    background: #21262d;
+    border-radius: 4px;
+    overflow: hidden;
+  }
+  .round-bar-fill {
+    height: 100%;
+    border-radius: 4px;
+    transition: width 1s ease;
+  }
+  .bar-up { background: linear-gradient(90deg, #238636, #3fb950); }
+  .bar-flat { background: linear-gradient(90deg, #9e6a03, #d29922); }
+  .bar-best { background: linear-gradient(90deg, #1f6feb, #58a6ff); }
+
+  .round-score {
+    text-align: right;
+    min-width: 70px;
+  }
+  .round-score .score-num { font-size: 1.2rem; font-weight: 700; }
+  .round-card.up .score-num { color: #3fb950; }
+  .round-card.flat .score-num { color: #d29922; }
+
+  .round-decision {
+    min-width: 80px;
+    text-align: right;
+  }
+  .round-decision .icon { font-size: 1.4rem; }
+  .round-decision .hint { font-size: 0.7rem; color: #6e7681; margin-top: 2px; }
+
+  /* Best result */
+  .best-result {
+    background: linear-gradient(135deg, #0d1f0d 0%, #161b22 100%);
+    border: 1px solid #238636;
+    border-radius: 12px;
+    padding: 20px 24px;
+    margin-bottom: 24px;
+  }
+  .best-result h3 { font-size: 0.85rem; color: #3fb950; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 12px; }
+  .best-result .strategy {
+    font-size: 0.9rem;
+    color: #c9d1d9;
+    background: #0d1117;
+    border-radius: 6px;
+    padding: 10px 14px;
+    font-family: 'Consolas', monospace;
+    margin-bottom: 10px;
+  }
+  .best-result .meta { display: flex; gap: 20px; font-size: 0.85rem; color: #8b949e; }
+
+  /* History */
+  .history-list { display: flex; flex-direction: column; gap: 6px; }
+  .history-item {
+    background: #161b22;
+    border: 1px solid #21262d;
+    border-radius: 8px;
+    padding: 10px 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.85rem;
+  }
+  .history-item .topic { color: #c9d1d9; }
+  .history-item .meta { color: #6e7681; font-size: 0.75rem; }
+
+  /* Footer */
+  .footer {
+    margin-top: 30px;
+    padding-top: 16px;
+    border-top: 1px solid #21262d;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.75rem;
+    color: #484f58;
+  }
+  .footer .controls button {
+    background: #21262d;
+    border: 1px solid #30363d;
+    border-radius: 6px;
+    color: #8b949e;
+    padding: 5px 12px;
+    cursor: pointer;
+    font-size: 0.75rem;
+    margin-left: 8px;
+    transition: all 0.2s;
+  }
+  .footer .controls button:hover { background: #30363d; color: #e6edf3; }
+  .footer .controls button.primary { background: #238636; border-color: #238636; color: #fff; }
+  .footer .controls button.primary:hover { background: #2ea043; }
+
+  /* Progress animation */
+  .progress-bar-wrap {
+    background: #0d1117;
+    border-radius: 6px;
+    height: 6px;
+    overflow: hidden;
+    margin-top: 4px;
+  }
+  .progress-bar-inner {
+    height: 100%;
+    background: linear-gradient(90deg, #388bfd, #1f6feb);
+    border-radius: 6px;
+    transition: width 0.8s ease;
+  }
+
+  .no-data {
+    text-align: center;
+    padding: 60px 20px;
+    color: #484f58;
+    font-size: 0.9rem;
+  }
+  .no-data .emoji { font-size: 3rem; margin-bottom: 12px; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div>
+    <h1>🧬 AutoResearch 实时监控</h1>
+    <div style="font-size:0.8rem; color:#6e7681; margin-top:4px;" id="topic-display">等待数据...</div>
+  </div>
+  <div style="display:flex; gap:10px; align-items:center;">
+    <span class="badge"><span class="live-dot"></span><span id="status-text">连接中</span></span>
+    <span class="badge" id="refresh-badge">刷新: 3s</span>
+  </div>
+</div>
+
+<!-- Stats -->
+<div class="stats-grid">
+  <div class="stat-card rounds">
+    <div class="label">轮次</div>
+    <div class="value" id="stat-rounds">—</div>
+    <div class="sub" id="stat-rounds-sub">/</div>
+  </div>
+  <div class="stat-card">
+    <div class="label">总信息量</div>
+    <div class="value" id="stat-findings">—</div>
+    <div class="sub" id="stat-findings-sub">条</div>
+  </div>
+  <div class="stat-card hot">
+    <div class="label">最高热度</div>
+    <div class="value" id="stat-score">—</div>
+    <div class="sub">⭐</div>
+  </div>
+  <div class="stat-card up">
+    <div class="label">提升倍率</div>
+    <div class="value" id="stat-multiplier">—</div>
+    <div class="sub">x</div>
+  </div>
+  <div class="stat-card">
+    <div class="label">总耗时</div>
+    <div class="value" id="stat-elapsed">—</div>
+    <div class="sub">秒</div>
+  </div>
+  <div class="stat-card">
+    <div class="label">进化状态</div>
+    <div class="value" id="stat-status" style="font-size:1.2rem;">⏳</div>
+    <div class="sub" id="stat-status-sub">—</div>
+  </div>
+</div>
+
+<!-- Best result -->
+<div class="best-result" id="best-result-panel" style="display:none;">
+  <h3>🏆 最优结果</h3>
+  <div class="strategy" id="best-strategy"></div>
+  <div class="meta">
+    <span>📊 <span id="best-findings">—</span> 条</span>
+    <span>🔥 <span id="best-score">—</span></span>
+    <span>📈 提升 <span id="best-multiplier">—</span>x</span>
+    <span>⏱️ <span id="best-rounds">—</span> 轮</span>
+  </div>
+</div>
+
+<!-- Live rounds -->
+<div class="section-title">📡 实时轮次进度</div>
+<div class="rounds-list" id="rounds-list">
+  <div class="no-data">
+    <div class="emoji">🔬</div>
+    <div>正在监听进化数据...</div>
+    <div style="margin-top:8px; font-size:0.8rem;">运行 <code>autorun_evolve.py</code> 开始研究</div>
+  </div>
+</div>
+
+<!-- History -->
+<div class="section-title">📜 进化历史</div>
+<div class="history-list" id="history-list">
+  <div class="no-data" style="padding:20px;">暂无历史记录</div>
+</div>
+
+<div class="footer">
+  <span id="footer-info">AutoResearch 实时监控 | 自动刷新每 3 秒</span>
+  <div class="controls">
+    <button class="primary" onclick="refreshNow()">🔄 立即刷新</button>
+    <button onclick="toggleAuto()">⏸️ 暂停</button>
+    <button onclick="window.open('http://localhost:18789', '_blank')">🌐 QClaw</button>
+  </div>
+</div>
+
+<script>
+const POLL_INTERVAL = 3000;
+const EVOLUTION_DB = '../autoresearch/_evolution.jsonl';
+const CACHE_DIR = '../autoresearch/_cache';
+
+let autoRefresh = true;
+let refreshTimer = null;
+let lastDataHash = '';
+
+function hash(str) {
+  let h = 0;
+  for (let i = 0; i < str.length; i++) {
+    h = ((h << 5) - h) + str.charCodeAt(i);
+    h |= 0;
+  }
+  return h;
+}
+
+async function fetchJSON(url) {
+  try {
+    const r = await fetch(url + '?t=' + Date.now());
+    if (!r.ok) return null;
+    return await r.json();
+  } catch { return null; }
+}
+
+async function fetchText(url) {
+  try {
+    const r = await fetch(url + '?t=' + Date.now());
+    if (!r.ok) return null;
+    return await r.text();
+  } catch { return null; }
+}
+
+async function loadEvolutionHistory() {
+  const text = await fetchText(EVOLUTION_DB);
+  if (!text) return [];
+  return text.trim().split('\n').filter(l => l.trim()).map(l => {
+    try { return JSON.parse(l); } catch { return null; }
+  }).filter(Boolean).reverse();
+}
+
+async function loadCacheLatest() {
+  try {
+    // Try to find the latest research from MCP cache
+    const idx = await fetchText(CACHE_DIR + '/');
+    return null;
+  } catch { return null; }
+}
+
+function renderRounds(rounds) {
+  const el = document.getElementById('rounds-list');
+  if (!rounds || rounds.length === 0) {
+    el.innerHTML = `<div class="no-data"><div class="emoji">🔬</div><div>正在等待数据...</div></div>`;
+    return;
+  }
+
+  const maxFindings = Math.max(...rounds.map(r => r.total_findings));
+  const best = rounds.reduce((a, b) => a.total_findings > b.total_findings ? a : b, rounds[0]);
+
+  el.innerHTML = rounds.map(r => {
+    const isBest = r.total_findings === best.total_findings;
+    const isUp = r.score_delta > 0.1;
+    const pct = maxFindings > 0 ? (r.total_findings / maxFindings * 100) : 0;
+    const barClass = isBest ? 'bar-best' : (isUp ? 'bar-up' : 'bar-flat');
+    const icon = isBest ? '🏆' : (isUp ? '✅' : '⏸️');
+    const cardClass = isBest ? 'best' : (isUp ? 'up' : 'flat');
+
+    const srcs = (r.sources || []).map(s =>
+      `<span>${s}</span>`
+    ).join('');
+
+    return `
+    <div class="round-card ${cardClass} ${isBest ? 'best' : ''}">
+      <div class="round-num">R${r.round_num}</div>
+      <div class="round-info">
+        <div class="round-sources">${srcs}</div>
+        <div class="round-depth">${r.depth || 'quick'} | ${r.decision ? r.decision.slice(0, 40) : ''}</div>
+      </div>
+      <div class="round-bar-wrap">
+        <div class="round-bar-label">${r.total_findings} 条</div>
+        <div class="round-bar"><div class="round-bar-fill ${barClass}" style="width:${pct}%"></div></div>
+      </div>
+      <div class="round-score">
+        <div class="score-num">🔥 ${r.top_score || 0}</div>
+      </div>
+      <div class="round-decision">
+        <div class="icon">${icon}</div>
+        <div class="hint">${isBest ? '最优' : (isUp ? '提升' : '持平')}</div>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+function renderStats(rounds, elapsed, record) {
+  if (!record) return;
+
+  const best = rounds.reduce((a, b) => a.total_findings > b.total_findings ? a : b, rounds[0]);
+  const first = rounds[0];
+  const mult = first ? (best.total_findings / Math.max(first.total_findings, 1)).toFixed(1) : '1.0';
+
+  document.getElementById('stat-rounds').textContent = rounds.length;
+  document.getElementById('stat-rounds-sub').textContent = '/ ' + (record.total_rounds || '?') + ' 轮';
+  document.getElementById('stat-findings').textContent = best ? best.total_findings : '—';
+  document.getElementById('stat-score').textContent = best ? (best.top_score || 0) : '—';
+  document.getElementById('stat-multiplier').textContent = mult + 'x';
+  document.getElementById('stat-elapsed').textContent = elapsed ? elapsed.toFixed(1) : '—';
+  document.getElementById('stat-status').textContent = rounds.length >= (record.total_rounds || 3) ? '🏁' : '⚙️';
+  document.getElementById('stat-status-sub').textContent = rounds.length >= (record.total_rounds || 3) ? '已完成' : '进化中';
+
+  if (best) {
+    const bestPanel = document.getElementById('best-result-panel');
+    bestPanel.style.display = '';
+    document.getElementById('best-strategy').textContent =
+      `sources=${JSON.stringify(best.sources)}, depth=${best.depth || 'standard'}`;
+    document.getElementById('best-findings').textContent = best.total_findings;
+    document.getElementById('best-score').textContent = best.top_score || 0;
+    document.getElementById('best-multiplier').textContent = mult;
+    document.getElementById('best-rounds').textContent = best.round_num;
+  }
+
+  const topicEl = document.getElementById('topic-display');
+  topicEl.textContent = record.topic ? `主题: ${record.topic}` : '';
+}
+
+function renderHistory(records) {
+  const el = document.getElementById('history-list');
+  if (!records || records.length === 0) {
+    el.innerHTML = '<div class="no-data" style="padding:20px;">暂无历史记录</div>';
+    return;
+  }
+  el.innerHTML = records.slice(0, 10).map(r => {
+    const bestRound = r.rounds ? r.rounds.reduce((a, b) => a.total_findings > b.total_findings ? a : b, r.rounds[0]) : null;
+    const ts = r.ts ? r.ts.slice(11, 19) : '--:--:--';
+    const date = r.ts ? r.ts.slice(0, 10) : '';
+    return `<div class="history-item">
+      <div>
+        <div class="topic">${r.topic || '未知主题'}</div>
+        <div class="meta">${date} ${ts} | ${r.total_rounds || 0} 轮 | ${bestRound ? bestRound.total_findings : 0} 条 | 最优 R${r.best_round || '?'}</div>
+      </div>
+      <div style="font-size:0.8rem; color:#3fb950;">${r.total_rounds || 0}轮</div>
+    </div>`;
+  }).join('');
+}
+
+async function update() {
+  const records = await loadEvolutionHistory();
+
+  if (!records || records.length === 0) {
+    document.getElementById('status-text').textContent = '无数据';
+    return;
+  }
+
+  const latest = records[0];
+  const rounds = latest.rounds || [];
+  const elapsed = latest.elapsed_s || 0;
+
+  // Check if data changed
+  const dataStr = JSON.stringify(latest);
+  const dataHash = hash(dataStr);
+  if (dataHash === lastDataHash) return; // No change, skip render
+  lastDataHash = dataHash;
+
+  // Update status
+  document.getElementById('status-text').textContent = '实时';
+  document.getElementById('footer-info').textContent =
+    `最后更新: ${new Date().toLocaleTimeString('zh-CN')} | ${records.length} 条进化记录`;
+
+  renderRounds(rounds);
+  renderStats(rounds, elapsed, latest);
+  renderHistory(records);
+}
+
+function refreshNow() {
+  lastDataHash = ''; // Force refresh
+  update();
+}
+
+function toggleAuto() {
+  autoRefresh = !autoRefresh;
+  if (autoRefresh) {
+    startAuto();
+    document.querySelector('.footer .controls button:nth-child(2)').textContent = '⏸️ 暂停';
+    document.getElementById('refresh-badge').textContent = '刷新: 3s';
+  } else {
+    stopAuto();
+    document.querySelector('.footer .controls button:nth-child(2)').textContent = '▶️ 继续';
+    document.getElementById('refresh-badge').textContent = '已暂停';
+  }
+}
+
+function startAuto() {
+  if (refreshTimer) clearInterval(refreshTimer);
+  refreshTimer = setInterval(update, POLL_INTERVAL);
+}
+
+function stopAuto() {
+  if (refreshTimer) { clearInterval(refreshTimer); refreshTimer = null; }
+}
+
+// Start
+startAuto();
+update();
+</script>
+</body>
+</html>

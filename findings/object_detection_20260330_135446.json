@@ -1,0 +1,159 @@
+{
+  "topic": "object detection",
+  "timestamp": "2026-03-30T13:54:46.241128",
+  "findings": [
+    {
+      "title": "facebookresearch/detectron2",
+      "url": "https://github.com/facebookresearch/detectron2",
+      "description": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.",
+      "stars": 34263,
+      "source": "github"
+    },
+    {
+      "title": "blakeblackshear/frigate",
+      "url": "https://github.com/blakeblackshear/frigate",
+      "description": "NVR with realtime local object detection for IP cameras",
+      "stars": 31137,
+      "source": "github"
+    },
+    {
+      "title": "facebookresearch/Detectron",
+      "url": "https://github.com/facebookresearch/Detectron",
+      "description": "FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.",
+      "stars": 26398,
+      "source": "github"
+    },
+    {
+      "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+      "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+      "description": "deep learning for image processing including classification and object-detection etc.",
+      "stars": 26170,
+      "source": "github"
+    },
+    {
+      "title": "matterport/Mask_RCNN",
+      "url": "https://github.com/matterport/Mask_RCNN",
+      "description": "Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow",
+      "stars": 25534,
+      "source": "github"
+    },
+    {
+      "title": "facebookresearch/detr",
+      "url": "https://github.com/facebookresearch/detr",
+      "description": "End-to-End Object Detection with Transformers",
+      "stars": 15184,
+      "source": "github"
+    },
+    {
+      "title": "PaddlePaddle/PaddleDetection",
+      "url": "https://github.com/PaddlePaddle/PaddleDetection",
+      "description": "Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.",
+      "stars": 14140,
+      "source": "github"
+    },
+    {
+      "title": "jacobgil/pytorch-grad-cam",
+      "url": "https://github.com/jacobgil/pytorch-grad-cam",
+      "description": "Advanced AI Explainability for computer vision.  Support for CNNs, Vision Transformers, Classification, Object detection, Segmentation, Image similarity and more.",
+      "stars": 12718,
+      "source": "github"
+    },
+    {
+      "title": "hoya012/deep_learning_object_detection",
+      "url": "https://github.com/hoya012/deep_learning_object_detection",
+      "description": "A paper list of object detection using deep learning.",
+      "stars": 11413,
+      "source": "github"
+    },
+    {
+      "title": "THU-MIG/yolov10",
+      "url": "https://github.com/THU-MIG/yolov10",
+      "description": "YOLOv10: Real-Time End-to-End Object Detection [NeurIPS 2024] ",
+      "stars": 11271,
+      "source": "github"
+    },
+    {
+      "title": "IDEA-Research/GroundingDINO",
+      "url": "https://github.com/IDEA-Research/GroundingDINO",
+      "description": "[ECCV 2024] Official implementation of the paper \"Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection\"",
+      "stars": 9926,
+      "source": "github"
+    },
+    {
+      "title": "xuebinqin/U-2-Net",
+      "url": "https://github.com/xuebinqin/U-2-Net",
+      "description": "The code for our newly accepted paper in Pattern Recognition 2020: \"U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection.\"",
+      "stars": 9685,
+      "source": "github"
+    },
+    {
+      "title": "facebookresearch/maskrcnn-benchmark",
+      "url": "https://github.com/facebookresearch/maskrcnn-benchmark",
+      "description": "Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch.",
+      "stars": 9382,
+      "source": "github"
+    },
+    {
+      "title": "xingyizhou/CenterNet",
+      "url": "https://github.com/xingyizhou/CenterNet",
+      "description": "Object detection, 3D detection, and pose estimation using center point detection: ",
+      "stars": 7552,
+      "source": "github"
+    },
+    {
+      "title": "amusi/awesome-object-detection",
+      "url": "https://github.com/amusi/awesome-object-detection",
+      "description": "Awesome Object Detection based on handong1587 github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html",
+      "stars": 7503,
+      "source": "github"
+    },
+    {
+      "title": "open-mmlab/mmdetection3d",
+      "url": "https://github.com/open-mmlab/mmdetection3d",
+      "description": "OpenMMLab's next-generation platform for general 3D object detection.",
+      "stars": 6343,
+      "source": "github"
+    },
+    {
+      "title": "AILab-CVC/YOLO-World",
+      "url": "https://github.com/AILab-CVC/YOLO-World",
+      "description": "[CVPR 2024] Real-Time Open-Vocabulary Object Detection",
+      "stars": 6278,
+      "source": "github"
+    },
+    {
+      "title": "FoundationVision/ByteTrack",
+      "url": "https://github.com/FoundationVision/ByteTrack",
+      "description": "[ECCV 2022] ByteTrack: Multi-Object Tracking by Associating Every Detection Box",
+      "stars": 6194,
+      "source": "github"
+    },
+    {
+      "title": "RangiLyu/nanodet",
+      "url": "https://github.com/RangiLyu/nanodet",
+      "description": "NanoDet-Plus⚡Super fast and lightweight anchor-free object detection model. 🔥Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone🔥",
+      "stars": 6180,
+      "source": "github"
+    },
+    {
+      "title": "roboflow/rf-detr",
+      "url": "https://github.com/roboflow/rf-detr",
+      "description": "[ICLR 2026] RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO, designed for fine-tuning.",
+      "stars": 6037,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.368,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.05,
+      "star_power": 0.413,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "topic": "RAG retrieval search",
+  "timestamp": "2026-03-31T12:16:09.553618",
+  "findings": [
+    {
+      "title": "deepset-ai/haystack",
+      "url": "https://github.com/deepset-ai/haystack",
+      "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
+      "stars": 24659,
+      "source": "github"
+    },
+    {
+      "title": "SciPhi-AI/R2R",
+      "url": "https://github.com/SciPhi-AI/R2R",
+      "description": "SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.",
+      "stars": 7748,
+      "source": "github"
+    },
+    {
+      "title": "airweave-ai/airweave",
+      "url": "https://github.com/airweave-ai/airweave",
+      "description": "Open-source context retrieval layer for AI agents",
+      "stars": 6169,
+      "source": "github"
+    },
+    {
+      "title": "xhluca/bm25s",
+      "url": "https://github.com/xhluca/bm25s",
+      "description": "Fast lexical search implementing BM25 in Python",
+      "stars": 1603,
+      "source": "github"
+    },
+    {
+      "title": "pguso/rag-from-scratch",
+      "url": "https://github.com/pguso/rag-from-scratch",
+      "description": "Demystify RAG by building it from scratch. Local LLMs, no black boxes - real understanding of embeddings, vector search, retrieval, and context-augmented generation.",
+      "stars": 1345,
+      "source": "github"
+    },
+    {
+      "title": "Azure-Samples/chat-with-your-data-solution-accelerator",
+      "url": "https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator",
+      "description": "A Solution Accelerator for the RAG pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. This includes most common requirements and best practices.",
+      "stars": 1163,
+      "source": "github"
+    },
+    {
+      "title": "Azure/GPT-RAG",
+      "url": "https://github.com/Azure/GPT-RAG",
+      "description": "Sharing the learning along the way we been gathering to enable Azure OpenAI at enterprise scale in a secure manner. GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.",
+      "stars": 1144,
+      "source": "github"
+    },
+    {
+      "title": "PrithivirajDamodaran/FlashRank",
+      "url": "https://github.com/PrithivirajDamodaran/FlashRank",
+      "description": "Lite & Super-fast re-ranking for your search & retrieval pipelines.  Supports SoTA Listwise and Pairwise reranking based on LLMs and  cross-encoders and more.  Created by Prithivi Da, open for PRs & Collaborations.",
+      "stars": 956,
+      "source": "github"
+    },
+    {
+      "title": "raghavan/PdfGptIndexer",
+      "url": "https://github.com/raghavan/PdfGptIndexer",
+      "description": "RAG based tool for indexing and searching PDF text data using OpenAI API and FAISS (Facebook AI Similarity Search) index, designed for rapid information retrieval and superior search accuracy.",
+      "stars": 677,
+      "source": "github"
+    },
+    {
+      "title": "win4r/GraphRAG4OpenWebUI",
+      "url": "https://github.com/win4r/GraphRAG4OpenWebUI",
+      "description": "GraphRAG4OpenWebUI integrates Microsoft's GraphRAG technology into Open WebUI, providing a versatile information retrieval API. It combines local, global, and web searches for advanced Q&A systems and search engines. This tool simplifies graph-based retrieval integration in open web environments.",
+      "stars": 593,
+      "source": "github"
+    },
+    {
+      "title": "neuml/rag",
+      "url": "https://github.com/neuml/rag",
+      "description": "🚀 Retrieval Augmented Generation (RAG) with txtai. Combine search and LLMs to find insights with your own data.",
+      "stars": 447,
+      "source": "github"
+    },
+    {
+      "title": "henrydaum/second-brain",
+      "url": "https://github.com/henrydaum/second-brain",
+      "description": "Second Brain is a desktop application that acts as a personal knowledge base, using retrieval-augmented generation (RAG), multimodal AI models, and a hybrid lexical/semantic search algorithm to interact with local text files and images.",
+      "stars": 444,
+      "source": "github"
+    },
+    {
+      "title": "tonywu71/colpali-cookbooks",
+      "url": "https://github.com/tonywu71/colpali-cookbooks",
+      "description": "Recipes for learning, fine-tuning, and adapting ColPali to your multimodal RAG use cases. 👨🏻‍🍳",
+      "stars": 356,
+      "source": "github"
+    },
+    {
+      "title": "illuin-tech/vidore-benchmark",
+      "url": "https://github.com/illuin-tech/vidore-benchmark",
+      "description": "Vision Document Retrieval (ViDoRe): Benchmark. Evaluation code for the ColPali paper.",
+      "stars": 269,
+      "source": "github"
+    },
+    {
+      "title": "Azure/gpt-rag-ingestion",
+      "url": "https://github.com/Azure/gpt-rag-ingestion",
+      "description": "The GPT-RAG Data Ingestion service automates processing of diverse documents—PDFs, images, spreadsheets, transcripts, and SharePoint—readying them for Azure AI Search. It applies smart chunking, generates text and image embeddings, and enables rich, multimodal retrieval.",
+      "stars": 169,
+      "source": "github"
+    },
+    {
+      "title": "streamlit/example-app-langchain-rag",
+      "url": "https://github.com/streamlit/example-app-langchain-rag",
+      "description": "Streamlit app demonstrating using LangChain and retrieval augmented generation with a vectorstore and hybrid search",
+      "stars": 148,
+      "source": "github"
+    },
+    {
+      "title": "marcominerva/SqlDatabaseVectorSearch",
+      "url": "https://github.com/marcominerva/SqlDatabaseVectorSearch",
+      "description": "A Blazor Web App and Minimal API for performing RAG (Retrieval Augmented Generation) and vector search using the native VECTOR type in Azure SQL Database and Azure OpenAI.",
+      "stars": 138,
+      "source": "github"
+    },
+    {
+      "title": "watat83/document-chat-system",
+      "url": "https://github.com/watat83/document-chat-system",
+      "description": "Open-source document chat platform with semantic search, RAG (Retrieval Augmented Generation), and multi-provider AI support (OpenRouter, OpenAI, ImageRouter).",
+      "stars": 136,
+      "source": "github"
+    },
+    {
+      "title": "boluo2077/deep-rag",
+      "url": "https://github.com/boluo2077/deep-rag",
+      "description": "🔍 Deep RAG: Advanced Retrieval-Augmented Generation system that goes beyond vector search. Enables AI to perform multi-hop reasoning, negation queries, numerical comparisons & global aggregation on your knowledge base. Supports OpenAI, Anthropic, Google Gemini. Python FastAPI + React UI",
+      "stars": 123,
+      "source": "github"
+    },
+    {
+      "title": "moyangzhan/langchain4j-aideepin-admin",
+      "url": "https://github.com/moyangzhan/langchain4j-aideepin-admin",
+      "description": "JAVA版本的检索增强生成(RAG)项目，包括知识库、搜索 | JAVA version of retrieval enhancement generation(RAG) project ,including knowledge base, search",
+      "stars": 118,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.489,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.15,
+      "star_power": 0.098,
+      "diversity": 0.0,
+      "usability": 0.1,
+      "applicability": 0.975,
+      "coverage": 1.0,
+      "ndcg": 0.506,
+      "map": 0.863,
+      "mrr": 0.5,
+      "recall": 0.474
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

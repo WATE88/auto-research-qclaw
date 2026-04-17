@@ -1,0 +1,280 @@
+{
+  "topic": "AI agents",
+  "timestamp": "2026-04-08T11:13:22.905113",
+  "findings": [
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "stars": 183229,
+      "source": "github"
+    },
+    {
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "stars": 146654,
+      "source": "github"
+    },
+    {
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "description": "Production-ready platform for agentic workflow development.",
+      "stars": 136644,
+      "source": "github"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "stars": 134672,
+      "source": "github"
+    },
+    {
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "description": "The agent engineering platform",
+      "stars": 132712,
+      "source": "github"
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "description": "🔥 The Web Data API for AI - Power AI agents with clean web data",
+      "stars": 105597,
+      "source": "github"
+    },
+    {
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "stars": 104743,
+      "source": "github"
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "stars": 100556,
+      "source": "github"
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "stars": 86429,
+      "source": "github"
+    },
+    {
+      "title": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stars": 77378,
+      "source": "github"
+    },
+    {
+      "title": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+      "stars": 74880,
+      "source": "github"
+    },
+    {
+      "title": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "stars": 74684,
+      "source": "github"
+    },
+    {
+      "title": "dair-ai/Prompt-Engineering-Guide",
+      "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+      "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+      "stars": 72998,
+      "source": "github"
+    },
+    {
+      "title": "karpathy/autoresearch",
+      "url": "https://github.com/karpathy/autoresearch",
+      "description": "AI agents running research on single-GPU nanochat training automatically",
+      "stars": 68228,
+      "source": "github"
+    },
+    {
+      "title": "FoundationAgents/MetaGPT",
+      "url": "https://github.com/FoundationAgents/MetaGPT",
+      "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+      "stars": 66773,
+      "source": "github"
+    },
+    {
+      "title": "OpenBB-finance/OpenBB",
+      "url": "https://github.com/OpenBB-finance/OpenBB",
+      "description": "Financial data platform for analysts, quants and AI agents.",
+      "stars": 65548,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/autogen",
+      "url": "https://github.com/microsoft/autogen",
+      "description": "A programming framework for agentic AI",
+      "stars": 56803,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "description": "12 Lessons to Get Started Building AI Agents",
+      "stars": 56163,
+      "source": "github"
+    },
+    {
+      "title": "mem0ai/mem0",
+      "url": "https://github.com/mem0ai/mem0",
+      "description": "Universal memory layer for AI Agents",
+      "stars": 52227,
+      "source": "github"
+    },
+    {
+      "title": "FlowiseAI/Flowise",
+      "url": "https://github.com/FlowiseAI/Flowise",
+      "description": "Build AI Agents, Visually",
+      "stars": 51637,
+      "source": "github"
+    },
+    {
+      "title": "Paper Circle: An Open-source Multi-agent Research Discovery and Analysis Framework",
+      "url": "http://arxiv.org/abs/2604.06170v1",
+      "abstract": "The rapid growth of scientific literature has made it increasingly difficult for researchers to efficiently discover, evaluate, and synthesize relevant work. Recent advances in multi-agent large language models (LLMs) have demonstrated strong potential for understanding user intent and are being tra",
+      "source": "arxiv"
+    },
+    {
+      "title": "Who Governs the Machine? A Machine Identity Governance Taxonomy (MIGT) for AI Systems Operating Across Enterprise and Geopolitical Boundaries",
+      "url": "http://arxiv.org/abs/2604.06148v1",
+      "abstract": "The governance of artificial intelligence has a blind spot: the machine identities that AI systems use to act. AI agents, service accounts, API tokens, and automated workflows now outnumber human identities in enterprise environments by ratios exceeding 80 to 1, yet no integrated framework exists to",
+      "source": "arxiv"
+    },
+    {
+      "title": "On the Convergence of an Opinion-Action Coevolution Model with Bounded Confidence",
+      "url": "http://arxiv.org/abs/2604.06140v1",
+      "abstract": "This paper presents a theoretical convergence analysis for an opinion-action coevolution model that integrates the opinion updating rule of the Hegselmann-Krause model with a utility-based decision-making mechanism. The model is reformulated into an augmented state-space representation, where the st",
+      "source": "arxiv"
+    },
+    {
+      "title": "MAESTRO: Adapting GUIs and Guiding Navigation with User Preferences in Conversational Agents with GUIs",
+      "url": "http://arxiv.org/abs/2604.06134v1",
+      "abstract": "Modern task-oriented chatbots present GUI elements alongside natural-language dialogue, yet the agent's role has largely been limited to interpreting natural-language input as GUI actions and following a linear workflow. In preference-driven, multi-step tasks such as booking a flight or reserving a ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Claw-Eval: Toward Trustworthy Evaluation of Autonomous Agents",
+      "url": "http://arxiv.org/abs/2604.06132v1",
+      "abstract": "Large language models are increasingly deployed as autonomous agents executing multi-step workflows in real-world software environments. However, existing agent benchmarks suffer from three critical limitations: (1) trajectory-opaque grading that checks only final outputs, (2) underspecified safety ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Understanding Educators' Perceptions of AI-generated Non-consensual Intimate Imagery",
+      "url": "http://arxiv.org/abs/2604.06131v1",
+      "abstract": "AI-generated non-consensual intimate imagery (AIG-NCII) is an emerging social problem due to the advancement of AI tools. While recent incidents in middle and high schools have highlighted the urgency of this issue, there is limited understanding of what concrete supports schools need to effectively",
+      "source": "arxiv"
+    },
+    {
+      "title": "Gym-Anything: Turn any Software into an Agent Environment",
+      "url": "http://arxiv.org/abs/2604.06126v1",
+      "abstract": "Computer-use agents hold the promise of assisting in a wide range of digital economic activities. However, current research has largely focused on short-horizon tasks over a limited set of software with limited economic value, such as basic e-commerce and OS-configuration tasks. A key reason is that",
+      "source": "arxiv"
+    },
+    {
+      "title": "ACE-Bench: Agent Configurable Evaluation with Scalable Horizons and Controllable Difficulty under Lightweight Environments",
+      "url": "http://arxiv.org/abs/2604.06111v1",
+      "abstract": "Existing Agent benchmarks suffer from two critical limitations: high environment interaction overhead (up to 41\\% of total evaluation time) and imbalanced task horizon and difficulty distributions that make aggregate scores unreliable. To address these issues, we propose ACE-Bench built around a uni",
+      "source": "arxiv"
+    },
+    {
+      "title": "Artificial Intelligence and the Structure of Mathematics",
+      "url": "http://arxiv.org/abs/2604.06107v1",
+      "abstract": "Recent progress in artificial intelligence (AI) is unlocking transformative capabilities for mathematics. There is great hope that AI will help solve major open problems and autonomously discover new mathematical concepts. In this essay, we further consider how AI may open a grand perspective on mat",
+      "source": "arxiv"
+    },
+    {
+      "title": "Towards Securing IIoT: An Innovative Privacy-Preserving Anomaly Detector Based on Federated Learning",
+      "url": "http://arxiv.org/abs/2604.06101v1",
+      "abstract": "In the light of the growing connectivity and sensitivity of industrial data,\n  cyberattacks and data breaches are becoming more common in the Industrial Internet of Things (IIoT). To cope with such threats, this study presents an anomaly detection system based on a novel Federated Learning (FL) fram",
+      "source": "arxiv"
+    },
+    {
+      "title": "LLM4CodeRE: Generative AI for Code Decompilation Analysis and Reverse Engineering",
+      "url": "http://arxiv.org/abs/2604.06095v1",
+      "abstract": "Code decompilation analysis is a fundamental yet challenging task in malware reverse engineering, particularly due to the pervasive use of sophisticated obfuscation techniques. Although recent large language models (LLMs) have shown promise in translating low-level representations into high-level so",
+      "source": "arxiv"
+    },
+    {
+      "title": "Social Dynamics as Critical Vulnerabilities that Undermine Objective Decision-Making in LLM Collectives",
+      "url": "http://arxiv.org/abs/2604.06091v1",
+      "abstract": "Large language model (LLM) agents are increasingly acting as human delegates in multi-agent environments, where a representative agent integrates diverse peer perspectives to make a final decision. Drawing inspiration from social psychology, we investigate how the reliability of this representative ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Coalitional Zero-Sum Games for ${H_{\\infty}}$ Leader-Following Consensus Control",
+      "url": "http://arxiv.org/abs/2604.06089v1",
+      "abstract": "This paper investigates the leader-following consensus problem for a class of multi-agent systems subject to adversarial attack-like external inputs. To address this, we formulate the robust leader-following control problem as a global coalitional min-max zero-sum game using differential game theory",
+      "source": "arxiv"
+    },
+    {
+      "title": "LAG-XAI: A Lie-Inspired Affine Geometric Framework for Interpretable Paraphrasing in Transformer Latent Spaces",
+      "url": "http://arxiv.org/abs/2604.06086v1",
+      "abstract": "Modern Transformer-based language models achieve strong performance in natural language processing tasks, yet their latent semantic spaces remain largely uninterpretable black boxes. This paper introduces LAG-XAI (Lie Affine Geometry for Explainable AI), a novel geometric framework that models parap",
+      "source": "arxiv"
+    },
+    {
+      "title": "gyaradax: Local Gyrokinetics JAX Code",
+      "url": "http://arxiv.org/abs/2604.06085v1",
+      "abstract": "Gyrokinetic simulations are essential for understanding and controlling turbulence in fusion plasmas, yet they are oftentimes implemented in legacy codebases, in many cases CPU-bound. These are both hard to maintain and especially incompatible with optimization and ML workflows. gyaradax is a minima",
+      "source": "arxiv"
+    },
+    {
+      "title": "The HTC-Claw: Automating Discovery through High-Throughput Computational Campaigns",
+      "url": "http://arxiv.org/abs/2604.06076v1",
+      "abstract": "With the advancement of the Materials Genome Initiative, high-throughput computation has become central to accelerating materials discovery. However, conventional first-principles workflows are cumbersome and error-prone. Existing high-throughput tools, while efficient at batch job submission, lack ",
+      "source": "arxiv"
+    },
+    {
+      "title": "From Hallucination to Structure Snowballing: The Alignment Tax of Constrained Decoding in LLM Reflection",
+      "url": "http://arxiv.org/abs/2604.06066v1",
+      "abstract": "Intrinsic self-correction in Large Language Models (LLMs) frequently fails in open-ended reasoning tasks due to ``hallucination snowballing,'' a phenomenon in which models recursively justify early errors during free-text reflection. While structured feedback can mitigate this issue, existing approa",
+      "source": "arxiv"
+    },
+    {
+      "title": "Incremental Risk Assessment for Cascading Failures in Large-Scale Multi-Agent Systems",
+      "url": "http://arxiv.org/abs/2604.06024v1",
+      "abstract": "We develop a framework for studying and quantifying the risk of cascading failures in time-delay consensus networks, motivated by a team of agents attempting temporal rendezvous under stochastic disturbances and communication delays. To assess how failures at one or multiple agents amplify the risk ",
+      "source": "arxiv"
+    },
+    {
+      "title": "CritBench: A Framework for Evaluating Cybersecurity Capabilities of Large Language Models in IEC 61850 Digital Substation Environments",
+      "url": "http://arxiv.org/abs/2604.06019v1",
+      "abstract": "The advancement of Large Language Models (LLMs) has raised concerns regarding their dual-use potential in cybersecurity. Existing evaluation frameworks overwhelmingly focus on Information Technology (IT) environments, failing to capture the constraints, and specialized protocols of Operational Techn",
+      "source": "arxiv"
+    },
+    {
+      "title": "Governance and Regulation of Artificial Intelligence in Developing Countries: A Case Study of Nigeria",
+      "url": "http://arxiv.org/abs/2604.06018v1",
+      "abstract": "This study examines the perception of legal professionals on the governance of AI in developing countries, using Nigeria as a case study. The study focused on ethical risks, regulatory gaps, and institutional readiness. The study adopted a qualitative case study design. Data were collected through 2",
+      "source": "arxiv"
+    }
+  ],
+  "quality": {
+    "total": 40,
+    "quality_score": 0.486,
+    "dimensions": {
+      "authority": 0.95,
+      "quality": 0.0,
+      "star_power": 0.504,
+      "diversity": 0.5
+    },
+    "sources_breakdown": {
+      "github": 20,
+      "arxiv": 20
+    }
+  }
+}

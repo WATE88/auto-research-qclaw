@@ -1,0 +1,159 @@
+{
+  "topic": "transformer architecture",
+  "timestamp": "2026-03-30T12:56:06.259201",
+  "findings": [
+    {
+      "title": "microsoft/torchscale",
+      "url": "https://github.com/microsoft/torchscale",
+      "description": "Foundation Architecture for (M)LLMs",
+      "stars": 3134,
+      "source": "github"
+    },
+    {
+      "title": "apple/ml-ane-transformers",
+      "url": "https://github.com/apple/ml-ane-transformers",
+      "description": "Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE)",
+      "stars": 2702,
+      "source": "github"
+    },
+    {
+      "title": "PaddlePaddle/PaddleSlim",
+      "url": "https://github.com/PaddlePaddle/PaddleSlim",
+      "description": "PaddleSlim is an open-source library for deep model compression and architecture search.",
+      "stars": 1613,
+      "source": "github"
+    },
+    {
+      "title": "google-research/maxim",
+      "url": "https://github.com/google-research/maxim",
+      "description": "[CVPR 2022 Oral] Official repository for \"MAXIM: Multi-Axis MLP for Image Processing\". SOTA for denoising, deblurring, deraining, dehazing, and enhancement.",
+      "stars": 1083,
+      "source": "github"
+    },
+    {
+      "title": "graphdeeplearning/graphtransformer",
+      "url": "https://github.com/graphdeeplearning/graphtransformer",
+      "description": "Graph Transformer Architecture. Source code for \"A Generalization of Transformer Networks to Graphs\", DLG-AAAI'21.",
+      "stars": 1021,
+      "source": "github"
+    },
+    {
+      "title": "lucidrains/PaLM-pytorch",
+      "url": "https://github.com/lucidrains/PaLM-pytorch",
+      "description": "Implementation of the specific Transformer architecture from PaLM - Scaling Language Modeling with Pathways",
+      "stars": 828,
+      "source": "github"
+    },
+    {
+      "title": "noahzn/Lite-Mono",
+      "url": "https://github.com/noahzn/Lite-Mono",
+      "description": "[CVPR2023] Lite-Mono: A Lightweight CNN and Transformer Architecture for Self-Supervised Monocular Depth Estimation",
+      "stars": 701,
+      "source": "github"
+    },
+    {
+      "title": "kieranjwood/trading-momentum-transformer",
+      "url": "https://github.com/kieranjwood/trading-momentum-transformer",
+      "description": "This code accompanies the the paper Trading with the Momentum Transformer: An Intelligent and Interpretable Architecture (https://arxiv.org/pdf/2112.08534.pdf).",
+      "stars": 605,
+      "source": "github"
+    },
+    {
+      "title": "Haiyang-W/TokenFormer",
+      "url": "https://github.com/Haiyang-W/TokenFormer",
+      "description": "[ICLR2025 Spotlight🔥] Official Implementation of TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters",
+      "stars": 589,
+      "source": "github"
+    },
+    {
+      "title": "lhoyer/DAFormer",
+      "url": "https://github.com/lhoyer/DAFormer",
+      "description": "[CVPR22] Official Implementation of DAFormer: Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation",
+      "stars": 563,
+      "source": "github"
+    },
+    {
+      "title": "subho406/OmniNet",
+      "url": "https://github.com/subho406/OmniNet",
+      "description": "Official Pytorch implementation of \"OmniNet: A unified architecture for multi-modal multi-task learning\" | Authors: Subhojeet Pramanik, Priyanka Agrawal, Aman Hussain ",
+      "stars": 513,
+      "source": "github"
+    },
+    {
+      "title": "google-research/maxvit",
+      "url": "https://github.com/google-research/maxvit",
+      "description": "[ECCV 2022] Official repository for \"MaxViT: Multi-Axis Vision Transformer\". SOTA foundation models for classification, detection, segmentation, image quality, and generative modeling...",
+      "stars": 492,
+      "source": "github"
+    },
+    {
+      "title": "TACJu/TransFG",
+      "url": "https://github.com/TACJu/TransFG",
+      "description": "This is the official PyTorch implementation of the paper \"TransFG: A Transformer Architecture for Fine-grained Recognition\" (Ju He, Jie-Neng Chen, Shuai Liu, Adam Kortylewski, Cheng Yang, Yutong Bai, Changhu Wang, Alan Yuille).",
+      "stars": 421,
+      "source": "github"
+    },
+    {
+      "title": "togethercomputer/stripedhyena",
+      "url": "https://github.com/togethercomputer/stripedhyena",
+      "description": "Repository for StripedHyena, a state-of-the-art beyond Transformer architecture",
+      "stars": 419,
+      "source": "github"
+    },
+    {
+      "title": "mmaaz60/EdgeNeXt",
+      "url": "https://github.com/mmaaz60/EdgeNeXt",
+      "description": "[CADL'22, ECCVW] Official repository of paper titled \"EdgeNeXt: Efficiently Amalgamated CNN-Transformer Architecture for Mobile Vision Applications\".",
+      "stars": 414,
+      "source": "github"
+    },
+    {
+      "title": "markriedl/transformer-walkthrough",
+      "url": "https://github.com/markriedl/transformer-walkthrough",
+      "description": "A walkthrough of transformer architecture code",
+      "stars": 384,
+      "source": "github"
+    },
+    {
+      "title": "Kohulan/DECIMER-Image_Transformer",
+      "url": "https://github.com/Kohulan/DECIMER-Image_Transformer",
+      "description": "DECIMER Image Transformer is a deep-learning-based tool designed for automated recognition of chemical structure images. Leveraging transformer architectures, the model converts chemical images into SMILES strings, enabling the digitization of chemical data from scanned documents, literature, and patents.",
+      "stars": 349,
+      "source": "github"
+    },
+    {
+      "title": "SomeB1oody/RustyML",
+      "url": "https://github.com/SomeB1oody/RustyML",
+      "description": "A high-performance machine learning library in pure Rust, offering statistical utilities, ML algorithms and neural networks, and future support for transformer architectures.",
+      "stars": 338,
+      "source": "github"
+    },
+    {
+      "title": "LiamMaclean216/Pytorch-Transfomer",
+      "url": "https://github.com/LiamMaclean216/Pytorch-Transfomer",
+      "description": "My implementation of the transformer architecture from the Attention is All you need paper applied to time series.",
+      "stars": 321,
+      "source": "github"
+    },
+    {
+      "title": "Beomi/BitNet-Transformers",
+      "url": "https://github.com/Beomi/BitNet-Transformers",
+      "description": "0️⃣1️⃣🤗 BitNet-Transformers: Huggingface Transformers Implementation of \"BitNet: Scaling 1-bit Transformers for Large Language Models\" in pytorch with Llama(2) Architecture",
+      "stars": 313,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.339,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.05,
+      "star_power": 0.268,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

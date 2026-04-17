@@ -1,0 +1,280 @@
+{
+  "topic": "AI agents",
+  "timestamp": "2026-04-16T11:22:09.286699",
+  "findings": [
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "stars": 183463,
+      "source": "github"
+    },
+    {
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "stars": 146991,
+      "source": "github"
+    },
+    {
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "description": "Production-ready platform for agentic workflow development.",
+      "stars": 137933,
+      "source": "github"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "stars": 135257,
+      "source": "github"
+    },
+    {
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "description": "The agent engineering platform",
+      "stars": 133707,
+      "source": "github"
+    },
+    {
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "stars": 105766,
+      "source": "github"
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "stars": 101380,
+      "source": "github"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 90273,
+      "source": "github"
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "stars": 87998,
+      "source": "github"
+    },
+    {
+      "title": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "stars": 80465,
+      "source": "github"
+    },
+    {
+      "title": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stars": 78196,
+      "source": "github"
+    },
+    {
+      "title": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+      "stars": 75236,
+      "source": "github"
+    },
+    {
+      "title": "dair-ai/Prompt-Engineering-Guide",
+      "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+      "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+      "stars": 73364,
+      "source": "github"
+    },
+    {
+      "title": "karpathy/autoresearch",
+      "url": "https://github.com/karpathy/autoresearch",
+      "description": "AI agents running research on single-GPU nanochat training automatically",
+      "stars": 72891,
+      "source": "github"
+    },
+    {
+      "title": "FoundationAgents/MetaGPT",
+      "url": "https://github.com/FoundationAgents/MetaGPT",
+      "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+      "stars": 67119,
+      "source": "github"
+    },
+    {
+      "title": "OpenBB-finance/OpenBB",
+      "url": "https://github.com/OpenBB-finance/OpenBB",
+      "description": "Financial data platform for analysts, quants and AI agents.",
+      "stars": 65942,
+      "source": "github"
+    },
+    {
+      "title": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "stars": 58031,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/autogen",
+      "url": "https://github.com/microsoft/autogen",
+      "description": "A programming framework for agentic AI",
+      "stars": 57122,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "description": "12 Lessons to Get Started Building AI Agents",
+      "stars": 56758,
+      "source": "github"
+    },
+    {
+      "title": "mem0ai/mem0",
+      "url": "https://github.com/mem0ai/mem0",
+      "description": "Universal memory layer for AI Agents",
+      "stars": 53159,
+      "source": "github"
+    },
+    {
+      "title": "AI-assisted modeling and Bayesian inference of unpolarized quark transverse momentum distributions from Drell-Yan data",
+      "url": "http://arxiv.org/abs/2604.14133v1",
+      "abstract": "We present an extraction of unpolarized quark transverse-momentum-dependent parton distribution functions (TMD PDFs) from Drell-Yan data within a Bayesian inference framework, incorporating artificial intelligence at multiple stages of the analysis. Our analysis is performed at ${\\rm N^3LO}$ in pert",
+      "source": "arxiv"
+    },
+    {
+      "title": "AI-assisted writing and the reorganization of scientific knowledge",
+      "url": "http://arxiv.org/abs/2604.14126v1",
+      "abstract": "Generative AI systems such as ChatGPT are increasingly used in scientific writing, yet their broader implications for the organization of scientific knowledge remain unclear. We examine whether AI-assisted writing intensity, measured as the share of text in a paper that is predicted to exhibit featu",
+      "source": "arxiv"
+    },
+    {
+      "title": "TREX: Automating LLM Fine-tuning via Agent-Driven Tree-based Exploration",
+      "url": "http://arxiv.org/abs/2604.14116v1",
+      "abstract": "While Large Language Models (LLMs) have empowered AI research agents to perform isolated scientific tasks, automating complex, real-world workflows, such as LLM training, remains a significant challenge. In this paper, we introduce TREX, a multi-agent system that automates the entire LLM training li",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Epidemiology of Artificial Intelligence",
+      "url": "http://arxiv.org/abs/2604.14086v1",
+      "abstract": "Artificial intelligence (AI) systems increasingly shape how people access health information, make medical decisions, and receive care -- yet epidemiology lacks frameworks for measuring AI exposure or studying its health effects at the population level. Here we argue that AI now functions as a deter",
+      "source": "arxiv"
+    },
+    {
+      "title": "TIP: Token Importance in On-Policy Distillation",
+      "url": "http://arxiv.org/abs/2604.14084v1",
+      "abstract": "On-policy knowledge distillation (OPD) trains a student on its own rollouts under token-level supervision from a teacher. Not all token positions matter equally, but existing views of token importance are incomplete. We ask a direct question: which tokens carry the most useful learning signal in OPD",
+      "source": "arxiv"
+    },
+    {
+      "title": "Generative design of inorganic materials",
+      "url": "http://arxiv.org/abs/2604.14082v1",
+      "abstract": "Materials discovery is fundamental to advance next-generation technologies as well as for sustainable and circular economy. Beyond computational screening, generative models are efficient at finding materials with desired properties, via multi-modal learning using multiscale data. This perspective e",
+      "source": "arxiv"
+    },
+    {
+      "title": "From Disclosure to Self-Referential Opacity: Six Dimensions of Strain in Current AI Governance",
+      "url": "http://arxiv.org/abs/2604.14070v1",
+      "abstract": "Governance opacity over AI systems shifts in kind as capability asymmetry grows, and the strongest forms defeat the disclosure-based remedies governance ordinarily relies on. This paper applies a six-dimension framework from political theory (legitimacy, accountability, corrigibility, non-domination",
+      "source": "arxiv"
+    },
+    {
+      "title": "$π$-Play: Multi-Agent Self-Play via Privileged Self-Distillation without External Data",
+      "url": "http://arxiv.org/abs/2604.14054v1",
+      "abstract": "Deep search agents have emerged as a promising paradigm for addressing complex information-seeking tasks, but their training remains challenging due to sparse rewards, weak credit assignment, and limited labeled data. Self-play offers a scalable route to reduce data dependence, but conventional self",
+      "source": "arxiv"
+    },
+    {
+      "title": "Enhancing Local Life Service Recommendation with Agentic Reasoning in Large Language Model",
+      "url": "http://arxiv.org/abs/2604.14051v1",
+      "abstract": "Local life service recommendation is distinct from general recommendation scenarios due to its strong living need-driven nature. Fundamentally, accurately identifying a user's immediate living need and recommending the corresponding service are inextricably linked tasks. However, prior works typical",
+      "source": "arxiv"
+    },
+    {
+      "title": "Seek-and-Solve: Benchmarking MLLMs for Visual Clue-Driven Reasoning in Daily Scenarios",
+      "url": "http://arxiv.org/abs/2604.14041v1",
+      "abstract": "Daily scenarios are characterized by visual richness, requiring Multimodal Large Language Models (MLLMs) to filter noise and identify decisive visual clues for accurate reasoning. Yet, current benchmarks predominantly aim at evaluating MLLMs' pre-existing knowledge or perceptual understanding, often",
+      "source": "arxiv"
+    },
+    {
+      "title": "Large Language Models to Enhance Business Process Modeling: Past, Present, and Future Trends",
+      "url": "http://arxiv.org/abs/2604.14034v1",
+      "abstract": "Recent advances in Generative Artificial Intelligence, particularly Large Language Models (LLMs), have stimulated growing interest in automating or assisting Business Process Modeling tasks using natural language. Several approaches have been proposed to transform textual process descriptions into B",
+      "source": "arxiv"
+    },
+    {
+      "title": "POINTS-Seeker: Towards Training a Multimodal Agentic Search Model from Scratch",
+      "url": "http://arxiv.org/abs/2604.14029v1",
+      "abstract": "While Large Multimodal Models (LMMs) demonstrate impressive visual perception, they remain epistemically constrained by their static parametric knowledge. To transcend these boundaries, multimodal search models have been adopted to actively interact with the external environment for evidence retriev",
+      "source": "arxiv"
+    },
+    {
+      "title": "\"I'm Not Able to Be There for You\": Emotional Labour, Responsibility, and AI in Peer Support",
+      "url": "http://arxiv.org/abs/2604.14007v1",
+      "abstract": "Peer support is increasingly positioned as a scalable response to gaps in mental health care, particularly in digitally mediated settings, yet what counts as peer support and how responsibility is distributed remain unevenly defined in practice. Drawing on interviews with peer supporters, we show ho",
+      "source": "arxiv"
+    },
+    {
+      "title": "Memory Transfer Learning: How Memories are Transferred Across Domains in Coding Agents",
+      "url": "http://arxiv.org/abs/2604.14004v1",
+      "abstract": "Memory-based self-evolution has emerged as a promising paradigm for coding agents. However, existing approaches typically restrict memory utilization to homogeneous task domains, failing to leverage the shared infrastructural foundations, such as runtime environments and programming languages, that ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Acts of Configuration: Rethinking Provenance, Temporality and Legitimacy in Post-Mortem Agents",
+      "url": "http://arxiv.org/abs/2604.13996v1",
+      "abstract": "Work on persona-persistent post-mortem agents typically frames design around a life/death binary. This framing neglects a consequential yet under-theorised condition: when individuals remain alive but have impaired decisional capacity. Drawing on a multi-phase workshop in which participants trained ",
+      "source": "arxiv"
+    },
+    {
+      "title": "GEM3D CIM General Purpose Matrix Computation Using 3D Integrated SRAM eDRAM Hybrid Compute In Memory on Memory Architecture",
+      "url": "http://arxiv.org/abs/2604.13969v1",
+      "abstract": "With the rapid growth of deep neural networks (DNNs), compute-in-memory (CIM) has emerged as a promising energy-efficient paradigm for accelerating multiply-and-accumulate (MAC) operations. Yet, current CIM architectures are largely limited to dot-product computations and struggle to efficiently sup",
+      "source": "arxiv"
+    },
+    {
+      "title": "[Emerging Ideas] Artificial Tripartite Intelligence: A Bio-Inspired, Sensor-First Architecture for Physical AI",
+      "url": "http://arxiv.org/abs/2604.13959v1",
+      "abstract": "As AI moves from data centers to robots and wearables, scaling ever-larger models becomes insufficient. Physical AI operates under tight latency, energy, privacy, and reliability constraints, and its performance depends not only on model capacity but also on how signals are acquired through controll",
+      "source": "arxiv"
+    },
+    {
+      "title": "Creo: From One-Shot Image Generation to Progressive, Co-Creative Ideation",
+      "url": "http://arxiv.org/abs/2604.13956v1",
+      "abstract": "Text-to-image (T2I) systems enable rapid generation of high-fidelity imagery but are misaligned with how visual ideas develop. T2I systems generate outputs that make implicit visual decisions on behalf of the user, often introduce fine-grained details that can anchor users prematurely and limit thei",
+      "source": "arxiv"
+    },
+    {
+      "title": "Towards Personalizing Secure Programming Education with LLM-Injected Vulnerabilities",
+      "url": "http://arxiv.org/abs/2604.13955v1",
+      "abstract": "According to constructivist theory, students learn software security more effectively when examples are grounded in their own code. Generic examples often fail to connect with students' prior work, limiting engagement and understanding. Advances in LLMs are now making it possible to automatically ge",
+      "source": "arxiv"
+    },
+    {
+      "title": "HINTBench: Horizon-agent Intrinsic Non-attack Trajectory Benchmark",
+      "url": "http://arxiv.org/abs/2604.13954v1",
+      "abstract": "Existing agent-safety evaluation has focused mainly on externally induced risks. Yet agents may still enter unsafe trajectories under benign conditions. We study this complementary but underexplored setting through the lens of \\emph{intrinsic} risk, where intrinsic failures remain latent, propagate ",
+      "source": "arxiv"
+    }
+  ],
+  "quality": {
+    "total": 40,
+    "quality_score": 0.501,
+    "dimensions": {
+      "authority": 0.95,
+      "quality": 0.05,
+      "star_power": 0.507,
+      "diversity": 0.5
+    },
+    "sources_breakdown": {
+      "github": 20,
+      "arxiv": 20
+    }
+  }
+}

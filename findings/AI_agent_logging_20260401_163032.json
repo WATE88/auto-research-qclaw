@@ -1,0 +1,174 @@
+{
+  "topic": "AI agent logging",
+  "timestamp": "2026-04-01T16:30:32.658176",
+  "findings": [
+    {
+      "title": "pydantic/logfire",
+      "url": "https://github.com/pydantic/logfire",
+      "description": "AI observability platform for production LLM and agent systems.",
+      "stars": 4144,
+      "source": "github"
+    },
+    {
+      "title": "kite-org/kite",
+      "url": "https://github.com/kite-org/kite",
+      "description": "🪁 A lightweight, modern Kubernetes dashboard that unifies multi-cluster and resource management, enterprise-grade user governance (OAuth, RBAC, and audit logs), and AI agents in one workspace. Not just a tool, but more like a platform.",
+      "stars": 2466,
+      "source": "github"
+    },
+    {
+      "title": "RobotecAI/rai",
+      "url": "https://github.com/RobotecAI/rai",
+      "description": "RAI is a vendor agnostic agentic framework for Physical AI robotics, utilizing ROS 2 tools to perform complex actions, defined scenarios, free interface execution, log summaries, voice interaction and more.",
+      "stars": 480,
+      "source": "github"
+    },
+    {
+      "title": "instructa/browser-echo",
+      "url": "https://github.com/instructa/browser-echo",
+      "description": "⚡ Stream browser logs to terminal, zero setup, perfect for Ai Agents",
+      "stars": 299,
+      "source": "github"
+    },
+    {
+      "title": "avivl/claude-007-agents",
+      "url": "https://github.com/avivl/claude-007-agents",
+      "description": " 🤖 A unified AI agent orchestration system featuring 10's of specialized agents across 14 categories for modern software development. Built with advanced coordination intelligence, resilience engineering, and structured logging   capabilities.",
+      "stars": 246,
+      "source": "github"
+    },
+    {
+      "title": "cyanheads/git-mcp-server",
+      "url": "https://github.com/cyanheads/git-mcp-server",
+      "description": "An MCP (Model Context Protocol) server enabling LLMs and AI agents to interact with Git repositories. Provides tools for comprehensive Git operations including clone, commit, branch, diff, log, status, push, pull, merge, rebase, worktree, tag management, and more, via the MCP standard. STDIO & HTTP.",
+      "stars": 202,
+      "source": "github"
+    },
+    {
+      "title": "TYH-labs/unsloth-buddy",
+      "url": "https://github.com/TYH-labs/unsloth-buddy",
+      "description": "Zero-friction LLM fine-tuning skill for Claude Code, Gemini CLI & any ACP agent. Unsloth on NVIDIA · TRL+MPS/MLX on Apple Silicon. Automates env setup, LoRA training (SFT, DPO, GRPO, vision), post-hoc GRPO log diagnostics, evaluation, and export end-to-end. Part of the Gaslamp AI platform.",
+      "stars": 198,
+      "source": "github"
+    },
+    {
+      "title": "fuzzylabs/sre-agent",
+      "url": "https://github.com/fuzzylabs/sre-agent",
+      "description": "A Site Reliability Engineer AI agent that can monitor application and infrastructure logs, diagnose issues, and report on diagnostics.",
+      "stars": 180,
+      "source": "github"
+    },
+    {
+      "title": "SleuthCo/clawshield-public",
+      "url": "https://github.com/SleuthCo/clawshield-public",
+      "description": "Security proxy for AI agents. Scans every message for prompt injection, PII, and secrets. Defense-in-depth: Go proxy + iptables firewall + eBPF kernel monitor. YAML policy engine, audit logging, 5 AI agents with RAG knowledge bases.",
+      "stars": 122,
+      "source": "github"
+    },
+    {
+      "title": "adham90/ruby_llm-agents",
+      "url": "https://github.com/adham90/ruby_llm-agents",
+      "description": "A Rails agent framework for RubyLLM — define AI agents with prompts, schemas, caching, logging, cost tracking, and a built-in dashboard for monitoring LLM usage in production.",
+      "stars": 117,
+      "source": "github"
+    },
+    {
+      "title": "node9-ai/node9-proxy",
+      "url": "https://github.com/node9-ai/node9-proxy",
+      "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomous AI agents.",
+      "stars": 103,
+      "source": "github"
+    },
+    {
+      "title": "gillkyle/agent-tail",
+      "url": "https://github.com/gillkyle/agent-tail",
+      "description": "Pipe logs from all your dev servers into a single place accessible to your agents.",
+      "stars": 82,
+      "source": "github"
+    },
+    {
+      "title": "aws-solutions-library-samples/eks-troubleshooting-agentic-ai-chatops",
+      "url": "https://github.com/aws-solutions-library-samples/eks-troubleshooting-agentic-ai-chatops",
+      "description": "This Guidance demonstrates how to address the complexity of troubleshooting Amazon EKS environments with multiple metrics and logs by implementing an agentic AI workflow that uses generative AI with RAG-enabled knowledge bases and chat interfaces to accelerate problem diagnosis.",
+      "stars": 72,
+      "source": "github"
+    },
+    {
+      "title": "okwasniewski/react-native-logs-cli",
+      "url": "https://github.com/okwasniewski/react-native-logs-cli",
+      "description": "Allow your AI Agent to access React Native Metro Logs with a CLI",
+      "stars": 65,
+      "source": "github"
+    },
+    {
+      "title": "databuddy-analytics/better-analytics",
+      "url": "https://github.com/databuddy-analytics/better-analytics",
+      "description": "Track logs, errors, and 404 pages in minutes, not hours. AI-Native design, an agent with full context on your errors to help you debug and solve them, all made within 3 days for CustomHack hackathon",
+      "stars": 60,
+      "source": "github"
+    },
+    {
+      "title": "coding-by-feng/ai-agent-session-center",
+      "url": "https://github.com/coding-by-feng/ai-agent-session-center",
+      "description": "Real-time dashboard that turns AI coding agent sessions (Claude Code, Gemini CLI, Codex) into animated 3D robots — with live terminals, prompt history, tool logs, and queuing. Runs on any device.",
+      "stars": 54,
+      "source": "github"
+    },
+    {
+      "title": "prathushan/WP-Site-Inspector-Agent",
+      "url": "https://github.com/prathushan/WP-Site-Inspector-Agent",
+      "description": "Your WordPress debug & discovery co-pilot. Instantly uncover shortcodes, hooks, templates, REST APIs, and logs — with AI-powered code analysis, XLSX export, and smart error fixing. Just ask, and let AI suggest the fix. Built for devs, freelancers & agencies.",
+      "stars": 54,
+      "source": "github"
+    },
+    {
+      "title": "Lightning-AI/litAI",
+      "url": "https://github.com/Lightning-AI/litAI",
+      "description": "LLM router + minimal agent framework in one. Call any LLM API with OpenAI format. Unified billing, tools, retries, fallback, logging. Build agents and AI apps in pure Python. Full control. Zero magic.",
+      "stars": 49,
+      "source": "github"
+    },
+    {
+      "title": "panther-labs/mcp-panther",
+      "url": "https://github.com/panther-labs/mcp-panther",
+      "description": "Write detections, investigate alerts, and query logs from your favorite AI agents",
+      "stars": 42,
+      "source": "github"
+    },
+    {
+      "title": "FlowMetr/FlowMetr",
+      "url": "https://github.com/FlowMetr/FlowMetr",
+      "description": "Workflow, Pipeline & AI Agent Observability Platform. Metrics, logs and traces for all your automations.",
+      "stars": 41,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.409,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.0,
+      "star_power": 0.11,
+      "diversity": 0.0,
+      "usability": 0.1,
+      "applicability": 1.0,
+      "coverage": 1.0,
+      "ndcg": 0.632,
+      "map": 1.0,
+      "mrr": 1.0,
+      "rouge_1": 0.55,
+      "semantic_sim": 0.202,
+      "coherence": 0.108,
+      "task_completion": 0.542,
+      "tool_use": 0.105,
+      "reasoning_depth": 0.0,
+      "autonomy": 0.287,
+      "multi_agent": 0.035
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

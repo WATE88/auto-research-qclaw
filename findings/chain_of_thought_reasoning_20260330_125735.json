@@ -1,0 +1,159 @@
+{
+  "topic": "chain of thought reasoning",
+  "timestamp": "2026-03-30T12:57:35.242120",
+  "findings": [
+    {
+      "title": "amazon-science/mm-cot",
+      "url": "https://github.com/amazon-science/mm-cot",
+      "description": "Official implementation for \"Multimodal Chain-of-Thought Reasoning in Language Models\" (stay tuned and more will be updated)",
+      "stars": 3987,
+      "source": "github"
+    },
+    {
+      "title": "atfortes/Awesome-LLM-Reasoning",
+      "url": "https://github.com/atfortes/Awesome-LLM-Reasoning",
+      "description": "From Chain-of-Thought prompting to OpenAI o1 and DeepSeek-R1 🍓",
+      "stars": 3578,
+      "source": "github"
+    },
+    {
+      "title": "FranxYao/chain-of-thought-hub",
+      "url": "https://github.com/FranxYao/chain-of-thought-hub",
+      "description": "Benchmarking large language models' complex reasoning ability with chain-of-thought prompting",
+      "stars": 2770,
+      "source": "github"
+    },
+    {
+      "title": "griptape-ai/griptape",
+      "url": "https://github.com/griptape-ai/griptape",
+      "description": "Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory. ",
+      "stars": 2503,
+      "source": "github"
+    },
+    {
+      "title": "Timothyxxx/Chain-of-ThoughtsPapers",
+      "url": "https://github.com/Timothyxxx/Chain-of-ThoughtsPapers",
+      "description": "A trend starts from \"Chain of Thought Prompting Elicits Reasoning in Large Language Models\".",
+      "stars": 2102,
+      "source": "github"
+    },
+    {
+      "title": "cjo4m06/mcp-shrimp-task-manager",
+      "url": "https://github.com/cjo4m06/mcp-shrimp-task-manager",
+      "description": "Shrimp Task Manager is a task tool built for AI Agents, emphasizing chain-of-thought, reflection, and style consistency. It converts natural language into structured dev tasks with dependency tracking and iterative refinement, enabling agent-like developer behavior in reasoning AI systems.",
+      "stars": 2063,
+      "source": "github"
+    },
+    {
+      "title": "amazon-science/auto-cot",
+      "url": "https://github.com/amazon-science/auto-cot",
+      "description": "Official implementation for \"Automatic Chain of Thought Prompting in Large Language Models\" (stay tuned & more will be updated)",
+      "stars": 2021,
+      "source": "github"
+    },
+    {
+      "title": "a-real-ai/pywinassistant",
+      "url": "https://github.com/a-real-ai/pywinassistant",
+      "description": "The first open-source Artificial Narrow Intelligence generalist agentic framework Computer-Using-Agent that fully operates graphical-user-interfaces (GUIs) by using only natural language. Uses Visualization-of-Thought and Chain-of-Thought reasoning to elicit spatial reasoning and perception, emulates, plans and simulates synthetic HID interactions.",
+      "stars": 1332,
+      "source": "github"
+    },
+    {
+      "title": "FunAudioLLM/ThinkSound",
+      "url": "https://github.com/FunAudioLLM/ThinkSound",
+      "description": "[NeurIPS 2025] PyTorch implementation of [ThinkSound], a unified framework for generating audio from any modality, guided by Chain-of-Thought (CoT) reasoning.",
+      "stars": 1267,
+      "source": "github"
+    },
+    {
+      "title": "OpenBioLink/ThoughtSource",
+      "url": "https://github.com/OpenBioLink/ThoughtSource",
+      "description": "A central, open resource for data and tools related to chain-of-thought reasoning in large language models. Developed @ Samwald research group: https://samwald.info/",
+      "stars": 1014,
+      "source": "github"
+    },
+    {
+      "title": "yaotingwangofficial/Awesome-MCoT",
+      "url": "https://github.com/yaotingwangofficial/Awesome-MCoT",
+      "description": "Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey",
+      "stars": 968,
+      "source": "github"
+    },
+    {
+      "title": "nvidia-cosmos/cosmos-reason1",
+      "url": "https://github.com/nvidia-cosmos/cosmos-reason1",
+      "description": "Cosmos-Reason1 models understand the physical common sense and generate appropriate embodied decisions in natural language through long chain-of-thought reasoning processes.",
+      "stars": 928,
+      "source": "github"
+    },
+    {
+      "title": "AGI-Edgerunners/Plan-and-Solve-Prompting",
+      "url": "https://github.com/AGI-Edgerunners/Plan-and-Solve-Prompting",
+      "description": "Code for our ACL 2023 Paper \"Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models\".",
+      "stars": 723,
+      "source": "github"
+    },
+    {
+      "title": "LightChen233/Awesome-Long-Chain-of-Thought-Reasoning",
+      "url": "https://github.com/LightChen233/Awesome-Long-Chain-of-Thought-Reasoning",
+      "description": "Latest Advances on Long Chain-of-Thought Reasoning",
+      "stars": 620,
+      "source": "github"
+    },
+    {
+      "title": "zchuz/CoT-Reasoning-Survey",
+      "url": "https://github.com/zchuz/CoT-Reasoning-Survey",
+      "description": "[ACL 2024] A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future",
+      "stars": 497,
+      "source": "github"
+    },
+    {
+      "title": "deepcs233/Visual-CoT",
+      "url": "https://github.com/deepcs233/Visual-CoT",
+      "description": "[Neurips'24 Spotlight] Visual CoT: Advancing Multi-Modal Language Models with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning",
+      "stars": 440,
+      "source": "github"
+    },
+    {
+      "title": "Zoeyyao27/CoT-Igniting-Agent",
+      "url": "https://github.com/Zoeyyao27/CoT-Igniting-Agent",
+      "description": "This repository contains the paper list for the paper: Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents",
+      "stars": 365,
+      "source": "github"
+    },
+    {
+      "title": "nvidia-cosmos/cosmos-reason2",
+      "url": "https://github.com/nvidia-cosmos/cosmos-reason2",
+      "description": "Cosmos-Reason2 models understand the physical common sense and generate appropriate embodied decisions in natural language through long chain-of-thought reasoning processes.",
+      "stars": 312,
+      "source": "github"
+    },
+    {
+      "title": "PeterGriffinJin/Graph-CoT",
+      "url": "https://github.com/PeterGriffinJin/Graph-CoT",
+      "description": "Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs (ACL 2024)",
+      "stars": 304,
+      "source": "github"
+    },
+    {
+      "title": "StonyBrookNLP/ircot",
+      "url": "https://github.com/StonyBrookNLP/ircot",
+      "description": "Repository for Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions, ACL23",
+      "stars": 257,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.34,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.352,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

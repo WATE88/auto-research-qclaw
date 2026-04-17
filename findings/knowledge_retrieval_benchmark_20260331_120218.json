@@ -1,0 +1,183 @@
+{
+  "topic": "knowledge retrieval benchmark",
+  "timestamp": "2026-03-31T12:02:18.221072",
+  "findings": [
+    {
+      "title": "snap-stanford/stark",
+      "url": "https://github.com/snap-stanford/stark",
+      "description": "(NeurIPS D&B 2024) STaRK: Benchmarking LLM Retrieval on Textual and Relational Knowledge Bases ",
+      "stars": 331,
+      "updated_at": "2026-03-24T11:57:08Z",
+      "source": "github"
+    },
+    {
+      "title": "visual-rag/visual-rag",
+      "url": "https://github.com/visual-rag/visual-rag",
+      "description": "Repository for paper Visual-RAG: Benchmarking Text-to-Image Retrieval Augmented Generation for Visual Knowledge Intensive Queries",
+      "stars": 11,
+      "updated_at": "2025-12-10T15:37:19Z",
+      "source": "github"
+    },
+    {
+      "title": "xmpuspus/kb-arena",
+      "url": "https://github.com/xmpuspus/kb-arena",
+      "description": "Benchmark 7 retrieval strategies on your own docs — naive vector, contextual, QnA pairs, knowledge graph, RAPTOR, PageIndex, and hybrid. Find which KB architecture fits your data.",
+      "stars": 7,
+      "updated_at": "2026-03-30T06:41:44Z",
+      "source": "github"
+    },
+    {
+      "title": "junhongmit/HybridRAG-Bench",
+      "url": "https://github.com/junhongmit/HybridRAG-Bench",
+      "description": "HybridRAG-Bench is a reusable benchmark construction framework for evaluating retrieval-intensive, multi-hop reasoning over hybrid knowledge. It automatically builds coupled text and knowledge graph environments from time-framed corpora and generates diverse, path-grounded QA tasks to diagnose RAG and KG-RAG systems.",
+      "stars": 5,
+      "updated_at": "2026-03-17T10:50:39Z",
+      "source": "github"
+    },
+    {
+      "title": "velvetmonkey/flywheel-memory",
+      "url": "https://github.com/velvetmonkey/flywheel-memory",
+      "description": "MCP server giving AI a knowledge graph over Obsidian vaults. 13-layer scoring that learns. Local-first, zero cloud.",
+      "stars": 3,
+      "updated_at": "2026-03-31T00:00:14Z",
+      "source": "github"
+    },
+    {
+      "title": "LuciusLan/Visual-RAG",
+      "url": "https://github.com/LuciusLan/Visual-RAG",
+      "description": "Repository for our paper Visual-RAG: Benchmarking Text-to-Image Retrieval Augmented Generation for Visual Knowledge Intensive Queries",
+      "stars": 3,
+      "updated_at": "2025-12-03T16:20:48Z",
+      "source": "github"
+    },
+    {
+      "title": "Bruce-XJChen/MRBench",
+      "url": "https://github.com/Bruce-XJChen/MRBench",
+      "description": "MRBench: A Multi-Image Reasoning Benchmark with Adaptive Knowledge Retrieval",
+      "stars": 2,
+      "updated_at": "2026-03-12T04:47:07Z",
+      "source": "github"
+    },
+    {
+      "title": "g-aditi/vera",
+      "url": "https://github.com/g-aditi/vera",
+      "description": "Optimizing Knowledge Retrieval: A Benchmark-Driven Study of VecDB-RAG Integration",
+      "stars": 2,
+      "updated_at": "2024-09-10T16:10:58Z",
+      "source": "github"
+    },
+    {
+      "title": "predlico/ARAGOG-2",
+      "url": "https://github.com/predlico/ARAGOG-2",
+      "description": "ARAGOG 2: This project focuses on benchmarking knowledge graph based retrieval augmented generation (RAG) using a real world data-set.",
+      "stars": 2,
+      "updated_at": "2024-12-22T15:05:33Z",
+      "source": "github"
+    },
+    {
+      "title": "safishamsi/Knowledge-Graph-Based-Hybrid-RAG-System",
+      "url": "https://github.com/safishamsi/Knowledge-Graph-Based-Hybrid-RAG-System",
+      "description": "Knowledge Graph-RAG system using Neo4j, LangChain, LangGraph, Claude-3.5-Sonnet. Hybrid retrieval: SBERT embeddings + graph traversal + BM25. 61K papers, 190K authors from Scopus. 50% NDCG improvement, 57% bias reduction. Includes notebooks, evaluation scripts, benchmark queries. Python/Jupyter.",
+      "stars": 2,
+      "updated_at": "2025-12-17T12:12:20Z",
+      "source": "github"
+    },
+    {
+      "title": "charlesnchr/riddler-bench",
+      "url": "https://github.com/charlesnchr/riddler-bench",
+      "description": "Lightweight LLM benchmark with deliberately oblique, riddle-like questions. Questions are designed to test lateral thinking corresponding to multi-hop knowledge retrieval.",
+      "stars": 1,
+      "updated_at": "2026-02-22T22:25:31Z",
+      "source": "github"
+    },
+    {
+      "title": "RaphaelHaddad/Real-Time-Brain-Inspired-Video-Memory",
+      "url": "https://github.com/RaphaelHaddad/Real-Time-Brain-Inspired-Video-Memory",
+      "description": "Transform videos into dynamic, queryable knowledge graphs like a digital hippocampus! Use VLMs for chunked analysis, LLM injectors for triplet extraction, and ACS Automata for evolving neural-like networks. Real-time retrieval, benchmarking, and seamless collaboration via Neo4j exports.Modular Python pipeline: Mac/Linux/WSL-ready, Docker Neo4j.",
+      "stars": 1,
+      "updated_at": "2025-12-04T20:46:43Z",
+      "source": "github"
+    },
+    {
+      "title": "juliodondisch/equipade-component-retrieval-benchmark",
+      "url": "https://github.com/juliodondisch/equipade-component-retrieval-benchmark",
+      "description": "This repository contains Equipade's Component Retrieval Benchmark, a RAG system benchmark meant to test knowledge retrieval for accurate answers regarding vehicle and machine questions",
+      "stars": 0,
+      "updated_at": "2025-11-24T22:55:29Z",
+      "source": "github"
+    },
+    {
+      "title": "rbhardwaj2186/Vector-Database-Exploration-and-Benchmarking",
+      "url": "https://github.com/rbhardwaj2186/Vector-Database-Exploration-and-Benchmarking",
+      "description": "Enterprise-Ready Vector Database Exploration and Benchmarking for Knowledge Retrieval Systems",
+      "stars": 0,
+      "updated_at": "2024-10-30T21:52:00Z",
+      "source": "github"
+    },
+    {
+      "title": "nfemmanuel/iranti-benchmarking",
+      "url": "https://github.com/nfemmanuel/iranti-benchmarking",
+      "description": "Rigorous benchmarking program for Iranti — 11 benchmark tracks across retrieval, memory, multi-agent, and knowledge management.",
+      "stars": 0,
+      "updated_at": "2026-03-22T02:42:58Z",
+      "source": "github"
+    },
+    {
+      "title": "Yiming1220/RAG-knowledge-base",
+      "url": "https://github.com/Yiming1220/RAG-knowledge-base",
+      "description": "RAG (Retrieval-Augmented Generation) QA system for a model agency, comparing pure LLM vs RAG with TF-IDF retrieval, cosine similarity search, and benchmark analysis.",
+      "stars": 0,
+      "updated_at": "2026-03-27T08:29:44Z",
+      "source": "github"
+    },
+    {
+      "title": "MatSourceAI/Rag_benchmark_SSE_O310",
+      "url": "https://github.com/MatSourceAI/Rag_benchmark_SSE_O310",
+      "description": "Impacts of Retrieval-Augmented Generation Pipeline Configuration on Knowledge Extraction for Solid-State Electrolyte Research",
+      "stars": 0,
+      "updated_at": "2026-03-02T06:00:31Z",
+      "source": "github"
+    },
+    {
+      "title": "khtut17/GNN-Enhanced-RAG",
+      "url": "https://github.com/khtut17/GNN-Enhanced-RAG",
+      "description": "Code and benchmark for \"GNN-Enhanced RAG: Structured Retrieval via Neural Graph Traversal for Knowledge-Augmented Generation\" (ANTIC 2025)",
+      "stars": 0,
+      "updated_at": "2025-10-16T21:31:08Z",
+      "source": "github"
+    },
+    {
+      "title": "miharcan/signal-aware-rag",
+      "url": "https://github.com/miharcan/signal-aware-rag",
+      "description": "Signal-aware Retrieval-Augmented Generation (RAG) with knowledge graph conditioning, agent-based reasoning, and evaluation benchmarks for financial intelligence queries.",
+      "stars": 0,
+      "updated_at": "2026-03-05T11:43:24Z",
+      "source": "github"
+    },
+    {
+      "title": "ansh-info/stark-agent",
+      "url": "https://github.com/ansh-info/stark-agent",
+      "description": "STaRK: Agentic AI benchmark, which is designed to evaluate how well LLMs and retrieval systems work with semi-structured knowledge bases.",
+      "stars": 0,
+      "updated_at": "2025-02-27T23:58:16Z",
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.58,
+    "grade": "B",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.95,
+      "star_power": 0.093,
+      "diversity": 0.0,
+      "usability": 0.0,
+      "applicability": 0.975,
+      "coverage": 1.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "topic": "attention mechanism",
+  "timestamp": "2026-03-30T15:43:58.268816",
+  "findings": [
+    {
+      "title": "xmu-xiaoma666/External-Attention-pytorch",
+      "url": "https://github.com/xmu-xiaoma666/External-Attention-pytorch",
+      "description": "🍀 Pytorch implementation of various Attention Mechanisms, MLP, Re-parameter, Convolution, which is helpful to further understand papers.⭐⭐⭐",
+      "stars": 12169,
+      "source": "github"
+    },
+    {
+      "title": "shaoanlu/faceswap-GAN",
+      "url": "https://github.com/shaoanlu/faceswap-GAN",
+      "description": "A denoising autoencoder + adversarial losses and attention mechanisms for face swapping.",
+      "stars": 3420,
+      "source": "github"
+    },
+    {
+      "title": "gordicaleksa/pytorch-GAT",
+      "url": "https://github.com/gordicaleksa/pytorch-GAT",
+      "description": "My implementation of the original GAT paper (Veličković et al.). I've additionally included the playground.py file for visualizing the Cora dataset, GAT embeddings, an attention mechanism, and entropy histograms. I've supported both Cora (transductive) and PPI (inductive) examples!",
+      "stars": 2659,
+      "source": "github"
+    },
+    {
+      "title": "allenai/bi-att-flow",
+      "url": "https://github.com/allenai/bi-att-flow",
+      "description": "Bi-directional Attention Flow (BiDAF) network is a multi-stage hierarchical process that represents context at different levels of granularity and uses a bi-directional attention flow mechanism to achieve a query-aware context representation without early summarization.",
+      "stars": 1541,
+      "source": "github"
+    },
+    {
+      "title": "pprp/awesome-attention-mechanism-in-cv",
+      "url": "https://github.com/pprp/awesome-attention-mechanism-in-cv",
+      "description": "Awesome List of Attention Modules and Plug&Play Modules in Computer Vision",
+      "stars": 1262,
+      "source": "github"
+    },
+    {
+      "title": "The-AI-Summer/self-attention-cv",
+      "url": "https://github.com/The-AI-Summer/self-attention-cv",
+      "description": "Implementation of various self-attention mechanisms focused on computer vision. Ongoing repository. ",
+      "stars": 1215,
+      "source": "github"
+    },
+    {
+      "title": "cedrickchee/awesome-transformer-nlp",
+      "url": "https://github.com/cedrickchee/awesome-transformer-nlp",
+      "description": "A curated list of NLP resources focused on Transformer networks, attention mechanism, GPT, BERT, ChatGPT, LLMs, and transfer learning.",
+      "stars": 1134,
+      "source": "github"
+    },
+    {
+      "title": "datalogue/keras-attention",
+      "url": "https://github.com/datalogue/keras-attention",
+      "description": "Visualizing RNNs using the attention mechanism",
+      "stars": 749,
+      "source": "github"
+    },
+    {
+      "title": "ilivans/tf-rnn-attention",
+      "url": "https://github.com/ilivans/tf-rnn-attention",
+      "description": "Tensorflow implementation of attention mechanism for text classification tasks.",
+      "stars": 746,
+      "source": "github"
+    },
+    {
+      "title": "ottokart/punctuator2",
+      "url": "https://github.com/ottokart/punctuator2",
+      "description": "A bidirectional recurrent neural network model with attention mechanism for restoring missing punctuation in unsegmented text",
+      "stars": 683,
+      "source": "github"
+    },
+    {
+      "title": "CyberZHG/keras-self-attention",
+      "url": "https://github.com/CyberZHG/keras-self-attention",
+      "description": "Attention mechanism for processing sequential data that considers the context for each timestamp.",
+      "stars": 657,
+      "source": "github"
+    },
+    {
+      "title": "YudeWang/SEAM",
+      "url": "https://github.com/YudeWang/SEAM",
+      "description": "Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation, CVPR 2020 (Oral)",
+      "stars": 551,
+      "source": "github"
+    },
+    {
+      "title": "changzy00/pytorch-attention",
+      "url": "https://github.com/changzy00/pytorch-attention",
+      "description": " 🦖Pytorch implementation of popular Attention Mechanisms, Vision Transformers, MLP-Like models and CNNs.🔥🔥🔥",
+      "stars": 541,
+      "source": "github"
+    },
+    {
+      "title": "ZhugeKongan/Attention-mechanism-implementation",
+      "url": "https://github.com/ZhugeKongan/Attention-mechanism-implementation",
+      "description": "Self-attention、Non-local、SE、SK、CBAM、DANet",
+      "stars": 494,
+      "source": "github"
+    },
+    {
+      "title": "takara-ai/go-attention",
+      "url": "https://github.com/takara-ai/go-attention",
+      "description": "A full attention mechanism and transformer in pure go.",
+      "stars": 451,
+      "source": "github"
+    },
+    {
+      "title": "uzaymacar/attention-mechanisms",
+      "url": "https://github.com/uzaymacar/attention-mechanisms",
+      "description": "Implementations for a family of attention mechanisms, suitable for all kinds of natural language processing tasks and compatible with TensorFlow 2.0 and Keras.",
+      "stars": 375,
+      "source": "github"
+    },
+    {
+      "title": "wqk666999/CNN-LSTM-Attention",
+      "url": "https://github.com/wqk666999/CNN-LSTM-Attention",
+      "description": "使用卷积神经网络-长短期记忆网络（bi-LSTM）-注意力机制对股票收盘价进行回归预测。The convolution neural network, short-term memory network and attention mechanism are used to predict the closing price.",
+      "stars": 315,
+      "source": "github"
+    },
+    {
+      "title": "levimcclenny/SA-PINNs",
+      "url": "https://github.com/levimcclenny/SA-PINNs",
+      "description": "Implementation of the paper \"Self-Adaptive Physics-Informed Neural Networks using a Soft Attention Mechanism\" [AAAI-MLPS 2021]",
+      "stars": 284,
+      "source": "github"
+    },
+    {
+      "title": "liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism",
+      "url": "https://github.com/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism",
+      "description": "基于注意力机制的少量样本故障诊断  pytorch",
+      "stars": 283,
+      "source": "github"
+    },
+    {
+      "title": "cbaziotis/neat-vision",
+      "url": "https://github.com/cbaziotis/neat-vision",
+      "description": "Neat (Neural Attention) Vision, is a visualization tool for the attention mechanisms of deep-learning models for Natural Language Processing (NLP) tasks. (framework-agnostic)",
+      "stars": 251,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.294,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.122,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

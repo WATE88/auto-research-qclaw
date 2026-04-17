@@ -1,0 +1,280 @@
+{
+  "topic": "LLM optimization",
+  "timestamp": "2026-04-07T11:37:30.720370",
+  "findings": [
+    {
+      "title": "affaan-m/everything-claude-code",
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 143058,
+      "source": "github"
+    },
+    {
+      "title": "ray-project/ray",
+      "url": "https://github.com/ray-project/ray",
+      "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+      "stars": 41974,
+      "source": "github"
+    },
+    {
+      "title": "mlflow/mlflow",
+      "url": "https://github.com/mlflow/mlflow",
+      "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.",
+      "stars": 25160,
+      "source": "github"
+    },
+    {
+      "title": "emcie-co/parlant",
+      "url": "https://github.com/emcie-co/parlant",
+      "description": "The conversational control layer for customer-facing AI agents - Parlant is a context-engineering framework optimized for controlling customer interactions.",
+      "stars": 17874,
+      "source": "github"
+    },
+    {
+      "title": "kvcache-ai/ktransformers",
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "stars": 16904,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/TensorRT-LLM",
+      "url": "https://github.com/NVIDIA/TensorRT-LLM",
+      "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+      "stars": 13303,
+      "source": "github"
+    },
+    {
+      "title": "tensorzero/tensorzero",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "description": "TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.",
+      "stars": 11186,
+      "source": "github"
+    },
+    {
+      "title": "krillinai/KrillinAI",
+      "url": "https://github.com/krillinai/KrillinAI",
+      "description": "Video translation and dubbing tool powered by LLMs. The video translator offers 100 language translations and one-click full-process deployment. The video translation output is optimized for platforms like YouTube，TikTok.   AI视频翻译配音工具，100种语言双向翻译，一键部署全流程，可以生抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube等形态的内容成适配",
+      "stars": 9821,
+      "source": "github"
+    },
+    {
+      "title": "Marker-Inc-Korea/AutoRAG",
+      "url": "https://github.com/Marker-Inc-Korea/AutoRAG",
+      "description": "AutoRAG: An Open-Source Framework for Retrieval-Augmented Generation (RAG) Evaluation & Optimization with AutoML-Style Automation",
+      "stars": 4686,
+      "source": "github"
+    },
+    {
+      "title": "SylphAI-Inc/AdalFlow",
+      "url": "https://github.com/SylphAI-Inc/AdalFlow",
+      "description": "AdalFlow: The library to build & auto-optimize LLM applications.",
+      "stars": 4096,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/GenerativeAIExamples",
+      "url": "https://github.com/NVIDIA/GenerativeAIExamples",
+      "description": "Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.",
+      "stars": 3900,
+      "source": "github"
+    },
+    {
+      "title": "algorithmicsuperintelligence/optillm",
+      "url": "https://github.com/algorithmicsuperintelligence/optillm",
+      "description": "Optimizing inference proxy for LLMs",
+      "stars": 3413,
+      "source": "github"
+    },
+    {
+      "title": "lemonade-sdk/lemonade",
+      "url": "https://github.com/lemonade-sdk/lemonade",
+      "description": "Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk",
+      "stars": 3330,
+      "source": "github"
+    },
+    {
+      "title": "vllm-project/llm-compressor",
+      "url": "https://github.com/vllm-project/llm-compressor",
+      "description": "Transformers-compatible library for applying various compression algorithms to LLMs for optimized deployment with vLLM",
+      "stars": 2979,
+      "source": "github"
+    },
+    {
+      "title": "BBuf/how-to-optim-algorithm-in-cuda",
+      "url": "https://github.com/BBuf/how-to-optim-algorithm-in-cuda",
+      "description": "how to optimize some algorithm in cuda.",
+      "stars": 2910,
+      "source": "github"
+    },
+    {
+      "title": "can1357/oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 2712,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "stars": 2385,
+      "source": "github"
+    },
+    {
+      "title": "langfengQ/verl-agent",
+      "url": "https://github.com/langfengQ/verl-agent",
+      "description": "verl-agent is an extension of veRL, designed for training LLM/VLM agents via RL. verl-agent is also the official code for paper \"Group-in-Group Policy Optimization for LLM Agent Training\"",
+      "stars": 1775,
+      "source": "github"
+    },
+    {
+      "title": "facebookresearch/MobileLLM",
+      "url": "https://github.com/facebookresearch/MobileLLM",
+      "description": "MobileLLM Optimizing Sub-billion Parameter Language Models for On-Device Use Cases. In ICML 2024.",
+      "stars": 1420,
+      "source": "github"
+    },
+    {
+      "title": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "The Context Optimization Layer for LLM Applications",
+      "stars": 1195,
+      "source": "github"
+    },
+    {
+      "title": "Beyond the Final Actor: Modeling the Dual Roles of Creator and Editor for Fine-Grained LLM-Generated Text Detection",
+      "url": "http://arxiv.org/abs/2604.04932v1",
+      "abstract": "The misuse of large language models (LLMs) requires precise detection of synthetic text. Existing works mainly follow binary or ternary classification settings, which can only distinguish pure human/LLM text or collaborative text at best. This remains insufficient for the nuanced regulation, as the ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Rethinking Model Efficiency: Multi-Agent Inference with Large Models",
+      "url": "http://arxiv.org/abs/2604.04929v1",
+      "abstract": "Most vision-language models (VLMs) apply a large language model (LLM) as the decoder, where the response tokens are generated sequentially through autoregression. Therefore, the number of output tokens can be the bottleneck of the end-to-end latency. However, different models may require vastly diff",
+      "source": "arxiv"
+    },
+    {
+      "title": "Your Pre-trained Diffusion Model Secretly Knows Restoration",
+      "url": "http://arxiv.org/abs/2604.04924v1",
+      "abstract": "Pre-trained diffusion models have enabled significant advancements in All-in-One Restoration (AiOR), offering improved perceptual quality and generalization. However, diffusion-based restoration methods primarily rely on fine-tuning or Control-Net style modules to leverage the pre-trained diffusion ",
+      "source": "arxiv"
+    },
+    {
+      "title": "TriAttention: Efficient Long Reasoning with Trigonometric KV Compression",
+      "url": "http://arxiv.org/abs/2604.04921v1",
+      "abstract": "Extended reasoning in large language models (LLMs) creates severe KV cache memory bottlenecks. Leading KV cache compression methods estimate KV importance using attention scores from recent post-RoPE queries. However, queries rotate with position during RoPE, making representative queries very few, ",
+      "source": "arxiv"
+    },
+    {
+      "title": "PINNs in PDE Constrained Optimal Control Problems: Direct vs Indirect Methods",
+      "url": "http://arxiv.org/abs/2604.04920v1",
+      "abstract": "We study physics-informed neural networks (PINNs) as numerical tools for the optimal control of semilinear partial differential equations. We first recall the classical direct and indirect viewpoints for optimal control of PDEs, and then present two PINN formulations: a direct formulation based on m",
+      "source": "arxiv"
+    },
+    {
+      "title": "Comparing Human Oversight Strategies for Computer-Use Agents",
+      "url": "http://arxiv.org/abs/2604.04918v1",
+      "abstract": "LLM-powered computer-use agents (CUAs) are shifting users from direct manipulation to supervisory coordination. Existing oversight mechanisms, however, have largely been studied as isolated interface features, making broader oversight strategies difficult to compare. We conceptualize CUA oversight a",
+      "source": "arxiv"
+    },
+    {
+      "title": "Exploring Expert Perspectives on Wearable-Triggered LLM Conversational Support for Daily Stress Management",
+      "url": "http://arxiv.org/abs/2604.04915v1",
+      "abstract": "Wearable devices increasingly support stress detection, while LLMs enable conversational mental health support. However, designing systems that meaningfully connect wearable-triggered stress events with generative dialogue remains underexplored, particularly from a design perspective. We present EmB",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens",
+      "url": "http://arxiv.org/abs/2604.04913v1",
+      "abstract": "Anticipating diverse future states is a central challenge in video world modeling. Discriminative world models produce a deterministic prediction that implicitly averages over possible futures, while existing generative world models remain computationally expensive. Recent work demonstrates that pre",
+      "source": "arxiv"
+    },
+    {
+      "title": "Maximally localized modes of a multimode fiber",
+      "url": "http://arxiv.org/abs/2604.04903v1",
+      "abstract": "This article presents an optimization method to find the most spatially concentrated basis of a multimode fiber, obtained by minimizing the sum of the spatial spreads of the individual modes over all unitary transformations of a given orthonormal mode set. The resulting modes are the optical analogu",
+      "source": "arxiv"
+    },
+    {
+      "title": "Agentic Federated Learning: The Future of Distributed Training Orchestration",
+      "url": "http://arxiv.org/abs/2604.04895v1",
+      "abstract": "Although Federated Learning (FL) promises privacy and distributed collaboration, its effectiveness in real-world scenarios is often hampered by the stochastic heterogeneity of clients and unpredictable system dynamics. Existing static optimization approaches fail to adapt to these fluctuations, resu",
+      "source": "arxiv"
+    },
+    {
+      "title": "Rethinking Exploration in RLVR: From Entropy Regularization to Refinement via Bidirectional Entropy Modulation",
+      "url": "http://arxiv.org/abs/2604.04894v1",
+      "abstract": "Reinforcement learning with verifiable rewards (RLVR) has significantly advanced the reasoning capabilities of large language models (LLMs). However, it faces a fundamental limitation termed \\textit{restricted exploration}, where the policy rapidly converges to a narrow set of solutions. While entro",
+      "source": "arxiv"
+    },
+    {
+      "title": "Query Optimization and Evaluation via Information Theory: A Tutorial",
+      "url": "http://arxiv.org/abs/2604.04893v1",
+      "abstract": "Database theory is exciting because it studies highly general and practically useful abstractions. Conjunctive query (CQ) evaluation is a prime example: it simultaneously generalizes graph pattern matching, constraint satisfaction, and statistical inference, among others. This generality is both the",
+      "source": "arxiv"
+    },
+    {
+      "title": "Muon Dynamics as a Spectral Wasserstein Flow",
+      "url": "http://arxiv.org/abs/2604.04891v1",
+      "abstract": "Gradient normalization is central in deep-learning optimization because it stabilizes training and reduces sensitivity to scale. For deep architectures, parameters are naturally grouped into matrices or blocks, so spectral normalizations are often more faithful than coordinatewise Euclidean ones; Mu",
+      "source": "arxiv"
+    },
+    {
+      "title": "DIRECT: Video Mashup Creation via Hierarchical Multi-Agent Planning and Intent-Guided Editing",
+      "url": "http://arxiv.org/abs/2604.04875v1",
+      "abstract": "Video mashup creation represents a complex video editing paradigm that recomposes existing footage to craft engaging audio-visual experiences, demanding intricate orchestration across semantic, visual, and auditory dimensions and multiple levels. However, existing automated editing frameworks often ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Optimizing LLM Prompt Engineering with DSPy Based Declarative Learning",
+      "url": "http://arxiv.org/abs/2604.04869v1",
+      "abstract": "Large Language Models (LLMs) have shown strong performance across a wide range of natural language processing tasks; however, their effectiveness is highly dependent on prompt design, structure, and embedded reasoning signals. Conventional prompt engineering methods largely rely on heuristic trial-a",
+      "source": "arxiv"
+    },
+    {
+      "title": "Noise Immunity in In-Context Tabular Learning: An Empirical Robustness Analysis of TabPFN's Attention Mechanisms",
+      "url": "http://arxiv.org/abs/2604.04868v1",
+      "abstract": "Tabular foundation models (TFMs) such as TabPFN (Tabular Prior-Data Fitted Network) are designed to generalize across heterogeneous tabular datasets through in-context learning (ICL). They perform prediction in a single forward pass conditioned on labeled examples without dataset-specific parameter ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Unified Vector Floorplan Generation via Markup Representation",
+      "url": "http://arxiv.org/abs/2604.04859v1",
+      "abstract": "Automatic residential floorplan generation has long been a central challenge bridging architecture and computer graphics, aiming to make spatial design more efficient and accessible. While early methods based on constraint satisfaction or combinatorial optimization ensure feasibility, they lack dive",
+      "source": "arxiv"
+    },
+    {
+      "title": "Assessing Large Language Models for Stabilizing Numerical Expression in Scientific Software",
+      "url": "http://arxiv.org/abs/2604.04854v1",
+      "abstract": "Scientific software relies on high-precision computation, yet finite floating-point representations can introduce precision errors that propagate in safety-critical domains. Despite the growing use of large language models (LLMs) in scientific applications, their reliability in handling floating-poi",
+      "source": "arxiv"
+    },
+    {
+      "title": "MemMachine: A Ground-Truth-Preserving Memory System for Personalized AI Agents",
+      "url": "http://arxiv.org/abs/2604.04853v1",
+      "abstract": "Large Language Model (LLM) agents require persistent memory to maintain personalization, factual continuity, and long-horizon reasoning, yet standard context-window and retrieval-augmented generation (RAG) pipelines degrade over multi-session interactions. We present MemMachine, an open-source memor",
+      "source": "arxiv"
+    },
+    {
+      "title": "Strengthening Human-Centric Chain-of-Thought Reasoning Integrity in LLMs via a Structured Prompt Framework",
+      "url": "http://arxiv.org/abs/2604.04852v1",
+      "abstract": "Chain-of-Thought (CoT) prompting has been used to enhance the reasoning capability of LLMs. However, its reliability in security-sensitive analytical tasks remains insufficiently examined, particularly under structured human evaluation. Alternative approaches, such as model scaling and fine-tuning c",
+      "source": "arxiv"
+    }
+  ],
+  "quality": {
+    "total": 40,
+    "quality_score": 0.407,
+    "dimensions": {
+      "authority": 0.95,
+      "quality": 0.0,
+      "star_power": 0.11,
+      "diversity": 0.5
+    },
+    "sources_breakdown": {
+      "github": 20,
+      "arxiv": 20
+    }
+  }
+}

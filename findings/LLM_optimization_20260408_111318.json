@@ -1,0 +1,280 @@
+{
+  "topic": "LLM optimization",
+  "timestamp": "2026-04-08T11:13:18.096453",
+  "findings": [
+    {
+      "title": "affaan-m/everything-claude-code",
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 145044,
+      "source": "github"
+    },
+    {
+      "title": "ray-project/ray",
+      "url": "https://github.com/ray-project/ray",
+      "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+      "stars": 42007,
+      "source": "github"
+    },
+    {
+      "title": "mlflow/mlflow",
+      "url": "https://github.com/mlflow/mlflow",
+      "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.",
+      "stars": 25188,
+      "source": "github"
+    },
+    {
+      "title": "emcie-co/parlant",
+      "url": "https://github.com/emcie-co/parlant",
+      "description": "The conversational control layer for customer-facing AI agents - Parlant is a context-engineering framework optimized for controlling customer interactions.",
+      "stars": 17876,
+      "source": "github"
+    },
+    {
+      "title": "kvcache-ai/ktransformers",
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "stars": 16915,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/TensorRT-LLM",
+      "url": "https://github.com/NVIDIA/TensorRT-LLM",
+      "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+      "stars": 13317,
+      "source": "github"
+    },
+    {
+      "title": "tensorzero/tensorzero",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "description": "TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.",
+      "stars": 11191,
+      "source": "github"
+    },
+    {
+      "title": "krillinai/KrillinAI",
+      "url": "https://github.com/krillinai/KrillinAI",
+      "description": "Video translation and dubbing tool powered by LLMs. The video translator offers 100 language translations and one-click full-process deployment. The video translation output is optimized for platforms like YouTube，TikTok.   AI视频翻译配音工具，100种语言双向翻译，一键部署全流程，可以生抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube等形态的内容成适配",
+      "stars": 9826,
+      "source": "github"
+    },
+    {
+      "title": "Marker-Inc-Korea/AutoRAG",
+      "url": "https://github.com/Marker-Inc-Korea/AutoRAG",
+      "description": "AutoRAG: An Open-Source Framework for Retrieval-Augmented Generation (RAG) Evaluation & Optimization with AutoML-Style Automation",
+      "stars": 4687,
+      "source": "github"
+    },
+    {
+      "title": "SylphAI-Inc/AdalFlow",
+      "url": "https://github.com/SylphAI-Inc/AdalFlow",
+      "description": "AdalFlow: The library to build & auto-optimize LLM applications.",
+      "stars": 4096,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/GenerativeAIExamples",
+      "url": "https://github.com/NVIDIA/GenerativeAIExamples",
+      "description": "Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.",
+      "stars": 3904,
+      "source": "github"
+    },
+    {
+      "title": "algorithmicsuperintelligence/optillm",
+      "url": "https://github.com/algorithmicsuperintelligence/optillm",
+      "description": "Optimizing inference proxy for LLMs",
+      "stars": 3413,
+      "source": "github"
+    },
+    {
+      "title": "lemonade-sdk/lemonade",
+      "url": "https://github.com/lemonade-sdk/lemonade",
+      "description": "Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk",
+      "stars": 3368,
+      "source": "github"
+    },
+    {
+      "title": "vllm-project/llm-compressor",
+      "url": "https://github.com/vllm-project/llm-compressor",
+      "description": "Transformers-compatible library for applying various compression algorithms to LLMs for optimized deployment with vLLM",
+      "stars": 2986,
+      "source": "github"
+    },
+    {
+      "title": "BBuf/how-to-optim-algorithm-in-cuda",
+      "url": "https://github.com/BBuf/how-to-optim-algorithm-in-cuda",
+      "description": "how to optimize some algorithm in cuda.",
+      "stars": 2909,
+      "source": "github"
+    },
+    {
+      "title": "can1357/oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 2745,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "stars": 2397,
+      "source": "github"
+    },
+    {
+      "title": "langfengQ/verl-agent",
+      "url": "https://github.com/langfengQ/verl-agent",
+      "description": "verl-agent is an extension of veRL, designed for training LLM/VLM agents via RL. verl-agent is also the official code for paper \"Group-in-Group Policy Optimization for LLM Agent Training\"",
+      "stars": 1778,
+      "source": "github"
+    },
+    {
+      "title": "facebookresearch/MobileLLM",
+      "url": "https://github.com/facebookresearch/MobileLLM",
+      "description": "MobileLLM Optimizing Sub-billion Parameter Language Models for On-Device Use Cases. In ICML 2024.",
+      "stars": 1420,
+      "source": "github"
+    },
+    {
+      "title": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "The Context Optimization Layer for LLM Applications",
+      "stars": 1215,
+      "source": "github"
+    },
+    {
+      "title": "Paper Circle: An Open-source Multi-agent Research Discovery and Analysis Framework",
+      "url": "http://arxiv.org/abs/2604.06170v1",
+      "abstract": "The rapid growth of scientific literature has made it increasingly difficult for researchers to efficiently discover, evaluate, and synthesize relevant work. Recent advances in multi-agent large language models (LLMs) have demonstrated strong potential for understanding user intent and are being tra",
+      "source": "arxiv"
+    },
+    {
+      "title": "In-Place Test-Time Training",
+      "url": "http://arxiv.org/abs/2604.06169v1",
+      "abstract": "The static ``train then deploy\" paradigm fundamentally limits Large Language Models (LLMs) from dynamically adapting their weights in response to continuous streams of new information inherent in real-world tasks. Test-Time Training (TTT) offers a compelling alternative by updating a subset of model",
+      "source": "arxiv"
+    },
+    {
+      "title": "Data, Not Model: Explaining Bias toward LLM Texts in Neural Retrievers",
+      "url": "http://arxiv.org/abs/2604.06163v1",
+      "abstract": "Recent studies show that neural retrievers often display source bias, favoring passages generated by LLMs over human-written ones, even when both are semantically similar. This bias has been considered an inherent flaw of retrievers, raising concerns about the fairness and reliability of modern info",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Character Error Vector: Decomposable errors for page-level OCR evaluation",
+      "url": "http://arxiv.org/abs/2604.06160v1",
+      "abstract": "The Character Error Rate (CER) is a key metric for evaluating the quality of Optical Character Recognition (OCR). However, this metric assumes that text has been perfectly parsed, which is often not the case. Under page-parsing errors, CER becomes undefined, limiting its use as a metric and making e",
+      "source": "arxiv"
+    },
+    {
+      "title": "Target Policy Optimization",
+      "url": "http://arxiv.org/abs/2604.06159v1",
+      "abstract": "In RL, given a prompt, we sample a group of completions from a model and score them. Two questions follow: which completions should gain probability mass, and how should the parameters move to realize that change? Standard policy-gradient methods answer both at once, so the update can overshoot or u",
+      "source": "arxiv"
+    },
+    {
+      "title": "Distributionally Robust Regret Optimal LQR with Common Stage-Law Ambiguity",
+      "url": "http://arxiv.org/abs/2604.06158v1",
+      "abstract": "We study, to our knowledge, the first tractable multistage ex-ante distributionally robust regret optimization (DRRO) formulation for stochastic control. We consider finite-horizon LQR under common stage-law ambiguity: disturbances are independent across time but share an unknown stage law whose mea",
+      "source": "arxiv"
+    },
+    {
+      "title": "Toward Consistent World Models with Multi-Token Prediction and Latent Semantic Enhancement",
+      "url": "http://arxiv.org/abs/2604.06155v1",
+      "abstract": "Whether Large Language Models (LLMs) develop coherent internal world models remains a core debate. While conventional Next-Token Prediction (NTP) focuses on one-step-ahead supervision, Multi-Token Prediction (MTP) has shown promise in learning more structured representations. In this work, we provid",
+      "source": "arxiv"
+    },
+    {
+      "title": "Exclusive Unlearning",
+      "url": "http://arxiv.org/abs/2604.06154v1",
+      "abstract": "When introducing Large Language Models (LLMs) into industrial applications, such as healthcare and education, the risk of generating harmful content becomes a significant challenge. While existing machine unlearning methods can erase specific harmful knowledge and expressions, diverse harmful conten",
+      "source": "arxiv"
+    },
+    {
+      "title": "Solving the Peierls-Boltzmann transport equation with matrix product states",
+      "url": "http://arxiv.org/abs/2604.06153v1",
+      "abstract": "The Peierls-Boltzmann transport equation (PBE), which governs non-equilibrium phonon transport, suffers from the curse of dimensionality due to its high-dimensional phase space including both real and modal spaces. We explore the use of matrix product states (MPS) for numerical simulation of the PBE",
+      "source": "arxiv"
+    },
+    {
+      "title": "Generating Synthetic Doctor-Patient Conversations for Long-form Audio Summarization",
+      "url": "http://arxiv.org/abs/2604.06138v1",
+      "abstract": "Long-context audio reasoning is underserved in both training data and evaluation. Existing benchmarks target short-context tasks, and the open-ended generation tasks most relevant to long-context reasoning pose well-known challenges for automatic evaluation. We propose a synthetic data generation pi",
+      "source": "arxiv"
+    },
+    {
+      "title": "Projections of sets with optimal oracles onto $k$-planes",
+      "url": "http://arxiv.org/abs/2604.06119v1",
+      "abstract": "We prove a Kaufman-type exceptional set estimate for sets in $\\mathbb{R}^n$ that have optimal oracles, a class of sets that strictly contains the analytic sets and sets with equal Hausdorff and packing dimension. As a consequence, we generalize the conditions under which Marstrand's projection theor",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Neural-Enhanced Weak Galerkin Method for Second-Order Elliptic Problems with Low-Regularity Solutions",
+      "url": "http://arxiv.org/abs/2604.06115v1",
+      "abstract": "We propose a neural-enhanced weak Galerkin (WG) finite element method for second-order elliptic problems with low-regularity solutions. The method augments the classical WG approximation space with neural network functions constructed via a residual-driven Galerkin enrichment procedure. This approac",
+      "source": "arxiv"
+    },
+    {
+      "title": "SEM-ROVER: Semantic Voxel-Guided Diffusion for Large-Scale Driving Scene Generation",
+      "url": "http://arxiv.org/abs/2604.06113v1",
+      "abstract": "Scalable generation of outdoor driving scenes requires 3D representations that remain consistent across multiple viewpoints and scale to large areas. Existing solutions either rely on image or video generative models distilled to 3D space, harming the geometric coherence and restricting the renderin",
+      "source": "arxiv"
+    },
+    {
+      "title": "Nonvariational quantum optimisation approaches to pangenome-guided sequence assembly",
+      "url": "http://arxiv.org/abs/2604.06106v1",
+      "abstract": "Assembling genomes from short-read sequencing data remains difficult in repetitive regions, where reference bias and combinatorial complexity limit existing methods. Pangenome-guided sequence assembly (PGSA) mitigates reference bias by reconstructing an individual genome as a walk through a populati",
+      "source": "arxiv"
+    },
+    {
+      "title": "Lexicographic Robustness and the Efficiency of Optimal Mechanisms",
+      "url": "http://arxiv.org/abs/2604.06105v1",
+      "abstract": "A central challenge in mechanism design is to identify mechanisms whose performance is robust under uncertainty about the environment. The maxmin optimality criterion is commonly used for this purpose, but it often yields a large and economically uninformative set of mechanisms. This paper proposes ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Masking or Mitigating? Deconstructing the Impact of Query Rewriting on Retriever Biases in RAG",
+      "url": "http://arxiv.org/abs/2604.06097v1",
+      "abstract": "Dense retrievers in retrieval-augmented generation (RAG) systems exhibit systematic biases -- including brevity, position, literal matching, and repetition biases -- that can compromise retrieval quality. Query rewriting techniques are now standard in RAG pipelines, yet their impact on these biases ",
+      "source": "arxiv"
+    },
+    {
+      "title": "LLM4CodeRE: Generative AI for Code Decompilation Analysis and Reverse Engineering",
+      "url": "http://arxiv.org/abs/2604.06095v1",
+      "abstract": "Code decompilation analysis is a fundamental yet challenging task in malware reverse engineering, particularly due to the pervasive use of sophisticated obfuscation techniques. Although recent large language models (LLMs) have shown promise in translating low-level representations into high-level so",
+      "source": "arxiv"
+    },
+    {
+      "title": "Social Dynamics as Critical Vulnerabilities that Undermine Objective Decision-Making in LLM Collectives",
+      "url": "http://arxiv.org/abs/2604.06091v1",
+      "abstract": "Large language model (LLM) agents are increasingly acting as human delegates in multi-agent environments, where a representative agent integrates diverse peer perspectives to make a final decision. Drawing inspiration from social psychology, we investigate how the reliability of this representative ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Coalitional Zero-Sum Games for ${H_{\\infty}}$ Leader-Following Consensus Control",
+      "url": "http://arxiv.org/abs/2604.06089v1",
+      "abstract": "This paper investigates the leader-following consensus problem for a class of multi-agent systems subject to adversarial attack-like external inputs. To address this, we formulate the robust leader-following control problem as a global coalitional min-max zero-sum game using differential game theory",
+      "source": "arxiv"
+    },
+    {
+      "title": "LAG-XAI: A Lie-Inspired Affine Geometric Framework for Interpretable Paraphrasing in Transformer Latent Spaces",
+      "url": "http://arxiv.org/abs/2604.06086v1",
+      "abstract": "Modern Transformer-based language models achieve strong performance in natural language processing tasks, yet their latent semantic spaces remain largely uninterpretable black boxes. This paper introduces LAG-XAI (Lie Affine Geometry for Explainable AI), a novel geometric framework that models parap",
+      "source": "arxiv"
+    }
+  ],
+  "quality": {
+    "total": 40,
+    "quality_score": 0.414,
+    "dimensions": {
+      "authority": 0.95,
+      "quality": 0.025,
+      "star_power": 0.109,
+      "diversity": 0.5
+    },
+    "sources_breakdown": {
+      "github": 20,
+      "arxiv": 20
+    }
+  }
+}

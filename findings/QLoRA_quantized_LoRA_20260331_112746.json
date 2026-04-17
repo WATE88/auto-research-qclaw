@@ -1,0 +1,159 @@
+{
+  "topic": "QLoRA quantized LoRA",
+  "timestamp": "2026-03-31T11:27:46.884444",
+  "findings": [
+    {
+      "title": "shuxueslpi/chatGLM-6B-QLoRA",
+      "url": "https://github.com/shuxueslpi/chatGLM-6B-QLoRA",
+      "description": "使用peft库，对chatGLM-6B/chatGLM2-6B实现4bit的QLoRA高效微调，并做lora model和base model的merge及4bit的量化（quantize）。",
+      "stars": 360,
+      "source": "github"
+    },
+    {
+      "title": "htqin/IR-QLoRA",
+      "url": "https://github.com/htqin/IR-QLoRA",
+      "description": "[ICML 2024 Oral] This project is the official implementation of our Accurate LoRA-Finetuning Quantization of LLMs via Information Retention",
+      "stars": 65,
+      "source": "github"
+    },
+    {
+      "title": "di37/finetuning-quantize-evaluate",
+      "url": "https://github.com/di37/finetuning-quantize-evaluate",
+      "description": "Fine-Tune, Quantize, Evaluate: The Complete Guide — LLMs, VLMs, and Embedding Models",
+      "stars": 20,
+      "source": "github"
+    },
+    {
+      "title": "0xZee/DeepSeek-R1-FineTuning",
+      "url": "https://github.com/0xZee/DeepSeek-R1-FineTuning",
+      "description": "Fine-Tuning of DeepSeek-Style Reasoning Models | RL + Quantization Implementation",
+      "stars": 18,
+      "source": "github"
+    },
+    {
+      "title": "DevDizzle/lora-finetune-lab",
+      "url": "https://github.com/DevDizzle/lora-finetune-lab",
+      "description": "Parameter-efficient fine-tuning of LLMs using QLoRA — 4-bit quantization, PEFT adapters, W&B experiment tracking",
+      "stars": 14,
+      "source": "github"
+    },
+    {
+      "title": "Minami-su/deepspeed-grpo-qlora-vllm",
+      "url": "https://github.com/Minami-su/deepspeed-grpo-qlora-vllm",
+      "description": "This repository, deepspeed-grpo-qlora-vllm, provides a complete framework for fine-tuning LLMs using Group Relative Policy Optimization (GRPO) on 4-bit quantized models (QLoRA). It utilizes DeepSpeed ZeRO-3 for scalable training and integrates with a VLLM server to dynamically serve the fine-tuned LoRA adapters.",
+      "stars": 13,
+      "source": "github"
+    },
+    {
+      "title": "prakash-aryan/qwen-arabic-project",
+      "url": "https://github.com/prakash-aryan/qwen-arabic-project",
+      "description": "This project fine-tunes the Qwen2-1.5B model for Arabic language tasks using Quantized LoRA (QLoRA).",
+      "stars": 11,
+      "source": "github"
+    },
+    {
+      "title": "kapshaul/LLM-finetune-vuln-detection",
+      "url": "https://github.com/kapshaul/LLM-finetune-vuln-detection",
+      "description": "Fine-tuning a Large Language Model (LLM) for code vulnerability detection using QLoRA, a method that quantizes the model to 4-bit floats and incorporates adapters for fine-tuning.",
+      "stars": 10,
+      "source": "github"
+    },
+    {
+      "title": "SuleynanAuir/Distributed-Fine-Tuning-of-Qwen2.5-7B-as-HotelService-Master",
+      "url": "https://github.com/SuleynanAuir/Distributed-Fine-Tuning-of-Qwen2.5-7B-as-HotelService-Master",
+      "description": "Hotel-domain conversational assistant using Qwen2.5-7B-Instruct, focusing on practical, reproducible fine-tuning. It supports SFT + LoRA for a stable baseline, SFT + QLoRA for 7B model training with 4-bit quantization under limited GPU memory, and DPO to enhance responses via human preference pairs",
+      "stars": 4,
+      "source": "github"
+    },
+    {
+      "title": "anantha119/EffiLLaMA",
+      "url": "https://github.com/anantha119/EffiLLaMA",
+      "description": "Finetuning LLaMA 3.2-1B-Instruct model using qLoRA and LoRA quantization PEFT methods",
+      "stars": 3,
+      "source": "github"
+    },
+    {
+      "title": "HemantBK/LLaMA-Sum-Fine-Tuning",
+      "url": "https://github.com/HemantBK/LLaMA-Sum-Fine-Tuning",
+      "description": "Fine-tuned Meta's LLaMA 3.2 1B for text summarization using QLoRA (4-bit quantization + LoRA), achieving 40%+ improvement in ROUGE-2 over the base model on CNN/DailyMail dataset.",
+      "stars": 3,
+      "source": "github"
+    },
+    {
+      "title": "SHIVITG/FineTune-Phi-2-LLM-using-PEFT-QLora",
+      "url": "https://github.com/SHIVITG/FineTune-Phi-2-LLM-using-PEFT-QLora",
+      "description": "Fine-tuning Large Language Models (LLMs) is a crucial step in adapting these powerful models to specific tasks or domains. In this seminar code tutorial, we will explore how to perform fine-tuning using QLoRA (Quantized LoRA), a memory-efficient iteration of LoRA (Low-Rank Adaptation), for parameter-efficient fine-tuning.",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "YaseenMunowwar/Fine-Tune-LLAMA-2-With-Custom-Dataset-Using-LoRA-And-QLoRA-Techniques",
+      "url": "https://github.com/YaseenMunowwar/Fine-Tune-LLAMA-2-With-Custom-Dataset-Using-LoRA-And-QLoRA-Techniques",
+      "description": "This repository provides a comprehensive guide and implementation for fine-tuning the LLAMA 2 language model using custom datasets. By using Low-Rank Adaptation (LoRA) and Quantized Low-Rank Adaptation (QLoRA), it enables efficient and scalable model fine-tuning, making it suitable for resource-limited environments.",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "shaadclt/Fine-Tune-Llama2-LoRA-QLoRA",
+      "url": "https://github.com/shaadclt/Fine-Tune-Llama2-LoRA-QLoRA",
+      "description": "This repository contains the code for fine-tuning the Llama-2-7b-chat model on a text instruction dataset using LoRA (Layer-wise Only Relevant Attention) and QLoRA (Quantized LoRA).",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "alishafique3/Finetuning_Of_LLM_On_Single_GPU_Using_QLoRA",
+      "url": "https://github.com/alishafique3/Finetuning_Of_LLM_On_Single_GPU_Using_QLoRA",
+      "description": "In this project, LLM (model: T5-3b) is finetuned on a single GPU for summarization task. Memory footprints of the model is reduced using PEFT technique called Quantized LoRA.",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "Yousra-Chahinez/llama-qlora-finetuning-arabic-sentiment-analysis",
+      "url": "https://github.com/Yousra-Chahinez/llama-qlora-finetuning-arabic-sentiment-analysis",
+      "description": "This repository contains a notebook for fine-tuning the meta-llama/Llama-3.2-3B-Instruct (or any other generative language models) model using Quantized LoRA (QLoRA) for sentiment classification on the Arabic HARD dataset.",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "AhmadShayan1112/Fine-Tuning-DeepSeek-R1-with-QLoRA",
+      "url": "https://github.com/AhmadShayan1112/Fine-Tuning-DeepSeek-R1-with-QLoRA",
+      "description": "Fine-tune DeepSeek R1 using QLoRA for efficient, low-resource training on GPUs like NVIDIA P100. Leverages Hugging Face, PEFT, and bitsandbytes for 4-bit quantized LoRA training with mixed precision. Includes model saving, evaluation, and custom dataset support.",
+      "stars": 2,
+      "source": "github"
+    },
+    {
+      "title": "KyriakosTop/bert-distilbert-compression",
+      "url": "https://github.com/KyriakosTop/bert-distilbert-compression",
+      "description": "Compression of DistilBERT & BERT using quantization, pruning, and LoRA/QLoRA — MSc project",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "KusumDevanath/Fine-Tuning-Fontier-LLMs-with-LoRA-QLoRA",
+      "url": "https://github.com/KusumDevanath/Fine-Tuning-Fontier-LLMs-with-LoRA-QLoRA",
+      "description": "This project focuses on parameter-efficient fine-tuning of Large Language Models (LLMs) using LoRA (Low-Rank Adaptation) and QLoRA (Quantized LoRA) techniques. The objective is to adapt a pretrained LLM to a domain-specific enterprise dataset while minimizing computational cost, memory usage, and training time.",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "happybear-21/genie",
+      "url": "https://github.com/happybear-21/genie",
+      "description": " A robust pipeline for fine-tuning language models using advanced techniques like LoRA (Low-Rank Adaptation), QLoRA (Quantized LoRA), and custom tokenization.",
+      "stars": 1,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.285,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.074,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

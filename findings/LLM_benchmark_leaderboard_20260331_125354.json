@@ -1,0 +1,174 @@
+{
+  "topic": "LLM benchmark leaderboard",
+  "timestamp": "2026-03-31T12:53:54.787804",
+  "findings": [
+    {
+      "title": "onejune2018/Awesome-LLM-Eval",
+      "url": "https://github.com/onejune2018/Awesome-LLM-Eval",
+      "description": "Awesome-LLM-Eval: a curated list of tools, datasets/benchmark, demos, leaderboard, papers, docs and models, mainly for Evaluation on LLMs.  一个由工具、基准/数据、演示、排行榜和大模型等组成的精选列表，主要面向基础大模型评测，旨在探求生成式AI的技术边界.",
+      "stars": 627,
+      "source": "github"
+    },
+    {
+      "title": "JonathanChavezTamales/llm-leaderboard",
+      "url": "https://github.com/JonathanChavezTamales/llm-leaderboard",
+      "description": "A comprehensive set of LLM benchmark scores and provider prices. (deprecated, read more in README)",
+      "stars": 363,
+      "source": "github"
+    },
+    {
+      "title": "lechmazur/confabulations",
+      "url": "https://github.com/lechmazur/confabulations",
+      "description": "Hallucinations (Confabulations) Document-Based Benchmark for RAG. Includes human-verified questions and answers.",
+      "stars": 243,
+      "source": "github"
+    },
+    {
+      "title": "FastEval/FastEval",
+      "url": "https://github.com/FastEval/FastEval",
+      "description": "Fast & more realistic evaluation of chat language models. Includes leaderboard.",
+      "stars": 189,
+      "source": "github"
+    },
+    {
+      "title": "EuroEval/EuroEval",
+      "url": "https://github.com/EuroEval/EuroEval",
+      "description": "The robust European language model benchmark.",
+      "stars": 166,
+      "source": "github"
+    },
+    {
+      "title": "svilupp/Julia-LLM-Leaderboard",
+      "url": "https://github.com/svilupp/Julia-LLM-Leaderboard",
+      "description": "Provides a platform for the Julia community to compare AI models' abilities in generating syntactically correct Julia code, featuring structured tests and automated evaluations for easy and collaborative benchmarking.",
+      "stars": 86,
+      "source": "github"
+    },
+    {
+      "title": "0ca/BoxPwnr-Traces",
+      "url": "https://github.com/0ca/BoxPwnr-Traces",
+      "description": "LLM agent solving traces, leaderboards, and benchmark results across security CTF and hacking platforms",
+      "stars": 67,
+      "source": "github"
+    },
+    {
+      "title": "FormulaMonks/llm-benchmarker-suite",
+      "url": "https://github.com/FormulaMonks/llm-benchmarker-suite",
+      "description": "LLM Evals Leaderboard",
+      "stars": 50,
+      "source": "github"
+    },
+    {
+      "title": "ml-energy/leaderboard-v2",
+      "url": "https://github.com/ml-energy/leaderboard-v2",
+      "description": "A canonical source of GenAI energy benchmark and meausrements",
+      "stars": 50,
+      "source": "github"
+    },
+    {
+      "title": "lechmazur/divergent",
+      "url": "https://github.com/lechmazur/divergent",
+      "description": "LLM Divergent Thinking Creativity Benchmark. LLMs generate 25 unique words that start with a given letter with no connections to each other or to 50 initial random words.",
+      "stars": 34,
+      "source": "github"
+    },
+    {
+      "title": "pinchbench/leaderboard",
+      "url": "https://github.com/pinchbench/leaderboard",
+      "description": "PinchBench is a benchmarking system for evaluating LLM models as OpenClaw coding agents. Made with 🦀 by the humans at https://kilo.ai",
+      "stars": 27,
+      "source": "github"
+    },
+    {
+      "title": "research-outcome/LLM-Game-Benchmark",
+      "url": "https://github.com/research-outcome/LLM-Game-Benchmark",
+      "description": "Evaluating Large Language Models with Grid-Based Game Competitions: An Extensible LLM Benchmark and Leaderboard",
+      "stars": 25,
+      "source": "github"
+    },
+    {
+      "title": "actiontech/sql-llm-benchmark",
+      "url": "https://github.com/actiontech/sql-llm-benchmark",
+      "description": "SCALE: SQL Capability Leaderboard for LLMs",
+      "stars": 23,
+      "source": "github"
+    },
+    {
+      "title": "lechmazur/sycophancy",
+      "url": "https://github.com/lechmazur/sycophancy",
+      "description": "LLM benchmark and leaderboard for narrator-bias sycophancy, opposite-narrator contradictions, and judgment consistency.",
+      "stars": 20,
+      "source": "github"
+    },
+    {
+      "title": "Brand24-AI/mms_benchmark",
+      "url": "https://github.com/Brand24-AI/mms_benchmark",
+      "description": "The most extensive open massively multilingual corpus of datasets for training sentiment models. The corpus consists of 79 manually selected from over 350 datasets reported in the scientific literature based on strict quality criteria and covers 27 languages.",
+      "stars": 16,
+      "source": "github"
+    },
+    {
+      "title": "sparkorbit/sparkorbit",
+      "url": "https://github.com/sparkorbit/sparkorbit",
+      "description": "AI orbit monitor — papers, models, benchmarks, company news in one dashboard. 40+ sources, LMArena leaderboard, local LLM summary.",
+      "stars": 15,
+      "source": "github"
+    },
+    {
+      "title": "lemon07r/SanityBoard",
+      "url": "https://github.com/lemon07r/SanityBoard",
+      "description": "Home of the SanityHarness Leaderboard website.",
+      "stars": 14,
+      "source": "github"
+    },
+    {
+      "title": "wafer-ai/kernel-arena",
+      "url": "https://github.com/wafer-ai/kernel-arena",
+      "description": "Public benchmark results from Kernel Arena, a leaderboard for LLM-generated AI accelerator kernels.",
+      "stars": 12,
+      "source": "github"
+    },
+    {
+      "title": "verseles/showdown",
+      "url": "https://github.com/verseles/showdown",
+      "description": "Comprehensive LLM leaderboard aggregating multiple benchmarks into transparent rankings. Open data, community-driven, built with Svelte.",
+      "stars": 11,
+      "source": "github"
+    },
+    {
+      "title": "lang-uk/ukrainian-llm-leaderboard",
+      "url": "https://github.com/lang-uk/ukrainian-llm-leaderboard",
+      "description": "This leaderboard displays performance metrics for language models on Ukrainian language benchmarks as used during development of Lapa LLM.",
+      "stars": 9,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.454,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.9,
+      "star_power": 0.163,
+      "diversity": 0.0,
+      "usability": 0.2,
+      "applicability": 0.925,
+      "coverage": 1.0,
+      "ndcg": 0.551,
+      "map": 0.931,
+      "mrr": 1.0,
+      "rouge_1": 0.55,
+      "semantic_sim": 0.264,
+      "coherence": 0.154,
+      "task_completion": 0.406,
+      "tool_use": 0.087,
+      "reasoning_depth": 0.007,
+      "autonomy": 0.037,
+      "multi_agent": 0.015
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

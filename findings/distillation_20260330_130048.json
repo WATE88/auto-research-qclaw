@@ -1,0 +1,159 @@
+{
+  "topic": "distillation",
+  "timestamp": "2026-03-30T13:00:48.242265",
+  "findings": [
+    {
+      "title": "labmlai/annotated_deep_learning_paper_implementations",
+      "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+      "description": "🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠",
+      "stars": 66180,
+      "source": "github"
+    },
+    {
+      "title": "dkozlov/awesome-knowledge-distillation",
+      "url": "https://github.com/dkozlov/awesome-knowledge-distillation",
+      "description": "Awesome Knowledge Distillation",
+      "stars": 3830,
+      "source": "github"
+    },
+    {
+      "title": "thu-ml/TurboDiffusion",
+      "url": "https://github.com/thu-ml/TurboDiffusion",
+      "description": "TurboDiffusion: 100–200× Acceleration for Video Diffusion Models",
+      "stars": 3433,
+      "source": "github"
+    },
+    {
+      "title": "hao-ai-lab/FastVideo",
+      "url": "https://github.com/hao-ai-lab/FastVideo",
+      "description": "A unified inference and post-training framework for accelerated video generation.",
+      "stars": 3329,
+      "source": "github"
+    },
+    {
+      "title": "tinyvision/DAMO-YOLO",
+      "url": "https://github.com/tinyvision/DAMO-YOLO",
+      "description": "DAMO-YOLO: a fast and accurate object detection method with some new techs, including NAS backbones, efficient RepGFPN, ZeroHead, AlignedOTA, and distillation enhancement.",
+      "stars": 3151,
+      "source": "github"
+    },
+    {
+      "title": "IDEA-Research/DWPose",
+      "url": "https://github.com/IDEA-Research/DWPose",
+      "description": "\"Effective Whole-body Pose Estimation with Two-stages Distillation\" (ICCV 2023, CV4Metaverse Workshop)",
+      "stars": 2691,
+      "source": "github"
+    },
+    {
+      "title": "FLHonker/Awesome-Knowledge-Distillation",
+      "url": "https://github.com/FLHonker/Awesome-Knowledge-Distillation",
+      "description": "Awesome Knowledge-Distillation. 分类整理的知识蒸馏paper(2014-2021)。",
+      "stars": 2656,
+      "source": "github"
+    },
+    {
+      "title": "HobbitLong/RepDistiller",
+      "url": "https://github.com/HobbitLong/RepDistiller",
+      "description": "[ICLR 2020] Contrastive Representation Distillation (CRD), and benchmark of recent knowledge distillation methods",
+      "stars": 2429,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "stars": 2264,
+      "source": "github"
+    },
+    {
+      "title": "tangxyw/RecSysPapers",
+      "url": "https://github.com/tangxyw/RecSysPapers",
+      "description": "推荐/广告/搜索领域工业界经典以及最前沿论文集合。A collection of industry classics and cutting-edge papers in the field of recommendation/advertising/search.",
+      "stars": 2092,
+      "source": "github"
+    },
+    {
+      "title": "haitongli/knowledge-distillation-pytorch",
+      "url": "https://github.com/haitongli/knowledge-distillation-pytorch",
+      "description": "A PyTorch implementation for exploring deep and shallow knowledge distillation (KD) experiments with flexibility",
+      "stars": 1982,
+      "source": "github"
+    },
+    {
+      "title": "ViTAE-Transformer/ViTPose",
+      "url": "https://github.com/ViTAE-Transformer/ViTPose",
+      "description": "The official repo for [NeurIPS'22] \"ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation\" and [TPAMI'23] \"ViTPose++: Vision Transformer for Generic Body Pose Estimation\"",
+      "stars": 1982,
+      "source": "github"
+    },
+    {
+      "title": "Guang000/Awesome-Dataset-Distillation",
+      "url": "https://github.com/Guang000/Awesome-Dataset-Distillation",
+      "description": "A curated list of awesome papers on dataset distillation and related applications.",
+      "stars": 1915,
+      "source": "github"
+    },
+    {
+      "title": "GMvandeVen/continual-learning",
+      "url": "https://github.com/GMvandeVen/continual-learning",
+      "description": "PyTorch implementation of various methods for continual learning (XdG, EWC, SI, LwF, FROMP, DGR, BI-R, ER, A-GEM, iCaRL, Generative Classifier) in three different scenarios.",
+      "stars": 1837,
+      "source": "github"
+    },
+    {
+      "title": "AberHu/Knowledge-Distillation-Zoo",
+      "url": "https://github.com/AberHu/Knowledge-Distillation-Zoo",
+      "description": "Pytorch implementation of various Knowledge Distillation (KD) methods.",
+      "stars": 1745,
+      "source": "github"
+    },
+    {
+      "title": "airaria/TextBrewer",
+      "url": "https://github.com/airaria/TextBrewer",
+      "description": "A PyTorch-based knowledge distillation toolkit for natural language processing",
+      "stars": 1695,
+      "source": "github"
+    },
+    {
+      "title": "PaddlePaddle/PaddleSlim",
+      "url": "https://github.com/PaddlePaddle/PaddleSlim",
+      "description": "PaddleSlim is an open-source library for deep model compression and architecture search.",
+      "stars": 1613,
+      "source": "github"
+    },
+    {
+      "title": "yoshitomo-matsubara/torchdistill",
+      "url": "https://github.com/yoshitomo-matsubara/torchdistill",
+      "description": "A coding-free framework built on PyTorch for reproducible deep learning studies. PyTorch Ecosystem. 🏆26 knowledge distillation methods presented at TPAMI, CVPR, ICLR, ECCV, NeurIPS, ICCV, AAAI, etc are implemented so far. 🎁 Trained models, training logs and configurations are available for ensuring the reproducibiliy and benchmark.",
+      "stars": 1605,
+      "source": "github"
+    },
+    {
+      "title": "thu-ml/prolificdreamer",
+      "url": "https://github.com/thu-ml/prolificdreamer",
+      "description": "ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation (NeurIPS 2023 Spotlight)",
+      "stars": 1565,
+      "source": "github"
+    },
+    {
+      "title": "tanluren/yolov3-channel-and-layer-pruning",
+      "url": "https://github.com/tanluren/yolov3-channel-and-layer-pruning",
+      "description": "yolov3 yolov4 channel and layer pruning, Knowledge Distillation 层剪枝，通道剪枝，知识蒸馏 ",
+      "stars": 1515,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.287,
+    "dimensions": {
+      "authority": 0.9,
+      "quality": 0.0,
+      "star_power": 0.083,
+      "diversity": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}

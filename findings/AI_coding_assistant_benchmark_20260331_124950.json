@@ -1,0 +1,174 @@
+{
+  "topic": "AI coding assistant benchmark",
+  "timestamp": "2026-03-31T12:49:50.512028",
+  "findings": [
+    {
+      "title": "philschmid/ai-agent-benchmark-compendium",
+      "url": "https://github.com/philschmid/ai-agent-benchmark-compendium",
+      "description": "Compendium of over 50 benchmarks for evaluating AI agents, categorized into Function Calling & Tool Use, General Assistant & Reasoning, Coding & Software Engineering, and Computer Interaction.",
+      "stars": 115,
+      "source": "github"
+    },
+    {
+      "title": "smallcloudai/refact-bench",
+      "url": "https://github.com/smallcloudai/refact-bench",
+      "description": "A benchmarking tool for evaluating AI coding assistants on real-world software engineering tasks from the SWE-Bench dataset.",
+      "stars": 63,
+      "source": "github"
+    },
+    {
+      "title": "DeutscheKI/llm-performance-tests",
+      "url": "https://github.com/DeutscheKI/llm-performance-tests",
+      "description": "These are performance benchmarks we did to prepare for our own privacy-preserving and NDA-compliant in-house AI coding assistant. If by any chance, you're a German KMU, and you want strong in-house AI, too, feel free to contact us.",
+      "stars": 31,
+      "source": "github"
+    },
+    {
+      "title": "Oxford-Research-Cloud-Competency-Centre/cloud-llm-benchmarking",
+      "url": "https://github.com/Oxford-Research-Cloud-Competency-Centre/cloud-llm-benchmarking",
+      "description": "Benchmarking cloud-based models and AI coding assistants ",
+      "stars": 7,
+      "source": "github"
+    },
+    {
+      "title": "kevinpCroat/evals-for-coding",
+      "url": "https://github.com/kevinpCroat/evals-for-coding",
+      "description": "Comprehensive benchmark suite for evaluating AI coding assistants across 20 software engineering areas",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "jakenuts/coder-comps",
+      "url": "https://github.com/jakenuts/coder-comps",
+      "description": "Systematic comparison of AI coding assistants by implementing identical project prompts",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "augment-solutions/augbench",
+      "url": "https://github.com/augment-solutions/augbench",
+      "description": "A cross-platform Node.js CLI benchmarking tool for comparing performance metrics across different AI coding assistants",
+      "stars": 1,
+      "source": "github"
+    },
+    {
+      "title": "Seetha4819/ai-coding-assistant-benchmark",
+      "url": "https://github.com/Seetha4819/ai-coding-assistant-benchmark",
+      "description": null,
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "runaicode/ai-coding-benchmarks",
+      "url": "https://github.com/runaicode/ai-coding-benchmarks",
+      "description": "Standardized test prompts and benchmarks for evaluating AI coding assistants. Reproducible, transparent, open.",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "Lithin25/ai-assistant-benchmark",
+      "url": "https://github.com/Lithin25/ai-assistant-benchmark",
+      "description": "Benchmarking ChatGPT and Google Gemini on coding tasks",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "gabrielpopa/code-assistant-benchmarks",
+      "url": "https://github.com/gabrielpopa/code-assistant-benchmarks",
+      "description": "Benchmarks to test and compare AI coding assistants and coding tools like Copilot, Continue.dev, Cursor and others",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "alexanderaperry-arch/janus-labs",
+      "url": "https://github.com/alexanderaperry-arch/janus-labs",
+      "description": "Benchmark framework for AI coding assistants",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "ksprashu/bookmarks-ai-benchmark-app",
+      "url": "https://github.com/ksprashu/bookmarks-ai-benchmark-app",
+      "description": "A simple testbed for evaluating AI Coding Assistants' performance",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "Solracs/vibecoding-security-benchmark",
+      "url": "https://github.com/Solracs/vibecoding-security-benchmark",
+      "description": "Master Thesis - AI code assistants security benchmark",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "fatmaayad13/RubberDuckBench",
+      "url": "https://github.com/fatmaayad13/RubberDuckBench",
+      "description": "RubberDuckBench: A Benchmark for AI Coding Assistants",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "darti/vibe-benchmark-unicorns",
+      "url": "https://github.com/darti/vibe-benchmark-unicorns",
+      "description": "Benchmark for evaluating AI coding assistants - Build a Vue 3 dashboard",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "rynrn/agent-skills",
+      "url": "https://github.com/rynrn/agent-skills",
+      "description": "Agent skills for Claude Code & AI coding assistants — live Google Search Console data, SEO analytics, CTR benchmarking",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "todpunk/vibe-journal",
+      "url": "https://github.com/todpunk/vibe-journal",
+      "description": "A benchmark/comparison/competition for AI code assistants I wanted to try one day",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "odedha-dr/skills-vs-subagents",
+      "url": "https://github.com/odedha-dr/skills-vs-subagents",
+      "description": "CLI benchmark comparing skills (context injection) vs sub-agents (context isolation) patterns in AI coding assistants",
+      "stars": 0,
+      "source": "github"
+    },
+    {
+      "title": "Dw58/compare-your-models",
+      "url": "https://github.com/Dw58/compare-your-models",
+      "description": "🔍 Compare AI coding assistants with an open-source benchmark tool across multiple languages for accurate, reproducible evaluations.",
+      "stars": 0,
+      "source": "github"
+    }
+  ],
+  "quality": {
+    "total": 20,
+    "quality_score": 0.501,
+    "grade": "C",
+    "dimensions": {
+      "authority": 0.9,
+      "academic": 0.95,
+      "star_power": 0.272,
+      "diversity": 0.0,
+      "usability": 0.1,
+      "applicability": 0.925,
+      "coverage": 1.0,
+      "ndcg": 0.808,
+      "map": 1.0,
+      "mrr": 1.0,
+      "rouge_1": 0.562,
+      "semantic_sim": 0.322,
+      "coherence": 0.153,
+      "task_completion": 0.537,
+      "tool_use": 0.047,
+      "reasoning_depth": 0.007,
+      "autonomy": 0.013,
+      "multi_agent": 0.0
+    },
+    "sources_breakdown": {
+      "github": 20
+    }
+  }
+}
