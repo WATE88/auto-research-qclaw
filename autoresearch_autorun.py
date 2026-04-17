@@ -504,7 +504,8 @@ class AutoRunEngine:
             self._run_rounds[old.name] = run_round
             new_task = OptimizationTask(
                 task_id=new_tid, name=old.name,
-                status="pending", progress=0.0,
+                status="running",   # ⬆ 提前标记，防止竞态导致重复启动
+                progress=0.0,
                 best_score=float("-inf"), current_score=0.0,
                 iterations=0, max_iterations=old.max_iterations,
                 strategy=tmpl["strategy"],
@@ -699,7 +700,7 @@ class AutoRunEngine:
                     task = OptimizationTask(
                         task_id=tid,
                         name=tmpl["name"],
-                        status="pending",
+                        status="running",   # ⬆ 提前标记，防止竞态导致重复启动
                         progress=0.0,
                         best_score=float("-inf"),
                         current_score=0.0,
