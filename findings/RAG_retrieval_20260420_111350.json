@@ -1,0 +1,280 @@
+{
+  "topic": "RAG retrieval",
+  "timestamp": "2026-04-20T11:13:50.808334",
+  "findings": [
+    {
+      "title": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stars": 78510,
+      "source": "github"
+    },
+    {
+      "title": "HKUDS/LightRAG",
+      "url": "https://github.com/HKUDS/LightRAG",
+      "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+      "stars": 33847,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/graphrag",
+      "url": "https://github.com/microsoft/graphrag",
+      "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+      "stars": 32354,
+      "source": "github"
+    },
+    {
+      "title": "labring/FastGPT",
+      "url": "https://github.com/labring/FastGPT",
+      "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+      "stars": 27776,
+      "source": "github"
+    },
+    {
+      "title": "NirDiamant/RAG_Techniques",
+      "url": "https://github.com/NirDiamant/RAG_Techniques",
+      "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.",
+      "stars": 26874,
+      "source": "github"
+    },
+    {
+      "title": "VectifyAI/PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "stars": 25505,
+      "source": "github"
+    },
+    {
+      "title": "deepset-ai/haystack",
+      "url": "https://github.com/deepset-ai/haystack",
+      "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
+      "stars": 24907,
+      "source": "github"
+    },
+    {
+      "title": "vanna-ai/vanna",
+      "url": "https://github.com/vanna-ai/vanna",
+      "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.",
+      "stars": 23302,
+      "source": "github"
+    },
+    {
+      "title": "memvid/memvid",
+      "url": "https://github.com/memvid/memvid",
+      "description": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
+      "stars": 15041,
+      "source": "github"
+    },
+    {
+      "title": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+      "stars": 13938,
+      "source": "github"
+    },
+    {
+      "title": "activeloopai/deeplake",
+      "url": "https://github.com/activeloopai/deeplake",
+      "description": "Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.",
+      "stars": 9090,
+      "source": "github"
+    },
+    {
+      "title": "OpenSPG/KAG",
+      "url": "https://github.com/OpenSPG/KAG",
+      "description": "KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs.  It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.",
+      "stars": 8683,
+      "source": "github"
+    },
+    {
+      "title": "SciPhi-AI/R2R",
+      "url": "https://github.com/SciPhi-AI/R2R",
+      "description": "SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.",
+      "stars": 7770,
+      "source": "github"
+    },
+    {
+      "title": "weaviate/Verba",
+      "url": "https://github.com/weaviate/Verba",
+      "description": "Retrieval Augmented Generation (RAG) chatbot powered by Weaviate",
+      "stars": 7652,
+      "source": "github"
+    },
+    {
+      "title": "airweave-ai/airweave",
+      "url": "https://github.com/airweave-ai/airweave",
+      "description": "Open-source context retrieval layer for AI agents",
+      "stars": 6245,
+      "source": "github"
+    },
+    {
+      "title": "Marker-Inc-Korea/AutoRAG",
+      "url": "https://github.com/Marker-Inc-Korea/AutoRAG",
+      "description": "AutoRAG: An Open-Source Framework for Retrieval-Augmented Generation (RAG) Evaluation & Optimization with AutoML-Style Automation",
+      "stars": 4710,
+      "source": "github"
+    },
+    {
+      "title": "truefoundry/cognita",
+      "url": "https://github.com/truefoundry/cognita",
+      "description": "RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry ",
+      "stars": 4418,
+      "source": "github"
+    },
+    {
+      "title": "CortexReach/memory-lancedb-pro",
+      "url": "https://github.com/CortexReach/memory-lancedb-pro",
+      "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI",
+      "stars": 4237,
+      "source": "github"
+    },
+    {
+      "title": "AnswerDotAI/RAGatouille",
+      "url": "https://github.com/AnswerDotAI/RAGatouille",
+      "description": "Easily use and train state of the art late-interaction retrieval methods (ColBERT) in any RAG pipeline. Designed for modularity and ease-of-use, backed by research.",
+      "stars": 3911,
+      "source": "github"
+    },
+    {
+      "title": "aiming-lab/SimpleMem",
+      "url": "https://github.com/aiming-lab/SimpleMem",
+      "description": "SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal",
+      "stars": 3254,
+      "source": "github"
+    },
+    {
+      "title": "Using Large Language Models and Knowledge Graphs to Improve the Interpretability of Machine Learning Models in Manufacturing",
+      "url": "http://arxiv.org/abs/2604.16280v1",
+      "abstract": "Explaining Machine Learning (ML) results in a transparent and user-friendly manner remains a challenging task of Explainable Artificial Intelligence (XAI). In this paper, we present a method to enhance the interpretability of ML models by using a Knowledge Graph (KG). We store domain-specific data a",
+      "source": "arxiv"
+    },
+    {
+      "title": "Where Do Vision-Language Models Fail? World Scale Analysis for Image Geolocalization",
+      "url": "http://arxiv.org/abs/2604.16248v1",
+      "abstract": "Image geolocalization has traditionally been addressed through retrieval-based place recognition or geometry-based visual localization pipelines. Recent advances in Vision-Language Models (VLMs) have demonstrated strong zero-shot reasoning capabilities across multimodal tasks, yet their performance ",
+      "source": "arxiv"
+    },
+    {
+      "title": "BAGEL: Benchmarking Animal Knowledge Expertise in Language Models",
+      "url": "http://arxiv.org/abs/2604.16241v1",
+      "abstract": "Large language models have shown strong performance on broad-domain knowledge and reasoning benchmarks, but it remains unclear how well language models handle specialized animal-related knowledge under a unified closed-book evaluation protocol. We introduce BAGEL, a benchmark for evaluating animal k",
+      "source": "arxiv"
+    },
+    {
+      "title": "ChemGraph-XANES: An Agentic Framework for XANES Simulation and Analysis",
+      "url": "http://arxiv.org/abs/2604.16205v1",
+      "abstract": "Computational X-ray absorption near-edge structure (XANES) is widely used to probe local coordination environments, oxidation states, and electronic structure in chemically complex systems. However, the use of computational XANES at scale is constrained more by workflow complexity than by the underl",
+      "source": "arxiv"
+    },
+    {
+      "title": "Sketching the Readout of Large Language Models for Scalable Data Attribution and Valuation",
+      "url": "http://arxiv.org/abs/2604.16197v1",
+      "abstract": "Data attribution and valuation are critical for understanding data-model synergy for Large Language Models (LLMs), yet existing gradient-based methods suffer from scalability challenges on LLMs. Inspired by human cognition, where decision making relies on a focused readout of relevant memories rathe",
+      "source": "arxiv"
+    },
+    {
+      "title": "MARCH: Multi-Agent Radiology Clinical Hierarchy for CT Report Generation",
+      "url": "http://arxiv.org/abs/2604.16175v1",
+      "abstract": "Automated 3D radiology report generation often suffers from clinical hallucinations and a lack of the iterative verification found in human practice. While recent Vision-Language Models (VLMs) have advanced the field, they typically operate as monolithic \"black-box\" systems without the collaborative",
+      "source": "arxiv"
+    },
+    {
+      "title": "Beyond One-Size-Fits-All: Adaptive Test-Time Augmentation for Sequential Recommendation",
+      "url": "http://arxiv.org/abs/2604.16121v1",
+      "abstract": "Test-time augmentation (TTA) has become a promising approach for mitigating data sparsity in sequential recommendation by improving inference accuracy without requiring costly model retraining. However, existing TTA methods typically rely on uniform, user-agnostic augmentation strategies. We show th",
+      "source": "arxiv"
+    },
+    {
+      "title": "DenTab: A Dataset for Table Recognition and Visual QA on Real-World Dental Estimates",
+      "url": "http://arxiv.org/abs/2604.16099v1",
+      "abstract": "Tables condense key transactional and administrative information into compact layouts, but practical extraction requires more than text recognition: systems must also recover structure (rows, columns, merged cells, headers) and interpret roles such as line items, subtotals, and totals under common c",
+      "source": "arxiv"
+    },
+    {
+      "title": "MMGait: Towards Multi-Modal Gait Recognition",
+      "url": "http://arxiv.org/abs/2604.15979v1",
+      "abstract": "Gait recognition has emerged as a powerful biometric technique for identifying individuals at a distance without requiring user cooperation. Most existing methods focus primarily on RGB-derived modalities, which fall short in real-world scenarios requiring multi-modal collaboration and cross-modal r",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Case Study on the Impact of Anonymization Along the RAG Pipeline",
+      "url": "http://arxiv.org/abs/2604.15958v1",
+      "abstract": "Despite the considerable promise of Retrieval-Augmented Generation (RAG), many real-world use cases may create privacy concerns, where the purported utility of RAG-enabled insights comes at the risk of exposing private information to either the LLM or the end user requesting the response. As a poten",
+      "source": "arxiv"
+    },
+    {
+      "title": "Integrating Graphs, Large Language Models, and Agents: Reasoning and Retrieval",
+      "url": "http://arxiv.org/abs/2604.15951v1",
+      "abstract": "Generative AI, particularly Large Language Models, increasingly integrates graph-based representations to enhance reasoning, retrieval, and structured decision-making. Despite rapid advances, there remains limited clarity regarding when, why, where, and what types of graph-LLM integrations are most ",
+      "source": "arxiv"
+    },
+    {
+      "title": "RAGognizer: Hallucination-Aware Fine-Tuning via Detection Head Integration",
+      "url": "http://arxiv.org/abs/2604.15945v1",
+      "abstract": "Retrieval-Augmented Generation (RAG) is widely used to augment the input to Large Language Models (LLMs) with external information, such as recent or domain-specific knowledge. Nonetheless, current models still produce closed-domain hallucinations and generate content that is unsupported by the retr",
+      "source": "arxiv"
+    },
+    {
+      "title": "Beyond the mass-radius plane: Integrated radiative-convective and interior structure simulations of the exoplanet continuum",
+      "url": "http://arxiv.org/abs/2604.15891v1",
+      "abstract": "Static structure models, which map mass-radius constraints to bulk planet composition, are frequently used to categorise exoplanets due to their computational efficiency and the high-level insight they offer into planetary properties. However, static structure models typically have simplified atmosp",
+      "source": "arxiv"
+    },
+    {
+      "title": "JFinTEB: Japanese Financial Text Embedding Benchmark",
+      "url": "http://arxiv.org/abs/2604.15882v1",
+      "abstract": "We introduce JFinTEB, the first comprehensive benchmark specifically designed for evaluating Japanese financial text embeddings. Existing embedding benchmarks provide limited coverage of language-specific and domain-specific aspects found in Japanese financial texts. Our benchmark encompasses divers",
+      "source": "arxiv"
+    },
+    {
+      "title": "Experience Compression Spectrum: Unifying Memory, Skills, and Rules in LLM Agents",
+      "url": "http://arxiv.org/abs/2604.15877v1",
+      "abstract": "As LLM agents scale to long-horizon, multi-session deployments, efficiently managing accumulated experience becomes a critical bottleneck. Agent memory systems and agent skill discovery both address this challenge -- extracting reusable knowledge from interaction traces -- yet a citation analysis of",
+      "source": "arxiv"
+    },
+    {
+      "title": "TinyMU: A Compact Audio-Language Model for Music Understanding",
+      "url": "http://arxiv.org/abs/2604.15849v1",
+      "abstract": "Music understanding and reasoning are central challenges in the Music Information Research field, with applications ranging from retrieval and recommendation to music agents and virtual assistants. Recent Large Audio-Language Models (LALMs) have shown remarkable progress in answering music-related q",
+      "source": "arxiv"
+    },
+    {
+      "title": "UsefulBench: Towards Decision-Useful Information as a Target for Information Retrieval",
+      "url": "http://arxiv.org/abs/2604.15827v1",
+      "abstract": "Conventional information retrieval is concerned with identifying the relevance of texts for a given query. Yet, the conventional definition of relevance is dominated by aspects of similarity in texts, leaving unobserved whether the text is truly useful for addressing the query. For instance, when an",
+      "source": "arxiv"
+    },
+    {
+      "title": "CHOP: Chunkwise Context-Preserving Framework for RAG on Multi Documents",
+      "url": "http://arxiv.org/abs/2604.15802v1",
+      "abstract": "Retrieval-Augmented Generation (RAG) systems lose retrieval accuracy when similar documents coexist in the vector database, causing unnecessary information, hallucinations, and factual errors. To alleviate this issue, we propose CHOP, a framework that iteratively evaluates chunk relevance with Large",
+      "source": "arxiv"
+    },
+    {
+      "title": "Spectral design principles for local-excitation retention in impurity-assisted atomic arrays",
+      "url": "http://arxiv.org/abs/2604.15799v1",
+      "abstract": "Enhanced local-excitation retention in atomic arrays allows to exploit cooperative radiative effects to suppress emission and prolong excited-state lifetimes. We consider an impurity-assisted setting involving a single storage atom being initially excited and study the survival of local excitation u",
+      "source": "arxiv"
+    },
+    {
+      "title": "Scattered Hypothesis Generation for Open-Ended Event Forecasting",
+      "url": "http://arxiv.org/abs/2604.15788v1",
+      "abstract": "Despite the importance of open-ended event forecasting for risk management, current LLM-based methods predominantly target only the most probable outcomes, neglecting the intrinsic uncertainty of real-world events. To bridge this gap, we advance open-ended event forecasting from pinpoint forecasting",
+      "source": "arxiv"
+    }
+  ],
+  "quality": {
+    "total": 40,
+    "quality_score": 0.446,
+    "dimensions": {
+      "authority": 0.95,
+      "quality": 0.05,
+      "star_power": 0.231,
+      "diversity": 0.5
+    },
+    "sources_breakdown": {
+      "github": 20,
+      "arxiv": 20
+    }
+  }
+}

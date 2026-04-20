@@ -1,0 +1,280 @@
+{
+  "topic": "LLM optimization",
+  "timestamp": "2026-04-20T11:13:42.365312",
+  "findings": [
+    {
+      "title": "affaan-m/everything-claude-code",
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 161299,
+      "source": "github"
+    },
+    {
+      "title": "ray-project/ray",
+      "url": "https://github.com/ray-project/ray",
+      "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+      "stars": 42207,
+      "source": "github"
+    },
+    {
+      "title": "linshenkx/prompt-optimizer",
+      "url": "https://github.com/linshenkx/prompt-optimizer",
+      "description": "An AI prompt optimizer for writing better prompts and getting better AI results.",
+      "stars": 26548,
+      "source": "github"
+    },
+    {
+      "title": "mlflow/mlflow",
+      "url": "https://github.com/mlflow/mlflow",
+      "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.",
+      "stars": 25446,
+      "source": "github"
+    },
+    {
+      "title": "emcie-co/parlant",
+      "url": "https://github.com/emcie-co/parlant",
+      "description": "The interaction control harness for customer-facing AI agents - optimized for building controlled, consistent, and predictable customer interactions with LLMs.",
+      "stars": 17982,
+      "source": "github"
+    },
+    {
+      "title": "kvcache-ai/ktransformers",
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "stars": 17008,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/TensorRT-LLM",
+      "url": "https://github.com/NVIDIA/TensorRT-LLM",
+      "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+      "stars": 13425,
+      "source": "github"
+    },
+    {
+      "title": "tensorzero/tensorzero",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "description": "TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.",
+      "stars": 11247,
+      "source": "github"
+    },
+    {
+      "title": "krillinai/KrillinAI",
+      "url": "https://github.com/krillinai/KrillinAI",
+      "description": "Video translation and dubbing tool powered by LLMs. The video translator offers 100 language translations and one-click full-process deployment. The video translation output is optimized for platforms like YouTube，TikTok.   AI视频翻译配音工具，100种语言双向翻译，一键部署全流程，可以生抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube等形态的内容成适配",
+      "stars": 9864,
+      "source": "github"
+    },
+    {
+      "title": "Marker-Inc-Korea/AutoRAG",
+      "url": "https://github.com/Marker-Inc-Korea/AutoRAG",
+      "description": "AutoRAG: An Open-Source Framework for Retrieval-Augmented Generation (RAG) Evaluation & Optimization with AutoML-Style Automation",
+      "stars": 4710,
+      "source": "github"
+    },
+    {
+      "title": "SylphAI-Inc/AdalFlow",
+      "url": "https://github.com/SylphAI-Inc/AdalFlow",
+      "description": "AdalFlow: The library to build & auto-optimize LLM applications.",
+      "stars": 4109,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/GenerativeAIExamples",
+      "url": "https://github.com/NVIDIA/GenerativeAIExamples",
+      "description": "Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.",
+      "stars": 3922,
+      "source": "github"
+    },
+    {
+      "title": "lemonade-sdk/lemonade",
+      "url": "https://github.com/lemonade-sdk/lemonade",
+      "description": "Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk",
+      "stars": 3601,
+      "source": "github"
+    },
+    {
+      "title": "algorithmicsuperintelligence/optillm",
+      "url": "https://github.com/algorithmicsuperintelligence/optillm",
+      "description": "Optimizing inference proxy for LLMs",
+      "stars": 3436,
+      "source": "github"
+    },
+    {
+      "title": "can1357/oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 3205,
+      "source": "github"
+    },
+    {
+      "title": "vllm-project/llm-compressor",
+      "url": "https://github.com/vllm-project/llm-compressor",
+      "description": "Transformers-compatible library for applying various compression algorithms to LLMs for optimized deployment with vLLM",
+      "stars": 3118,
+      "source": "github"
+    },
+    {
+      "title": "BBuf/how-to-optim-algorithm-in-cuda",
+      "url": "https://github.com/BBuf/how-to-optim-algorithm-in-cuda",
+      "description": "how to optimize some algorithm in cuda.",
+      "stars": 2931,
+      "source": "github"
+    },
+    {
+      "title": "NVIDIA/Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "stars": 2516,
+      "source": "github"
+    },
+    {
+      "title": "langfengQ/verl-agent",
+      "url": "https://github.com/langfengQ/verl-agent",
+      "description": "verl-agent is an extension of veRL, designed for training LLM/VLM agents via RL. verl-agent is also the official code for paper \"Group-in-Group Policy Optimization for LLM Agent Training\"",
+      "stars": 1809,
+      "source": "github"
+    },
+    {
+      "title": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "The Context Optimization Layer for LLM Applications",
+      "stars": 1435,
+      "source": "github"
+    },
+    {
+      "title": "NaijaS2ST: A Multi-Accent Benchmark for Speech-to-Speech Translation in Low-Resource Nigerian Languages",
+      "url": "http://arxiv.org/abs/2604.16287v1",
+      "abstract": "Speech translation for low-resource languages remains fundamentally limited by the scarcity of high-quality, diverse parallel speech data, a challenge that is especially pronounced in African linguistic contexts. To address this, we introduce NaijaS2ST, a parallel speech translation dataset spanning",
+      "source": "arxiv"
+    },
+    {
+      "title": "ASMR-Bench: Auditing for Sabotage in ML Research",
+      "url": "http://arxiv.org/abs/2604.16286v1",
+      "abstract": "As AI systems are increasingly used to conduct research autonomously, misaligned systems could introduce subtle flaws that produce misleading results while evading detection. We introduce ASMR-Bench (Auditing for Sabotage in ML Research), a benchmark for evaluating the ability of auditors to detect ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Using Large Language Models and Knowledge Graphs to Improve the Interpretability of Machine Learning Models in Manufacturing",
+      "url": "http://arxiv.org/abs/2604.16280v1",
+      "abstract": "Explaining Machine Learning (ML) results in a transparent and user-friendly manner remains a challenging task of Explainable Artificial Intelligence (XAI). In this paper, we present a method to enhance the interpretability of ML models by using a Knowledge Graph (KG). We store domain-specific data a",
+      "source": "arxiv"
+    },
+    {
+      "title": "Evaluating the Progression of Large Language Model Capabilities for Small-Molecule Drug Design",
+      "url": "http://arxiv.org/abs/2604.16279v1",
+      "abstract": "Large Language Models (LLMs) have the potential to accelerate small molecule drug design due to their ability to reason about information from diverse sources and formats. However, their practical utility remains unclear due to the lack of benchmarks that reflect real-world scenarios. In this work, ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Learning to Reason with Insight for Informal Theorem Proving",
+      "url": "http://arxiv.org/abs/2604.16278v1",
+      "abstract": "Although most of the automated theorem-proving approaches depend on formal proof systems, informal theorem proving can align better with large language models' (LLMs) strength in natural language processing. In this work, we identify a primary bottleneck in informal theorem proving as a lack of insi",
+      "source": "arxiv"
+    },
+    {
+      "title": "No Universal Courtesy: A Cross-Linguistic, Multi-Model Study of Politeness Effects on LLMs Using the PLUM Corpus",
+      "url": "http://arxiv.org/abs/2604.16275v1",
+      "abstract": "This paper explores the response of Large Language Models (LLMs) to user prompts with different degrees of politeness and impoliteness. The Politeness Theory by Brown and Levinson and the Impoliteness Framework by Culpeper form the basis of experiments conducted across three languages (English, Hind",
+      "source": "arxiv"
+    },
+    {
+      "title": "Parallelizing the branch-and-bound with isomorphism pruning algorithm for classifying orthogonal arrays",
+      "url": "http://arxiv.org/abs/2604.16271v1",
+      "abstract": "We provide a method for parallelizing the branch-and-bound with isomorphism pruning algorithm developed by Margot [Symmetric ILP: Coloring and small integers, Discrete Optimization (4) (2007), 40-62]. We apply our method to classify orthogonal arrays. For classifying all non-OD- equivalent OA(128, 9",
+      "source": "arxiv"
+    },
+    {
+      "title": "From Benchmarking to Reasoning: A Dual-Aspect, Large-Scale Evaluation of LLMs on Vietnamese Legal Text",
+      "url": "http://arxiv.org/abs/2604.16270v1",
+      "abstract": "The complexity of Vietnam's legal texts presents a significant barrier to public access to justice. While Large Language Models offer a promising solution for legal text simplification, evaluating their true capabilities requires a multifaceted approach that goes beyond surface-level metrics. This p",
+      "source": "arxiv"
+    },
+    {
+      "title": "Benchmarking Current-to-Voltage Amplifiers for Quantum Transport Measurements",
+      "url": "http://arxiv.org/abs/2604.16269v1",
+      "abstract": "Accurate electrical amplification is essential in molecular electronics for measuring conductance through atomic and molecular junctions, where currents often span several orders of magnitude. In this work, we present a systematic design and comparative analysis of four current-to-voltage ($I\\text{-",
+      "source": "arxiv"
+    },
+    {
+      "title": "Semantic Area Graph Reasoning for Multi-Robot Language-Guided Search",
+      "url": "http://arxiv.org/abs/2604.16263v1",
+      "abstract": "Coordinating multi-robot systems (MRS) to search in unknown environments is particularly challenging for tasks that require semantic reasoning beyond geometric exploration. Classical coordination strategies rely on frontier coverage or information gain and cannot incorporate high-level task intent, ",
+      "source": "arxiv"
+    },
+    {
+      "title": "SwanNLP at SemEval-2026 Task 5: An LLM-based Framework for Plausibility Scoring in Narrative Word Sense Disambiguation",
+      "url": "http://arxiv.org/abs/2604.16262v1",
+      "abstract": "Recent advances in language models have substantially improved Natural Language Understanding (NLU). Although widely used benchmarks suggest that Large Language Models (LLMs) can effectively disambiguate, their practical applicability in real-world narrative contexts remains underexplored. SemEval-2",
+      "source": "arxiv"
+    },
+    {
+      "title": "Characterising LLM-Generated Competency Questions: a Cross-Domain Empirical Study using Open and Closed Models",
+      "url": "http://arxiv.org/abs/2604.16258v1",
+      "abstract": "Competency Questions (CQs) are a cornerstone of requirement elicitation in ontology engineering. CQs represent requirements as a set of natural language questions that an ontology should satisfy; they are traditionally modelled by ontology engineers together with domain experts as part of a human-ce",
+      "source": "arxiv"
+    },
+    {
+      "title": "Performance Evaluation of Straw Tubes with Muon Beams at CERN",
+      "url": "http://arxiv.org/abs/2604.16245v1",
+      "abstract": "We present results from two test beam campaigns that investigate the performance of straw tube detectors as potential candidates for an FCC-ee straw tracker. These studies were carried out at CERN using 150 GeV muon beams. Dedicated algorithms were developed to determine both single tube spatial res",
+      "source": "arxiv"
+    },
+    {
+      "title": "Find, Fix, Reason: Context Repair for Video Reasoning",
+      "url": "http://arxiv.org/abs/2604.16243v1",
+      "abstract": "Reinforcement learning has advanced video reasoning in large multi-modal models, yet dominant pipelines either rely on on-policy self-exploration, which plateaus at the model's knowledge boundary, or hybrid replay that mixes policies and demands careful regularization. Dynamic context methods zoom i",
+      "source": "arxiv"
+    },
+    {
+      "title": "Detecting and Suppressing Reward Hacking with Gradient Fingerprints",
+      "url": "http://arxiv.org/abs/2604.16242v1",
+      "abstract": "Reinforcement learning with verifiable rewards (RLVR) typically optimizes for outcome rewards without imposing constraints on intermediate reasoning. This leaves training susceptible to reward hacking, where models exploit loopholes (e.g., spurious patterns in training data) in the reward function t",
+      "source": "arxiv"
+    },
+    {
+      "title": "Adaptive multi-fidelity optimization with fast learning rates",
+      "url": "http://arxiv.org/abs/2604.16239v1",
+      "abstract": "In multi-fidelity optimization, biased approximations of varying costs of the target function are available. This paper studies the problem of optimizing a locally smooth function with a limited budget, where the learner has to make a tradeoff between the cost and the bias of these approximations. W",
+      "source": "arxiv"
+    },
+    {
+      "title": "Optimizing Korean-Centric LLMs via Token Pruning",
+      "url": "http://arxiv.org/abs/2604.16235v1",
+      "abstract": "This paper presents a systematic benchmark of state-of-the-art multilingual large language models (LLMs) adapted via token pruning - a compression technique that eliminates tokens and embedding parameters corresponding to languages irrelevant to the target application. Focusing on Korean-centric nat",
+      "source": "arxiv"
+    },
+    {
+      "title": "Simulating Arbitrage Optimization for Market Monitoring in Gas and Electricity Transmission Networks",
+      "url": "http://arxiv.org/abs/2604.16229v1",
+      "abstract": "We examine market outcomes in energy transport networks with a focus on gas-fired generators, which are producers in a wholesale electricity market and consumers in the natural gas market. Market administrators monitor bids to determine whether a participant wields market power to manipulate the pri",
+      "source": "arxiv"
+    },
+    {
+      "title": "TRON: Trainable, architecture-reconfigurable random optical neural networks",
+      "url": "http://arxiv.org/abs/2604.16228v1",
+      "abstract": "Deep learning has triggered explosive growth in the demand for specialized hardware processors, thus motivating the development of scalable and reconfigurable computing substrates. Optical processors offer a fundamentally different computing paradigm, combining massive parallelism and ultrahigh band",
+      "source": "arxiv"
+    },
+    {
+      "title": "OT on the Map: Quantifying Domain Shifts in Geographic Space",
+      "url": "http://arxiv.org/abs/2604.16220v1",
+      "abstract": "In computer vision and machine learning for geographic data, out-of-domain generalization is a pervasive challenge, arising from uneven global data coverage and distribution shifts across geographic regions. Though models are frequently trained in one region and deployed in another, there is no prin",
+      "source": "arxiv"
+    }
+  ],
+  "quality": {
+    "total": 40,
+    "quality_score": 0.43,
+    "dimensions": {
+      "authority": 0.95,
+      "quality": 0.075,
+      "star_power": 0.112,
+      "diversity": 0.5
+    },
+    "sources_breakdown": {
+      "github": 20,
+      "arxiv": 20
+    }
+  }
+}

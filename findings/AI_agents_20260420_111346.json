@@ -1,0 +1,280 @@
+{
+  "topic": "AI agents",
+  "timestamp": "2026-04-20T11:13:46.637092",
+  "findings": [
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "stars": 183572,
+      "source": "github"
+    },
+    {
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "stars": 147132,
+      "source": "github"
+    },
+    {
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "description": "Production-ready platform for agentic workflow development.",
+      "stars": 138358,
+      "source": "github"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "stars": 135566,
+      "source": "github"
+    },
+    {
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "description": "The agent engineering platform",
+      "stars": 134106,
+      "source": "github"
+    },
+    {
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "stars": 106460,
+      "source": "github"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 102647,
+      "source": "github"
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "stars": 101821,
+      "source": "github"
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "stars": 88718,
+      "source": "github"
+    },
+    {
+      "title": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "stars": 83552,
+      "source": "github"
+    },
+    {
+      "title": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stars": 78510,
+      "source": "github"
+    },
+    {
+      "title": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+      "stars": 75373,
+      "source": "github"
+    },
+    {
+      "title": "karpathy/autoresearch",
+      "url": "https://github.com/karpathy/autoresearch",
+      "description": "AI agents running research on single-GPU nanochat training automatically",
+      "stars": 74583,
+      "source": "github"
+    },
+    {
+      "title": "dair-ai/Prompt-Engineering-Guide",
+      "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+      "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+      "stars": 73537,
+      "source": "github"
+    },
+    {
+      "title": "FoundationAgents/MetaGPT",
+      "url": "https://github.com/FoundationAgents/MetaGPT",
+      "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+      "stars": 67245,
+      "source": "github"
+    },
+    {
+      "title": "OpenBB-finance/OpenBB",
+      "url": "https://github.com/OpenBB-finance/OpenBB",
+      "description": "Financial data platform for analysts, quants and AI agents.",
+      "stars": 66116,
+      "source": "github"
+    },
+    {
+      "title": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "stars": 63453,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/autogen",
+      "url": "https://github.com/microsoft/autogen",
+      "description": "A programming framework for agentic AI",
+      "stars": 57218,
+      "source": "github"
+    },
+    {
+      "title": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "description": "12 Lessons to Get Started Building AI Agents",
+      "stars": 56990,
+      "source": "github"
+    },
+    {
+      "title": "mem0ai/mem0",
+      "url": "https://github.com/mem0ai/mem0",
+      "description": "Universal memory layer for AI Agents",
+      "stars": 53541,
+      "source": "github"
+    },
+    {
+      "title": "FineCog-Nav: Integrating Fine-grained Cognitive Modules for Zero-shot Multimodal UAV Navigation",
+      "url": "http://arxiv.org/abs/2604.16298v1",
+      "abstract": "UAV vision-language navigation (VLN) requires an agent to navigate complex 3D environments from an egocentric perspective while following ambiguous multi-step instructions over long horizons. Existing zero-shot methods remain limited, as they often rely on large base models, generic prompts, and loo",
+      "source": "arxiv"
+    },
+    {
+      "title": "ASMR-Bench: Auditing for Sabotage in ML Research",
+      "url": "http://arxiv.org/abs/2604.16286v1",
+      "abstract": "As AI systems are increasingly used to conduct research autonomously, misaligned systems could introduce subtle flaws that produce misleading results while evading detection. We introduce ASMR-Bench (Auditing for Sabotage in ML Research), a benchmark for evaluating the ability of auditors to detect ",
+      "source": "arxiv"
+    },
+    {
+      "title": "VEFX-Bench: A Holistic Benchmark for Generic Video Editing and Visual Effects",
+      "url": "http://arxiv.org/abs/2604.16272v1",
+      "abstract": "As AI-assisted video creation becomes increasingly practical, instruction-guided video editing has become essential for refining generated or captured footage to meet professional requirements. Yet the field still lacks both a large-scale human-annotated dataset with complete editing examples and a ",
+      "source": "arxiv"
+    },
+    {
+      "title": "Beyond Distribution Sharpening: The Importance of Task Rewards",
+      "url": "http://arxiv.org/abs/2604.16259v1",
+      "abstract": "Frontier models have demonstrated exceptional capabilities following the integration of task-reward-based reinforcement learning (RL) into their training pipelines, enabling systems to evolve from pure reasoning models into sophisticated agents. However, debate persists regarding whether RL genuinel",
+      "source": "arxiv"
+    },
+    {
+      "title": "Characterising LLM-Generated Competency Questions: a Cross-Domain Empirical Study using Open and Closed Models",
+      "url": "http://arxiv.org/abs/2604.16258v1",
+      "abstract": "Competency Questions (CQs) are a cornerstone of requirement elicitation in ontology engineering. CQs represent requirements as a set of natural language questions that an ontology should satisfy; they are traditionally modelled by ontology engineers together with domain experts as part of a human-ce",
+      "source": "arxiv"
+    },
+    {
+      "title": "ArtifactNet: Detecting AI-Generated Music via Forensic Residual Physics",
+      "url": "http://arxiv.org/abs/2604.16254v1",
+      "abstract": "We present ArtifactNet, a lightweight framework that detects AI-generated music by reframing the problem as forensic physics -- extracting and analyzing the physical artifacts that neural audio codecs inevitably imprint on generated audio. A bounded-mask UNet (ArtifactUNet, 3.6M parameters) extracts",
+      "source": "arxiv"
+    },
+    {
+      "title": "Enhancing AI and Dynamical Subseasonal Forecasts with Probabilistic Bias Correction",
+      "url": "http://arxiv.org/abs/2604.16238v1",
+      "abstract": "Decision-makers rely on weather forecasts to plant crops, manage wildfires, allocate water and energy, and prepare for weather extremes. Today, such forecasts enjoy unprecedented accuracy out to two weeks thanks to steady advances in physics-based dynamical models and data-driven artificial intellig",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Two-Stage, Object-Centric Deep Learning Framework for Robust Exam Cheating Detection",
+      "url": "http://arxiv.org/abs/2604.16234v1",
+      "abstract": "Academic integrity continues to face the persistent challenge of examination cheating. Traditional invigilation relies on human observation, which is inefficient, costly, and prone to errors at scale. Although some existing AI-powered monitoring systems have been deployed and trusted, many lack tran",
+      "source": "arxiv"
+    },
+    {
+      "title": "Why Open Source? A Game-Theoretic Analysis of the AI Race",
+      "url": "http://arxiv.org/abs/2604.16227v1",
+      "abstract": "In recent years, with the advancement of frontier AI, we have observed certain dynamics in open-sourcing and closed-sourcing decisions. We propose a game-theoretic model to analyze these dynamics in the current landscape of the AI race. Our model builds on an R&amp;D race framework under a winner-ta",
+      "source": "arxiv"
+    },
+    {
+      "title": "\"Taking Stock at FAccT\": Using Participatory Design to Co-Create a Vision for the Fairness, Accountability and Transparency Community",
+      "url": "http://arxiv.org/abs/2604.16224v1",
+      "abstract": "As a relatively new forum, ACM FAccT has become a key space for activists and scholars to critically examine emerging AI and ML technologies. It brings together academics, civil society members, and government representatives from diverse fields to explore the broader societal impacts of both deploy",
+      "source": "arxiv"
+    },
+    {
+      "title": "Investigating Conversational Agents to Support Secondary School Students Learning CSP",
+      "url": "http://arxiv.org/abs/2604.16213v1",
+      "abstract": "Secondary school students enrolled in the AP Computer Science Principles (CSP) course commonly utilize web resources (e.g., tutorials, Q\\&amp;A sites) to better understand key concepts in the curriculum. The primary obstacle to using these resources is finding information appropriate for the learnin",
+      "source": "arxiv"
+    },
+    {
+      "title": "ChemGraph-XANES: An Agentic Framework for XANES Simulation and Analysis",
+      "url": "http://arxiv.org/abs/2604.16205v1",
+      "abstract": "Computational X-ray absorption near-edge structure (XANES) is widely used to probe local coordination environments, oxidation states, and electronic structure in chemically complex systems. However, the use of computational XANES at scale is constrained more by workflow complexity than by the underl",
+      "source": "arxiv"
+    },
+    {
+      "title": "Real-Time Solution-Seeking for Game-Theoretic Autonomous Driving via Time-Distributed Iterations",
+      "url": "http://arxiv.org/abs/2604.16184v1",
+      "abstract": "Computational complexity has been a major challenge in game-theoretic model predictive control (GT-MPC), as real-time solutions to a game (e.g., Nash equilibria (NEs)) have to be computed at each sampling instant of an MPC. This challenge is especially critical in autonomous driving, where interacti",
+      "source": "arxiv"
+    },
+    {
+      "title": "MARCH: Multi-Agent Radiology Clinical Hierarchy for CT Report Generation",
+      "url": "http://arxiv.org/abs/2604.16175v1",
+      "abstract": "Automated 3D radiology report generation often suffers from clinical hallucinations and a lack of the iterative verification found in human practice. While recent Vision-Language Models (VLMs) have advanced the field, they typically operate as monolithic \"black-box\" systems without the collaborative",
+      "source": "arxiv"
+    },
+    {
+      "title": "Spinning Living Crystals of Run-and-Tumble Particles with Environmental Feedback",
+      "url": "http://arxiv.org/abs/2604.16163v1",
+      "abstract": "Collective rotations are common in active matter, enhancing cohesion, transport, and mixing. They are typically attributed to chiral non-reciprocal dynamics due to intrinsic particle chirality, torque-generating interactions among units, or geometric confinement. Here, we uncover a different mechani",
+      "source": "arxiv"
+    },
+    {
+      "title": "Can LLMs Understand the Impact of Trauma? Costs and Benefits of LLMs Coding the Interviews of Firearm Violence Survivors",
+      "url": "http://arxiv.org/abs/2604.16132v1",
+      "abstract": "Firearm violence is a pressing public health issue, yet research into survivors' lived experiences remains underfunded and difficult to scale. Qualitative research, including in-depth interviews, is a valuable tool for understanding the personal and societal consequences of community firearm violenc",
+      "source": "arxiv"
+    },
+    {
+      "title": "SCRIPT: Implementing an Intelligent Tutoring System for Programming in a German University Context",
+      "url": "http://arxiv.org/abs/2604.16117v1",
+      "abstract": "Practice and extensive exercises are essential in programming education. Intelligent tutoring systems (ITSs) are a viable option to provide individualized hints and advice to programming students even when human tutors are not available. However, prior ITS for programming rarely support the Python p",
+      "source": "arxiv"
+    },
+    {
+      "title": "Reckoning with the Political Economy of AI: Avoiding Decoys in Pursuit of Accountability",
+      "url": "http://arxiv.org/abs/2604.16106v1",
+      "abstract": "The Project of AI is a world-building endeavor, wherein those who fund and develop AI systems both operate through and seek to sustain networks of power and wealth. As they expand their access to resources and configure our sociotechnical conditions, they benefit from the ways in which a suite of de",
+      "source": "arxiv"
+    },
+    {
+      "title": "Dual-Modal Lung Cancer AI: Interpretable Radiology and Microscopy with Clinical Risk Integration",
+      "url": "http://arxiv.org/abs/2604.16104v1",
+      "abstract": "Lung cancer remains one of the leading causes of cancer-related mortality worldwide. Conventional computed tomography (CT) imaging, while essential for detection and staging, has limitations in distinguishing benign from malignant lesions and providing interpretable diagnostic insights. To address t",
+      "source": "arxiv"
+    },
+    {
+      "title": "Compositional Design, Implementation, and Verification of Swarms (Technical Report)",
+      "url": "http://arxiv.org/abs/2604.16097v1",
+      "abstract": "Swarm protocols are a recently introduced formalism for specifying, implementing, and verifying peer-to-peer systems called swarms. A swarm consists of distributed agents called machines that communicate by asynchronous event propagation. Following a local-first model, each machine can progress with",
+      "source": "arxiv"
+    }
+  ],
+  "quality": {
+    "total": 40,
+    "quality_score": 0.495,
+    "dimensions": {
+      "authority": 0.95,
+      "quality": 0.025,
+      "star_power": 0.514,
+      "diversity": 0.5
+    },
+    "sources_breakdown": {
+      "github": 20,
+      "arxiv": 20
+    }
+  }
+}
