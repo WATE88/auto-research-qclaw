@@ -100,6 +100,7 @@ autoresearch/
 ├── autorun_evolve_v4.7.py      # 主程序
 ├── autorun_evolve_v4.8.py       # 跨机器版本
 ├── autorun_token_opt_v2.py     # Token 优化版 v2.0
+├── autorun_quality_opt.py      # 质量优先版 v2.1
 ├── config/
 │   ├── config.json              # 配置文件
 │   └── topics.txt                # 主题列表
@@ -200,6 +201,47 @@ python autorun_token_opt_v2.py "AI agents" "LLM optimization"
 
 # 同步 GitHub
 python autorun_token_opt_v2.py --sync
+```
+
+## 质量优先版 v2.1
+
+### 质量 vs Token 对比
+
+| 指标 | Token 优先 v2.0 | 质量优先 v2.1 | 提升 |
+|------|-----------------|---------------|------|
+| A级主题 | 2 | 2 | - |
+| B级主题 | 1 | 7 | **+600%** |
+| C级主题 | 8 | 1 | - |
+| F级主题 | 4 | 0 | **消除** |
+| **平均评分** | 0.390 | **0.683** | **+75%** |
+| 报告数 | 3 | **10** | **+233%** |
+
+### 5维度质量评分
+
+| 维度 | 说明 | 权重 |
+|------|------|------|
+| Authority | 来源权威性 | 25% |
+| Academic | 学术价值 | 25% |
+| Star | 流行度 | 20% |
+| Freshness | 时效性 | 15% |
+| Diversity | 多样性 | 15% |
+
+### 功能特性
+
+- 质量优先：更严格的评分标准
+- 更多项目：每主题获取 30 个（vs 20）
+- 短缓存：12小时（保证新鲜度）
+- 全报告：C+ 等级都生成报告
+- 时效性权重：30天内项目权重更高
+
+### 使用方法
+
+```bash
+# 运行质量优先版
+python autorun_quality_opt.py
+
+# 研究指定主题
+python autorun_quality_opt.py "AI agents" "LLM optimization"
 ```
 
 ## 研究成果
