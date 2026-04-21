@@ -42,3 +42,17 @@
 [2026-04-16 15:00:10] 无变更，跳过提交
 [2026-04-17 15:00:14] === AutoResearch 自动同步开始 ===
 [2026-04-17 15:00:15] 无变更，跳过提交
+[2026-04-20 11:16:21] === AutoResearch 自动同步开始 ===
+[2026-04-20 11:16:23] Commit: [main c64c6dd] Auto sync: 2026-04-20 11:16
+[2026-04-20 11:16:25] ERROR: push 失败: To https://github.com/WATE88/auto-research-qclaw.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/WATE88/auto-research-qclaw.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[2026-04-20 15:00:28] === AutoResearch 自动同步开始 ===
+[2026-04-20 15:00:30] Commit: [main e6494f0] Auto sync: 2026-04-20 15:00
+[2026-04-20 15:00:32] Push 成功:  21 files changed, 1059 insertions(+)
+[2026-04-20 15:00:32] === 同步完成 ===

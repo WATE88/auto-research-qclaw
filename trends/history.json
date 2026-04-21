@@ -187,6 +187,27 @@
           "github": 20,
           "arxiv": 20
         }
+      },
+      {
+        "timestamp": "2026-04-20T11:13:46.639674",
+        "findings_count": 40,
+        "quality_score": 0.495,
+        "top_keywords": [
+          "with",
+          "agents",
+          "langflow",
+          "system",
+          "models",
+          "langchain",
+          "agent",
+          "gemini",
+          "browser",
+          "lobehub"
+        ],
+        "sources": {
+          "github": 20,
+          "arxiv": 20
+        }
       }
     ],
     "LLM optimization": [
@@ -376,6 +397,27 @@
           "github": 20,
           "arxiv": 20
         }
+      },
+      {
+        "timestamp": "2026-04-20T11:13:42.372999",
+        "findings_count": 40,
+        "quality_score": 0.43,
+        "top_keywords": [
+          "with",
+          "multi",
+          "nvidia",
+          "model",
+          "using",
+          "large",
+          "language",
+          "models",
+          "learning",
+          "llms"
+        ],
+        "sources": {
+          "github": 20,
+          "arxiv": 20
+        }
       }
     ],
     "RAG retrieval": [
@@ -560,6 +602,27 @@
           "models",
           "agentic",
           "model"
+        ],
+        "sources": {
+          "github": 20,
+          "arxiv": 20
+        }
+      },
+      {
+        "timestamp": "2026-04-20T11:13:50.811337",
+        "findings_count": 40,
+        "quality_score": 0.446,
+        "top_keywords": [
+          "language",
+          "models",
+          "large",
+          "multi",
+          "vanna",
+          "memvid",
+          "airweave",
+          "memory",
+          "knowledge",
+          "graphs"
         ],
         "sources": {
           "github": 20,
@@ -809,6 +872,27 @@
         "sources": {
           "github": 20
         }
+      },
+      {
+        "timestamp": "2026-04-20T11:13:55.612748",
+        "findings_count": 40,
+        "quality_score": 0.483,
+        "top_keywords": [
+          "model",
+          "language",
+          "models",
+          "multi",
+          "learning",
+          "large",
+          "bitsandbytes",
+          "nunchaku",
+          "neural",
+          "multimodal"
+        ],
+        "sources": {
+          "github": 20,
+          "arxiv": 20
+        }
       }
     ],
     "fine-tuning LLMs": [
@@ -995,6 +1079,27 @@
         ],
         "sources": {
           "github": 20
+        }
+      },
+      {
+        "timestamp": "2026-04-20T11:14:00.198572",
+        "findings_count": 40,
+        "quality_score": 0.444,
+        "top_keywords": [
+          "llms",
+          "language",
+          "models",
+          "large",
+          "multi",
+          "speech",
+          "using",
+          "learning",
+          "with",
+          "study"
+        ],
+        "sources": {
+          "github": 20,
+          "arxiv": 20
         }
       }
     ],
@@ -2968,36 +3073,6 @@
   },
   "overall": [
     {
-      "timestamp": "2026-04-07T11:37:30.722301",
-      "topic": "LLM optimization",
-      "findings_count": 40,
-      "quality_score": 0.407
-    },
-    {
-      "timestamp": "2026-04-07T11:37:34.633066",
-      "topic": "AI agents",
-      "findings_count": 40,
-      "quality_score": 0.493
-    },
-    {
-      "timestamp": "2026-04-07T11:37:38.747601",
-      "topic": "RAG retrieval",
-      "findings_count": 40,
-      "quality_score": 0.431
-    },
-    {
-      "timestamp": "2026-04-07T11:37:42.833664",
-      "topic": "model quantization",
-      "findings_count": 40,
-      "quality_score": 0.468
-    },
-    {
-      "timestamp": "2026-04-07T11:37:46.957847",
-      "topic": "fine-tuning LLMs",
-      "findings_count": 40,
-      "quality_score": 0.429
-    },
-    {
       "timestamp": "2026-04-08T11:13:18.101437",
       "topic": "LLM optimization",
       "findings_count": 40,
@@ -3146,6 +3221,36 @@
       "topic": "fine-tuning LLMs",
       "findings_count": 20,
       "quality_score": 0.307
+    },
+    {
+      "timestamp": "2026-04-20T11:13:42.372999",
+      "topic": "LLM optimization",
+      "findings_count": 40,
+      "quality_score": 0.43
+    },
+    {
+      "timestamp": "2026-04-20T11:13:46.639674",
+      "topic": "AI agents",
+      "findings_count": 40,
+      "quality_score": 0.495
+    },
+    {
+      "timestamp": "2026-04-20T11:13:50.811337",
+      "topic": "RAG retrieval",
+      "findings_count": 40,
+      "quality_score": 0.446
+    },
+    {
+      "timestamp": "2026-04-20T11:13:55.612748",
+      "topic": "model quantization",
+      "findings_count": 40,
+      "quality_score": 0.483
+    },
+    {
+      "timestamp": "2026-04-20T11:14:00.198572",
+      "topic": "fine-tuning LLMs",
+      "findings_count": 40,
+      "quality_score": 0.444
     }
   ]
 }
