@@ -1,0 +1,113 @@
+# ============================================================
+# Windows 音质优化 - 苹果风格 EQ 参数配置
+# ============================================================
+
+## 推荐安装方案（按顺序尝试）
+
+### 方案一：FxSound（推荐，简单易用）
+下载地址（国内可访问）：
+- 华军软件园: https://www.onlinedown.net/soft/1248006.htm
+- 太平洋下载: https://dl.pconline.com.cn/download/360703.html
+- 直接搜索 "FxSound 下载"
+
+安装后设置：
+1. 打开 FxSound
+2. 主界面左侧选 "音效"（EQ）
+3. 点击右上角 "预设" → "自定义"
+4. 输入以下参数：
+
+| 频段 | 频率 | 增益 | Q值 |
+|------|------|------|-----|
+| 1 | 32 Hz | 0 dB | 1.0 |
+| 2 | 64 Hz | -1 dB | 1.0 |
+| 3 | 125 Hz | -2 dB | 1.0 |
+| 4 | 250 Hz | -1 dB | 1.0 |
+| 5 | 500 Hz | 0 dB | 1.0 |
+| 6 | 1000 Hz | 0 dB | 1.0 |
+| 7 | 2000 Hz | +1 dB | 1.0 |
+| 8 | 4000 Hz | +1 dB | 1.0 |
+| 9 | 8000 Hz | +2 dB | 1.0 |
+| 10 | 16000 Hz | 0 dB | 1.0 |
+
+5. 下方 "输出音量" 设为 95%（留余量）
+6. 确保主开关为 ON
+
+---
+
+### 方案二：Equalizer APO（更专业，系统级）
+下载地址：
+- SourceForge: https://sourceforge.net/projects/equalizerapo/files/latest/download
+- （注：需要科学上网或用浏览器直接下载）
+
+安装步骤：
+1. 运行安装程序 → 勾选 "I agree" → Next
+2. 在 "Select Audio Device" 页面，选中你的 Realtek 设备
+3. 安装完成后重启电脑
+
+配置文件路径：
+C:\Program Files\EqualizerAPO\config\config.txt
+
+用以下内容替换 config.txt 全部内容：
+（见下方配置内容）
+
+---
+
+## Equalizer APO 配置文件内容
+## 路径：C:\Program Files\EqualizerAPO\config\config.txt
+
+```
+Preamp: -3 dB
+
+Filter: ON PK Fc 32 Hz Gain 0 dB Q 1.0
+Filter: ON PK Fc 64 Hz Gain -1 dB Q 1.0
+Filter: ON PK Fc 125 Hz Gain -2 dB Q 1.0
+Filter: ON PK Fc 250 Hz Gain -1 dB Q 1.0
+Filter: ON PK Fc 500 Hz Gain 0 dB Q 1.0
+Filter: ON PK Fc 1000 Hz Gain 0 dB Q 1.0
+Filter: ON PK Fc 2000 Hz Gain +1 dB Q 1.0
+Filter: ON PK Fc 4000 Hz Gain +1 dB Q 1.0
+Filter: ON PK Fc 8000 Hz Gain +2 dB Q 1.0
+Filter: ON PK Fc 16000 Hz Gain 0 dB Q 1.0
+```
+
+安装后打开 "Editor" 应用可图形化调整。
+
+---
+
+## 已完成的系统设置（无需操作）
+
+- ✅ 系统默认采样率：已写入注册表 24bit/48000Hz
+- ✅ Windows 声音方案无声：已注册（控制面板 → 声音 → 声音方案 → 选"无声"）
+- ⬜ 禁用音频增强：需在声音控制面板手动操作（见下方）
+
+---
+
+## 手动完成项（声音控制面板）
+
+1. 按 Win+R → 输入 `mmsys.cpl` → 回车
+2. 选择你的扬声器 → 属性
+3. 「增强」选项卡 → ☑️ 禁用所有音频增强
+4. 「高级」选项卡：
+   - 默认格式：24位，48000Hz（录音室品质）
+   - ☑️ 允许应用程序独占控制该设备
+   - ☑️ 给独占模式提供优先
+5. 「声音」选项卡 → 声音方案：选"无声"
+
+---
+
+## 苹果调音效果说明
+
+| 频段 | 调整 | 原因 |
+|------|------|------|
+| 32 Hz | 0 dB | 不加重低频，防轰头 |
+| 64-125 Hz | -1~-2 dB | 削减低频浑浊感 |
+| 250 Hz | -1 dB | 略微削减鼻音 |
+| 500-1k Hz | 0 dB | 保持中性 |
+| 2-4k Hz | +1 dB | 人声清晰度和临场感 |
+| 8k Hz | +2 dB | 高频不暗，空气感 |
+| 16k Hz | 0 dB | 不刺耳 |
+
+EQ 调整是对 Realtek 硬件调音的补偿，整体效果：
+- 人声更突出、清晰
+- 高频顺滑不刺耳
+- 低频干净有力但不轰头
