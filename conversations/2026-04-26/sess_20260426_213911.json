@@ -1,0 +1,28 @@
+{
+  "session_id": "sess_20260426_213911",
+  "device": "desktop-qclaw-wate",
+  "start_time": "2026-04-26T21:39:11.439295",
+  "messages": [
+    {
+      "role": "user",
+      "content": "测试同步功能",
+      "timestamp": "2026-04-26T21:39:11.439295"
+    },
+    {
+      "role": "assistant",
+      "content": "已记录测试对话",
+      "timestamp": "2026-04-26T21:39:11.439295"
+    }
+  ],
+  "key_points": [
+    "跨设备同步",
+    "Git自动提交"
+  ],
+  "decisions": [
+    "使用GitHub作为主存储"
+  ],
+  "next_steps": [],
+  "artifacts": [],
+  "end_time": "2026-04-26T21:39:11.439295",
+  "summary": "会话包含 2 条消息，提取 2 个关键点，1 个决策"
+}
