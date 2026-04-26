@@ -382,16 +382,23 @@ class GitSyncer:
         self._run_git(['commit', '-m', message])
         print(f"[Git] 已提交: {message}")
     
+    def _get_current_branch(self) -> str:
+        """获取当前分支"""
+        result = self._run_git(['branch', '--show-current'])
+        if result.strip():
+            return result.strip()
+        return self.config.get('github.branch', 'main')
+
     def _pull(self):
         """拉取远程"""
-        branch = self.config.get('github.branch', 'main')
+        branch = self._get_current_branch()
         self._run_git(['pull', 'origin', branch, '--rebase'])
         print(f"[Git] 已拉取最新代码")
     
     def _push(self):
         """推送到远程"""
         if self.config.get('github.auto_push', True):
-            branch = self.config.get('github.branch', 'main')
+            branch = self._get_current_branch()
             self._run_git(['push', 'origin', branch])
             print(f"[Git] 已推送到远程")
     

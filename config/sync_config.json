@@ -2,7 +2,7 @@
   "version": "1.0",
   "github": {
     "repo": "WATE88/auto-research-qclaw",
-    "branch": "main",
+    "branch": "master",
     "auto_commit": true,
     "auto_push": true,
     "commit_message_template": "Auto sync: {date} {time}"
@@ -26,7 +26,7 @@
       {
         "id": "desktop-qclaw-wate",
         "name": "Desktop QClaw (WATE)",
-        "last_sync": "2026-04-26T21:34:00+08:00"
+        "last_sync": "2026-04-26T21:40:00+08:00"
       }
     ]
   }
