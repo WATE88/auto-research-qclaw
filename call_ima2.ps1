@@ -1,0 +1,6 @@
+Set-Location 'C:\Users\wate\.qclaw\skills\ima-skill'
+$env:IMA_CLIENT_ID = 'cd8f18bf3caa5c8e9be93b73385fe879'
+$env:IMA_API_KEY = 'cd8f18bf3caa5c8e9be93b73385fe879'
+$env:IMA_FORCE_UPDATE_CHECK = '0'
+$nodeExe = 'C:\Users\wate\scoop\apps\nodejs\current\node.exe'
+& $nodeExe 'C:\Users\wate\.qclaw\skills\ima-skill\ima_api.cjs' 'openapi/list_docs' '{}' '{}'
